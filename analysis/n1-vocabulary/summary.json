@@ -1,0 +1,215 @@
+{
+  "scope": "Available files only, not certified complete ten-year corpus",
+  "split_mode": "Sudachi C",
+  "dictionary": "sudachidict_core 20260723.1",
+  "files_used": 33,
+  "exam_dates": 19,
+  "known_lemma_pos_types": 11094,
+  "known_content_lemmas": 10035,
+  "content_tokens": 119567,
+  "top2000_content_token_coverage": 0.834034474395109,
+  "oov_types": 197,
+  "duplicates": [
+    "2025-12-1.pdf"
+  ],
+  "files": [
+    {
+      "file": "2016-07-0.pdf",
+      "used_text": "2016-07-0.ocr.txt",
+      "content_lemmas": 1155,
+      "content_tokens": 3169
+    },
+    {
+      "file": "2016-07-1.pdf",
+      "used_text": "2016-07-1.ocr.txt",
+      "content_lemmas": 1448,
+      "content_tokens": 4486
+    },
+    {
+      "file": "2016-12-0.pdf",
+      "used_text": "2016-12-0.ocr.txt",
+      "content_lemmas": 1133,
+      "content_tokens": 3104
+    },
+    {
+      "file": "2016-12-1.pdf",
+      "used_text": "2016-12-1.ocr.txt",
+      "content_lemmas": 1446,
+      "content_tokens": 4644
+    },
+    {
+      "file": "2017-07-0.pdf",
+      "used_text": "2017-07-0.ocr.txt",
+      "content_lemmas": 965,
+      "content_tokens": 2696
+    },
+    {
+      "file": "2017-07-1.pdf",
+      "used_text": "2017-07-1.ocr.txt",
+      "content_lemmas": 1508,
+      "content_tokens": 4609
+    },
+    {
+      "file": "2017-12-0.pdf",
+      "used_text": "2017-12-0.ocr.txt",
+      "content_lemmas": 1147,
+      "content_tokens": 3139
+    },
+    {
+      "file": "2017-12-1.pdf",
+      "used_text": "2017-12-1.ocr.txt",
+      "content_lemmas": 1495,
+      "content_tokens": 4556
+    },
+    {
+      "file": "2018-07-0.pdf",
+      "used_text": "2018-07-0.ocr.txt",
+      "content_lemmas": 962,
+      "content_tokens": 2684
+    },
+    {
+      "file": "2018-07-1.pdf",
+      "used_text": "2018-07-1.ocr.txt",
+      "content_lemmas": 1367,
+      "content_tokens": 4365
+    },
+    {
+      "file": "2018-12-0.pdf",
+      "used_text": "2018-12-0.txt",
+      "content_lemmas": 1080,
+      "content_tokens": 2792
+    },
+    {
+      "file": "2018-12-1.pdf",
+      "used_text": "2018-12-1.ocr.txt",
+      "content_lemmas": 1475,
+      "content_tokens": 4548
+    },
+    {
+      "file": "2019-07-0.pdf",
+      "used_text": "2019-07-0.ocr.txt",
+      "content_lemmas": 1049,
+      "content_tokens": 3298
+    },
+    {
+      "file": "2019-07-1.pdf",
+      "used_text": "2019-07-1.txt",
+      "content_lemmas": 1229,
+      "content_tokens": 3660
+    },
+    {
+      "file": "2019-12-0.pdf",
+      "used_text": "2019-12-0.txt",
+      "content_lemmas": 1111,
+      "content_tokens": 3236
+    },
+    {
+      "file": "2019-12-1.pdf",
+      "used_text": "2019-12-1.ocr.txt",
+      "content_lemmas": 1402,
+      "content_tokens": 4389
+    },
+    {
+      "file": "2020-12-0.pdf",
+      "used_text": "2020-12-0.ocr.txt",
+      "content_lemmas": 1385,
+      "content_tokens": 4511
+    },
+    {
+      "file": "2020-12-1.pdf",
+      "used_text": "2020-12-1.txt",
+      "content_lemmas": 1033,
+      "content_tokens": 2829
+    },
+    {
+      "file": "2021-07-0.pdf",
+      "used_text": "2021-07-0.ocr.txt",
+      "content_lemmas": 1348,
+      "content_tokens": 4332
+    },
+    {
+      "file": "2021-07-1.pdf",
+      "used_text": "2021-07-1.txt",
+      "content_lemmas": 989,
+      "content_tokens": 2665
+    },
+    {
+      "file": "2021-12-0.pdf",
+      "used_text": "2021-12-0.ocr.txt",
+      "content_lemmas": 1016,
+      "content_tokens": 2959
+    },
+    {
+      "file": "2021-12-1.pdf",
+      "used_text": "2021-12-1.ocr.txt",
+      "content_lemmas": 1408,
+      "content_tokens": 4129
+    },
+    {
+      "file": "2022-07-0.pdf",
+      "used_text": "2022-07-0.ocr.txt",
+      "content_lemmas": 1352,
+      "content_tokens": 3763
+    },
+    {
+      "file": "2022-12-0.pdf",
+      "used_text": "2022-12-0.txt",
+      "content_lemmas": 902,
+      "content_tokens": 2571
+    },
+    {
+      "file": "2022-12-1.pdf",
+      "used_text": "2022-12-1.ocr.txt",
+      "content_lemmas": 1324,
+      "content_tokens": 4200
+    },
+    {
+      "file": "2023-07-0.pdf",
+      "used_text": "2023-07-0.txt",
+      "content_lemmas": 1256,
+      "content_tokens": 3949
+    },
+    {
+      "file": "2023-12-0.pdf",
+      "used_text": "2023-12-0.ocr.txt",
+      "content_lemmas": 1287,
+      "content_tokens": 4082
+    },
+    {
+      "file": "2024-07-0.pdf",
+      "used_text": "2024-07-0.ocr.txt",
+      "content_lemmas": 945,
+      "content_tokens": 2229
+    },
+    {
+      "file": "2024-12-0.pdf",
+      "used_text": "2024-12-0.ocr.txt",
+      "content_lemmas": 1185,
+      "content_tokens": 3577
+    },
+    {
+      "file": "2024-12-1.pdf",
+      "used_text": "2024-12-1.txt",
+      "content_lemmas": 1187,
+      "content_tokens": 2943
+    },
+    {
+      "file": "2025-07-0.pdf",
+      "used_text": "2025-07-0.txt",
+      "content_lemmas": 1136,
+      "content_tokens": 2813
+    },
+    {
+      "file": "2025-07-1.pdf",
+      "used_text": "2025-07-1.ocr.txt",
+      "content_lemmas": 1409,
+      "content_tokens": 4610
+    },
+    {
+      "file": "2025-12-0.pdf",
+      "used_text": "2025-12-0.txt",
+      "content_lemmas": 1334,
+      "content_tokens": 4030
+    }
+  ]
+}
