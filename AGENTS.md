@@ -23,6 +23,8 @@
 
 ## 资料维护
 
+- 两周首批 2,000 词已保存在 `vocabulary/core-2000.csv`，每日入口见 `vocabulary/README.md`。后续授课沿用当日词表编号，不另起不一致的词表；词表已生成不代表用户已浏览。CSV 是主表，修改后运行 `python3 tools/build_vocabulary.py` 同步总表与每日 Markdown。
+
 - 先阅读 `docs/learning-notes.md`，沿用已有路线和筛选结果，避免重复堆叠整套教材。
 - 课程候选不代表用户已购买或最终选定。
 - 学习时长是带条件的规划估计，不能写成平均学习时间、过关保证或 AI 的固定加速倍数。

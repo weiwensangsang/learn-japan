@@ -1,0 +1,2001 @@
+﻿id,day,word,reading,romaji,meaning_zh,gloss_en,lemma,sample_frequency,sample_exam_dates,sample_rank,jmdict_id,meaning_method
+1,1,する,する,suru,做；进行,to do; to carry out; to perform,為る,6860,19,1,1157170,人工修订
+2,1,いる,いる,iru,在；存在（人、动物）；〜ている表示状态,to be (of animate objects); to exist,居る,3129,19,2,1577980,人工修订
+3,1,こと,こと,koto,事情；〜こと用于把动作或内容名词化,thing; matter,こと,2737,19,3,1313580,人工修订
+4,1,ある,ある,aru,有；存在（事物）,to be; to exist; to live,有る,2034,19,4,1296400,人工修订
+5,1,なる,なる,naru,成为；变成,to become; to get; to grow,成る,1551,19,5,1375610,人工修订
+6,1,言う,いう,iu,说；称为,to say; to utter; to declare,言う,1444,19,6,1587040,人工修订
+7,1,ない,ない,nai,没有；不……,nonexistent; not being (there),無い,1230,19,7,1529520,人工修订
+8,1,人,ひと,hito,人,person; someone; somebody,人,1181,19,8,1580640,人工修订
+9,1,もの（物）,もの,mono,东西；事物,thing; object; article,物,1035,19,10,1502390,人工修订
+10,1,よう,よう,you,样子；好像；〜ように表示方式、目的等,appearing ...; looking ...,よう,930,19,11,1605840,人工修订
+11,1,何,なん／なに,nan / nani,什么,what,何,839,19,12,2846738,人工修订
+12,1,できる,できる,dekiru,能；会；完成,to be able to do; to be possible; to be permitted (to do),出来る,821,19,13,1340450,人工修订
+13,1,それ,それ,sore,那个；那件事,that; it,其れ,759,19,14,1006970,人工修订
+14,1,そう,そう,sou,那样；〜そうだ表示样态或传闻,in that way; thus; such,そう,744,19,15,2137720,人工修订
+15,1,思う,おもう,omou,想；认为,to think; to consider; to believe,思う,654,19,17,1589350,人工修订
+16,1,行く,いく,iku,去；前往,to go; to move (towards); to head (towards),行く,581,19,18,1578850,人工修订
+17,1,問題,もんだい,mondai,问题；题目,question (e.g. on a test); problem,問題,570,19,19,1536010,人工修订
+18,1,見る,みる,miru,看；〜てみる表示尝试,to see; to look; to watch,見る,564,19,20,1259290,人工修订
+19,1,自分,じぶん,jibun,自己,myself; yourself; oneself,自分,558,19,21,1318610,人工修订
+20,1,来る,くる,kuru,来；〜てくる表示变化或趋向,to come (spatially or temporally); to approach; to arrive,来る,499,19,23,1547720,人工修订
+21,1,つく,つく,tsuku,附着；到达；亮起（汉字写法和意义随语境变化）,"to be lit (of a lamp, burner, etc.); to catch fire; to ignite",つく,449,19,24,1441400,人工修订
+22,1,話す,はなす,hanasu,说；交谈,to talk; to speak; to converse,話す,418,16,25,1562350,人工修订
+23,1,時,とき,toki,时候；时间,time; hour; moment,時,408,19,26,1315840,人工修订
+24,1,ため,ため,tame,为了；因为；利益（依语境）,good; advantage; benefit,為,405,19,27,1157080,人工修订
+25,1,月,つき／がつ／げつ,tsuki / gatsu / getsu,月亮；月份；月（读音依组合）,Moon,月,393,17,28,1255430,人工修订
+26,1,どう,どう,dou,如何；怎么样,how; in what way; how about,どう,387,19,29,1008910,人工修订
+27,1,考える,かんがえる,kangaeru,思考；考虑,"to think (about, of); to think over; to ponder",考える,384,19,30,1281020,人工修订
+28,1,年,ねん／とし,nen / toshi,年；年份,year,年,362,19,31,2084840,人工修订
+29,1,聞く,きく,kiku,听；询问,to hear,聞く,361,19,32,1591110,人工修订
+30,1,よる,よる,yoru,依据；取决于；〜による表示原因、依据等,to be due to; to be caused by,よる,358,19,33,1168660,人工修订
+31,1,男,おとこ,otoko,男人,man; male,男,350,16,34,1419990,机器释义，经首轮浏览
+32,1,くださる,くださる,kudasaru,给我方（尊敬语）,to give; to confer; to bestow,下さる,349,19,35,1184280,人工修订
+33,1,選ぶ,えらぶ,erabu,选择,to choose; to select; to pick (out),選ぶ,341,18,36,1588730,机器释义，经首轮浏览
+34,1,方,ほう／かた,hou / kata,方向；一方；方法；人（礼貌称呼，读かた）,direction; way; side,方,339,19,37,1516930,人工修订
+35,1,最も,もっとも,mottomo,最,most; extremely,最も,333,18,38,1293700,机器释义，经首轮浏览
+36,1,女,おんな,onna,女人,woman; female,女,327,15,39,1344930,机器释义，经首轮浏览
+37,1,後,あと／ご／のち,ato / go / nochi,之后；后面（读音依组合）,behind; rear,後,326,19,40,1269320,人工修订
+38,1,中,なか／ちゅう／じゅう,naka / chuu / juu,里面；期间；整个范围（读音依组合）,inside; interior,中,321,19,41,1423310,人工修订
+39,1,しまう,しまう,shimau,结束；〜てしまう表示完成或遗憾,to finish; to stop; to end,仕舞う,306,19,43,1305380,人工修订
+40,1,必要,ひつよう,hitsuyou,必要的,necessary; needed; essential,必要,305,19,44,1487660,机器释义，经首轮浏览
+41,1,分かる,わかる,wakaru,明白；懂；知道,to understand; to comprehend; to grasp,分かる,304,19,45,1606560,人工修订
+42,1,持つ,もつ,motsu,拿；持有,to hold (in one's hand); to take; to carry,持つ,289,19,46,1315720,人工修订
+43,1,これ,これ,kore,这个；这件事,this; this one,此れ,284,19,47,1628530,人工修订
+44,1,人間,にんげん,ningen,人类,human being; human; person,人間,278,19,48,1366770,机器释义，经首轮浏览
+45,1,読む,よむ,yomu,阅读,to read,読む,252,19,49,1456360,机器释义，经首轮浏览
+46,1,話,はなし,hanashi,话；谈话；故事,talk; speech; chat,話,248,19,50,1600900,人工修订
+47,1,やる,やる,yaru,做；给（依对象和语境）,to do; to undertake; to perform,遣る,247,19,51,1012980,人工修订
+48,1,筆者,ひっしゃ,hissha,作者,writer; author,筆者,239,18,52,1487830,机器释义，经首轮浏览
+49,1,時間,じかん,jikan,时间,time,時間,236,19,53,1315920,机器释义，经首轮浏览
+50,1,日,ひ,hi,日；天；太阳（读音依语境）,day; days,日,231,19,54,1463770,人工修订
+51,1,仕事,しごと,shigoto,工作,work; job; labor,仕事,229,19,55,1304970,机器释义，经首轮浏览
+52,1,作る,つくる,tsukuru,制作,to make; to produce; to manufacture,作る,226,19,57,1597890,机器释义，经首轮浏览
+53,1,前,まえ,mae,前面；以前,in front (of); before (e.g. a building),前,225,19,58,1392580,人工修订
+54,1,なさる,なさる,nasaru,做（尊敬语）,to do,為さる,223,19,59,1157090,人工修订
+55,1,まず,まず,mazu,首先；先,first (of all); firstly; to begin with,先ず,222,18,60,1387240,人工修订
+56,1,述べる,のべる,noberu,叙述；陈述,to state; to express; to say,述べる,220,19,61,1340820,人工修订
+57,1,会社,かいしゃ,kaisha,公司,company; corporation; firm,会社,218,17,62,1198550,机器释义，经首轮浏览
+58,1,もらう,もらう,morau,得到；〜てもらう表示请别人为自己做,to receive; to take; to accept,貰う,206,19,64,1535910,人工修订
+59,1,対する,たいする,taisuru,对；面对；针对,to face (each other); to be facing,対する,206,19,65,1610160,人工修订
+60,1,使う,つかう,tsukau,使用,"to use (a tool, method, etc.); to make use of; to put to use",使う,205,19,66,1305990,机器释义，经首轮浏览
+61,1,書く,かく,kaku,写,to write; to compose; to pen,書く,200,19,67,1343950,机器释义，经首轮浏览
+62,1,今,いま,ima,现在,now; the present time; just now,今,199,19,68,1288850,机器释义，经首轮浏览
+63,1,所,ところ／しょ,tokoro / sho,地方；部分；所处阶段（读音依组合）,place; spot; scene,所,199,19,69,1343100,人工修订
+64,1,取る,とる,toru,拿；取得；采取,to take; to pick up; to grab,取る,198,19,70,1326980,人工修订
+65,1,多い,おおい,ooi,很多,many; numerous; a lot,多い,197,19,71,1407460,机器释义，经首轮浏览
+66,1,学生,がくせい,gakusei,学生,student (esp. a university student),学生,196,16,72,1206900,人工修订
+67,1,はい,はい,hai,是的；好的,yes; that is correct,はい,195,16,73,1010080,人工修订
+68,1,情報,じょうほう,jouhou,信息,information; news; report,情報,193,18,74,1356370,机器释义，经首轮浏览
+69,1,質問,しつもん,shitsumon,问题,question; inquiry; enquiry,質問,192,19,75,1320760,机器释义，经首轮浏览
+70,1,商品,しょうひん,shouhin,产品,commodity; article of commerce; goods,商品,192,19,76,1347310,机器释义，经首轮浏览
+71,1,くれる,くれる,kureru,给我方；〜てくれる表示别人为我方做,to give; to let (one) have,呉れる,191,19,77,1269130,人工修订
+72,1,社会,しゃかい,shakai,社会,society; public; community,社会,182,19,78,1322700,机器释义，经首轮浏览
+73,1,新しい,あたらしい,atarashii,新,new; novel; fresh,新しい,181,19,79,1361490,机器释义，经首轮浏览
+74,1,文章,ぶんしょう,bunshou,文章；文字表达,writing; composition; essay,文章,177,18,80,1505470,人工修订
+75,1,得る,うる,uru,获得；〜うる／える表示可能,to be able to ...; can ...,得る,170,19,81,1454500,人工修订
+76,1,次,つぎ,tsugi,下一个；其次,next; following; subsequent,次,168,19,82,1316380,人工修订
+77,1,出る,でる,deru,出去,to leave; to exit; to go out,出る,166,19,83,1338240,机器释义，经首轮浏览
+78,1,言葉,ことば,kotoba,词语；语言,language; dialect,言葉,166,18,84,1264540,人工修订
+79,1,一番,いちばん,ichiban,第一；最……,number one; first; first place,一番,162,19,85,1165970,人工修订
+80,1,今日,きょう,kyou,今天,today; this day,今日,162,19,86,1579110,机器释义，经首轮浏览
+81,1,ここ,ここ,koko,这里,here; this place,此処,157,19,87,1288810,机器释义，经首轮浏览
+82,1,子供,こども,kodomo,儿童,child; children,子供,156,19,88,1307850,机器释义，经首轮浏览
+83,1,相手,あいて,aite,对方；对象；对手,companion; partner; company,相手,150,18,89,1401000,人工修订
+84,1,場合,ばあい,baai,情况；场合,case; occasion; situation,場合,149,19,90,1355810,人工修订
+85,1,出す,だす,dasu,拿出来,to take out; to get out,出す,146,19,91,1338180,机器释义，经首轮浏览
+86,1,おく（置く）,おく,oku,放；〜ておく表示事先准备或保持状态,to put; to place,おく,143,19,92,1421850,人工修订
+87,1,自然,しぜん,shizen,自然,nature,自然,142,18,93,1318090,机器释义，经首轮浏览
+88,1,知る,しる,shiru,知道,to know; to be aware (of); to be conscious (of),知る,141,19,94,1420470,机器释义，经首轮浏览
+89,1,いただく,いただく,itadaku,得到；吃、喝（谦让语）,to receive; to get; to accept,頂く,139,17,95,1587290,人工修订
+90,1,よく,よく,yoku,好好地；经常,nicely; properly; well,良く,139,19,96,1605870,人工修订
+91,1,他,ほか,hoka,其他,another place; some other place; somewhere else,他,138,18,97,1203260,机器释义，经首轮浏览
+92,1,分,ぶん,bun,部分；分钟；份额（读音依语境）,part; portion; share,分,138,19,98,1502860,人工修订
+93,1,入る,はいる,hairu,进入；加入,to enter; to come in; to go in,入る,137,19,99,1465590,人工修订
+94,1,能力,のうりょく,nouryoku,能力,ability; faculty,能力,127,18,101,1470370,机器释义，经首轮浏览
+95,1,問い,とい,toi,问题,question; query,問い,127,17,102,1535930,机器释义，经首轮浏览
+96,1,入れる,いれる,ireru,放入,to put in; to let in; to take in,入れる,123,19,103,1465610,机器释义，经首轮浏览
+97,1,うち,うち,uchi,家；内部；〜うちに表示在……期间,one's house; one's home; one's family,うち,120,19,104,1191740,人工修订
+98,1,大学,だいがく,daigaku,大学,university; college,大学,118,17,105,1413240,机器释义，经首轮浏览
+99,1,うん,うん,un,是的,yes; yeah; uh huh,うん,118,15,106,1001090,机器释义，经首轮浏览
+100,1,市,し,shi,市；城市,city,市,117,17,107,1308090,人工修订
+101,1,内容,ないよう,naiyou,内容,contents; content; substance,内容,117,19,108,1459400,机器释义，经首轮浏览
+102,1,みんな（皆）,みんな／みな,minna / mina,大家；全都,everyone; everybody; all,皆,116,18,109,1202150,人工修订
+103,1,理解,りかい,rikai,理解,understanding; comprehension; appreciation,理解,113,19,110,1549910,机器释义，经首轮浏览
+104,1,大切,たいせつ,taisetsu,重要；珍惜的,important; significant; serious,大切,113,19,111,1414340,人工修订
+105,1,行う,おこなう,okonau,做,to perform; to do; to conduct oneself,行う,112,19,112,1589060,机器释义，经首轮浏览
+106,1,気,き,ki,心情；精神；注意（常用于固定搭配）,spirit; mind; heart,気,111,17,113,1221520,人工修订
+107,1,あっ,あ,a,啊！（突然意识到或惊讶）,ah; oh,あっ,110,16,114,2394370,人工修订
+108,1,方法,ほうほう,houhou,方法,method; way; manner,方法,110,18,115,1517090,机器释义，经首轮浏览
+109,1,開発,かいはつ,kaihatsu,开发,development; cultivation; application,開発,110,17,116,1202880,人工修订
+110,1,答え,こたえ,kotae,回答,answer; reply; response,答え,110,17,117,1449530,机器释义，经首轮浏览
+111,1,訳,わけ,wake,原因；道理；〜わけ用于说明、推论等,reason; cause; grounds,訳,109,17,118,1538330,人工修订
+112,1,考え,かんがえ,kangae,思想,thinking; thought; view,考え,109,19,119,1281000,机器释义，经首轮浏览
+113,1,意味,いみ,imi,意义,meaning; significance; sense,意味,109,19,120,1156800,机器释义，经首轮浏览
+114,1,意見,いけん,iken,意见,opinion; view; comment,意見,108,19,121,1156530,机器释义，经首轮浏览
+115,1,研究,けんきゅう,kenkyuu,研究,research; study; investigation,研究,107,17,122,1258520,机器释义，经首轮浏览
+116,1,時代,じだい,jidai,时代,period; epoch; era,時代,106,17,123,1316300,机器释义，经首轮浏览
+117,1,科学,かがく,kagaku,科学,science,科学,104,8,124,1192700,机器释义，经首轮浏览
+118,1,環境,かんきょう,kankyou,环境,environment; surroundings; circumstances,環境,103,19,125,1213280,机器释义，经首轮浏览
+119,1,先生,せんせい,sensei,老师；对医生等的尊称,teacher; instructor; master,先生,102,16,126,1387990,人工修订
+120,1,多く,おおく,ooku,很多,many; much; plenty,多く,102,18,127,1861770,机器释义，经首轮浏览
+121,1,力,ちから,chikara,力量；能力,force; strength; might,力,102,18,128,1554820,人工修订
+122,1,店,みせ,mise,商店,store; shop; establishment,店,102,15,129,1582120,机器释义，经首轮浏览
+123,1,そこ,そこ,soko,那里,there (place relatively near listener),そこ,102,19,130,1006670,机器释义，经首轮浏览
+124,1,少し,すこし,sukoshi,一点,a little; a bit; a small amount,少し,102,19,131,1348870,机器释义，经首轮浏览
+125,1,本,ほん,hon,书籍,book; volume; script,本,102,16,132,1522150,机器释义，经首轮浏览
+126,1,手,て,te,手,hand; arm,手,101,18,133,1327190,机器释义，经首轮浏览
+127,1,通り,とおり／どおり,toori / doori,道路；按照；方式（依语境）,street; road; avenue,通り,100,18,134,1432920,人工修订
+128,1,また,また,mata,又；再；另外,again; once more; once again,又,100,18,135,1524930,人工修订
+129,1,経験,けいけん,keiken,经验,experience,経験,99,18,137,1251270,机器释义，经首轮浏览
+130,1,目,め,me,眼睛,eye; eyeball,目,98,18,138,1604890,机器释义，经首轮浏览
+131,1,結果,けっか,kekka,结果,result; consequence; outcome,結果,98,19,139,1254690,机器释义，经首轮浏览
+132,1,人々,ひとびと,hitobito,人,people; men and women,人々,98,17,140,1580650,机器释义，经首轮浏览
+133,1,上,うえ,ue,顶部,above; over; up,上,97,19,141,1352130,机器释义，经首轮浏览
+134,1,知れる,しれる,shireru,被知道；〜かもしれない表示也许,to become known; to come to light; to be discovered,知れる,96,19,142,1420490,人工修订
+135,1,受ける,うける,ukeru,接收,to receive; to get,受ける,96,18,143,1329590,机器释义，经首轮浏览
+136,1,会議,かいぎ,kaigi,会议,meeting; conference; session,会議,96,17,144,1198360,机器释义，经首轮浏览
+137,1,円,えん,en,日元,yen (currency of Japan),円,96,14,145,1175570,机器释义，经首轮浏览
+138,1,こう,こう,kou,像这样,in this way; like this; so,こう,95,19,146,1004310,机器释义，经首轮浏览
+139,1,しかし,しかし,shikashi,但是,however; but,然し,95,19,147,1505990,机器释义，经首轮浏览
+140,1,合う,あう,au,合适；一致；〜合う表示互相,to come together; to merge; to unite,合う,95,19,148,1284430,人工修订
+141,1,僕,ぼく,boku,我,I; me,僕,94,16,149,1521400,机器释义，经首轮浏览
+142,1,ああ,ああ,aa,啊；那样（依语境）,ah!; oh!; alas!,ああ,93,15,151,1565440,人工修订
+143,1,変化,へんか,henka,改变,change; variation; alteration,変化,93,18,152,1510890,机器释义，经首轮浏览
+144,2,生きる,いきる,ikiru,活；生存,to live; to exist,生きる,93,17,153,1378520,人工修订
+145,2,予約,よやく,yoyaku,预订,reservation; appointment; booking,予約,93,13,154,1543750,机器释义，经首轮浏览
+146,2,高い,たかい,takai,高；贵,high; tall,高い,92,18,155,1283190,人工修订
+147,2,なぜ,なぜ,naze,为什么,why; how; for what reason,何故,92,18,156,1577120,机器释义，经首轮浏览
+148,2,どれ,どれ,dore,哪个,which (of three or more),どれ,92,18,157,1009290,机器释义，经首轮浏览
+149,2,点,てん,ten,点,dot; spot; point,点,91,18,159,1441390,机器释义，经首轮浏览
+150,2,誰,だれ,dare,谁,who,誰,90,18,160,1416830,机器释义，经首轮浏览
+151,2,作品,さくひん,sakuhin,作品,"work (e.g. book, film, painting, composition); piece; production",作品,90,18,161,1297910,机器释义，经首轮浏览
+152,2,題,だい,dai,标题,title; subject; theme,題,90,9,162,1415470,机器释义，经首轮浏览
+153,2,もう,もう,mou,已经,already; yet; by now,もう,89,19,163,1012480,机器释义，经首轮浏览
+154,2,願う,ねがう,negau,希望；请求,to desire; to wish; to hope,願う,87,16,164,1217950,人工修订
+155,2,過ぎる,すぎる,sugiru,经过；超过；〜すぎる表示过度,to pass through; to pass by; to go beyond,過ぎる,87,19,165,1195970,人工修订
+156,2,説明,せつめい,setsumei,说明,explanation; exposition; description,説明,85,17,168,1386460,机器释义，经首轮浏览
+157,2,知識,ちしき,chishiki,知识,knowledge; information,知識,85,18,169,1420590,机器释义，经首轮浏览
+158,2,最近,さいきん,saikin,最近,recently; lately; these days,最近,84,16,170,1293780,机器释义，经首轮浏览
+159,2,好き,すき,suki,喜欢,liking; being fond of; to one's liking,好き,84,14,171,1277450,机器释义，经首轮浏览
+160,2,本当,ほんとう,hontou,真的；真实,truth; reality; actuality,本当,84,18,172,1523060,人工修订
+161,2,電話,でんわ,denwa,电话,telephone call; phone call,電話,83,18,174,1443840,机器释义，经首轮浏览
+162,2,ええ,ええ,ee,是的,yes; that is correct; right,ええ,83,15,175,1001140,机器释义，经首轮浏览
+163,2,違う,ちがう,chigau,不同；不对,to differ (from); to be different; to be distinct,違う,83,19,177,1158880,人工修订
+164,2,間,ま,ma,期间；间隔；之间,time; pause,間,83,19,178,1215240,人工修订
+165,2,私たち,わたしたち,watashitachi,我们,we; us,私達,83,18,179,1311300,人工修订
+166,2,今回,こんかい,konkai,这次,this time; now,今回,82,17,180,1289070,机器释义，经首轮浏览
+167,2,描く,えがく,egaku,画画,to draw; to paint; to sketch,描く,82,13,181,1583460,机器释义，经首轮浏览
+168,2,つける,つける,tsukeru,附上；打开；使……处于某状态（依语境）,to attach; to join; to connect,つける,82,19,182,1495770,人工修订
+169,2,活動,かつどう,katsudou,活动,"activity (of a person, organization, animal, volcano, etc.); action; operation",活動,82,15,183,1208360,机器释义，经首轮浏览
+170,2,利用,りよう,riyou,使用,use; utilization; utilisation,利用,81,16,184,1549660,机器释义，经首轮浏览
+171,2,かかる,かかる,kakaru,需要,"to take (a resource, e.g. time or money)",掛かる,80,19,185,1207590,机器释义，经首轮浏览
+172,2,変える,かえる,kaeru,改变,to change; to alter; to transform,変える,80,18,186,1510650,机器释义，经首轮浏览
+173,2,生物,せいぶつ,seibutsu,生物,living thing; organism; creature,生物,80,9,187,1379430,人工修订
+174,2,欲しい,ほしい,hoshii,想要,wanting (to have); desiring; wishing for,欲しい,79,18,188,1547330,人工修订
+175,2,彼,かれ,kare,他,he; him,彼,79,16,189,1483070,机器释义，经首轮浏览
+176,2,生活,せいかつ,seikatsu,生活,life; living,生活,79,18,190,1378860,机器释义，经首轮浏览
+177,2,心,こころ,kokoro,心,mind; heart; spirit,心,79,19,191,1360480,机器释义，经首轮浏览
+178,2,気持ち,きもち,kimochi,感情,feeling; sensation; mood,気持ち,79,16,192,1591430,机器释义，经首轮浏览
+179,2,重要,じゅうよう,juuyou,重要,important; essential; significant,重要,79,19,193,1336820,机器释义，经首轮浏览
+180,2,確認,かくにん,kakunin,确认,confirmation; verification; validation,確認,78,19,194,1205900,机器释义，经首轮浏览
+181,2,増える,ふえる,fueru,增加,to increase; to multiply,増える,78,18,195,1602440,机器释义，经首轮浏览
+182,2,関係,かんけい,kankei,关系,relation; relationship; connection,関係,78,17,196,1215810,机器释义，经首轮浏览
+183,2,変わる,かわる,kawaru,改变,to change; to be transformed; to be altered,変わる,77,18,197,1510790,机器释义，经首轮浏览
+184,2,ただ,ただ,tada,只是；不过,ordinary; common; usual,唯,77,18,198,1538900,人工修订
+185,2,場所,ばしょ,basho,地点,place; location; spot,場所,77,17,199,1355850,机器释义，经首轮浏览
+186,2,全体,ぜんたい,zentai,总体,whole; entirety,全体,77,18,200,1395660,机器释义，经首轮浏览
+187,2,様々,さまざま,samazama,各种,various; varied; diverse,様々,77,19,201,1593830,机器释义，经首轮浏览
+188,2,そして,そして,soshite,并且,and; and then; thus,そして,77,19,202,1006730,机器释义，经首轮浏览
+189,2,目的,もくてき,mokuteki,目的,purpose; goal; aim,目的,76,17,203,1535560,机器释义，经首轮浏览
+190,2,すぐ,すぐ,sugu,立即,immediately; at once; right away,直ぐ,76,19,204,1430610,机器释义，经首轮浏览
+191,2,技術,ぎじゅつ,gijutsu,技术,technology; engineering,技術,76,15,205,1225130,机器释义，经首轮浏览
+192,2,文化,ぶんか,bunka,文化,culture; civilization; civilisation,文化,76,13,206,1505120,机器释义，经首轮浏览
+193,2,ちょっと,ちょっと,chotto,一点点,a little; a bit; slightly,一寸,75,16,207,1163940,机器释义，经首轮浏览
+194,2,部分,ぶぶん,bubun,部分,portion; section; part,部分,75,19,208,1499490,机器释义，经首轮浏览
+195,2,以上,いじょう,ijou,以上；既然……；至此结束（依语境）,not less than ...; ... and over; ... and above,以上,74,18,209,1155120,人工修订
+196,2,実,じつ／み,jitsu / mi,实际；真实；果实（读音依语境）,truth; reality,実,74,18,210,1320800,人工修订
+197,2,決める,きめる,kimeru,决定,to decide; to choose; to determine,決める,74,18,211,1254180,机器释义，经首轮浏览
+198,2,続ける,つづける,tsuzukeru,继续,to continue; to keep up; to keep on,続ける,74,17,212,1405800,机器释义，经首轮浏览
+199,2,参加,さんか,sanka,参与,participation; joining; entry,参加,74,15,213,1302090,机器释义，经首轮浏览
+200,2,伝える,つたえる,tsutaeru,告诉,to convey; to report; to transmit,伝える,74,17,214,1441870,机器释义，经首轮浏览
+201,2,始める,はじめる,hajimeru,开始,to start; to begin; to commence,始める,73,18,215,1307550,人工修订
+202,2,確か,たしか,tashika,确实；可靠；记得大概是……,sure; certain; positive,確か,72,18,216,1596930,人工修订
+203,2,いつも,いつも,itsumo,总是；平时,always; all the time; at all times,いつも,72,18,217,1188890,人工修订
+204,2,まだ,まだ,mada,还；尚未,still; as yet; only,未だ,71,18,218,1527110,人工修订
+205,2,資料,しりょう,shiryou,材料,material; materials; data,資料,71,14,219,1312820,机器释义，经首轮浏览
+206,2,悪い,わるい,warui,不好,bad; poor; undesirable,悪い,70,19,220,1151260,机器释义，经首轮浏览
+207,2,文,ぶん,bun,句子,sentence,文,70,18,221,1505090,机器释义，经首轮浏览
+208,2,状態,じょうたい,joutai,状态,state; condition; situation,状態,70,16,222,1356730,人工修订
+209,2,求める,もとめる,motomeru,寻求；要求,to want; to wish for,求める,69,17,223,1229350,人工修订
+210,2,うまい,うまい,umai,好吃；擅长；巧妙,skillful; skilful; skilled,旨い,69,17,224,1310460,人工修订
+211,2,行動,こうどう,koudou,行动,action; conduct; behaviour,行動,69,18,225,1282100,机器释义，经首轮浏览
+212,2,生まれる,うまれる,umareru,出生,to be born,生まれる,69,16,226,1378690,机器释义，经首轮浏览
+213,2,案,あん,an,方案；想法,idea; plan; proposal,案,69,16,227,1154770,人工修订
+214,2,買う,かう,kau,购买,to buy; to purchase,買う,68,17,228,1473740,机器释义，经首轮浏览
+215,2,存在,そんざい,sonzai,存在,existence; being; presence,存在,68,16,229,1406150,机器释义，经首轮浏览
+216,2,動物,どうぶつ,doubutsu,动物,animal,動物,67,13,230,1451470,机器释义，经首轮浏览
+217,2,写真,しゃしん,shashin,照片,photograph; photo; picture,写真,66,14,231,1321900,机器释义，经首轮浏览
+218,2,意識,いしき,ishiki,意识,consciousness,意識,66,18,232,1156640,机器释义，经首轮浏览
+219,2,与える,あたえる,ataeru,给予,to give (esp. to someone of lower status); to bestow; to grant,与える,66,16,233,1544730,机器释义，经首轮浏览
+220,2,難しい,むずかしい,muzukashii,困难,difficult; hard; troublesome,難しい,66,19,234,1460850,机器释义，经首轮浏览
+221,2,行為,こうい,koui,行为,act; deed; conduct,行為,66,16,235,1281830,人工修订
+222,2,教室,きょうしつ,kyoushitsu,教室,classroom; lecture room,教室,65,12,236,1237150,机器释义，经首轮浏览
+223,2,探す,さがす,sagasu,搜索,to search for; to look for; to hunt for,探す,65,14,237,1593670,机器释义，经首轮浏览
+224,2,数,すう,suu,数目；数量,several; a few; a number of,数,65,17,238,1580825,人工修订
+225,2,頃,ころ,koro,……时候；大约,(approximate) time; around; about,頃,65,18,239,1579080,人工修订
+226,2,地域,ちいき,chiiki,地区,area; region; district,地域,65,17,240,1420800,机器释义，经首轮浏览
+227,2,すべて,すべて,subete,一切,everything; all; the whole,全て,64,17,241,1595730,机器释义，经首轮浏览
+228,2,大きい,おおきい,ookii,大,big; large; great,大きい,64,17,243,1588880,机器释义，经首轮浏览
+229,2,世界,せかい,sekai,世界,the world; society; the universe,世界,64,17,245,1373860,机器释义，经首轮浏览
+230,2,増やす,ふやす,fuyasu,增加,to increase; to add to; to augment,増やす,64,17,246,1602880,机器释义，经首轮浏览
+231,2,自身,じしん,jishin,自身；自己,(one's) self; oneself; yourself,自身,64,18,247,1318000,人工修订
+232,2,あまり,あまり,amari,余量；あまり〜ない表示不太……,remainder; remnant; rest,余り,63,17,249,1584930,人工修订
+233,2,教育,きょういく,kyouiku,教育,education; schooling; training,教育,63,15,250,1236950,机器释义，经首轮浏览
+234,2,見える,みえる,mieru,可见,to be seen; to be visible; to be in sight,見える,63,19,251,1259140,机器释义，经首轮浏览
+235,2,価値,かち,kachi,价值,value; worth; merit,価値,63,15,252,1189600,机器释义，经首轮浏览
+236,2,現在,げんざい,genzai,目前,the present; present time; now,現在,62,17,253,1263650,机器释义，经首轮浏览
+237,2,初めて,はじめて,hajimete,第一次,for the first time,初めて,62,19,254,1342550,机器释义，经首轮浏览
+238,2,企業,きぎょう,kigyou,企业,enterprise; business; company,企業,62,17,255,1218190,机器释义，经首轮浏览
+239,2,少ない,すくない,sukunai,很少,few; little; small (amount),少ない,61,17,256,1348910,机器释义，经首轮浏览
+240,2,送る,おくる,okuru,发送,to send; to dispatch; to forward,送る,61,17,257,1402730,机器释义，经首轮浏览
+241,2,一緒,いっしょ,issho,一起,(doing) together,一緒,61,17,259,1163400,机器释义，经首轮浏览
+242,2,回,かい,kai,次,counter for occurrences,回,61,12,260,1199330,机器释义，经首轮浏览
+243,2,社員,しゃいん,shain,员工,company employee,社員,60,12,261,1322670,机器释义，经首轮浏览
+244,2,店員,てんいん,ten'in,店员,employee (of a store); shop assistant; clerk,店員,60,13,262,1440670,人工修订
+245,2,おる,おる,oru,在；存在（いる的谦让表达等）,to be (animate); to be; to exist,おる,60,17,263,1577985,人工修订
+246,2,選手,せんしゅ,senshu,运动员；选手,player (of a sport); athlete; team member,選手,60,16,264,1392250,人工修订
+247,2,人生,じんせい,jinsei,人生,(one's) life,人生,60,17,266,1368370,人工修订
+248,2,中略,ちゅうりゃく,chuuryaku,中间省略,omission (of middle part of a text); ellipsis,中略,60,18,267,1425590,人工修订
+249,2,必ず,かならず,kanarazu,一定；必定,always; without exception; necessarily,必ず,59,18,268,1487400,人工修订
+250,2,部長,ぶちょう,buchou,部门负责人；部长,"head (chief, director) of a section or department",部長,59,14,269,1499460,人工修订
+251,2,予定,よてい,yotei,日程,plans; arrangement; schedule,予定,59,18,270,1543240,机器释义，经首轮浏览
+252,2,こちら,こちら,kochira,这里,this way; this direction,此方,59,15,271,1004500,机器释义，经首轮浏览
+253,2,付く,つく,tsuku,附加,to be attached; to be connected with; to adhere,付く,59,18,273,1495740,机器释义，经首轮浏览
+254,2,強い,つよい,tsuyoi,坚强,strong; potent; competent,強い,59,16,274,1236070,机器释义，经首轮浏览
+255,2,ありがとう,ありがとう,arigatou,谢谢你,thank you; thanks,有り難う,59,14,276,1586820,机器释义，经首轮浏览
+256,2,正しい,ただしい,tadashii,正确,right; correct,正しい,59,16,277,1376600,机器释义，经首轮浏览
+257,2,使用,しよう,shiyou,使用,use; application; employment,使用,59,13,278,1306200,机器释义，经首轮浏览
+258,2,はず,はず,hazu,应该是,should (be); bound (to be); expected (to be),筈,59,18,279,1476430,机器释义，经首轮浏览
+259,2,図書館,としょかん,toshokan,图书馆,library,図書館,59,5,280,1370420,机器释义，经首轮浏览
+260,2,社長,しゃちょう,shachou,公司总经理；社长,company president; manager; director,社長,58,13,281,1322920,人工修订
+261,2,働く,はたらく,hataraku,工作,to work; to labor; to labour,働く,58,17,282,1451150,机器释义，经首轮浏览
+262,2,真,しん,shin,真实；真正,truth; reality; genuineness,真,58,9,283,1363170,人工修订
+263,2,以下,いか,ika,下面,not exceeding ...; not more than ...; ... and under,以下,58,18,284,1155060,机器释义，经首轮浏览
+264,2,感情,かんじょう,kanjou,情绪,emotion; feeling; feelings,感情,58,10,285,1212410,机器释义，经首轮浏览
+265,2,部屋,へや,heya,房间,room; chamber,部屋,57,12,286,1499320,机器释义，经首轮浏览
+266,2,面白い,おもしろい,omoshiroi,有趣,interesting; fascinating; intriguing,面白い,57,16,287,1533580,机器释义，经首轮浏览
+267,2,販売,はんばい,hanbai,销售,sale; sales; selling,販売,57,14,288,1481800,机器释义，经首轮浏览
+268,2,提出,ていしゅつ,teishutsu,提交,"presentation (of documents); submission (of an application, report, etc.); production (e.g. of evidence)",提出,57,11,289,1436410,机器释义，经首轮浏览
+269,2,食べる,たべる,taberu,吃,to eat,食べる,57,13,290,1358280,机器释义，经首轮浏览
+270,2,一人,ひとり,hitori,独自一人,one person,一人,57,16,291,1576150,机器释义，经首轮浏览
+271,2,作業,さぎょう,sagyou,工作,work; operation; task,作業,57,15,292,1297540,机器释义，经首轮浏览
+272,2,小説,しょうせつ,shousetsu,小说,novel; story; (work of) fiction,小説,57,12,293,1348430,机器释义，经首轮浏览
+273,2,異なる,ことなる,kotonaru,不同,to differ; to be different; to disagree,異なる,57,16,294,1157510,机器释义，经首轮浏览
+274,2,変更,へんこう,henkou,改变,change; modification; alteration,変更,56,16,295,1511040,机器释义，经首轮浏览
+275,2,対応,たいおう,taiou,应对；对应,correspondence (to); equivalence,対応,56,17,296,1409840,人工修订
+276,2,長い,ながい,nagai,长,"long (distance, length)",長い,56,16,297,1429750,机器释义，经首轮浏览
+277,2,食品,しょくひん,shokuhin,食物,food; food products; foodstuffs,食品,56,13,298,1358600,机器释义，经首轮浏览
+278,2,絵,え,e,绘画,picture; drawing; painting,絵,56,11,299,1202270,机器释义，经首轮浏览
+279,2,早い,はやい,hayai,早,fast; quick; rapid,早い,55,16,300,1404975,机器释义，经首轮浏览
+280,2,今年,ことし,kotoshi,今年,this year,今年,55,16,301,1579130,机器释义，经首轮浏览
+281,2,際,さい,sai,……之际；边缘（依语境）,occasion; time; circumstances,際,55,18,302,1296300,人工修订
+282,2,対,たい,tai,对抗,versus; against; vs.,対,55,7,303,1409800,机器释义，经首轮浏览
+283,2,海外,かいがい,kaigai,海外,foreign; abroad; overseas,海外,54,16,304,1201260,机器释义，经首轮浏览
+284,2,かける,かける,kakeru,挂；打电话；花费；乘以（汉字和意思依语境）,"to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from)",かける,54,18,305,1207610,人工修订
+285,2,お客様,おきゃくさま,okyakusama,客户,guest; visitor,御客様,54,16,306,1001770,机器释义，经首轮浏览
+286,2,家,いえ,ie,房子,house; residence; dwelling,家,54,15,307,1191730,机器释义，经首轮浏览
+287,3,専門家,せんもんか,senmonka,专家,specialist; expert; professional,専門家,54,15,308,1389890,机器释义，经首轮浏览
+288,3,学ぶ,まなぶ,manabu,学习,to learn; to study; to take lessons in,学ぶ,54,16,309,1206530,机器释义，经首轮浏览
+289,3,関する,かんする,kansuru,相关,to concern; to be related,関する,54,14,310,1215790,机器释义，经首轮浏览
+290,3,先,さき,saki,前方；先前；目的地（依语境）,point; tip; end,先,54,16,311,1387210,人工修订
+291,3,応募,おうぼ,oubo,申请,"application; subscription; entry (competition, raffle, etc.)",応募,54,8,312,1180030,机器释义，经首轮浏览
+292,3,合わせる,あわせる,awaseru,使一致；配合；合并,"to match (rhythm, speed, etc.)",合わせる,54,15,313,1284480,人工修订
+293,3,昨日,きのう,kinou,昨天,yesterday,昨日,53,17,315,1579260,机器释义，经首轮浏览
+294,3,場,ば,ba,地点,place; spot; space,場,53,17,316,1355790,机器释义，经首轮浏览
+295,3,大人,おとな,otona,成人,adult; grown-up,大人,53,13,317,1414170,机器释义，经首轮浏览
+296,3,待つ,まつ,matsu,等待,to wait,待つ,53,17,318,1410590,机器释义，经首轮浏览
+297,3,判断,はんだん,handan,判断,judgment; judgement; decision,判断,53,16,319,1478620,机器释义，经首轮浏览
+298,3,完成,かんせい,kansei,完成,completion; perfection; accomplishment,完成,53,9,320,1211490,机器释义，经首轮浏览
+299,3,教える,おしえる,oshieru,教；告诉,to teach; to instruct,教える,52,15,321,1236900,人工修订
+300,3,姿,すがた,sugata,外观,figure; form; shape,姿,52,13,322,1307710,机器释义，经首轮浏览
+301,3,例えば,たとえば,tatoeba,例如,for example; for instance; e.g.,例えば,51,16,323,1556370,机器释义，经首轮浏览
+302,3,いろいろ,いろいろ,iroiro,各种事情,various; a variety of; all sorts of,色々,51,17,325,1587850,机器释义，经首轮浏览
+303,3,印刷,いんさつ,insatsu,印刷,printing,印刷,51,17,326,1168190,机器释义，经首轮浏览
+304,3,日本語,にほんご,nihongo,日语,Japanese (language),日本語,51,14,327,1464530,机器释义，经首轮浏览
+305,3,脳,のう,nou,大脑,brain,脳,51,9,328,1470380,机器释义，经首轮浏览
+306,3,水,みず,mizu,水,water (esp. cool or cold),水,51,13,329,1371260,机器释义，经首轮浏览
+307,3,理由,りゆう,riyuu,原因,reason; grounds; pretext,理由,50,17,332,1550140,机器释义，经首轮浏览
+308,3,客,きゃく,kyaku,顾客,guest; visitor,客,50,12,333,1226630,机器释义，经首轮浏览
+309,3,職人,しょくにん,shokunin,工匠,craftsman; artisan; tradesman,職人,50,9,334,1357550,机器释义，经首轮浏览
+310,3,他人,たにん,tanin,别人；他人,another person; other people; others,他人,50,15,335,1581400,人工修订
+311,3,子供たち,こどもたち,kodomotachi,儿童,children; kids,子供達,50,13,336,1307870,机器释义，经首轮浏览
+312,3,国,くに,kuni,国家,country; state,国,50,16,337,1592250,机器释义，经首轮浏览
+313,3,決まる,きまる,kimaru,决定,to be decided; to be settled; to be fixed,決まる,50,15,338,1591420,机器释义，经首轮浏览
+314,3,失敗,しっぱい,shippai,失败,failure; mistake; blunder,失敗,50,12,339,1320140,机器释义，经首轮浏览
+315,3,みたい,みたい,mitai,像……；好像……,-like; sort of; similar to,みたい,49,15,340,2016410,人工修订
+316,3,職員,しょくいん,shokuin,员工,staff member; employee; worker,職員,49,11,341,1357490,机器释义，经首轮浏览
+317,3,授業,じゅぎょう,jugyou,课；上课,lesson; class; teaching,授業,49,12,342,1330290,人工修订
+318,3,限る,かぎる,kagiru,限制,to restrict; to limit; to confine,限る,49,16,343,1264640,机器释义，经首轮浏览
+319,3,まあ,まあ,maa,嗯；哎；还算（依语境）,"just (e.g. ""just wait here""); come now; now, now",まあ,49,15,344,1012050,人工修订
+320,3,市民,しみん,shimin,公民,citizen (of a country); citizenry,市民,49,16,345,1308690,机器释义，经首轮浏览
+321,3,注意,ちゅうい,chuui,注意事项,attention; notice; heed,注意,49,10,346,1426530,机器释义，经首轮浏览
+322,3,目標,もくひょう,mokuhyou,目标,goal; target; aim,目標,49,12,347,1535650,机器释义，经首轮浏览
+323,3,車,くるま,kuruma,汽车,car; automobile; vehicle,車,49,14,349,1323080,机器释义，经首轮浏览
+324,3,限り,かぎり,kagiri,限度；只要……；就……范围而言,limit; limits; bounds,限り,49,17,350,1264610,人工修订
+325,3,過去,かこ,kako,过去,the past; bygone days,過去,49,12,351,1196030,机器释义，经首轮浏览
+326,3,認識,にんしき,ninshiki,认识；认知,recognition; awareness; perception,認識,49,16,352,1467550,人工修订
+327,3,つながる,つながる,tsunagaru,连接,to be connected (to); to be joined together; to be linked,繋がる,49,17,353,1251880,机器释义，经首轮浏览
+328,3,種類,しゅるい,shurui,类型,variety; kind; type,種類,49,14,354,1328890,机器释义，经首轮浏览
+329,3,来週,らいしゅう,raishuu,下周,next week,来週,48,13,355,1548010,机器释义，经首轮浏览
+330,3,体験,たいけん,taiken,经验,(practical) experience; personal experience; hands-on experience,体験,48,14,356,1409420,机器释义，经首轮浏览
+331,3,影響,えいきょう,eikyou,影响,influence; effect; impact,影響,48,16,357,1173660,机器释义，经首轮浏览
+332,3,つまり,つまり,tsumari,也就是说；总之,that is to say; that is; in other words,詰まり,48,16,359,1610430,人工修订
+333,3,可能性,かのうせい,kanousei,可能性,possibility; chance; likelihood,可能性,48,15,360,1191080,机器释义，经首轮浏览
+334,3,形,かたち,katachi,形状,(physical) form; shape; figure,形,48,15,361,1250220,机器释义，经首轮浏览
+335,3,上司,じょうし,joushi,老板,(one's) superior; (one's) boss; the higher-ups,上司,48,12,362,1353260,机器释义，经首轮浏览
+336,3,色,いろ,iro,颜色,colour; color; hue,色,48,13,363,1357600,机器释义，经首轮浏览
+337,3,課長,かちょう,kachou,科长；课室负责人,section manager; section chief,課長,47,15,365,1195840,人工修订
+338,3,忘れる,わすれる,wasureru,忘记,to forget; to leave carelessly; to be forgetful of,忘れる,47,18,366,1519210,机器释义，经首轮浏览
+339,3,先輩,せんぱい,senpai,前辈；学长,"senior (at school, work, etc.); superior; elder",先輩,47,14,367,1388410,人工修订
+340,3,さらに,さらに,sarani,进一步,furthermore; again; after all,更に,47,15,368,1279310,机器释义，经首轮浏览
+341,3,体,からだ,karada,身体,body,体,47,15,369,1409140,机器释义，经首轮浏览
+342,3,上げる,あげる,ageru,举起,to raise; to elevate,上げる,47,17,370,1352320,机器释义，经首轮浏览
+343,3,連絡,れんらく,renraku,联系；联络,contacting; (making) contact; getting in touch,連絡,47,14,371,1559900,人工修订
+344,3,状況,じょうきょう,joukyou,情况,state of affairs; situation; conditions,状況,47,17,372,1356700,机器释义，经首轮浏览
+345,3,声,こえ,koe,声音,voice,声,47,16,373,1380440,机器释义，经首轮浏览
+346,3,それぞれ,それぞれ,sorezore,每个,each; respectively,其々,47,17,374,1596690,机器释义，经首轮浏览
+347,3,募集,ぼしゅう,boshuu,招聘,recruitment; invitation; selection,募集,46,12,375,1514830,机器释义，经首轮浏览
+348,3,改善,かいぜん,kaizen,改进,betterment; improvement,改善,46,12,379,1200960,机器释义，经首轮浏览
+349,3,個人,こじん,kojin,个人,individual; private person; personal,個人,46,13,380,1264770,机器释义，经首轮浏览
+350,3,昔,むかし,mukashi,很久以前,the old days; the past; former times,昔,46,14,381,1382370,机器释义，经首轮浏览
+351,3,読み,よみ,yomi,阅读,reading,読み,46,5,382,1456130,机器释义，经首轮浏览
+352,3,希望,きぼう,kibou,希望,hope; wish; aspiration,希望,45,16,383,1219910,机器释义，经首轮浏览
+353,3,新た,あらた,arata,新,new; fresh; novel,新た,45,16,384,1361510,机器释义，经首轮浏览
+354,3,近い,ちかい,chikai,近,near; close; short (distance),近い,45,19,385,1242130,机器释义，经首轮浏览
+355,3,動く,うごく,ugoku,移动,to move; to stir; to shift,動く,45,15,386,1451210,机器释义，经首轮浏览
+356,3,木,き,ki,树,tree; shrub; bush,木,45,11,387,1534520,机器释义，经首轮浏览
+357,3,最後,さいご,saigo,结束,end; conclusion,最後,45,15,388,1293810,机器释义，经首轮浏览
+358,3,友人,ゆうじん,yuujin,朋友,friend,友人,45,17,389,1540150,机器释义，经首轮浏览
+359,3,別,べつ,betsu,分开,distinction; difference; discrimination,別,45,18,390,1509430,机器释义，经首轮浏览
+360,3,売れる,うれる,ureru,销售,to sell (well),売れる,45,15,391,1473960,机器释义，经首轮浏览
+361,3,違い,ちがい,chigai,差异,difference; distinction; discrepancy,違い,45,15,392,1158870,机器释义，经首轮浏览
+362,3,魚,さかな,sakana,鱼,fish,魚,45,8,393,1578010,机器释义，经首轮浏览
+363,3,帰る,かえる,kaeru,回家,to return; to come home; to go home,帰る,44,17,394,1221270,机器释义，经首轮浏览
+364,3,経営,けいえい,keiei,管理,management; administration; operation,経営,44,14,396,1251130,机器释义，经首轮浏览
+365,3,歴史,れきし,rekishi,历史,history,歴史,44,14,397,1558050,机器释义，经首轮浏览
+366,3,人気,にんき,ninki,受欢迎程度,popularity; public favor,人気,44,15,398,1367010,机器释义，经首轮浏览
+367,3,楽しむ,たのしむ,tanoshimu,享受,to enjoy; to take pleasure in; to have a good time,楽しむ,44,16,399,1207270,机器释义，经首轮浏览
+368,3,売り上げ,うりあげ,uriage,销售,amount sold; sales; proceeds,売り上げ,44,15,400,1588500,机器释义，经首轮浏览
+369,3,文字,もじ,moji,文字；字符,letter (of an alphabet); character,文字,44,18,402,1505390,人工修订
+370,3,部下,ぶか,buka,下属,subordinate person,部下,44,9,403,1499350,机器释义，经首轮浏览
+371,3,可能,かのう,kanou,可能,possible; potential; practicable,可能,44,17,404,1191060,机器释义，经首轮浏览
+372,3,美術館,びじゅつかん,bijutsukan,美术馆,art museum; art gallery,美術館,44,9,405,1486460,人工修订
+373,3,とても,とても,totemo,非常,very; awfully; exceedingly,迚も,44,15,406,1008630,机器释义，经首轮浏览
+374,3,科学者,かがくしゃ,kagakusha,科学家,scientist,科学者,44,7,407,1192750,机器释义，经首轮浏览
+375,3,名,な,na,姓名,name; given name,名,44,12,409,1531330,机器释义，经首轮浏览
+376,3,生徒,せいと,seito,学生,pupil; student; schoolchild,生徒,43,8,410,1379380,机器释义，经首轮浏览
+377,3,自由,じゆう,jiyuu,自由,freedom; liberty,自由,43,12,411,1318720,机器释义，经首轮浏览
+378,3,学校,がっこう,gakkou,学校,school,学校,43,13,412,1206730,机器释义，经首轮浏览
+379,3,以外,いがい,igai,……以外,excluding; except (for); apart from,以外,43,17,413,1155090,人工修订
+380,3,紹介,しょうかい,shoukai,简介,introduction; presentation; referral,紹介,43,15,414,1351430,机器释义，经首轮浏览
+381,3,一度,いちど,ichido,一次,once; one time; on one occasion,一度,43,17,415,1576250,机器释义，经首轮浏览
+382,3,もっと,もっと,motto,更多,(some) more; even more; longer,もっと,43,15,417,1012620,机器释义，经首轮浏览
+383,3,準備,じゅんび,junbi,准备工作,preparation; arrangements; getting ready,準備,42,17,418,1341670,机器释义，经首轮浏览
+384,3,進める,すすめる,susumeru,推进；使前进,"to advance; to move forward; to put (a clock, watch) forward",進める,42,17,419,1365990,人工修订
+385,3,見せる,みせる,miseru,给……看；展示,to show; to display,見せる,42,15,420,1259210,人工修订
+386,3,まま,まま,mama,保持原样；任由……,as (it is); remaining (in a state); keeping (the same),侭,42,16,421,1585410,人工修订
+387,3,頼む,たのむ,tanomu,拜托；请求,to request; to beg; to ask,頼む,41,14,425,1548370,人工修订
+388,3,企画,きかく,kikaku,规划,planning; plan; project,企画,41,13,426,1218150,机器释义，经首轮浏览
+389,3,いつ,いつ,itsu,什么时候,when; at what time; how soon,いつ,41,17,427,1188760,机器释义，经首轮浏览
+390,3,関わる,かかわる,kakawaru,参与其中,to be involved (in); to get involved (in); to concern oneself (with),関わる,41,17,428,1589880,机器释义，经首轮浏览
+391,3,身,み,mi,身体,one's body; one's person,身,41,16,429,1365520,机器释义，经首轮浏览
+392,3,店長,てんちょう,tenchou,经理,shop manager,店長,41,13,430,1440730,机器释义，经首轮浏览
+393,3,呼ぶ,よぶ,yobu,叫；呼唤；称为,to call out (to); to call; to invoke,呼ぶ,41,15,432,1266440,人工修订
+394,3,大変,たいへん,taihen,非常；严重；辛苦,very; greatly; terribly,大変,41,18,433,1415000,人工修订
+395,3,製品,せいひん,seihin,产品,manufactured goods; finished goods; product,製品,41,12,434,1380760,机器释义，经首轮浏览
+396,3,注文,ちゅうもん,chuumon,订单,order (for an item),注文,41,16,435,1426650,机器释义，经首轮浏览
+397,3,調査,ちょうさ,chousa,调查,investigation; examination; inquiry,調査,40,15,436,1429120,机器释义，经首轮浏览
+398,3,対象,たいしょう,taishou,目标,"target; object (of worship, study, etc.); subject (of taxation, etc.)",対象,40,13,437,1410120,机器释义，经首轮浏览
+399,3,頑張る,がんばる,ganbaru,尽力而为,to persevere; to persist; to keep at it,頑張る,40,15,438,1217700,机器释义，经首轮浏览
+400,3,映画,えいが,eiga,电影,movie; film; motion picture,映画,40,15,439,1173720,机器释义，经首轮浏览
+401,3,明日,あした／あす,ashita / asu,明天,tomorrow,明日,40,12,440,1584660,机器释义，经首轮浏览
+402,3,歩く,あるく,aruku,步行,to walk,歩く,40,14,442,1514320,机器释义，经首轮浏览
+403,3,いたす,いたす,itasu,做（する的谦让语）,to do,致す,40,13,443,1421900,人工修订
+404,3,下,した,shita,下面；下方,below; down; under,下,40,18,444,1184140,人工修订
+405,3,進む,すすむ,susumu,前进；进展,to advance (spatially); to go forward; to move forward,進む,40,16,446,1365980,人工修订
+406,3,興味,きょうみ,kyoumi,兴趣,interest (in something); curiosity (about something); zest (for),興味,40,15,447,1238410,机器释义，经首轮浏览
+407,3,思考,しこう,shikou,思考,thought; consideration; thinking,思考,40,11,448,1309530,机器释义，经首轮浏览
+408,3,犬,いぬ,inu,狗,dog (Canis (lupus) familiaris); canine,犬,39,6,449,1258330,机器释义，经首轮浏览
+409,3,工場,こうじょう,koujou,工厂,factory; plant; mill,工場,39,12,450,1578700,机器释义，经首轮浏览
+410,3,以前,いぜん,izen,以前,before; prior to; ago,以前,39,17,451,1155150,机器释义，经首轮浏览
+411,3,料理,りょうり,ryouri,烹饪,cooking; cookery; cuisine,料理,39,16,452,1554310,机器释义，经首轮浏览
+412,3,期待,きたい,kitai,期望,expectation; anticipation; hope,期待,39,19,453,1220570,机器释义，经首轮浏览
+413,3,家族,かぞく,kazoku,家人；家庭,family,家族,39,14,454,1192150,人工修订
+414,3,若い,わかい,wakai,年轻,young; youthful,若い,39,13,456,1324300,机器释义，经首轮浏览
+415,3,動き,うごき,ugoki,动作；动向,movement; move; motion,動き,39,12,457,1451180,人工修订
+416,3,教師,きょうし,kyoushi,老师,teacher; instructor,教師,39,7,458,1237130,机器释义，经首轮浏览
+417,3,一言,ひとこと,hitokoto,一句话,single word; a few words; brief comment,一言,39,8,459,1575990,机器释义，经首轮浏览
+418,3,猫,ねこ,neko,猫,"cat (esp. the domestic cat, Felis catus); feline",猫,39,6,460,1467640,机器释义，经首轮浏览
+419,3,価値観,かちかん,kachikan,价值观,sense of values; values; value system,価値観,39,9,461,1189610,机器释义，经首轮浏览
+420,3,外国語,がいこくご,gaikokugo,外语,foreign language,外国語,39,9,462,1203640,机器释义，经首轮浏览
+421,3,版,ばん,ban,版本,edition; version; printing,版,39,2,463,1481480,机器释义，经首轮浏览
+422,3,案内,あんない,annai,引导；介绍；通知,guidance; leading (the way); showing around,案内,38,16,464,1154860,人工修订
+423,3,会場,かいじょう,kaijou,场地,assembly hall; meeting place; venue,会場,38,14,465,1198660,机器释义，经首轮浏览
+424,3,程度,ていど,teido,程度,degree; amount; grade,程度,38,18,466,1436540,人工修订
+425,3,終わる,おわる,owaru,结束,to end; to come to an end; to finish,終わる,38,15,467,1589600,机器释义，经首轮浏览
+426,3,今後,こんご,kongo,未来,from now on; hereafter,今後,38,16,468,1289140,机器释义，经首轮浏览
+427,3,伺う,うかがう,ukagau,拜访；询问（谦让语）,to call on someone; to call at a place; to pay a visit,伺う,38,17,469,1305700,人工修订
+428,3,取り組む,とりくむ,torikumu,着手；致力于,to grapple with; to wrestle with; to engage in a bout,取り組む,38,15,471,1326820,人工修订
+429,3,健康,けんこう,kenkou,健康,health,健康,38,13,472,1256170,机器释义，经首轮浏览
+430,4,取材,しゅざい,shuzai,采访；采集素材,"gathering material (for an article, novel, etc.); collecting information; covering (an event, incident, etc.)",取材,38,7,474,1327020,人工修订
+431,4,反応,はんのう,hannou,反应,reaction; response,反応,38,13,475,1480210,机器释义，经首轮浏览
+432,4,示す,しめす,shimesu,显示；表明,to (take out and) show; to demonstrate; to tell,示す,38,13,476,1317110,人工修订
+433,4,側,がわ,gawa,侧面,"side (of something, or taking someone's side); part",側,38,14,477,1581310,机器释义，经首轮浏览
+434,4,評価,ひょうか,hyouka,评估,valuation; appraisal; evaluation,評価,38,17,478,1490010,机器释义，经首轮浏览
+435,4,施設,しせつ,shisetsu,设施,facility; facilities; institution,施設,38,7,479,1310410,机器释义，经首轮浏览
+436,4,自ら,みずから,mizukara,自己；亲自,oneself,自ら,38,14,481,1317340,人工修订
+437,4,消費者,しょうひしゃ,shouhisha,消费者,"consumer (of a product, service, etc.); customer; (end) user",消費者,38,11,482,1350300,机器释义，经首轮浏览
+438,4,答える,こたえる,kotaeru,回答,to answer; to reply,答える,38,10,484,1449540,机器释义，经首轮浏览
+439,4,今度,こんど,kondo,这次；下次（依语境）,this time; now,今度,37,13,485,1289370,人工修订
+440,4,中心,ちゅうしん,chuushin,中心,center; centre; middle,中心,37,13,486,1424550,机器释义，经首轮浏览
+441,4,当日,とうじつ,toujitsu,当天,day in question; appointed day; that very day,当日,37,12,487,1449210,机器释义，经首轮浏览
+442,4,原因,げんいん,gen'in,原因,cause; origin; source,原因,37,14,488,1261190,机器释义，经首轮浏览
+443,4,努力,どりょく,doryoku,努力,effort; exertion; endeavour,努力,37,17,489,1445130,机器释义，经首轮浏览
+444,4,維持,いじ,iji,维持,maintenance; preservation; improvement,維持,37,12,490,1158450,人工修订
+445,4,済む,すむ,sumu,完成,to finish; to end; to be completed,すむ,37,13,491,1295070,机器释义，经首轮浏览
+446,4,音楽,おんがく,ongaku,音乐,music,音楽,37,9,493,1183720,机器释义，经首轮浏览
+447,4,立つ,たつ,tatsu,站立,to stand (up); to rise; to get to one's feet,立つ,37,15,494,1597040,机器释义，经首轮浏览
+448,4,失う,うしなう,ushinau,失去,to lose,失う,37,16,495,1319750,人工修订
+449,4,守る,まもる,mamoru,保护,to protect; to guard; to defend,守る,37,13,497,1327120,机器释义，经首轮浏览
+450,4,まとめる,まとめる,matomeru,总结,to collect; to put (it all) together; to integrate,纏める,37,17,498,1440930,机器释义，经首轮浏览
+451,4,古い,ふるい,furui,老,old; aged; ancient,古い,37,13,499,1265070,机器释义，经首轮浏览
+452,4,材料,ざいりょう,zairyou,材质,materials; ingredients,材料,37,7,500,1296670,机器释义，经首轮浏览
+453,4,思い,おもい,omoi,思想,thought,思い,37,13,501,1589320,机器释义，经首轮浏览
+454,4,答案,とうあん,touan,答卷；答案,examination paper; examination script; answer sheet,答案,37,5,502,1449550,人工修订
+455,4,時期,じき,jiki,时机,time; season; period,時期,36,14,503,1316040,机器释义，经首轮浏览
+456,4,条件,じょうけん,jouken,条件,condition; term; requirement,条件,36,14,504,1356510,机器释义，经首轮浏览
+457,4,書類,しょるい,shorui,文件,document; papers,書類,36,14,505,1344200,机器释义，经首轮浏览
+458,4,役割,やくわり,yakuwari,角色,part; assigning (allotment of) parts; role,役割,36,14,507,1538000,机器释义，经首轮浏览
+459,4,試験,しけん,shiken,考试,examination; exam; test,試験,36,13,508,1312350,机器释义，经首轮浏览
+460,4,どこ,どこ,doko,哪里,where; what place,どこ,36,15,509,1577140,机器释义，经首轮浏览
+461,4,確保,かくほ,kakuho,确保； 确保资源,securing; obtaining; ensuring,確保,36,16,510,1205920,人工修订
+462,4,たくさん,たくさん,takusan,很多,a lot; lots; plenty,沢山,36,15,511,1415870,机器释义，经首轮浏览
+463,4,町,まち,machi,镇,town; block; neighbourhood,町,36,16,513,1603990,机器释义，经首轮浏览
+464,4,親,おや,oya,父母,parent; parents; mother and father,親,36,13,514,1365040,机器释义，经首轮浏览
+465,4,記憶,きおく,kioku,记忆,memory; recollection; remembrance,記憶,36,13,515,1223150,机器释义，经首轮浏览
+466,4,せい,せい,sei,原因；归咎于……,consequence; outcome; result,せい,36,15,516,1610040,人工修订
+467,4,窓口,まどぐち,madoguchi,柜台,counter; window; teller window,窓口,36,9,517,1401420,机器释义，经首轮浏览
+468,4,講師,こうし,koushi,讲师,speaker; lecturer,講師,36,8,518,1282280,机器释义，经首轮浏览
+469,4,国際,こくさい,kokusai,国际,international,国際,36,5,519,1286400,机器释义，经首轮浏览
+470,4,なくなる,なくなる,nakunaru,没有了；消失,to be lost (e.g. luggage); to be missing,なくなる,36,15,520,1529550,人工修订
+471,4,なかなか,なかなか,nakanaka,相当,very; considerably; easily,中々,35,16,521,1599420,机器释义，经首轮浏览
+472,4,なるほど,なるほど,naruhodo,原来如此；的确,I see; that's right; indeed,成る程,35,14,522,1375820,人工修订
+473,4,不安,ふあん,fuan,焦虑,anxiety; uneasiness; worry,不安,35,11,523,1491150,机器释义，经首轮浏览
+474,4,度,ど,do,度数；次；程度,"degree (angle, temperature, scale, etc.)",度,35,14,524,1445160,人工修订
+475,4,現実,げんじつ,genjitsu,现实,reality; actuality; hard fact,現実,35,10,526,1263710,机器释义，经首轮浏览
+476,4,普通,ふつう,futsuu,正常,normal; ordinary; regular,普通,35,11,527,1497190,机器释义，经首轮浏览
+477,4,式,しき,shiki,方式；仪式；公式,way; style; fashion,式,35,6,528,1319060,人工修订
+478,4,例,れい,rei,例子,example; instance; illustration,例,35,16,529,1585230,机器释义，经首轮浏览
+479,4,怒り,いかり,ikari,愤怒,anger; rage; fury,怒り,35,5,530,1445670,机器释义，经首轮浏览
+480,4,通す,とおす,toosu,通过,to let pass; to allow through; to let through,通す,35,12,531,1432900,机器释义，经首轮浏览
+481,4,研修,けんしゅう,kenshuu,培训,training (esp. in-service); induction course,研修,35,10,532,1258660,机器释义，经首轮浏览
+482,4,効果,こうか,kouka,效果,effect; effectiveness; efficacy,効果,35,14,533,1275130,机器释义，经首轮浏览
+483,4,見つける,みつける,mitsukeru,查找,to find; to discover; to come across,見付ける,35,12,534,1604570,机器释义，经首轮浏览
+484,4,足りる,たりる,tariru,够了,to be sufficient; to be enough,足りる,34,15,536,1404740,机器释义，经首轮浏览
+485,4,担当,たんとう,tantou,负责,"being in charge (of an area of responsibility); being responsible (for a work role, etc.)",担当,34,14,537,1418160,机器释义，经首轮浏览
+486,4,特に,とくに,tokuni,特别是,particularly; especially; in particular,特に,34,15,538,1454670,机器释义，经首轮浏览
+487,4,関心,かんしん,kanshin,兴趣,concern; interest,関心,34,13,539,1215870,机器释义，经首轮浏览
+488,4,語る,かたる,kataru,说话,to talk about; to speak of; to tell,語る,34,8,540,1270990,机器释义，经首轮浏览
+489,4,機能,きのう,kinou,功能,function; facility; faculty,機能,34,13,541,1221130,机器释义，经首轮浏览
+490,4,広い,ひろい,hiroi,宽,spacious; vast; wide,広い,34,12,542,1278410,机器释义，经首轮浏览
+491,4,全く,まったく,mattaku,完全；まったく〜ない表示完全不……,really; truly; entirely,全く,34,17,543,1394800,人工修订
+492,4,無理,むり,muri,不可能,unreasonable; unnatural; unjustifiable,無理,34,15,544,1530970,机器释义，经首轮浏览
+493,4,現代,げんだい,gendai,现代,present age; present day; today,現代,34,11,545,1263810,机器释义，经首轮浏览
+494,4,二人,ふたり,futari,两个人,two persons; two people; pair,二人,34,14,546,1582670,机器释义，经首轮浏览
+495,4,忙しい,いそがしい,isogashii,忙碌,busy; occupied; hectic,忙しい,34,17,547,1519290,机器释义，经首轮浏览
+496,4,大会,たいかい,taikai,大会；比赛大会,mass meeting; convention; rally,大会,34,12,548,1413180,人工修订
+497,4,一部,いちぶ,ichibu,一部分,one part; one portion; one section,一部,34,17,549,1166180,人工修订
+498,4,提案,ていあん,teian,建议,proposal; proposition; suggestion,提案,34,12,551,1436320,机器释义，经首轮浏览
+499,4,練習,れんしゅう,renshuu,练习,practice; training; drill,練習,34,15,552,1559160,机器释义，经首轮浏览
+500,4,業務,ぎょうむ,gyoumu,业务；工作事务,business; work; operations,業務,34,9,553,1239540,人工修订
+501,4,作成,さくせい,sakusei,制作；编制,"making (a report, plan, contract, etc.); drawing up; writing out",作成,33,12,554,1297760,人工修订
+502,4,商店街,しょうてんがい,shoutengai,商店街,shopping district; shopping street; downtown,商店街,33,5,555,1347190,机器释义，经首轮浏览
+503,4,家具,かぐ,kagu,家具,furniture,家具,33,5,556,1191870,机器释义，经首轮浏览
+504,4,課題,かだい,kadai,课题；任务；待解决的问题,subject; theme; issue,課題,33,14,557,1195820,人工修订
+505,4,計画,けいかく,keikaku,计划,plan; project; schedule,計画,33,14,558,1252090,机器释义，经首轮浏览
+506,4,高める,たかめる,takameru,增强,to raise; to lift; to boost,高める,33,14,559,1283240,机器释义，经首轮浏览
+507,4,もちろん,もちろん,mochiron,当然,of course; certainly; naturally,勿論,33,16,560,1535780,机器释义，经首轮浏览
+508,4,気づく,きづく,kizuku,注意到；察觉,to notice; to realize; to realise,気付く,33,16,561,1591330,人工修订
+509,4,量,りょう,ryou,数量,quantity; amount; volume,量,33,16,562,1554640,机器释义，经首轮浏览
+510,4,顔,かお,kao,脸,face; visage; looks,顔,33,13,563,1217730,机器释义，经首轮浏览
+511,4,優勝,ゆうしょう,yuushou,胜利,overall victory; championship; winning the title,優勝,33,15,564,1539280,机器释义，经首轮浏览
+512,4,豊か,ゆたか,yutaka,丰富,abundant; plentiful; rich,豊か,33,13,565,1518130,机器释义，经首轮浏览
+513,4,山,やま,yama,山,mountain; hill,山,33,9,567,1302680,机器释义，经首轮浏览
+514,4,最初,さいしょ,saisho,最初；开始,beginning; outset; first,最初,33,14,568,1293990,人工修订
+515,4,表現,ひょうげん,hyougen,表达,expression; representation; description,表現,33,11,569,1489510,机器释义，经首轮浏览
+516,4,席,せき,seki,座位,seat,席,33,9,570,1382250,机器释义，经首轮浏览
+517,4,役,やく,yaku,角色,role; assignment; responsibility,役,33,13,571,1537970,机器释义，经首轮浏览
+518,4,喜び,よろこび,yorokobi,喜悦,joy; delight; rapture,喜び,33,6,572,1606140,机器释义，经首轮浏览
+519,4,部署,ぶしょ,busho,部门,one's post; one's station; department,部署,32,9,573,1603140,机器释义，经首轮浏览
+520,4,生かす,いかす,ikasu,利用,"to make (the best) use of; to put to good use; to leverage (skills, attributes, experience, etc.)",生かす,32,14,574,1587070,机器释义，经首轮浏览
+521,4,続く,つづく,tsuzuku,继续,to continue; to last; to go on,続く,32,15,575,1405790,机器释义，经首轮浏览
+522,4,営業,えいぎょう,eigyou,营业；销售业务,business; trade; operations,営業,32,9,576,1173430,人工修订
+523,4,将来,しょうらい,shourai,未来,future; (future) prospects,将来,32,14,577,1347710,机器释义，经首轮浏览
+524,4,部,ぶ,bu,部门,"department (in an organization, company, etc.); division; bureau",部,32,13,578,1499290,机器释义，经首轮浏览
+525,4,簡単,かんたん,kantan,简单,simple; easy; uncomplicated,簡単,32,14,579,1214330,机器释义，经首轮浏览
+526,4,発言,はつげん,hatsugen,发言,statement; remark; observation,発言,32,13,580,1477350,人工修订
+527,4,議論,ぎろん,giron,讨论,argument; discussion; dispute,議論,32,9,581,1226160,机器释义，经首轮浏览
+528,4,申し込む,もうしこむ,moushikomu,申请,to apply for; to make an application; to propose (marriage),申し込む,32,11,582,1362890,机器释义，经首轮浏览
+529,4,共有,きょうゆう,kyouyuu,分享,joint ownership; co-ownership; sharing (e.g. a viewpoint),共有,32,12,584,1235240,机器释义，经首轮浏览
+530,4,実験,じっけん,jikken,实验,experiment; experimentation,実験,32,9,585,1320970,机器释义，经首轮浏览
+531,4,価格,かかく,kakaku,价格,price; value; cost,価格,31,10,588,1189500,机器释义，经首轮浏览
+532,4,成長,せいちょう,seichou,成长,growth; development; growing up,成長,31,13,589,1375790,机器释义，经首轮浏览
+533,4,比べる,くらべる,kuraberu,比较,to compare; to make a comparison (between),比べる,31,15,590,1483540,机器释义，经首轮浏览
+534,4,問う,とう,tou,询问,to ask; to inquire,問う,31,10,591,1536000,机器释义，经首轮浏览
+535,4,実際,じっさい,jissai,实际上,reality; actuality; truth,実際,31,16,592,1321110,机器释义，经首轮浏览
+536,4,押さえる,おさえる,osaeru,按住；掌握要点；控制,to pin down; to hold down; to press down,押さえる,31,11,594,1589080,人工修订
+537,4,事業,じぎょう,jigyou,商业,business; enterprise; venture,事業,31,10,595,1313670,机器释义，经首轮浏览
+538,4,名前,なまえ,namae,姓名,name,名前,31,17,596,1531710,机器释义，经首轮浏览
+539,4,課,か,ka,课；科（组织单位）,lesson,課,31,11,597,1195710,人工修订
+540,4,慣れる,なれる,nareru,习惯它,to get used to; to grow accustomed to; to become familiar with,なれる,31,14,598,1212670,机器释义，经首轮浏览
+541,4,共,とも,tomo,共同；和……一起,together with,とも,31,15,599,1578040,人工修订
+542,4,明確,めいかく,meikaku,明确；清楚,clear; precise; definite,明確,31,12,600,1532410,人工修订
+543,4,洗濯,せんたく,sentaku,洗衣,washing; laundry,洗濯,31,11,601,1390980,人工修订
+544,4,追求,ついきゅう,tsuikyuu,追求,"pursuit (of a goal, ideal, etc.); search; chase",追求,31,7,602,1432490,机器释义，经首轮浏览
+545,4,認める,みとめる,mitomeru,承认,to recognize; to recognise; to observe,認める,31,14,603,1467530,机器释义，经首轮浏览
+546,4,運動,うんどう,undou,锻炼,exercise; physical training; workout,運動,31,10,604,1172910,机器释义，经首轮浏览
+547,4,絶滅,ぜつめつ,zetsumetsu,灭绝,extinction; extermination,絶滅,31,4,605,1386990,机器释义，经首轮浏览
+548,4,困る,こまる,komaru,麻烦,to be troubled; to have difficulty; to be in a fix,困る,30,15,606,1289590,机器释义，经首轮浏览
+549,4,去年,きょねん,kyonen,去年,last year,去年,30,12,607,1231690,机器释义，经首轮浏览
+550,4,協力,きょうりょく,kyouryoku,合作,cooperation; collaboration; help,協力,30,13,608,1591720,机器释义，经首轮浏览
+551,4,高齢者,こうれいしゃ,koureisha,老年人,old person; elderly person; senior citizen,高齢者,30,12,609,1657250,机器释义，经首轮浏览
+552,4,遊ぶ,あそぶ,asobu,玩,"to play (games, sports); to enjoy oneself; to have a good time",遊ぶ,30,12,610,1542160,机器释义，经首轮浏览
+553,4,できるだけ,できるだけ,dekirudake,尽可能,as much as one can; as much as possible; if at all possible,出来るだけ,30,13,611,1340460,人工修订
+554,4,周り,まわり,mawari,周围环境,circumference; girth,周り,30,13,612,1604290,机器释义，经首轮浏览
+555,4,楽しい,たのしい,tanoshii,乐趣,enjoyable; fun; pleasant,楽しい,30,13,613,1207240,机器释义，经首轮浏览
+556,4,扱う,あつかう,atsukau,处理；对待；经营,to deal with (a person); to treat; to handle,扱う,30,12,614,1153440,人工修订
+557,4,若者,わかもの,wakamono,年轻人,young person; youngster; young people,若者,30,9,616,1324350,人工修订
+558,4,すごい,すごい,sugoi,惊人,terrible; dreadful,凄い,30,15,617,1374550,机器释义，经首轮浏览
+559,4,ほとんど,ほとんど,hotondo,几乎,almost; nearly; mostly,殆ど,30,16,618,1522050,机器释义，经首轮浏览
+560,4,つもり,つもり,tsumori,意图,intention; plan; purpose,積もり,30,15,619,1382980,机器释义，经首轮浏览
+561,4,友達,ともだち,tomodachi,朋友,friend; companion,友達,30,15,620,1540170,机器释义，经首轮浏览
+562,4,捨てる,すてる,suteru,扔掉它,to throw away; to cast away; to dump,捨てる,30,11,621,1322320,机器释义，经首轮浏览
+563,4,ずっと,ずっと,zutto,一直；远比……,continuously; the whole time; all the way,ずっと,30,14,622,1006380,人工修订
+564,4,多様,たよう,tayou,多样性,diverse; various,多様,30,14,623,1408100,机器释义，经首轮浏览
+565,4,整理,せいり,seiri,组织,sorting; arrangement; organization,整理,30,12,625,1376250,机器释义，经首轮浏览
+566,4,広告,こうこく,koukoku,广告,advertisement; advertising,広告,30,6,626,1278510,机器释义，经首轮浏览
+567,4,花,はな,hana,鲜花,flower; blossom; bloom,花,30,10,627,1194500,机器释义，经首轮浏览
+568,4,修理,しゅうり,shuuri,维修,repair; mending; fixing,修理,30,6,629,1332400,机器释义，经首轮浏览
+569,4,申し込み,もうしこみ,moushikomi,申请,application; entry; request,申し込み,29,13,630,1605140,机器释义，经首轮浏览
+570,4,受け入れる,うけいれる,ukeireru,接受,to accept; to receive; to agree,受け入れる,29,11,631,1329670,机器释义，经首轮浏览
+571,4,むしろ,むしろ,mushiro,相反,rather; better; instead,寧ろ,29,13,632,1604870,机器释义，经首轮浏览
+572,4,始まる,はじまる,hajimaru,开始,to begin; to start; to commence,始まる,29,14,633,1307500,机器释义，经首轮浏览
+573,5,事実,じじつ,jijitsu,事实,fact; truth; reality,事実,29,13,634,1313960,机器释义，经首轮浏览
+574,5,試合,しあい,shiai,比赛,match; game; bout,試合,29,10,635,1312420,机器释义，经首轮浏览
+575,5,喜ぶ,よろこぶ,yorokobu,庆幸,to be delighted; to be glad; to be pleased,喜ぶ,29,14,636,1218760,机器释义，经首轮浏览
+576,5,経済,けいざい,keizai,经济,economy; economics,経済,29,13,637,1251320,机器释义，经首轮浏览
+577,5,野菜,やさい,yasai,蔬菜,vegetable,野菜,29,10,638,1537370,机器释义，经首轮浏览
+578,5,仕方,しかた,shikata,如何,way; method; means,仕方,29,14,639,1594110,机器释义，经首轮浏览
+579,5,なお,なお,nao,仍然；另外；なお也用于补充说明,still; yet,猶,29,7,640,1349300,人工修订
+580,5,弱い,よわい,yowai,弱,weak; frail; delicate,弱い,29,12,641,1324520,机器释义，经首轮浏览
+581,5,あなた,あなた,anata,你,you,貴方,29,10,642,1223615,机器释义，经首轮浏览
+582,5,集める,あつめる,atsumeru,收集,to collect; to assemble; to gather,集める,29,13,643,1333560,机器释义，经首轮浏览
+583,5,記事,きじ,kiji,文章,article; news story; report,記事,29,10,644,1223240,机器释义，经首轮浏览
+584,5,期間,きかん,kikan,期间,period; term; interval,期間,29,9,645,1220550,机器释义，经首轮浏览
+585,5,上がる,あがる,agaru,上升；提高,to rise; to go up; to come up,上がる,29,15,646,1352290,人工修订
+586,5,伴う,ともなう,tomonau,伴随；伴有,to accompany; to go hand in hand with; to be consequent upon,伴う,29,14,647,1478370,人工修订
+587,5,料金,りょうきん,ryoukin,费用,fee; charge; fare,料金,29,10,648,1554280,机器释义，经首轮浏览
+588,5,参加者,さんかしゃ,sankasha,参与者,participant; entrant; player,参加者,29,10,650,1302110,机器释义，经首轮浏览
+589,5,見学,けんがく,kengaku,参观学习,inspection; study by observation; field trip,見学,29,8,651,1259440,人工修订
+590,5,考え方,かんがえかた,kangaekata,思维方式,way of thinking; point of view; opinion,考え方,29,12,652,1281090,机器释义，经首轮浏览
+591,5,週間,しゅうかん,shuukan,周,week,週間,28,12,653,1333500,机器释义，经首轮浏览
+592,5,かなり,かなり,kanari,相当多,considerably; fairly; quite,可成,28,15,654,1590560,机器释义，经首轮浏览
+593,5,お店,おみせ,omise,店；商店（礼貌表达）,store; shop; establishment,御店,28,10,656,2842661,人工修订
+594,5,食,しょく,shoku,食物,food; foodstuff,食,28,15,657,1956480,机器释义，经首轮浏览
+595,5,想像,そうぞう,souzou,想象力,imagination; supposition; guess,想像,28,14,658,1399610,机器释义，经首轮浏览
+596,5,申請,しんせい,shinsei,申请,application; request; petition,申請,28,8,659,1363130,机器释义，经首轮浏览
+597,5,住む,すむ,sumu,居住,to live (of humans); to reside; to inhabit,住む,28,12,660,1334040,人工修订
+598,5,食事,しょくじ,shokuji,膳食,"meal (e.g. lunch, dinner)",食事,28,13,661,1358490,机器释义，经首轮浏览
+599,5,魅力,みりょく,miryoku,魅力,charm; fascination; glamour,魅力,28,9,663,1528150,机器释义，经首轮浏览
+600,5,毎日,まいにち,mainichi,每天,every day; daily,毎日,28,17,664,1524720,机器释义，经首轮浏览
+601,5,機,き,ki,机会；机器（组合词中常见）,chance; opportunity,機,28,12,666,2037700,人工修订
+602,5,子,こ,ko,儿童,child; kid; teenager,子,28,14,667,1307770,机器释义，经首轮浏览
+603,5,頭,あたま,atama,头部,head,頭,28,14,668,1582310,机器释义，经首轮浏览
+604,5,機会,きかい,kikai,机会,chance; opportunity; occasion,機会,28,16,670,1220800,机器释义，经首轮浏览
+605,5,何度,なんど,nando,多少次,how many times,何度,28,12,671,1189170,机器释义，经首轮浏览
+606,5,もたらす,もたらす,motarasu,带来；造成,"to bring (news, knowledge, etc.); to introduce",齎す,28,12,672,1573190,人工修订
+607,5,共通,きょうつう,kyoutsuu,共同；共通,common; shared; mutual,共通,28,18,673,1234700,人工修订
+608,5,検討,けんとう,kentou,考虑；研究讨论,consideration; examination; investigation,検討,28,13,674,1258000,人工修订
+609,5,機械,きかい,kikai,机械,machine; mechanism,機械,28,11,675,1220810,机器释义，经首轮浏览
+610,5,発見,はっけん,hakken,发现,discovery; detection; finding,発見,28,13,676,1477310,机器释义，经首轮浏览
+611,5,病気,びょうき,byouki,疾病,"illness (usu. excluding minor ailments, e.g. common cold); disease; sickness",病気,28,8,677,1490230,机器释义，经首轮浏览
+612,5,覚える,おぼえる,oboeru,记住,to memorize; to memorise; to commit to memory,覚える,28,13,678,1206050,机器释义，经首轮浏览
+613,5,危険,きけん,kiken,危险,danger; peril; hazard,危険,28,11,679,1218560,机器释义，经首轮浏览
+614,5,うーん,うーん,uun,不；不是（口语）,um; er; well,ううん,28,11,680,2002400,人工修订
+615,5,公演,こうえん,kouen,演出,public performance,公演,28,6,681,1273280,人工修订
+616,5,つながり,つながり,tsunagari,连接,connection; link; relationship,繋がり,28,6,682,1251870,机器释义，经首轮浏览
+617,5,雌,めす,mesu,雌性,"female (animal, plant)",雌,28,3,683,1312880,人工修订
+618,5,渡す,わたす,watasu,递给；交给；使渡过,to ferry across (e.g. a river); to carry across; to traverse,渡す,27,12,684,1444610,人工修订
+619,5,見直す,みなおす,minaosu,回顾,to look at again,見直す,27,9,685,1259900,机器释义，经首轮浏览
+620,5,導入,どうにゅう,dounyuu,引入；导入,introduction; bringing in; installation,導入,27,14,686,1453790,人工修订
+621,5,安心,あんしん,anshin,内心平静,peace of mind; relief; (sense of) security,安心,27,11,687,1153890,机器释义，经首轮浏览
+622,5,当たる,あたる,ataru,击中,to be hit; to strike,当たる,27,13,688,1448810,机器释义，经首轮浏览
+623,5,多様性,たようせい,tayousei,多样性,diversity; variety,多様性,27,8,689,1408120,机器释义，经首轮浏览
+624,5,過程,かてい,katei,过程,process; course; mechanism,過程,27,15,690,1196270,机器释义，经首轮浏览
+625,5,解決,かいけつ,kaiketsu,解决,settlement; solution; resolution,解決,27,16,691,1198960,人工修订
+626,5,満足,まんぞく,manzoku,满意,satisfaction; contentment; gratification,満足,27,13,692,1526860,机器释义，经首轮浏览
+627,5,低い,ひくい,hikui,低,"low (rank, degree, value, content, quality, etc.)",低い,27,12,693,1434180,机器释义，经首轮浏览
+628,5,向ける,むける,mukeru,转,to turn (towards); to face; to point,向ける,27,14,694,1277100,机器释义，经首轮浏览
+629,5,美しい,うつくしい,utsukushii,美丽,beautiful; pretty; lovely,美しい,27,12,695,1486360,机器释义，经首轮浏览
+630,5,駅,えき,eki,车站,railway station; train station,駅,27,8,696,1175140,机器释义，经首轮浏览
+631,5,利益,りえき,rieki,利润,profit; gains,利益,27,9,697,1549470,机器释义，经首轮浏览
+632,5,公園,こうえん,kouen,公园,(public) park,公園,27,10,698,1273270,机器释义，经首轮浏览
+633,5,生み出す,うみだす,umidasu,生产,to create; to bring forth; to produce,生み出す,27,13,699,1378720,机器释义，经首轮浏览
+634,5,身体,しんたい,shintai,身体,body; physical system; (the) person,身体,27,9,700,2830705,机器释义，经首轮浏览
+635,5,走る,はしる,hashiru,跑步,to run,走る,27,13,701,1402540,机器释义，经首轮浏览
+636,5,全員,ぜんいん,zen'in,大家,all members; all hands; everyone,全員,27,10,703,1394840,机器释义，经首轮浏览
+637,5,自己,じこ,jiko,自我,self; oneself,自己,27,11,705,1317580,机器释义，经首轮浏览
+638,5,未来,みらい,mirai,未来,(distant) future,未来,27,11,706,1528060,机器释义，经首轮浏览
+639,5,団体,だんたい,dantai,团体；组织,group; party; team,団体,27,9,707,1419270,人工修订
+640,5,抜く,ぬく,nuku,拔出；抽出；省略,to pull out; to draw out; to extract,抜く,27,10,708,1478190,人工修订
+641,5,睡眠,すいみん,suimin,睡觉,sleep,睡眠,27,6,709,1372370,英文词典释义机器转译，经首轮浏览
+642,5,銀,ぎん,gin,银（Ag）,silver (Ag),銀,27,4,710,1595090,英文词典释义机器转译，经首轮浏览
+643,5,近く,ちかく,chikaku,附近；接近,near; neighbourhood; neighborhood,近く,26,12,711,1242160,人工修订
+644,5,心配,しんぱい,shinpai,担心；忧虑,worry; concern; anxiety,心配,26,15,712,1360930,英文词典释义机器转译，经首轮浏览
+645,5,発表,はっぴょう,happyou,发表；公布,announcement; publication; presenting,発表,26,10,713,1477840,人工修订
+646,5,味,あじ,aji,味道,flavor; flavour; taste,味,26,12,714,1526960,人工修订
+647,5,さっき,さっき,sakki,刚才,a short while ago; a moment ago; just now,さっき,26,12,716,1005180,人工修订
+648,5,相談,そうだん,soudan,商量；咨询,consultation; discussion; discussing,相談,26,14,717,1401210,人工修订
+649,5,驚く,おどろく,odoroku,吃惊；惊讶,to be surprised; to be taken aback; to be amazed,驚く,26,13,718,1238680,人工修订
+650,5,戻る,もどる,modoru,返回；恢复原状,to turn back (e.g. half-way),戻る,26,13,720,1535880,人工修订
+651,5,一方,いっぽう,ippou,一方；另一方面；〜一方で表示对比,one (esp. of two); the other; one way,一方,26,15,721,1166510,人工修订
+652,5,逆,ぎゃく,gyaku,相反；倒转,reverse; opposite,逆,26,12,722,1226960,人工修订
+653,5,複雑,ふくざつ,fukuzatsu,复杂,complex; complicated; intricate,複雑,26,9,723,1501350,人工修订
+654,5,費用,ひよう,hiyou,成本；费用,cost; expense,費用,26,11,724,1484620,英文词典释义机器转译，经首轮浏览
+655,5,係,かかり,kakari,负责人；负责某项工作的人,charge; duty; person in charge,係,26,5,725,1589840,人工修订
+656,5,調べる,しらべる,shiraberu,调查；查阅；检查,to examine; to look up; to investigate,調べる,26,11,726,1429060,人工修订
+657,5,芸術,げいじゅつ,geijutsu,艺术,art; the arts,芸術,26,4,727,1253060,英文词典释义机器转译，经首轮浏览
+658,5,従う,したがう,shitagau,遵守（命令、法律等）；遵守（规则、习俗等）,"to obey (an order, law, etc.); to abide by (a rule, custom, etc.); to follow",従う,26,11,728,1335210,英文词典释义机器转译，经首轮浏览
+659,5,視線,しせん,shisen,视线,one's line of sight; one's gaze; one's eyes (looking),視線,26,4,729,1312060,人工修订
+660,5,倫理,りんり,rinri,伦理；道德,ethics; morals,倫理,26,1,730,1555390,人工修订
+661,5,卵,たまご,tamago,蛋；卵,eggs; egg; spawn,卵,26,3,731,1549140,人工修订
+662,5,森,もり,mori,森林,forest,森,25,7,732,1362490,英文词典释义机器转译，经首轮浏览
+663,5,借りる,かりる,kariru,借用,to borrow,借りる,25,9,734,1323560,英文词典释义机器转译，经首轮浏览
+664,5,やめる,やめる,yameru,停止（某项活动）；停止,to stop (an activity); to cease; to discontinue,やめる,25,10,735,1310680,英文词典释义机器转译，经首轮浏览
+665,5,留学,りゅうがく,ryuugaku,出国留学,studying abroad,留学,25,8,737,1552740,英文词典释义机器转译，经首轮浏览
+666,5,管理,かんり,kanri,控制；管理（例如企业）,control; management (e.g. of a business),管理,25,13,738,1214200,英文词典释义机器转译，经首轮浏览
+667,5,ねえ,ねえ,nee,喂；对吧（引起注意或确认）,right?; isn't it?; doesn't it?,ねえ,25,13,739,2029080,人工修订
+668,5,撮る,とる,toru,拍摄（照片）,to take (a photograph),撮る,25,10,740,1298790,英文词典释义机器转译，经首轮浏览
+669,5,使い方,つかいかた,tsukaikata,使用（某物）的方式；使用方式,way of using (something); way to use; how to use,使い方,25,17,741,1305950,英文词典释义机器转译，经首轮浏览
+670,5,いや,いや,iya,没有,no,否,25,17,742,2857380,英文词典释义机器转译，经首轮浏览
+671,5,金,きん,kin,金（金属）,gold (metal),金,25,7,743,1242600,英文词典释义机器转译，经首轮浏览
+672,5,特別,とくべつ,tokubetsu,特别的；非凡的,special; particular; extraordinary,特別,25,10,744,1455280,英文词典释义机器转译，经首轮浏览
+673,5,避ける,さける,sakeru,避免（情况）；逃避（问题、主题）,"to avoid (situation); to evade (question, subject); to shirk (one's responsibilities)",避ける,25,12,745,1583260,英文词典释义机器转译，经首轮浏览
+674,5,仕組み,しくみ,shikumi,结构；建造,structure; construction; arrangement,仕組み,25,11,746,1594180,英文词典释义机器转译，经首轮浏览
+675,5,すでに,すでに,sudeni,已经,already,既に,25,13,747,1220310,英文词典释义机器转译，经首轮浏览
+676,5,道具,どうぐ,dougu,工具,tool; implement; instrument,道具,25,8,748,1454180,人工修订
+677,5,植物,しょくぶつ,shokubutsu,植物；植被,plant; vegetation,植物,25,9,749,1357300,英文词典释义机器转译，经首轮浏览
+678,5,法,ほう,hou,法律；方法,law; act; principle,法,25,8,750,1517150,人工修订
+679,5,いかに,いかに,ikani,如何,how; in what way,如何に,25,12,751,1466970,机器释义，经首轮浏览
+680,5,制度,せいど,seido,系统,system; institution; organization,制度,25,9,752,1374880,机器释义，经首轮浏览
+681,5,雪,ゆき,yuki,雪,snow; snowfall,雪,25,8,753,1386500,机器释义，经首轮浏览
+682,5,講座,こうざ,kouza,课程,course (e.g. of lectures),講座,25,5,755,1282270,机器释义，经首轮浏览
+683,5,こだわる,こだわる,kodawaru,挑剔,to be obsessive (about); to be overly concerned (with); to fuss (over),拘る,24,11,758,1004480,机器释义，经首轮浏览
+684,5,面,めん,men,脸部,face,面,24,12,759,1584695,机器释义，经首轮浏览
+685,5,集まる,あつまる,atsumaru,聚集在一起,to gather; to collect; to assemble,集まる,24,12,760,1333550,机器释义，经首轮浏览
+686,5,安い,やすい,yasui,便宜,cheap; inexpensive,安い,24,11,761,1153670,人工修订
+687,5,加工,かこう,kakou,处理,manufacturing; processing; treatment,加工,24,10,762,1190120,机器释义，经首轮浏览
+688,5,構う,かまう,kamau,在意；干涉；〜てもかまわない表示允许,to mind; to care about; to be concerned about,構う,24,15,763,1279680,人工修订
+689,5,地球,ちきゅう,chikyuu,地球,Earth; the globe,地球,24,7,764,1420970,机器释义，经首轮浏览
+690,5,感動,かんどう,kandou,感动,being deeply moved emotionally; excitement; passion,感動,24,13,765,1212570,人工修订
+691,5,面倒,めんどう,mendou,麻烦,trouble; bother,面倒,24,8,766,1533550,机器释义，经首轮浏览
+692,5,出張,しゅっちょう,shutchou,出差,business trip; official trip,出張,24,8,767,1339660,机器释义，经首轮浏览
+693,5,厳しい,きびしい,kibishii,强硬,severe; strict; rigid,厳しい,24,13,768,1262530,机器释义，经首轮浏览
+694,5,成功,せいこう,seikou,成功,success; achievement,成功,24,13,770,1375690,机器释义，经首轮浏览
+695,5,切れる,きれる,kireru,切,to break; to snap; to be cut,切れる,24,11,771,1384860,机器释义，经首轮浏览
+696,5,引っ越し,ひっこし,hikkoshi,搬家,"moving (dwelling, office, etc.); changing residence",引っ越し,24,11,772,1601880,机器释义，经首轮浏览
+697,5,切る,きる,kiru,切,to cut; to cut through; to perform (surgery),切る,24,10,773,1384830,机器释义，经首轮浏览
+698,5,手続き,てつづき,tetsuzuki,程序,procedure; process; proceedings,手続き,24,11,774,1598350,机器释义，经首轮浏览
+699,5,分野,ぶんや,bunya,领域,field; sphere; realm,分野,24,10,775,1504330,人工修订
+700,5,栽培,さいばい,saibai,栽培,cultivation,栽培,24,7,776,1294910,机器释义，经首轮浏览
+701,5,設置,せっち,setchi,安装,establishment; institution,設置,24,9,777,1386050,机器释义，经首轮浏览
+702,5,土地,とち,tochi,土地,plot of land; lot; soil,土地,24,7,778,1445470,机器释义，经首轮浏览
+703,5,効率,こうりつ,kouritsu,效率,efficiency,効率,24,9,779,1275210,机器释义，经首轮浏览
+704,5,広場,ひろば,hiroba,广场,public square; square; plaza,広場,24,3,780,1278590,机器释义，经首轮浏览
+705,5,遊び,あそび,asobi,玩,play; playing; game,遊び,24,4,781,1542070,机器释义，经首轮浏览
+706,5,売る,うる,uru,出售,to sell,売る,24,11,782,1473950,机器释义，经首轮浏览
+707,5,証明書,しょうめいしょ,shoumeisho,证书,certificate; credentials; testimonial,証明書,24,3,785,1351700,机器释义，经首轮浏览
+708,5,略,りゃく,ryaku,省略,abbreviation; omission,略,24,2,786,1551950,机器释义，经首轮浏览
+709,5,買取,かいとり,kaitori,购买,purchase; buying; buying out,買い取り,24,1,787,1473620,机器释义，经首轮浏览
+710,5,設定,せってい,settei,设置,establishment; creation; posing (a problem),設定,23,11,789,1386060,机器释义，经首轮浏览
+711,5,取り組み,とりくみ,torikumi,努力；举措,effort; initiative; dealing with,取り組み,23,9,790,1599040,人工修订
+712,5,詳しい,くわしい,kuwashii,详细,detailed; full; minute,詳しい,23,14,791,1351730,机器释义，经首轮浏览
+713,5,勉強,べんきょう,benkyou,学习,study,勉強,23,12,792,1512670,机器释义，经首轮浏览
+714,5,感じ,かんじ,kanji,感觉,feeling; sense; impression,感じ,23,11,793,1212250,机器释义，经首轮浏览
+715,5,地元,じもと,jimoto,本地,home area; home town,地元,23,7,795,1421060,机器释义，经首轮浏览
+716,6,実現,じつげん,jitsugen,实现,implementation (e.g. of a system); materialization; materialisation,実現,23,12,796,1321020,机器释义，经首轮浏览
+717,6,品質,ひんしつ,hinshitsu,质量,quality (of a product or a service),品質,23,9,797,1490580,机器释义，经首轮浏览
+718,6,現状,げんじょう,genjou,现状,present condition; existing state; status quo,現状,23,10,798,1263770,机器释义，经首轮浏览
+719,6,しっかり,しっかり,shikkari,牢牢地；认真地；确实,tightly (holding on); firmly; securely,確り,23,12,799,1594400,人工修订
+720,6,野生,やせい,yasei,野生,wild,野生,23,8,800,1537470,人工修订
+721,6,乗る,のる,noru,骑行,"to get on (train, plane, bus, ship, etc.); to get in; to board",乗る,23,13,801,1355120,机器释义，经首轮浏览
+722,6,おいしい,おいしい,oishii,美味,good(-tasting); nice; delicious,美味しい,23,10,802,1486650,机器释义，经首轮浏览
+723,6,会う,あう,au,见面,to meet; to encounter; to see,会う,23,11,803,1198180,机器释义，经首轮浏览
+724,6,よろしく,よろしく,yoroshiku,请多关照；恰当地（依语境）,well; properly; suitably,宜しく,23,11,804,1224890,人工修订
+725,6,重視,じゅうし,juushi,强调,regarding as important; attaching importance to; taking a serious view of,重視,23,13,805,1336260,机器释义，经首轮浏览
+726,6,捉える,とらえる,toraeru,捕捉,to catch; to capture; to seize,捉える,23,10,806,1598960,机器释义，经首轮浏览
+727,6,戦略,せんりゃく,senryaku,策略,strategy; tactics,戦略,23,9,807,1390600,机器释义，经首轮浏览
+728,6,起こる,おこる,okoru,发生的事,to occur; to happen,起こる,23,12,808,1223680,机器释义，经首轮浏览
+729,6,人間関係,にんげんかんけい,ningenkankei,人际关系,human relations; personal relationships,人間関係,23,6,809,1366850,机器释义，经首轮浏览
+730,6,育てる,そだてる,sodateru,培养,to raise; to rear; to bring up,育てる,23,12,810,1160570,机器释义，经首轮浏览
+731,6,直す,なおす,naosu,修复,to repair; to mend; to fix,直す,23,10,811,1599390,机器释义，经首轮浏览
+732,6,修正,しゅうせい,shuusei,修改,amendment; correction; revision,修正,23,10,812,1332130,机器释义，经首轮浏览
+733,6,分析,ぶんせき,bunseki,分析,analysis,分析,23,13,813,1503870,机器释义，经首轮浏览
+734,6,特徴,とくちょう,tokuchou,特点,feature; trait; characteristic,特徴,23,11,814,1455170,机器释义，经首轮浏览
+735,6,病院,びょういん,byouin,医院,hospital; clinic; doctor's office,病院,23,9,815,1490220,机器释义，经首轮浏览
+736,6,感覚,かんかく,kankaku,感觉,sense; sensation; feeling,感覚,23,9,816,1212330,机器释义，经首轮浏览
+737,6,次第,しだい,shidai,视情况而定,depending on,次第,23,9,817,1316680,机器释义，经首轮浏览
+738,6,自分自身,じぶんじしん,jibunjishin,我自己,oneself; myself,自分自身,23,11,818,1318620,机器释义，经首轮浏览
+739,6,暮らす,くらす,kurasu,生活,"to live (on, by, etc.); to lead a life; to get along",暮らす,23,9,819,1514940,机器释义，经首轮浏览
+740,6,敵,てき,teki,敌人,opponent; rival; adversary,敵,23,7,820,1582000,机器释义，经首轮浏览
+741,6,残る,のこる,nokoru,留下来,to remain; to be left,残る,23,12,821,1304510,机器释义，经首轮浏览
+742,6,香り,かおり,kaori,香味；芳香,aroma; fragrance; scent,香り,23,6,822,1589820,人工修订
+743,6,副業,ふくぎょう,fukugyou,副业,side job; sideline; subsidiary business,副業,23,3,823,1500380,机器释义，经首轮浏览
+744,6,音声,おんせい,onsei,音频,voice; speech,音声,23,7,827,1183880,机器释义，经首轮浏览
+745,6,見つかる,みつかる,mitsukaru,发现,to be found; to be discovered,見付かる,22,13,829,1604550,机器释义，经首轮浏览
+746,6,受け取る,うけとる,uketoru,接收,to receive; to get; to accept,受け取る,22,11,830,1329650,机器释义，经首轮浏览
+747,6,地,ち,chi,土地；地点；底色（依组合）,earth; ground; land,地,22,10,831,1420730,人工修订
+748,6,嫌,いや,iya,不喜欢,disliking; not wanting; unwilling (to do),嫌,22,9,832,1587610,机器释义，经首轮浏览
+749,6,人材,じんざい,jinzai,人力资源,capable person; talented person,人材,22,11,834,1367760,机器释义，经首轮浏览
+750,6,もし,もし,moshi,如果,if; in case; supposing,若し,22,11,835,1012500,机器释义，经首轮浏览
+751,6,減少,げんしょう,genshou,减少,decrease; reduction; decline,減少,22,7,836,1263210,机器释义，经首轮浏览
+752,6,傾向,けいこう,keikou,趋势,tendency; trend; inclination,傾向,22,11,837,1249470,机器释义，经首轮浏览
+753,6,あるいは,あるいは,aruiha,或者,or; either ... or,或いは,22,12,838,1586850,机器释义，经首轮浏览
+754,6,諦める,あきらめる,akirameru,放弃,"to give up; to abandon (hope, plans); to resign oneself (to)",諦める,22,13,839,1436730,机器释义，经首轮浏览
+755,6,保護,ほご,hogo,保护,protection; safeguard; guardianship,保護,22,10,840,1513530,机器释义，经首轮浏览
+756,6,読み方,よみかた,yomikata,如何阅读,pronunciation; reading (e.g. of a kanji),読み方,22,17,842,1456330,机器释义，经首轮浏览
+757,6,疲れる,つかれる,tsukareru,累了,to get tired; to tire; to get fatigued,疲れる,22,10,843,1483740,机器释义，经首轮浏览
+758,6,番号,ばんごう,bangou,号码；编号,number; series of digits,番号,22,12,844,1482290,人工修订
+759,6,来月,らいげつ,raigetsu,下个月,next month,来月,22,13,845,1547900,机器释义，经首轮浏览
+760,6,人類,じんるい,jinrui,人类,mankind; humanity,人類,22,6,846,1369530,人工修订
+761,6,起きる,おきる,okiru,醒来,to get up; to rise; to blaze up (fire),起きる,22,10,847,1223640,机器释义，经首轮浏览
+762,6,音,おと,oto,声音,sound; noise,音,22,10,848,1576900,机器释义，经首轮浏览
+763,6,適切,てきせつ,tekisetsu,适当,appropriate; suitable; fitting,適切,22,8,849,1437430,机器释义，经首轮浏览
+764,6,活用,かつよう,katsuyou,利用,practical use; application; making good use of,活用,22,14,850,1208460,机器释义，经首轮浏览
+765,6,移動,いどう,idou,移动；转移,movement; transfer; migration,移動,22,11,851,1158400,人工修订
+766,6,把握,はあく,haaku,把握,"grasp (of the situation, meaning, etc.); understanding; control",把握,22,14,852,1470910,机器释义，经首轮浏览
+767,6,漫画,まんが,manga,漫画,cartoon; comic; comic strip,漫画,22,6,853,1526920,机器释义，经首轮浏览
+768,6,態度,たいど,taido,态度,attitude; manner; behaviour,態度,22,12,854,1410780,机器释义，经首轮浏览
+769,6,動かす,うごかす,ugokasu,移动,to move; to shift; to stir,動かす,22,8,855,1451170,机器释义，经首轮浏览
+770,6,採用,さいよう,saiyou,采用；录用,use; adoption; acceptance,採用,22,11,856,1294890,人工修订
+771,6,小さい,ちいさい,chiisai,小,small; little; tiny,小さい,22,12,857,1347750,机器释义，经首轮浏览
+772,6,基準,きじゅん,kijun,标准,standard; criterion; norm,基準,22,8,858,1591210,机器释义，经首轮浏览
+773,6,途中,とちゅう,tochuu,在路上,on the way; en route,途中,22,12,859,1582200,机器释义，经首轮浏览
+774,6,会,かい,kai,会议,meeting; assembly; party,会,22,11,860,1198170,机器释义，经首轮浏览
+775,6,困難,こんなん,konnan,困难,difficulty; hardship; trouble,困難,22,8,861,1289620,机器释义，经首轮浏览
+776,6,森林,しんりん,shinrin,森林,forest; woods,森林,22,3,862,1362530,机器释义，经首轮浏览
+777,6,あり,あり,ari,蚂蚁,ant,アリ,22,2,863,1225940,人工修订
+778,6,学習,がくしゅう,gakushuu,学习,learning; study,学習,21,8,866,1206820,机器释义，经首轮浏览
+779,6,張る,はる,haru,张贴；拉紧；绷紧,to stick; to paste; to affix,張る,21,8,868,1427900,人工修订
+780,6,増加,ぞうか,zouka,增加,increase; rise; growth,増加,21,9,869,1403160,机器释义，经首轮浏览
+781,6,発売,はつばい,hatsubai,发售,sale; offering for sale; putting on sale,発売,21,11,870,1477810,人工修订
+782,6,空気,くうき,kuuki,空气,air; atmosphere,空気,21,7,871,1245470,机器释义，经首轮浏览
+783,6,提供,ていきょう,teikyou,提供,offer; tender; providing,提供,21,11,872,1436360,人工修订
+784,6,年齢,ねんれい,nenrei,年龄,age; years,年齢,21,9,874,1600240,机器释义，经首轮浏览
+785,6,風,かぜ／ふう,kaze / fuu,风；样子；风格（读音依语境）,manner; way; style,風,21,11,875,1499730,人工修订
+786,6,立場,たちば,tachiba,位置,position; situation,立場,21,10,876,1551710,机器释义，经首轮浏览
+787,6,組織,そしき,soshiki,组织,organization; organisation; formation,組織,21,6,877,1397630,机器释义，经首轮浏览
+788,6,きっかけ,きっかけ,kikkake,机会,chance; start; opportunity,切っ掛け,21,11,878,1591290,机器释义，经首轮浏览
+789,6,新聞,しんぶん,shinbun,报纸,newspaper,新聞,21,8,879,1362360,机器释义，经首轮浏览
+790,6,用意,ようい,youi,准备工作,preparation; arrangements; provision,用意,21,12,880,1546220,机器释义，经首轮浏览
+791,6,自信,じしん,jishin,信心,self-confidence; confidence (in oneself),自信,21,10,882,1317970,机器释义，经首轮浏览
+792,6,要求,ようきゅう,youkyuu,请求,demand; firm request; requisition,要求,21,12,883,1546680,机器释义，经首轮浏览
+793,6,含む,ふくむ,fukumu,包含,to contain; to comprise; to have,含む,21,11,884,1216880,机器释义，经首轮浏览
+794,6,特定,とくてい,tokutei,特定；确定,specific; particular; designated,特定,21,9,885,1455210,人工修订
+795,6,問題点,もんだいてん,mondaiten,问题,the problem (at issue); the point at issue; problematic issue,問題点,21,12,886,1536050,机器释义，经首轮浏览
+796,6,非常,ひじょう,hijou,非常；紧急（依组合）,emergency,非常,21,12,887,1484920,人工修订
+797,6,似る,にる,niru,类似,to resemble; to look like; to be like,似る,21,13,888,1314600,机器释义，经首轮浏览
+798,6,飼う,かう,kau,饲养,to keep (a pet or other animal); to have; to own,飼う,21,3,889,1312970,人工修订
+799,6,現象,げんしょう,genshou,现象,phenomenon,現象,21,8,890,1263750,英文词典释义机器转译，经首轮浏览
+800,6,開催,かいさい,kaisai,举办,"holding (a conference, exhibition, etc.); opening; hosting (e.g. the Olympics)",開催,21,8,892,1202710,人工修订
+801,6,世の中,よのなか,yononaka,社会；世间,society; the world; the times,世の中,21,10,893,1373850,人工修订
+802,6,他者,たしゃ,tasha,他人,another person; others,他者,21,11,895,1407140,人工修订
+803,6,餌,えさ,esa,饲料；诱饵,(animal) feed; fodder; pet food,餌,21,5,896,1173340,人工修订
+804,6,常,つね,tsune,常态；平常,usual state of things,常,21,12,897,2020520,人工修订
+805,6,受付,うけつけ,uketsuke,接待；受理；接待处,reception (desk); information desk; receptionist,受け付け,21,8,898,1588060,人工修订
+806,6,印象,いんしょう,inshou,印象,impression,印象,21,10,899,1168390,英文词典释义机器转译，经首轮浏览
+807,6,質,しつ,shitsu,质量；性质,quality; value,質,21,8,903,1320640,人工修订
+808,6,旅行,りょこう,ryokou,旅行；旅程,travel; trip; journey,旅行,20,11,905,1553170,英文词典释义机器转译，经首轮浏览
+809,6,市役所,しやくしょ,shiyakusho,市政府；理事会,municipal office; council; city hall,市役所,20,9,906,1308760,英文词典释义机器转译，经首轮浏览
+810,6,件,けん,ken,件；事情,matter; affair; case,件,20,13,907,1255940,人工修订
+811,6,乗せる,のせる,noseru,放在（某物）上,to place on (something),乗せる,20,12,908,1600270,英文词典释义机器转译，经首轮浏览
+812,6,予想,よそう,yosou,预测；预料,expectation; anticipation; prediction,予想,20,12,909,1543130,人工修订
+813,6,結局,けっきょく,kekkyoku,结果；到头来,after all; in the end; ultimately,結局,20,11,910,1254730,人工修订
+814,6,留学生,りゅうがくせい,ryuugakusei,留学生,overseas student; exchange student,留学生,20,7,913,1552750,人工修订
+815,6,対策,たいさく,taisaku,对策,measure; step; countermeasure,対策,20,11,914,1410050,人工修订
+816,6,届く,とどく,todoku,达到；触摸,to reach; to touch; to get to,届く,20,10,915,1457200,英文词典释义机器转译，经首轮浏览
+817,6,新人,しんじん,shinjin,新人；新人物,newcomer; new figure; new member,新人,20,10,916,1361960,英文词典释义机器转译，经首轮浏览
+818,6,取り上げる,とりあげる,toriageru,拿起；采纳；提出话题；没收,to pick up,取り上げる,20,10,917,1326800,人工修订
+819,6,結構,けっこう,kekkou,相当；不错；可以了（依语境）,splendid; nice; wonderful,結構,20,11,918,1254760,人工修订
+820,6,大事,だいじ,daiji,重要的；严肃的,important; serious; crucial,大事,20,12,919,1413940,英文词典释义机器转译，经首轮浏览
+821,6,女性,じょせい,josei,女人；女,woman; female,女性,20,7,920,1345250,英文词典释义机器转译，经首轮浏览
+822,6,季節,きせつ,kisetsu,季节；一年中的某个时间,season; time of year,季節,20,11,921,1222840,英文词典释义机器转译，经首轮浏览
+823,6,減る,へる,heru,减少（规模或数量）；减少,to decrease (in size or number); to diminish; to abate,減る,20,11,922,1263120,英文词典释义机器转译，经首轮浏览
+824,6,そのまま,そのまま,sonomama,没有变化；按原样,without change; as is,そのまま,20,11,923,1406030,英文词典释义机器转译，经首轮浏览
+825,6,本来,ほんらい,honrai,本来；原本,originally; primarily,本来,20,12,924,1523270,人工修订
+826,6,桜,さくら,sakura,樱桃树；樱花,cherry tree; cherry blossom; sakura,桜,20,9,925,1593710,英文词典释义机器转译，经首轮浏览
+827,6,年間,ねんかん,nenkan,（一段）一年,(period of) a year,年間,20,8,926,1468380,英文词典释义机器转译，经首轮浏览
+828,6,飛ぶ,とぶ,tobu,飞翔；翱翔,to fly; to soar,飛ぶ,20,9,927,1429700,英文词典释义机器转译，经首轮浏览
+829,6,上手,じょうず,jouzu,熟练；熟练的,skillful; skilled; proficient,上手,20,11,928,1353320,英文词典释义机器转译，经首轮浏览
+830,6,専門,せんもん,senmon,专业；特殊研究课题,speciality; specialty; special subject of study,専門,20,10,929,1389880,英文词典释义机器转译，经首轮浏览
+831,6,細かい,こまかい,komakai,细小；细致,small,細かい,20,12,930,1295530,人工修订
+832,6,言語,げんご,gengo,语言,language,言語,20,14,931,1264420,英文词典释义机器转译，经首轮浏览
+833,6,語彙,ごい,goi,词汇；词典,vocabulary; lexicon; lexis,語彙,20,15,932,1271260,英文词典释义机器转译，经首轮浏览
+834,6,依頼,いらい,irai,请求；委托,request; commission; entrusting (with a matter),依頼,20,9,933,1155710,人工修订
+835,6,机,つくえ,tsukue,书桌,desk,机,20,10,934,1220210,英文词典释义机器转译，经首轮浏览
+836,6,日記,にっき,nikki,日记；期刊,diary; journal,日記,20,5,935,1463930,英文词典释义机器转译，经首轮浏览
+837,6,回復,かいふく,kaifuku,恢复；康复,restoration; recovery; rehabilitation,回復,20,6,936,1199720,英文词典释义机器转译，经首轮浏览
+838,6,明らか,あきらか,akiraka,明显；清楚,clear; obvious; evident,明らか,20,10,938,1532310,人工修订
+839,6,支援,しえん,shien,支持,support; backing; aid,支援,20,11,939,1310100,机器释义，经首轮浏览
+840,6,いくら,いくら,ikura,多少钱,how much,幾ら,20,11,940,1219980,机器释义，经首轮浏览
+841,6,技,わざ,waza,技巧,technique; art; skill,技,20,5,941,1225090,机器释义，经首轮浏览
+842,6,暮らし,くらし,kurashi,生活,(way of) life; lifestyle; living,暮らし,20,8,942,1514930,机器释义，经首轮浏览
+843,6,近年,きんねん,kinnen,近年,recent years,近年,20,13,944,1242510,机器释义，经首轮浏览
+844,6,生態系,せいたいけい,seitaikei,生态系统,ecosystem,生態系,20,4,946,1379300,机器释义，经首轮浏览
+845,6,講演会,こうえんかい,kouenkai,讲座,lecture (esp. special engagement by noted speaker); lecture meeting (event with one or more lectures),講演会,20,11,947,1282250,机器释义，经首轮浏览
+846,6,雨,あめ,ame,雨,rain,雨,20,12,948,1171900,机器释义，经首轮浏览
+847,6,登録,とうろく,touroku,注册,registration; accession; register,登録,20,4,951,1444810,机器释义，经首轮浏览
+848,6,食べ物,たべもの,tabemono,食物,food,食べ物,20,7,952,1358340,机器释义，经首轮浏览
+849,6,記者,きしゃ,kisha,记者,reporter; journalist,記者,20,7,953,1223250,机器释义，经首轮浏览
+850,6,決して,けっして,kesshite,绝不（通常与否定呼应）,(not) ever; (not) by any means; (not) in the least,決して,20,12,954,1254130,人工修订
+851,6,購入,こうにゅう,kounyuu,购买,purchase; buying,購入,20,12,956,1282440,机器释义，经首轮浏览
+852,6,壁,かべ,kabe,墙,wall; partition,壁,20,8,957,1509290,机器释义，经首轮浏览
+853,6,降る,ふる,furu,下（雨、雪等）,"to fall (of rain, snow, ash, etc.); to come down",降る,20,11,959,1282790,人工修订
+854,6,繰り返す,くりかえす,kurikaesu,重复,to repeat; to do over again,繰り返す,20,10,960,1247030,机器释义，经首轮浏览
+855,6,外来語,がいらいご,gairaigo,外来词,"loanword (in Japanese, esp. one of Western origin); word of foreign origin",外来語,20,2,961,1204260,机器释义，经首轮浏览
+856,6,差,さ,sa,差异,difference; variation,差,20,8,962,1291070,机器释义，经首轮浏览
+857,6,なし,なし,nashi,无,without,なし,20,12,963,1529560,机器释义，经首轮浏览
+858,6,正確,せいかく,seikaku,准确,accurate; correct; precise,正確,20,10,964,1376760,机器释义，经首轮浏览
+859,7,谷,たに,tani,山谷,valley; ravine; gorge,谷,20,1,965,1581590,机器释义，经首轮浏览
+860,7,先日,せんじつ,senjitsu,前几天,the other day; a few days ago,先日,19,14,966,1388300,机器释义，经首轮浏览
+861,7,加える,くわえる,kuwaeru,添加,to add; to add up; to sum up,加える,19,9,967,1189960,机器释义，经首轮浏览
+862,7,社内,しゃない,shanai,内部,within a company; in-house,社内,19,7,969,1322930,机器释义，经首轮浏览
+863,7,栄養,えいよう,eiyou,营养,nutrition; nourishment,栄養,19,11,970,1173990,机器释义，经首轮浏览
+864,7,夏,なつ,natsu,夏天,summer,夏,19,12,971,1191320,机器释义，经首轮浏览
+865,7,外,そと,soto,外面,outside; exterior,外,19,10,972,1203250,机器释义，经首轮浏览
+866,7,賞,しょう,shou,奖项,prize; award,賞,19,4,973,1351910,机器释义，经首轮浏览
+867,7,弟子,でし,deshi,弟子,pupil; disciple; adherent,弟子,19,4,974,1581960,机器释义，经首轮浏览
+868,7,日々,ひび,hibi,每天；日子,daily; everyday,日々,19,13,975,1602120,人工修订
+869,7,緊張,きんちょう,kinchou,紧张,tension; strain; nervousness,緊張,19,13,976,1241880,机器释义，经首轮浏览
+870,7,向かう,むかう,mukau,朝向；前往,to face,向かう,19,10,977,1604800,人工修订
+871,7,視点,してん,shiten,视角；观点,point of view; viewpoint; angle,視点,19,9,980,1312130,人工修订
+872,7,開く,ひらく,hiraku,打开,to open; to undo; to unseal,開く,19,12,981,1202440,机器释义，经首轮浏览
+873,7,元,もと,moto,元,origin; source; beginning,もと,19,10,982,1260670,机器释义，经首轮浏览
+874,7,負担,ふたん,futan,负担,burden; load; responsibility,負担,19,12,983,1498130,机器释义，经首轮浏览
+875,7,減らす,へらす,herasu,减少,to abate; to decrease; to diminish,減らす,19,12,984,1263110,机器释义，经首轮浏览
+876,7,踏まえる,ふまえる,fumaeru,立足于；根据；考虑到,to be based on; to take into account; to build upon,踏まえる,19,13,986,1450110,人工修订
+877,7,同,どう,dou,同样,the same; the said,同,19,8,987,1451730,机器释义，经首轮浏览
+878,7,越す,こす,kosu,通过,to cross over (e.g. mountain); to go across,越す,19,12,988,1175300,机器释义，经首轮浏览
+879,7,過ごす,すごす,sugosu,花时间,to spend (time); to pass; to lead (a life),過ごす,19,11,989,1196000,机器释义，经首轮浏览
+880,7,普段,ふだん,fudan,通常,usual; normal; everyday,普段,19,13,990,1497180,机器释义，经首轮浏览
+881,7,読者,どくしゃ,dokusha,读者,reader,読者,19,6,991,1456400,机器释义，经首轮浏览
+882,7,はっきり,はっきり,hakkiri,清楚地；明确地,clearly; plainly; distinctly,はっきり,19,11,992,1010150,人工修订
+883,7,記入,きにゅう,kinyuu,填写,"entry (in a form, register, diary, etc.); filling in; filling out",記入,19,11,993,1223330,机器释义，经首轮浏览
+884,7,関連,かんれん,kanren,相关,relation; connection; relevance,関連,19,7,994,1216060,机器释义，经首轮浏览
+885,7,交流,こうりゅう,kouryuu,交流,exchange (e.g. cultural); interchange; interaction,交流,19,9,995,1272580,机器释义，经首轮浏览
+886,7,成果,せいか,seika,结果,(good) result; outcome; fruits (of one's labors),成果,19,7,996,1375650,机器释义，经首轮浏览
+887,7,様子,ようす,yousu,样子；情况,state (of affairs); situation; circumstances,様子,19,12,997,1545820,人工修订
+888,7,発行,はっこう,hakkou,出版,"publication (of a newspaper, magazine, book, etc.); issue",発行,19,4,998,1477390,机器释义，经首轮浏览
+889,7,無料,むりょう,muryou,免费,free (of charge); gratuitous,無料,19,8,999,1531040,机器释义，经首轮浏览
+890,7,業者,ぎょうしゃ,gyousha,供应商,trader; dealer; businessperson,業者,19,5,1000,1239440,机器释义，经首轮浏览
+891,7,光,ひかり,hikari,光,light,光,19,6,1001,1272780,机器释义，经首轮浏览
+892,7,貢献,こうけん,kouken,贡献,contribution (furthering a goal or cause); services (to a cause),貢献,19,10,1002,1282410,机器释义，经首轮浏览
+893,7,資源,しげん,shigen,资源,resources,資源,19,8,1003,1312720,机器释义，经首轮浏览
+894,7,介入,かいにゅう,kainyuu,干预,intervention,介入,19,4,1004,1198110,机器释义，经首轮浏览
+895,7,孤独,こどく,kodoku,孤独,solitude; loneliness; isolation,孤独,19,2,1005,1266850,机器释义，经首轮浏览
+896,7,品物,しなもの,shinamono,货物,article; item; thing,品物,19,4,1006,1490670,机器释义，经首轮浏览
+897,7,講義,こうぎ,kougi,讲座,lecture,講義,18,6,1007,1282260,机器释义，经首轮浏览
+898,7,指導,しどう,shidou,指导,guidance; leadership; instruction,指導,18,7,1008,1309950,机器释义，经首轮浏览
+899,7,直接,ちょくせつ,chokusetsu,直接,direct; immediate; personal,直接,18,12,1009,1431110,机器释义，经首轮浏览
+900,7,どちら,どちら,dochira,哪个,which way; which direction; where,どちら,18,9,1010,1189360,机器释义，经首轮浏览
+901,7,気分,きぶん,kibun,心情,feeling; mood,気分,18,12,1012,1222590,机器释义，经首轮浏览
+902,7,同様,どうよう,douyou,类似,same; similar; (just) like,同様,18,11,1013,1453550,机器释义，经首轮浏览
+903,7,自体,じたい,jitai,本身,itself,自体,18,13,1014,1318250,机器释义，经首轮浏览
+904,7,新商品,しんしょうひん,shinshouhin,新产品,new product,新商品,18,10,1016,2840724,机器释义，经首轮浏览
+905,7,監督,かんとく,kantoku,监督,supervision; control; superintendence,監督,18,9,1017,1213720,机器释义，经首轮浏览
+906,7,勝つ,かつ,katsu,胜利,to win; to gain victory,勝つ,18,10,1019,1346150,机器释义，经首轮浏览
+907,7,表情,ひょうじょう,hyoujou,面部表情,facial expression; countenance,表情,18,9,1020,1489700,机器释义，经首轮浏览
+908,7,楽,らく,raku,简单,comfort; ease; relief,楽,18,13,1021,1207230,机器释义，经首轮浏览
+909,7,物語,ものがたり,monogatari,故事,story; tale; narrative,物語,18,8,1022,1502480,机器释义，经首轮浏览
+910,7,服,ふく,fuku,衣服,clothes (esp. Western clothes); clothing; dress,服,18,8,1023,1500940,机器释义，经首轮浏览
+911,7,受講,じゅこう,jukou,听课；参加课程,taking a lecture; attending a class; taking a course,受講,18,5,1024,1329760,人工修订
+912,7,支払う,しはらう,shiharau,支付,to pay,支払う,18,9,1025,1310300,机器释义，经首轮浏览
+913,7,欲望,よくぼう,yokubou,欲望,desire; appetite; lust,欲望,18,2,1027,1547410,机器释义，经首轮浏览
+914,7,発想,はっそう,hassou,想法,idea; conception,発想,18,12,1028,1477660,机器释义，经首轮浏览
+915,7,広がる,ひろがる,hirogaru,扩展；传播开,to spread (out); to extend; to stretch,広がる,18,11,1029,1602360,人工修订
+916,7,作り出す,つくりだす,tsukuridasu,创造,to manufacture; to produce; to raise (crops),作り出す,18,12,1030,1297300,机器释义，经首轮浏览
+917,7,提示,ていじ,teiji,出示；提示,"presentation (of a passport, ID, etc.); showing; production (e.g. of documents)",提示,18,5,1031,1436400,人工修订
+918,7,目指す,めざす,mezasu,目标,"to aim at (for, to do, to become); to try for; to have an eye on",目指す,18,11,1032,1535440,机器释义，经首轮浏览
+919,7,無駄,むだ,muda,徒劳；浪费,futility; waste; uselessness,無駄,18,9,1033,1530510,人工修订
+920,7,一般,いっぱん,ippan,一般；普遍,general; universal,一般,18,10,1034,1165790,人工修订
+921,7,土,つち,tsuchi,土壤,earth; soil; dirt,土,18,11,1037,1445270,机器释义，经首轮浏览
+922,7,面接,めんせつ,mensetsu,面试,interview (e.g. for a job),面接,18,5,1038,1533510,机器释义，经首轮浏览
+923,7,志望,しぼう,shibou,愿望,wish; desire; ambition,志望,18,5,1039,1309140,机器释义，经首轮浏览
+924,7,返事,へんじ,henji,回复,reply; answer; response,返事,18,11,1040,1512220,机器释义，经首轮浏览
+925,7,報告,ほうこく,houkoku,报告,report; information,報告,18,11,1041,1515670,机器释义，经首轮浏览
+926,7,落ちる,おちる,ochiru,掉落；下降；落选,to fall; to drop; to come down,落ちる,18,9,1043,1548550,人工修订
+927,7,道,みち,michi,道路,road; path; street,道,18,10,1044,1454080,机器释义，经首轮浏览
+928,7,患者,かんじゃ,kanja,病人,patient,患者,18,8,1045,1212210,机器释义，经首轮浏览
+929,7,責任,せきにん,sekinin,责任,duty; responsibility (incl. supervision of staff),責任,18,11,1046,1383180,机器释义，经首轮浏览
+930,7,離れる,はなれる,hanareru,离开,to be separated; to be apart; to be distant,離れる,18,10,1047,1550840,机器释义，经首轮浏览
+931,7,海,うみ,umi,海,sea; ocean; waters,海,18,10,1048,1201190,机器释义，经首轮浏览
+932,7,個性,こせい,kosei,个性,individuality; personality; quirk,個性,18,7,1050,1264960,机器释义，经首轮浏览
+933,7,我々,われわれ,wareware,我们,we,我々,18,9,1051,1607050,机器释义，经首轮浏览
+934,7,記号,きごう,kigou,符号,sign; symbol; mark,記号,18,7,1052,1223210,机器释义，经首轮浏览
+935,7,緑,みどり,midori,绿色,green,緑,18,8,1053,1555300,机器释义，经首轮浏览
+936,7,短い,みじかい,mijikai,短,short,短い,18,10,1054,1418620,机器释义，经首轮浏览
+937,7,挑戦,ちょうせん,chousen,挑战,challenge; defiance; dare,挑戦,18,9,1056,1428240,机器释义，经首轮浏览
+938,7,ごみ,ごみ,gomi,垃圾,rubbish; trash; garbage,ごみ,18,6,1057,1369900,机器释义，经首轮浏览
+939,7,予算,よさん,yosan,预算,estimate (of costs); budget,予算,18,8,1058,1543000,机器释义，经首轮浏览
+940,7,漁業,ぎょぎょう,gyogyou,渔业,fishing industry; fishery,漁業,18,2,1059,1232990,机器释义，经首轮浏览
+941,7,幸せ,しあわせ,shiawase,幸福,happiness; good fortune; luck,幸せ,18,3,1062,1594060,机器释义，经首轮浏览
+942,7,貨幣,かへい,kahei,金钱,money; currency; coin,貨幣,18,1,1063,1195930,机器释义，经首轮浏览
+943,7,活字,かつじ,katsuji,打印,(piece of) type; movable type; moveable type,活字,18,2,1065,1208300,机器释义，经首轮浏览
+944,7,携帯電話,けいたいでんわ,keitaidenwa,手机,mobile phone; cell phone,携帯電話,17,8,1067,1250690,机器释义，经首轮浏览
+945,7,主人公,しゅじんこう,shujinkou,主角,protagonist; main character; hero,主人公,17,10,1068,1325680,机器释义，经首轮浏览
+946,7,触れる,ふれる,fureru,触摸,to touch; to feel,触れる,17,13,1069,1357990,机器释义，经首轮浏览
+947,7,運ぶ,はこぶ,hakobu,携带,to carry; to transport; to move,運ぶ,17,11,1071,1172660,机器释义，经首轮浏览
+948,7,就職,しゅうしょく,shuushoku,就业,finding employment; getting a job,就職,17,10,1072,1331670,机器释义，经首轮浏览
+949,7,いらっしゃる,いらっしゃる,irassharu,来、去、在（尊敬语）,to come; to go; to be (somewhere),いらっしゃる,17,10,1073,1000940,人工修订
+950,7,人数,にんずう,ninzuu,人数,the number of people,人数,17,9,1074,1580700,机器释义，经首轮浏览
+951,7,方針,ほうしん,houshin,政策,policy; course; plan (of action),方針,17,6,1075,1517040,机器释义，经首轮浏览
+952,7,設ける,もうける,moukeru,建立,to prepare; to provide,設ける,17,9,1076,1386000,机器释义，经首轮浏览
+953,7,選択,せんたく,sentaku,选择,choice; selection; option,選択,17,8,1078,1392290,机器释义，经首轮浏览
+954,7,生,なま,nama,生的,raw; uncooked; fresh,生,17,12,1079,1378450,机器释义，经首轮浏览
+955,7,至る,いたる,itaru,到达,to arrive at (e.g. a decision); to reach (a stage); to attain,至る,17,9,1080,1311870,机器释义，经首轮浏览
+956,7,文法,ぶんぽう,bunpou,语法,grammar,文法,17,16,1081,1505600,机器释义，经首轮浏览
+957,7,反論,はんろん,hanron,反驳,objection; refutation; rebuttal,反論,17,5,1082,1481130,机器释义，经首轮浏览
+958,7,朝,あさ,asa,早上,morning,朝,17,12,1084,1428280,机器释义，经首轮浏览
+959,7,高まる,たかまる,takamaru,增加,to rise; to swell; to intensify,高まる,17,12,1085,1283220,机器释义，经首轮浏览
+960,7,綺麗,きれい,kirei,美丽,pretty; lovely; beautiful,奇麗,17,8,1086,1591900,机器释义，经首轮浏览
+961,7,政策,せいさく,seisaku,政策,political measures; policy,政策,17,8,1087,1375950,机器释义，经首轮浏览
+962,7,大丈夫,だいじょうぶ,daijoubu,没关系；没问题；不要紧,safe; secure; sound,大丈夫,17,11,1088,1414150,人工修订
+963,7,現場,げんば,genba,现场,"actual spot; scene (of a crime, accident, etc.)",現場,17,7,1089,1263760,机器释义，经首轮浏览
+964,7,以降,いこう,ikou,从那时起,on and after; from ... onward; since,以降,17,10,1090,1155110,机器释义，经首轮浏览
+965,7,楽しみ,たのしみ,tanoshimi,有趣,enjoyment; pleasure; amusement,楽しみ,17,10,1091,1207250,机器释义，经首轮浏览
+966,7,単純,たんじゅん,tanjun,简单,simple; plain; uncomplicated,単純,17,9,1092,1417550,机器释义，经首轮浏览
+967,7,向上,こうじょう,koujou,改进,elevation; rise; improvement,向上,17,10,1093,1277250,机器释义，经首轮浏览
+968,7,人物,じんぶつ,jinbutsu,人物,person; character; figure,人物,17,8,1094,1369070,人工修订
+969,7,本人,ほんにん,honnin,本人,the person in question; the person themselves; said person,本人,17,9,1095,1522750,人工修订
+970,7,感,かん,kan,感觉,feeling; sensation; emotion,感,17,12,1097,1955970,机器释义，经首轮浏览
+971,7,いずれ,いずれ,izure,迟早；哪一个；无论哪个（依语境）,which; where; who,いずれ,17,8,1098,1566210,人工修订
+972,7,工夫,くふう,kufuu,动脑筋；设法；巧妙安排,devising (a way); contriving; inventing,工夫,17,10,1099,1278220,人工修订
+973,7,引く,ひく,hiku,拉,to pull; to tug; to lead (e.g. a horse),引く,17,9,1100,1169250,机器释义，经首轮浏览
+974,7,当然,とうぜん,touzen,当然,natural; right; proper,当然,17,9,1101,1449190,机器释义，经首轮浏览
+975,7,取り入れる,とりいれる,toriireru,引入；采纳,to take in; to gather in,取り入れる,17,12,1102,1326880,人工修订
+976,7,通う,かよう,kayou,通勤,"to go to and from (a place); to go back and forth between; to run between (e.g. bus, train, etc.)",通う,17,7,1103,1432850,机器释义，经首轮浏览
+977,7,不足,ふそく,fusoku,短缺,insufficiency; deficiency; shortage,不足,17,9,1104,1493700,机器释义，经首轮浏览
+978,7,取れる,とれる,toreru,脱落；取得；消除（依语境）,"to come off (of a button, handle, lid, etc.)",取れる,17,12,1105,1326990,人工修订
+979,7,反対,はんたい,hantai,反对,opposition; resistance; antagonism,反対,17,8,1106,1480670,机器释义，经首轮浏览
+980,7,生き物,いきもの,ikimono,生物,living thing; living creature; animal,生き物,17,7,1107,1378590,机器释义，经首轮浏览
+981,7,症状,しょうじょう,shoujou,症状,symptoms; condition (of a patient),症状,17,4,1108,1351030,机器释义，经首轮浏览
+982,7,優先,ゆうせん,yuusen,优先权,preference; priority; precedence,優先,17,9,1110,1539390,机器释义，经首轮浏览
+983,7,父,ちち,chichi,父亲,father,父,17,9,1111,1497610,机器释义，经首轮浏览
+984,7,成分,せいぶん,seibun,配料,ingredient; component; composition,成分,17,9,1112,1375860,机器释义，经首轮浏览
+985,7,観察,かんさつ,kansatsu,观察,observation; survey; watching,観察,17,10,1113,1214900,机器释义，经首轮浏览
+986,7,自覚,じかく,jikaku,意识,"self-awareness; awareness (of one's position, abilities, duty, etc.); consciousness",自覚,17,9,1114,1317490,机器释义，经首轮浏览
+987,7,可,か,ka,可以；合格,acceptable; satisfactory; allowed,可,17,8,1117,1190710,人工修订
+988,7,主張,しゅちょう,shuchou,主张,claim; insistence; assertion,主張,17,9,1118,1325910,人工修订
+989,7,隣,となり,tonari,隔壁,next (to); adjoining; adjacent,隣,17,9,1119,1555830,机器释义，经首轮浏览
+990,7,寝る,ねる,neru,睡眠,to sleep (lying down),寝る,17,8,1121,1360010,机器释义，经首轮浏览
+991,7,戻す,もどす,modosu,返回,to put back; to return; to give back,戻す,17,6,1122,1535850,机器释义，经首轮浏览
+992,7,入会,にゅうかい,nyuukai,加入,"admission (to a society, club, etc.); joining; entrance",入会,17,2,1123,1465790,机器释义，经首轮浏览
+993,7,実施,じっし,jisshi,实施,enforcement; implementation; putting into practice,実施,17,9,1125,1321140,机器释义，经首轮浏览
+994,7,越える,こえる,koeru,克服,to cross over; to cross; to pass through,越える,17,10,1127,1593070,机器释义，经首轮浏览
+995,7,区民,くみん,kumin,居民,ward residents,区民,17,1,1128,1244260,机器释义，经首轮浏览
+996,7,助成,じょせい,josei,补贴,assisting; assistance; fostering,助成,17,3,1129,1344700,机器释义，经首轮浏览
+997,7,急,きゅう,kyuu,突然,sudden; abrupt; unexpected,急,16,10,1131,1228560,机器释义，经首轮浏览
+998,7,前回,ぜんかい,zenkai,上次,previous time; last time; previous installment,前回,16,7,1132,1392680,人工修订
+999,7,運営,うんえい,un'ei,管理,management; administration; operation,運営,16,7,1133,1172690,机器释义，经首轮浏览
+1000,7,製造,せいぞう,seizou,制造,manufacture; production,製造,16,7,1134,1380690,机器释义，经首轮浏览
+1001,7,安全,あんぜん,anzen,安全,safety; security,安全,16,11,1135,1153930,机器释义，经首轮浏览
+1002,8,観光,かんこう,kankou,旅游,sightseeing; tourism,観光,16,8,1136,1214840,机器释义，经首轮浏览
+1003,8,雰囲気,ふんいき,fun'iki,气氛,atmosphere; mood; ambience,雰囲気,16,9,1138,1505070,机器释义，经首轮浏览
+1004,8,集中,しゅうちゅう,shuuchuu,专注,concentration (on a task); focusing one's attention,集中,16,9,1139,1333750,机器释义，经首轮浏览
+1005,8,参考,さんこう,sankou,参考资料,reference; consultation,参考,16,8,1140,1302280,机器释义，经首轮浏览
+1006,8,足,あし,ashi,脚；腿,"foot; paw; arm (of an octopus, squid, etc.)",足,16,10,1141,1404630,人工修订
+1007,8,つかむ,つかむ,tsukamu,抓住,to seize; to catch; to grasp,掴む,16,9,1142,1433650,机器释义，经首轮浏览
+1008,8,匂い,におい,nioi,气味,smell; scent; odour,匂い,16,7,1143,1599760,人工修订
+1009,8,互い,たがい,tagai,彼此,each other; one another,互い,16,13,1144,1268770,机器释义，经首轮浏览
+1010,8,強さ,つよさ,tsuyosa,力量,strength; power,強さ,16,6,1145,1236120,机器释义，经首轮浏览
+1011,8,発揮,はっき,hakki,发挥,"show (of power, ability, etc.); exhibition; demonstration",発揮,16,8,1146,1477250,人工修订
+1012,8,建設,けんせつ,kensetsu,建筑,construction; establishment,建設,16,10,1147,1257420,机器释义，经首轮浏览
+1013,8,訪れる,おとずれる,otozureru,参观,to visit; to call on,訪れる,16,10,1148,1518080,机器释义，经首轮浏览
+1014,8,辺り,あたり,atari,周围,(in the) neighbourhood; neighborhood; vicinity,辺り,16,9,1149,1512080,机器释义，经首轮浏览
+1015,8,あれ,あれ,are,那,that; that thing,彼れ,16,10,1150,1000580,机器释义，经首轮浏览
+1016,8,週末,しゅうまつ,shuumatsu,周末,weekend,週末,16,9,1151,1333520,机器释义，经首轮浏览
+1017,8,怖い,こわい,kowai,可怕,scary; frightening; eerie,怖い,16,8,1154,1593480,机器释义，经首轮浏览
+1018,8,起こす,おこす,okosu,唤醒；引起；使立起,to raise; to raise up; to set up,起こす,16,9,1156,1223660,人工修订
+1019,8,火,ひ,hi,火,fire; flame; blaze,火,16,8,1157,1193610,机器释义，经首轮浏览
+1020,8,事態,じたい,jitai,情况,situation; (present) state of affairs; circumstances,事態,16,8,1159,1595240,机器释义，经首轮浏览
+1021,8,結論,けつろん,ketsuron,结论,"conclusion (of an argument, discussion, study, etc.)",結論,16,8,1160,1255020,机器释义，经首轮浏览
+1022,8,指摘,してき,shiteki,指出,pointing out; identification,指摘,16,9,1161,1309940,机器释义，经首轮浏览
+1023,8,姿勢,しせい,shisei,姿势,posture; pose; position,姿勢,16,10,1162,1307740,机器释义，经首轮浏览
+1024,8,科学技術,かがくぎじゅつ,kagakugijutsu,科学技术,science and technology; technology; scientific techniques,科学技術,16,3,1163,1192720,机器释义，经首轮浏览
+1025,8,及び,および,oyobi,和,and; as well as,及び,16,4,1165,1228140,机器释义，经首轮浏览
+1026,8,打ち合わせ,うちあわせ,uchiawase,会议,(preparatory) meeting; briefing session; (making) advance arrangements,打ち合わせ,16,7,1167,1588140,机器释义，经首轮浏览
+1027,8,申し訳,もうしわけ,moushiwake,对不起,apology; excuse,申し訳,16,10,1169,1363050,机器释义，经首轮浏览
+1028,8,調理,ちょうり,chouri,烹饪,cooking; food preparation,調理,16,6,1170,1429310,机器释义，经首轮浏览
+1029,8,流れ,ながれ,nagare,流动,flow (of a fluid or gas); stream; current,流れ,16,11,1171,1552130,机器释义，经首轮浏览
+1030,8,新製品,しんせいひん,shinseihin,新产品,new product,新製品,16,5,1172,1362030,机器释义，经首轮浏览
+1031,8,変,へん,hen,奇怪,strange; odd; peculiar,変,16,8,1173,1510640,机器释义，经首轮浏览
+1032,8,市長,しちょう,shichou,市长,mayor,市長,16,8,1174,1308610,机器释义，经首轮浏览
+1033,8,悩む,なやむ,nayamu,担心,to be worried; to be troubled,悩む,16,10,1175,1469870,机器释义，经首轮浏览
+1034,8,遅れる,おくれる,okureru,迟到,to be late; to be delayed; to fall behind schedule,遅れる,16,9,1177,1589040,机器释义，经首轮浏览
+1035,8,詳細,しょうさい,shousai,细节,details; particulars; specifics,詳細,16,11,1178,1351760,机器释义，经首轮浏览
+1036,8,納得,なっとく,nattoku,理解并接受；信服,consent; agreement; acceptance,納得,16,9,1179,1470080,人工修订
+1037,8,一体,いったい,ittai,到底；一体,(what) the heck; (why) in the world; (who) on earth,一体,16,10,1180,1164510,人工修订
+1038,8,意義,いぎ,igi,意义,meaning; significance,意義,16,8,1181,1156520,人工修订
+1039,8,意図,いと,ito,意图,intention; aim; design,意図,16,4,1183,1156690,人工修订
+1040,8,接する,せっする,sessuru,触摸,to touch; to come in contact with; to border on,接する,16,8,1184,1385350,机器释义，经首轮浏览
+1041,8,原稿,げんこう,genkou,手稿,manuscript; copy; draft,原稿,16,7,1186,1261340,机器释义，经首轮浏览
+1042,8,午後,ごご,gogo,下午,afternoon; p.m.,午後,16,10,1187,1268990,人工修订
+1043,8,否定,ひてい,hitei,否定,denial; negation; repudiation,否定,16,7,1188,1482990,人工修订
+1044,8,進化,しんか,shinka,进化,evolution,進化,16,6,1189,1366000,人工修订
+1045,8,荷物,にもつ,nimotsu,行李,luggage; baggage; package,荷物,16,8,1190,1195430,机器释义，经首轮浏览
+1046,8,改良,かいりょう,kairyou,改进,improvement; reform,改良,16,9,1191,1201140,机器释义，经首轮浏览
+1047,8,周囲,しゅうい,shuui,周围,surroundings; environs,周囲,16,9,1192,1331030,人工修订
+1048,8,物事,ものごと,monogoto,事物,things; everything,物事,16,8,1193,1502550,机器释义，经首轮浏览
+1049,8,会話,かいわ,kaiwa,对话,conversation; talk; chat,会話,16,7,1194,1198880,机器释义，经首轮浏览
+1050,8,克服,こくふく,kokufuku,克服,"conquest (of a difficulty, illness, crisis, etc.); overcoming; surmounting",克服,16,7,1195,1285790,机器释义，经首轮浏览
+1051,8,島,しま,shima,岛,island,島,16,3,1197,1446760,人工修订
+1052,8,一人一人,ひとりひとり,hitorihitori,单独,each (person); individually; one by one,一人一人,16,9,1199,1612530,机器释义，经首轮浏览
+1053,8,りんご,りんご,ringo,苹果,apple (fruit),林檎,16,4,1200,1555480,机器释义，经首轮浏览
+1054,8,分ける,わける,wakeru,划分,to divide (into); to split (into); to part,分ける,16,7,1201,1503000,机器释义，经首轮浏览
+1055,8,かえる,かえる,kaeru,青蛙,frog,蛙,16,2,1203,1577460,人工修订
+1056,8,将棋,しょうぎ,shougi,将棋,shogi; Japanese chess,将棋,16,1,1204,1347640,机器释义，经首轮浏览
+1057,8,広げる,ひろげる,hirogeru,展开；扩大,to spread; to extend; to expand,広げる,15,10,1207,1602370,人工修订
+1058,8,展開,てんかい,tenkai,展开；发展,development; evolution; progression,展開,15,8,1211,1440600,人工修订
+1059,8,断る,ことわる,kotowaru,拒绝,to refuse; to reject; to dismiss,断る,15,10,1213,1419570,机器释义，经首轮浏览
+1060,8,着る,きる,kiru,穿（上身衣物）,to wear (from the shoulders down); to put on,着る,15,7,1214,1423000,人工修订
+1061,8,開ける,あける,akeru,打开,"to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",開ける,15,11,1215,1202450,机器释义，经首轮浏览
+1062,8,図る,はかる,hakaru,计划,to plan; to attempt; to devise,図る,15,11,1216,1600660,机器释义，经首轮浏览
+1063,8,不可,ふか,fuka,不可能,wrong; bad; improper,不可,15,11,1218,1491370,机器释义，经首轮浏览
+1064,8,見込み,みこみ,mikomi,前景,hope; promise; possibility,見込み,15,11,1219,1604480,机器释义，经首轮浏览
+1065,8,政府,せいふ,seifu,政府,government; administration; ministry,政府,15,6,1220,1376070,机器释义，经首轮浏览
+1066,8,評判,ひょうばん,hyouban,声誉,reputation; (public) estimation; popularity,評判,15,10,1221,1490070,机器释义，经首轮浏览
+1067,8,早速,さっそく,sassoku,立即,at once; immediately; without delay,早速,15,11,1222,1400300,机器释义，经首轮浏览
+1068,8,科目,かもく,kamoku,科目,(school) subject; curriculum; course,科目,15,5,1223,1590600,机器释义，经首轮浏览
+1069,8,果たす,はたす,hatasu,履行,to accomplish; to achieve; to carry out,果たす,15,10,1224,1192850,机器释义，经首轮浏览
+1070,8,批判,ひはん,hihan,批评,criticism; judgement; judgment,批判,15,8,1225,1483420,机器释义，经首轮浏览
+1071,8,調整,ちょうせい,chousei,调整,adjustment; regulation; coordination,調整,15,8,1226,1429200,机器释义，经首轮浏览
+1072,8,望む,のぞむ,nozomu,愿望,to desire; to want; to wish for,望む,15,11,1227,1519630,机器释义，经首轮浏览
+1073,8,範囲,はんい,han'i,范围,extent; scope; sphere,範囲,15,8,1228,1481890,机器释义，经首轮浏览
+1074,8,言,げん,gen,言语,word; remark; statement,言,15,11,1229,1956230,机器释义，经首轮浏览
+1075,8,助ける,たすける,tasukeru,帮助,to save; to rescue; to spare,助ける,15,9,1230,1344410,机器释义，经首轮浏览
+1076,8,工程,こうてい,koutei,流程,process; operation; stage of a process,工程,15,4,1231,1278200,机器释义，经首轮浏览
+1077,8,個々,ここ,koko,各个,individual; one by one; separate,個々,15,8,1232,1593190,人工修订
+1078,8,電車,でんしゃ,densha,火车,train; electric train,電車,15,10,1234,1443530,机器释义，经首轮浏览
+1079,8,発展,はってん,hatten,发展,development; growth; expansion,発展,15,9,1235,1477720,机器释义，经首轮浏览
+1080,8,並べる,ならべる,naraberu,安排,to line up; to set up; to arrange in a line,並べる,15,10,1236,1508390,机器释义，经首轮浏览
+1081,8,職場,しょくば,shokuba,工作场所,one's post; place of work; workplace,職場,15,9,1237,1357540,机器释义，经首轮浏览
+1082,8,要望,ようぼう,youbou,请求,demand for; request,要望,15,8,1238,1546830,机器释义，经首轮浏览
+1083,8,もともと,もともと,motomoto,本来,originally; from the start; from the beginning,元々,15,8,1239,1605280,机器释义，经首轮浏览
+1084,8,規模,きぼ,kibo,规模,scale; scope; plan,規模,15,7,1241,1223090,机器释义，经首轮浏览
+1085,8,配る,くばる,kubaru,分发,to distribute; to hand out; to deliver,配る,15,10,1242,1472990,机器释义，经首轮浏览
+1086,8,怪我,けが,kega,受伤,injury; wound,怪我,15,11,1243,1200220,机器释义，经首轮浏览
+1087,8,注目,ちゅうもく,chuumoku,注意,notice; attention; observation,注目,15,6,1244,1426670,机器释义，经首轮浏览
+1088,8,高さ,たかさ,takasa,身高,height; altitude; elevation,高さ,15,11,1245,1283200,机器释义，经首轮浏览
+1089,8,対処,たいしょ,taisho,应对,dealing with; coping with,対処,15,6,1246,1410070,机器释义，经首轮浏览
+1090,8,工事,こうじ,kouji,建筑,construction work,工事,15,9,1247,1278130,机器释义，经首轮浏览
+1091,8,値段,ねだん,nedan,价格,price; cost,値段,15,7,1249,1600160,机器释义，经首轮浏览
+1092,8,妹,いもうと,imouto,妹妹,younger sister,妹,15,8,1250,1524590,人工修订
+1093,8,村,むら,mura,村庄,village,村,15,8,1251,1406820,机器释义，经首轮浏览
+1094,8,近づく,ちかづく,chikazuku,靠近一点,to approach; to draw near; to get close,近付く,15,9,1252,1242170,机器释义，经首轮浏览
+1095,8,しかも,しかも,shikamo,并且,moreover; furthermore,然も,15,11,1253,1506050,机器释义，经首轮浏览
+1096,8,狩り,かり,kari,狩猎,hunting; hunt; shooting,狩り,15,2,1254,1328710,机器释义，经首轮浏览
+1097,8,積む,つむ,tsumu,堆积；积累；装载,to pile up; to stack,積む,15,9,1255,1382970,人工修订
+1098,8,残念,ざんねん,zannen,太糟糕了,regrettable; unfortunate; disappointing,残念,15,9,1256,1304680,机器释义，经首轮浏览
+1099,8,資金,しきん,shikin,资金,funds; capital,資金,15,9,1257,1312700,机器释义，经首轮浏览
+1100,8,世界観,せかいかん,sekaikan,世界观,worldview; outlook on the world; Weltanschauung,世界観,15,5,1258,1645810,机器释义，经首轮浏览
+1101,8,母,はは,haha,母亲,mother,母,15,8,1259,1514990,机器释义，经首轮浏览
+1102,8,落とす,おとす,otosu,掉落,to drop; to lose; to let fall,落とす,15,6,1260,1589260,机器释义，经首轮浏览
+1103,8,単語,たんご,tango,词汇,word; vocabulary,単語,15,4,1261,1417330,机器释义，经首轮浏览
+1104,8,夢,ゆめ,yume,梦想,dream,夢,15,8,1262,1529410,机器释义，经首轮浏览
+1105,8,同時,どうじ,douji,同时,same time,同時,15,9,1263,1452500,机器释义，经首轮浏览
+1106,8,選考,せんこう,senkou,选择,selection; choice; screening,選考,15,4,1264,1392240,机器释义，经首轮浏览
+1107,8,農業,のうぎょう,nougyou,农业,agriculture; farming,農業,15,7,1265,1470660,机器释义，经首轮浏览
+1108,8,模倣,もほう,mohou,模仿,imitation; copying,模倣,15,3,1266,1533700,机器释义，经首轮浏览
+1109,8,寄生虫,きせいちゅう,kiseichuu,寄生虫,parasite,寄生虫,15,1,1267,1219770,机器释义，经首轮浏览
+1110,8,温度,おんど,ondo,温度,temperature,温度,15,4,1269,1183510,机器释义，经首轮浏览
+1111,8,代わり,かわり,kawari,替补,substitute; replacement; substituting,代わり,14,9,1271,1590770,机器释义，经首轮浏览
+1112,8,出かける,でかける,dekakeru,出去,to go out (e.g. on an excursion or outing); to leave; to depart,出掛ける,14,8,1272,1598550,机器释义，经首轮浏览
+1113,8,全部,ぜんぶ,zenbu,一切,all; entire; whole,全部,14,9,1273,1396130,机器释义，经首轮浏览
+1114,8,先月,せんげつ,sengetsu,上个月,last month,先月,14,8,1274,1387500,机器释义，经首轮浏览
+1115,8,担当者,たんとうしゃ,tantousha,负责人,"person in charge (of an area of work, etc.); person responsible; contact (person)",担当者,14,6,1275,1418180,机器释义，经首轮浏览
+1116,8,地方,ちほう,chihou,地区,district; region; area,地方,14,6,1276,1421450,机器释义，经首轮浏览
+1117,8,誘う,さそう,sasou,邀请,to invite; to ask (someone to do); to call (for),誘う,14,9,1277,1541900,机器释义，经首轮浏览
+1118,8,素早い,すばやい,subayai,快,quick; swift; nimble,素早い,14,4,1278,1397310,机器释义，经首轮浏览
+1119,8,世代,せだい,sedai,一代,generation,世代,14,5,1279,1374190,机器释义，经首轮浏览
+1120,8,年寄り,としより,toshiyori,老人,old person; elderly person; senior citizen,年寄り,14,6,1280,1598750,机器释义，经首轮浏览
+1121,8,消す,けす,kesu,擦除,to erase; to rub out; to rub off,消す,14,6,1281,1350110,机器释义，经首轮浏览
+1122,8,男性,だんせい,dansei,男,man; male,男性,14,4,1282,1420160,机器释义，经首轮浏览
+1123,8,観客,かんきゃく,kankyaku,观众,spectator; audience,観客,14,6,1283,1214810,机器释义，经首轮浏览
+1124,8,毎年,まいとし,maitoshi,每年,every year; yearly; annually,毎年,14,7,1284,1584360,机器释义，经首轮浏览
+1125,8,充実,じゅうじつ,juujitsu,充实,fullness; completeness; perfection,充実,14,9,1285,1334340,人工修订
+1126,8,苦手,にがて,nigate,不擅长,poor (at); weak (in); not very good (at),苦手,14,6,1287,1244470,机器释义，经首轮浏览
+1127,8,記録,きろく,kiroku,记录,record; document; minutes,記録,14,10,1288,1223440,机器释义，经首轮浏览
+1128,8,契約,けいやく,keiyaku,合同,contract; compact; agreement,契約,14,10,1289,1250190,机器释义，经首轮浏览
+1129,8,やる気,やるき,yaruki,动机,will (to do something); drive; motivation,遣る気,14,8,1290,2005890,机器释义，经首轮浏览
+1130,8,あそこ,あそこ,asoko,那边,there; over there; that place,彼処,14,8,1291,1000320,机器释义，经首轮浏览
+1131,8,間違う,まちがう,machigau,弄错；出错,to be mistaken; to be incorrect; to be wrong,間違う,14,7,1292,1611610,人工修订
+1132,8,満たす,みたす,mitasu,满足,"to satisfy (conditions, one's appetite, etc.); to meet (e.g. demands); to fulfill",満たす,14,8,1293,1526670,机器释义，经首轮浏览
+1133,8,高校,こうこう,koukou,高中,senior high school; high school,高校,14,9,1294,1283500,机器释义，经首轮浏览
+1134,8,娘,むすめ,musume,女儿,daughter,娘,14,8,1295,1531190,机器释义，经首轮浏览
+1135,8,お金,おかね,okane,金钱,money,お金,14,10,1297,1001820,机器释义，经首轮浏览
+1136,8,映像,えいぞう,eizou,视频,image (on a screen); picture (e.g. on a TV),映像,14,8,1298,1173800,机器释义，经首轮浏览
+1137,8,話題,わだい,wadai,主题,topic; subject,話題,14,11,1299,1562400,机器释义，经首轮浏览
+1138,8,嫌い,きらい,kirai,不喜欢,disliking; hating; detesting,嫌い,14,6,1300,1257240,机器释义，经首轮浏览
+1139,8,そもそも,そもそも,somosomo,そもそも：本来；首先,in the first place; to begin with; from the start,抑,14,10,1301,1006950,人工修订
+1140,8,柔軟,じゅうなん,juunan,灵活,flexible; lithe; soft,柔軟,14,6,1302,1335480,机器释义，经首轮浏览
+1141,8,発達,はったつ,hattatsu,发展,development; growth,発達,14,5,1303,1477680,机器释义，经首轮浏览
+1142,8,適応,てきおう,tekiou,适应,adaptation; accommodation; conformity,適応,14,5,1304,1437350,机器释义，经首轮浏览
+1143,8,支える,ささえる,sasaeru,支持,to support; to prop; to sustain,支える,14,8,1305,1310090,机器释义，经首轮浏览
+1144,8,交換,こうかん,koukan,交换,exchange; interchange; switching,交換,14,8,1306,1271750,机器释义，经首轮浏览
+1145,9,発信,はっしん,hasshin,发送；发布信息,dispatch; despatch; transmission,発信,14,8,1307,1477560,人工修订
+1146,9,背景,はいけい,haikei,背景,background; scenery; backdrop,背景,14,8,1308,1472720,机器释义，经首轮浏览
+1147,9,大学院,だいがくいん,daigakuin,研究生院,graduate school,大学院,14,6,1309,1413250,机器释义，经首轮浏览
+1148,9,抱く,いだく,idaku,拥抱,to hold in one's arms (e.g. a baby); to embrace; to hug,抱く,14,13,1310,1584090,机器释义，经首轮浏览
+1149,9,向く,むく,muku,转,"to turn toward; to look (up, down, etc.)",向く,14,11,1312,1277080,机器释义，经首轮浏览
+1150,9,感謝,かんしゃ,kansha,谢谢你,thanks; gratitude; appreciation,感謝,14,6,1313,1212380,机器释义，经首轮浏览
+1151,9,意欲,いよく,iyoku,意愿,will; desire; eagerness,意欲,14,9,1314,1587690,机器释义，经首轮浏览
+1152,9,当時,とうじ,touji,那时,at that time; in those days,当時,14,7,1315,1449090,机器释义，经首轮浏览
+1153,9,筋肉,きんにく,kinniku,肌肉,muscle,筋肉,14,5,1316,1241810,机器释义，经首轮浏览
+1154,9,素晴らしい,すばらしい,subarashii,太棒了,wonderful; splendid; magnificent,素晴らしい,14,9,1317,1397300,机器释义，经首轮浏览
+1155,9,そちら,そちら,sochira,那边,that way; that direction,其方,14,9,1318,1006780,机器释义，经首轮浏览
+1156,9,素材,そざい,sozai,材料；素材,ingredient; (raw) material; resource,素材,14,7,1320,1397220,人工修订
+1157,9,伝わる,つたわる,tsutawaru,传播；传达；流传,"to spread (of a rumour, news, etc.); to travel; to circulate",伝わる,14,9,1322,1441900,人工修订
+1158,9,汚染,おせん,osen,污染,pollution; contamination,汚染,14,4,1323,1179040,英文词典释义机器转译，经首轮浏览
+1159,9,保存,ほぞん,hozon,保存；保护,preservation; conservation; storage,保存,14,6,1324,1513940,英文词典释义机器转译，经首轮浏览
+1160,9,恐れる,おそれる,osoreru,害怕,to fear; to be afraid of,恐れる,14,9,1325,1589200,英文词典释义机器转译，经首轮浏览
+1161,9,群れ,むれ,mure,群；群体,group; crowd; flock,群れ,14,2,1326,1247510,人工修订
+1162,9,集団,しゅうだん,shuudan,群体；集团,group; mass,集団,14,4,1327,1333730,人工修订
+1163,9,研究者,けんきゅうしゃ,kenkyuusha,研究员,researcher,研究者,14,5,1328,1258590,英文词典释义机器转译，经首轮浏览
+1164,9,明るい,あかるい,akarui,光；明亮的,light; bright; well-lit,明るい,14,9,1330,1532350,英文词典释义机器转译，经首轮浏览
+1165,9,やり方,やりかた,yarikata,（做事的）方式；方式,way (of doing); manner; method,遣り方,14,9,1331,1012960,英文词典释义机器转译，经首轮浏览
+1166,9,本日,ほんじつ,honjitsu,今天（正式表达）,today; this day,本日,14,11,1332,1523110,人工修订
+1167,9,棚,たな,tana,货架；壁架,shelf; ledge; rack,棚,14,8,1333,1416700,英文词典释义机器转译，经首轮浏览
+1168,9,本業,ほんぎょう,hongyou,主要职业；核心业务,principal occupation; core business,本業,14,3,1334,1522410,英文词典释义机器转译，经首轮浏览
+1169,9,床,ゆか,yuka,地板,floor,床,14,5,1336,1349380,英文词典释义机器转译，经首轮浏览
+1170,9,解明,かいめい,kaimei,说明；解释,elucidation; explication; explaining,解明,14,7,1337,1199290,英文词典释义机器转译，经首轮浏览
+1171,9,性格,せいかく,seikaku,（人的）性格；性格,character (of a person); personality; disposition,性格,14,7,1338,1375290,英文词典释义机器转译，经首轮浏览
+1172,9,奪う,うばう,ubau,夺取；抢走,to take (by force); to take away; to snatch,奪う,14,8,1340,1416340,人工修订
+1173,9,限界,げんかい,genkai,限制；束缚,limit; bound,限界,14,8,1342,1264650,英文词典释义机器转译，经首轮浏览
+1174,9,手伝う,てつだう,tetsudau,帮助；协助,to help; to assist; to aid,手伝う,14,8,1343,1328190,英文词典释义机器转译，经首轮浏览
+1175,9,本質,ほんしつ,honshitsu,本质,essence; true nature; substance,本質,14,7,1345,1522620,人工修订
+1176,9,空,そら,sora,天空；空气,sky; the air; the heavens,空,14,8,1348,1245290,英文词典释义机器转译，经首轮浏览
+1177,9,自動,じどう,jidou,自动,automatic,自動,14,6,1349,1318340,英文词典释义机器转译，经首轮浏览
+1178,9,講演,こうえん,kouen,演讲,lecture; address; speech,講演,14,7,1351,1282240,人工修订
+1179,9,自転車,じてんしゃ,jitensha,自行车,bicycle; bike,自転車,14,6,1352,1318290,英文词典释义机器转译，经首轮浏览
+1180,9,勝負,しょうぶ,shoubu,胜利或失败,victory or defeat,勝負,14,5,1353,1346230,英文词典释义机器转译，经首轮浏览
+1181,9,疑う,うたがう,utagau,怀疑；怀疑不信任,to doubt; to distrust; to be suspicious of,疑う,14,4,1354,1225510,英文词典释义机器转译，经首轮浏览
+1182,9,意志,いし,ishi,意志；意图,will; volition; intention,意志,14,8,1356,1156560,英文词典释义机器转译，经首轮浏览
+1183,9,趣味,しゅみ,shumi,爱好；消遣,hobby; pastime,趣味,14,7,1357,1329000,英文词典释义机器转译，经首轮浏览
+1184,9,運転,うんてん,unten,驾驶；运转,operation (of a machine); running; working,運転,14,3,1359,1172830,人工修订
+1185,9,電子,でんし,denshi,电子,electron,電子,14,4,1360,1443320,英文词典释义机器转译，经首轮浏览
+1186,9,予測,よそく,yosoku,预测；估计,prediction; estimation,予測,14,6,1361,1543200,英文词典释义机器转译，经首轮浏览
+1187,9,速度,そくど,sokudo,速度；步伐,speed; velocity; pace,速度,14,3,1362,1405050,英文词典释义机器转译，经首轮浏览
+1188,9,複数,ふくすう,fukusuu,复数；多个,plural; multiple,複数,13,9,1363,1501400,英文词典释义机器转译，经首轮浏览
+1189,9,場面,ばめん,bamen,场景；环境,scene; setting; place (where something happens),場面,13,5,1364,1355910,英文词典释义机器转译，经首轮浏览
+1190,9,意外,いがい,igai,出乎意料的；奇怪,unexpected; surprising; unanticipated,意外,13,7,1365,1156410,英文词典释义机器转译，经首轮浏览
+1191,9,丁寧,ていねい,teinei,礼貌；细致,polite; courteous; civil,丁寧,13,7,1366,1427360,人工修订
+1192,9,すっきり,すっきり,sukkiri,清爽；带着一种如释重负的感觉,refreshingly; with a feeling of relief; pleasantly,すっきり,13,7,1367,1006120,英文词典释义机器转译，经首轮浏览
+1193,9,取引先,とりひきさき,torihikisaki,交易对象；客户或供应商,customer; client; client company,取引先,13,9,1368,1599130,人工修订
+1194,9,役立つ,やくだつ,yakudatsu,有用；乐于助人,to be useful; to be helpful; to serve the purpose,役立つ,13,8,1369,1538090,英文词典释义机器转译，经首轮浏览
+1195,9,遅い,おそい,osoi,慢,slow,遅い,13,7,1371,1421970,英文词典释义机器转译，经首轮浏览
+1196,9,余裕,よゆう,yoyuu,余裕；富余；从容,surplus; margin; leeway,余裕,13,10,1372,1544590,人工修订
+1197,9,受賞,じゅしょう,jushou,奖项,winning a prize; receiving an award; being awarded,受賞,13,3,1373,1329790,机器释义，经首轮浏览
+1198,9,木材,もくざい,mokuzai,木头,lumber; timber; wood,木材,13,6,1374,1534660,机器释义，经首轮浏览
+1199,9,主に,おもに,omoni,主要是,mainly; primarily; mostly,主に,13,8,1375,1324990,机器释义，经首轮浏览
+1200,9,生産,せいさん,seisan,生产,production; manufacture,生産,13,8,1376,1378990,机器释义，经首轮浏览
+1201,9,任せる,まかせる,makaseru,委托；交给,"to leave (a matter, decision, etc. to someone); to entrust (to someone); to entrust (someone) with",任せる,13,8,1379,1467150,人工修订
+1202,9,仕方ない,しかたない,shikatanai,没办法,there's no (other) way,仕方無い,13,10,1380,1305440,人工修订
+1203,9,延長,えんちょう,enchou,扩展,extension; elongation; prolongation,延長,13,6,1381,1176510,机器释义，经首轮浏览
+1204,9,上る,のぼる,noboru,攀爬,to ascend; to go up; to climb,上る,13,7,1382,1352570,机器释义，经首轮浏览
+1205,9,不思議,ふしぎ,fushigi,不可思议；奇妙,wonderful; marvelous; strange,不思議,13,7,1383,1492570,人工修订
+1206,9,ゆっくり,ゆっくり,yukkuri,慢慢地,slowly; unhurriedly; without haste,ゆっくり,13,9,1384,1013050,机器释义，经首轮浏览
+1207,9,抱える,かかえる,kakaeru,抱着；承担；面临,to hold in one's arms; to carry in one's arms; to carry under one's arm,抱える,13,10,1385,1516310,人工修订
+1208,9,雑誌,ざっし,zasshi,杂志,magazine; journal; periodical,雑誌,13,7,1386,1299400,机器释义，经首轮浏览
+1209,9,立てる,たてる,tateru,立起；制定；建立,to stand (something) up; to put upright; to set up,立てる,13,9,1387,1551530,人工修订
+1210,9,硬い,かたい,katai,硬,hard; solid; tough,固い,13,6,1389,1257110,机器释义，经首轮浏览
+1211,9,絶対,ぜったい,zettai,绝对,absolutely; definitely; unconditionally,絶対,13,8,1390,1386840,机器释义，经首轮浏览
+1212,9,いかが,いかが,ikaga,怎么样？,how; in what way; how about,如何,13,9,1391,2845606,机器释义，经首轮浏览
+1213,9,実感,じっかん,jikkan,感觉,real feeling; actual feeling,実感,13,7,1392,1320920,机器释义，经首轮浏览
+1214,9,撮影,さつえい,satsuei,摄影；拍摄,photography (still or motion); photographing; filming,撮影,13,5,1393,1298800,人工修订
+1215,9,一生,いっしょう,isshou,一生,whole life; a lifetime; all through life,一生,13,9,1394,1576200,机器释义，经首轮浏览
+1216,9,横,よこ,yoko,水平,horizontal (as opposed to vertical),横,13,9,1395,1180570,机器释义，经首轮浏览
+1217,9,どんどん,どんどん,dondon,不断地；迅速地,drumming (noise); beating; pounding,どんどん,13,10,1396,1009320,人工修订
+1218,9,処分,しょぶん,shobun,处置,disposal; throwing away; selling off,処分,13,4,1397,1342490,机器释义，经首轮浏览
+1219,9,鍛える,きたえる,kitaeru,锻炼；锻造,to forge; to temper,鍛える,13,8,1398,1419120,人工修订
+1220,9,壊れる,こわれる,kowareru,损坏；坏掉,to be broken; to break; to fall apart,壊れる,13,5,1399,1199900,人工修订
+1221,9,穏やか,おだやか,odayaka,冷静,calm; quiet; gentle,穏やか,13,6,1400,1183590,机器释义，经首轮浏览
+1222,9,辛い,つらい／からい,tsurai / karai,痛苦；辛苦（つらい）；辣（からい）,painful; bitter; heart-breaking,辛い,13,9,1401,1365860,人工修订
+1223,9,きちんと,きちんと,kichinto,整齐地,properly; accurately; exactly,きちんと,13,10,1402,1003400,机器释义，经首轮浏览
+1224,9,部品,ぶひん,buhin,零件,parts; accessories; components,部品,13,6,1403,1499480,机器释义，经首轮浏览
+1225,9,一部分,いちぶぶん,ichibubun,部分,one part; one portion; one section,一部分,13,6,1404,1166200,机器释义，经首轮浏览
+1226,9,解釈,かいしゃく,kaishaku,解释,interpretation; explanation; reading,解釈,13,7,1405,1199010,机器释义，经首轮浏览
+1227,9,日常,にちじょう,nichijou,日常生活,everyday; daily; ordinary,日常,13,10,1406,1464180,机器释义，经首轮浏览
+1228,9,確実,かくじつ,kakujitsu,确定性,certain; sure; definite,確実,13,9,1407,1205830,机器释义，经首轮浏览
+1229,9,優れる,すぐれる,sugureru,优秀,to be better (than); to be superior; to surpass,優れる,13,8,1408,1539080,机器释义，经首轮浏览
+1230,9,作用,さよう,sayou,效果,action; operation; process,作用,13,6,1409,1298000,机器释义，经首轮浏览
+1231,9,適する,てきする,tekisuru,适合,to fit; to suit,適する,13,8,1410,1437340,机器释义，经首轮浏览
+1232,9,仮,かり,kari,临时,temporary; provisional; interim,仮,13,6,1412,1187290,机器释义，经首轮浏览
+1233,9,築く,きずく,kizuku,建造,to build; to construct; to erect,築く,13,6,1413,1422140,机器释义，经首轮浏览
+1234,9,割合,わりあい,wariai,百分比,rate; ratio; percentage,割合,13,5,1414,1606810,机器释义，经首轮浏览
+1235,9,鍋,なべ,nabe,锅,pan; pot; saucepan,鍋,13,3,1416,1459720,机器释义，经首轮浏览
+1236,9,大学生,だいがくせい,daigakusei,大学生,university student; college student,大学生,13,6,1417,1413260,英文词典释义机器转译，经首轮浏览
+1237,9,住民,じゅうみん,juumin,居民；公民,inhabitant; resident; citizen,住民,13,7,1418,1334210,英文词典释义机器转译，经首轮浏览
+1238,9,川,かわ,kawa,河流；流,river; stream,川,13,3,1419,1390020,英文词典释义机器转译，经首轮浏览
+1239,9,必要性,ひつようせい,hitsuyousei,必要性；需要,necessity; need,必要性,13,10,1420,1487730,英文词典释义机器转译，经首轮浏览
+1240,9,完全,かんぜん,kanzen,完美；完成,perfect; complete,完全,13,10,1421,1211510,英文词典释义机器转译，经首轮浏览
+1241,9,嬉しい,うれしい,ureshii,快乐；高兴的,happy; glad; pleased,嬉しい,13,10,1422,1219510,英文词典释义机器转译，经首轮浏览
+1242,9,基づく,もとづく,motozuku,基于（基于）；建立在（上）,to be based (on); to be founded (on); to be grounded (on),基づく,13,8,1423,1605270,英文词典释义机器转译，经首轮浏览
+1243,9,渡る,わたる,wataru,跨越；穿过,to cross over; to go across,渡る,13,8,1424,1444680,英文词典释义机器转译，经首轮浏览
+1244,9,駅前,えきまえ,ekimae,车站前,in front of a station,駅前,13,11,1425,1175170,英文词典释义机器转译，经首轮浏览
+1245,9,夜,よる,yoru,晚上,night; evening,夜,13,7,1426,1536350,英文词典释义机器转译，经首轮浏览
+1246,9,せっかく,せっかく,sekkaku,好不容易；难得,with trouble; at great pains,折角,13,8,1427,1596090,人工修订
+1247,9,春,はる,haru,春天,spring; springtime,春,13,9,1428,1341000,英文词典释义机器转译，经首轮浏览
+1248,9,証明,しょうめい,shoumei,证明；见证,proof; testimony; demonstration,証明,13,7,1429,1351680,英文词典释义机器转译，经首轮浏览
+1249,9,成立,せいりつ,seiritsu,组建；设立,formation; establishment; materialization,成立,13,7,1430,1375880,英文词典释义机器转译，经首轮浏览
+1250,9,狼,おおかみ,ookami,狼（Canis lupus）,wolf (Canis lupus),狼,13,1,1431,1560940,英文词典释义机器转译，经首轮浏览
+1251,9,庭,にわ,niwa,花园；院子,garden; yard; courtyard,庭,13,7,1433,1436130,英文词典释义机器转译，经首轮浏览
+1252,9,設計,せっけい,sekkei,计划；设计,plan; design; layout,設計,13,4,1435,1386020,英文词典释义机器转译，经首轮浏览
+1253,9,以内,いない,inai,以内；里面,within; inside of; less than,以内,13,9,1436,1155180,英文词典释义机器转译，经首轮浏览
+1254,9,比較,ひかく,hikaku,比较,comparison,比較,13,7,1439,1483560,英文词典释义机器转译，经首轮浏览
+1255,9,定員,ていいん,teiin,固定人数；规定人数（正式人员、学生等）,"fixed number (of people); prescribed number (of regular personnel, students, etc.); quota",定員,13,5,1440,1435400,英文词典释义机器转译，经首轮浏览
+1256,9,体操,たいそう,taisou,体操；体育锻炼,gymnastics; physical exercises,体操,13,6,1441,1409580,英文词典释义机器转译，经首轮浏览
+1257,9,赤,あか,aka,红色；赤红,red; crimson; scarlet,赤,13,5,1442,2013900,英文词典释义机器转译，经首轮浏览
+1258,9,獲得,かくとく,kakutoku,获得,acquisition; possession,獲得,13,10,1443,1205750,人工修订
+1259,9,なくす,なくす,nakusu,失去（某物）,to lose (something),なくす,13,10,1444,1529530,英文词典释义机器转译，经首轮浏览
+1260,9,眠る,ねむる,nemuru,睡觉,to sleep,眠る,13,6,1445,1529390,英文词典释义机器转译，经首轮浏览
+1261,9,譲る,ゆずる,yuzuru,移交；转移,to hand over; to transfer; to turn over,譲る,13,8,1446,1357030,英文词典释义机器转译，经首轮浏览
+1262,9,感性,かんせい,kansei,敏感性；（……的）感觉,sensitivity; sensitiveness; sense (of ...),感性,13,5,1447,1212460,英文词典释义机器转译，经首轮浏览
+1263,9,流行,りゅうこう,ryuukou,时尚；趋势,fashion; trend; vogue,流行,13,6,1448,1585110,英文词典释义机器转译，经首轮浏览
+1264,9,菓子,かし,kashi,点心；糖果,confectionery; sweets; candy,菓子,13,8,1449,1195670,人工修订
+1265,9,口,くち,kuchi,嘴,mouth,口,13,8,1451,1275640,英文词典释义机器转译，经首轮浏览
+1266,9,払う,はらう,harau,支付（例如钱、账单）,"to pay (e.g. money, bill)",払う,13,9,1452,1501620,英文词典释义机器转译，经首轮浏览
+1267,9,券,けん,ken,票；券,ticket; coupon; bond,券,13,4,1454,1256730,人工修订
+1268,9,弊社,へいしゃ,heisha,我们公司,our company; our firm,弊社,13,7,1455,1508280,英文词典释义机器转译，经首轮浏览
+1269,9,人口,じんこう,jinkou,人口,population,人口,13,7,1456,1367300,英文词典释义机器转译，经首轮浏览
+1270,9,母親,ははおや,hahaoya,妈妈,mother,母親,13,2,1457,1515120,英文词典释义机器转译，经首轮浏览
+1271,9,区別,くべつ,kubetsu,区别,distinction; differentiation; discrimination,区別,13,5,1458,1244250,人工修订
+1272,9,郵送,ゆうそう,yuusou,邮寄,mailing; posting,郵送,13,5,1459,1542380,人工修订
+1273,9,動機,どうき,douki,动机；激励,motive; incentive,動機,13,5,1460,1451310,英文词典释义机器转译，经首轮浏览
+1274,9,中止,ちゅうし,chuushi,中止；取消,interruption; discontinuance; suspension,中止,13,7,1461,1424410,人工修订
+1275,9,銀行,ぎんこう,ginkou,银行；银行机构,bank; banking institution,銀行,13,5,1462,1243490,英文词典释义机器转译，经首轮浏览
+1276,9,駐車場,ちゅうしゃじょう,chuushajou,停车场,parking lot; car park; carpark,駐車場,13,4,1463,1426920,机器释义，经首轮浏览
+1277,9,法律,ほうりつ,houritsu,法律,law; legislation; act,法律,13,5,1464,1517480,机器释义，经首轮浏览
+1278,9,有効,ゆうこう,yuukou,有效,valid; effective,有効,13,7,1465,1541290,机器释义，经首轮浏览
+1279,9,表,ひょう／おもて,hyou / omote,表格；表面（读音依语境）,table; chart; list,表,13,8,1466,1489350,人工修订
+1280,9,矛盾,むじゅん,mujun,矛盾,contradiction; inconsistency,矛盾,13,6,1467,1531090,机器释义，经首轮浏览
+1281,9,型,かた,kata,类型；模型,type; style; model,型,13,2,1470,1250090,人工修订
+1282,9,考慮,こうりょ,kouryo,考虑,consideration; taking into account,考慮,12,6,1471,1281170,人工修订
+1283,9,追加,ついか,tsuika,添加,addition; supplement; appending,追加,12,6,1472,1432460,机器释义，经首轮浏览
+1284,9,止める,とめる,tomeru,停止,to stop; to turn off,止める,12,9,1473,1310670,机器释义，经首轮浏览
+1285,9,是非,ぜひ,zehi,无论如何,certainly; without fail,是非,12,7,1475,1374530,机器释义，经首轮浏览
+1286,9,消費,しょうひ,shouhi,消费,consumption; expenditure; spending,消費,12,5,1476,1350290,机器释义，经首轮浏览
+1287,9,怒る,おこる,okoru,生气,to get angry; to get mad; to lose one's temper,怒る,12,7,1479,1445690,机器释义，经首轮浏览
+1288,10,理論,りろん,riron,理论,theory,理論,12,5,1480,1550160,机器释义，经首轮浏览
+1289,10,服装,ふくそう,fukusou,衣服,attire; dress; clothes,服装,12,6,1481,1500970,机器释义，经首轮浏览
+1290,10,小学校,しょうがっこう,shougakkou,小学,primary school; elementary school; grade school,小学校,12,8,1482,1347870,机器释义，经首轮浏览
+1291,10,返す,かえす,kaesu,返回,to return (something); to restore; to put back,返す,12,8,1484,1512130,机器释义，经首轮浏览
+1292,10,しばらく,しばらく,shibaraku,有一段时间,for a moment; for a minute,暫く,12,8,1485,1304420,机器释义，经首轮浏览
+1293,10,支持,しじ,shiji,支持,support; backing; endorsement,支持,12,7,1486,1310150,机器释义，经首轮浏览
+1294,10,不要,ふよう,fuyou,不需要,unnecessary; unneeded,不要,12,8,1488,1602900,机器释义，经首轮浏览
+1295,10,迷う,まよう,mayou,迷路,to lose one's way; to get lost; to go astray,迷う,12,8,1489,1532710,机器释义，经首轮浏览
+1296,10,有名,ゆうめい,yuumei,著名,famous; well-known,有名,12,7,1490,1541620,机器释义，经首轮浏览
+1297,10,共感,きょうかん,kyoukan,同理心,sympathy; empathy; response,共感,12,8,1491,1234370,机器释义，经首轮浏览
+1298,10,個人差,こじんさ,kojinsa,个体差异,individual differences; personal equation,個人差,12,1,1492,1264830,机器释义，经首轮浏览
+1299,10,話し合う,はなしあう,hanashiau,讨论,to discuss; to talk together,話し合う,12,7,1493,1562310,机器释义，经首轮浏览
+1300,10,都合,つごう,tsugou,方便与否；情况；安排,circumstances; condition; convenience,都合,12,7,1495,1444980,人工修订
+1301,10,決定,けってい,kettei,决定,decision; determination,決定,12,10,1496,1254380,机器释义，经首轮浏览
+1302,10,問い合わせ,といあわせ,toiawase,查询,inquiry; query; enquiry,問い合わせ,12,7,1497,1598590,机器释义，经首轮浏览
+1303,10,持参,じさん,jisan,带来,bringing; taking; carrying,持参,12,4,1498,1315790,机器释义，经首轮浏览
+1304,10,勧める,すすめる,susumeru,推荐,to recommend (someone to do); to advise; to encourage,勧める,12,10,1500,1595680,机器释义，经首轮浏览
+1305,10,産業,さんぎょう,sangyou,工业,industry,産業,12,9,1501,1303770,机器释义，经首轮浏览
+1306,10,金額,きんがく,kingaku,金额,amount of money; sum,金額,12,7,1502,1242700,机器释义，经首轮浏览
+1307,10,とりあえず,とりあえず,toriaezu,暂且；先,first of all; at once; right away,取り敢えず,12,8,1503,1598980,人工修订
+1308,10,小学生,しょうがくせい,shougakusei,小学生,elementary school student; primary school student; grade school student,小学生,12,6,1504,1347880,机器释义，经首轮浏览
+1309,10,迎える,むかえる,mukaeru,欢迎,to go out to meet; to receive; to welcome,迎える,12,7,1505,1253190,机器释义，经首轮浏览
+1310,10,申し上げる,もうしあげる,moushiageru,说（谦让语）,to say; to tell; to state,申し上げる,12,6,1506,1362950,人工修订
+1311,10,珍しい,めずらしい,mezurashii,不寻常,rare; uncommon; unusual,珍しい,12,9,1507,1431850,机器释义，经首轮浏览
+1312,10,育つ,そだつ,sodatsu,成长,to be raised (e.g. child); to be brought up; to grow (up),育つ,12,6,1508,1160540,机器释义，经首轮浏览
+1313,10,位置,いち,ichi,地点,place; position; location,位置,12,7,1509,1587310,机器释义，经首轮浏览
+1314,10,裏,うら,ura,背面；里面；背后,opposite side; bottom; other side,裏,12,7,1510,1550190,人工修订
+1315,10,伸ばす,のばす,nobasu,伸展运动,"to grow long (e.g. hair, nails)",伸ばす,12,10,1511,1600290,机器释义，经首轮浏览
+1316,10,含める,ふくめる,fukumeru,包括,to include (in a group or scope),含める,12,8,1513,1216890,机器释义，经首轮浏览
+1317,10,出来上がる,できあがる,dekiagaru,完成,to be completed; to be finished; to be ready (e.g. to serve or eat),出来上がる,12,7,1514,1340610,机器释义，经首轮浏览
+1318,10,共同,きょうどう,kyoudou,联合,cooperation; collaboration; association,共同,12,5,1515,1591660,机器释义，经首轮浏览
+1319,10,詰まる,つまる,tsumaru,堵塞,to be packed (with); to be filled; to be full (e.g. of a schedule),詰まる,12,8,1516,1226480,机器释义，经首轮浏览
+1320,10,軽い,かるい,karui,轻；轻微,"light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily)",軽い,12,8,1518,1252560,人工修订
+1321,10,介護,かいご,kaigo,护理,nursing; care; caregiving,介護,12,6,1520,1198060,机器释义，经首轮浏览
+1322,10,刺激,しげき,shigeki,刺激,"stimulus; stimulation; irritation (esp. of the body, e.g. skin, eyes)",刺激,12,6,1521,1594190,机器释义，经首轮浏览
+1323,10,生存,せいぞん,seizon,生存,existence; being; life,生存,12,7,1522,1379230,机器释义，经首轮浏览
+1324,10,多少,たしょう,tashou,有点,a little; some; somewhat,多少,12,8,1523,1407810,机器释义，经首轮浏览
+1325,10,新鮮,しんせん,shinsen,新鲜,fresh,新鮮,12,5,1524,1362100,机器释义，经首轮浏览
+1326,10,語,ご,go,言语,word; term,語,12,6,1525,1270910,机器释义，经首轮浏览
+1327,10,住所,じゅうしょ,juusho,地址,"address (of a home, business, etc.); residence; domicile",住所,12,7,1526,1334080,机器释义，经首轮浏览
+1328,10,進歩,しんぽ,shinpo,进展,progress; advance; improvement,進歩,12,7,1527,1366190,机器释义，经首轮浏览
+1329,10,入り口,いりぐち,iriguchi,入口,entrance; entry; gate,入り口,12,6,1528,1582820,机器释义，经首轮浏览
+1330,10,抑制,よくせい,yokusei,压制,control; restraint; suppression,抑制,12,2,1529,1547290,机器释义，经首轮浏览
+1331,10,息子,むすこ,musuko,儿子,son,息子,12,8,1530,1404390,机器释义，经首轮浏览
+1332,10,開始,かいし,kaishi,开始,start; commencement; beginning,開始,12,6,1531,1202760,机器释义，经首轮浏览
+1333,10,温める,あたためる,atatameru,热身,to warm (up); to heat (up),温める,12,2,1532,1586440,机器释义，经首轮浏览
+1334,10,入社,にゅうしゃ,nyuusha,加入公司,joining a company; getting a job with a company; starting work at a company,入社,12,7,1533,1466260,机器释义，经首轮浏览
+1335,10,感染,かんせん,kansen,感染,infection; contagion; becoming infected,感染,12,3,1535,1212470,机器释义，经首轮浏览
+1336,10,基本,きほん,kihon,基础知识,basics; fundamentals; basis,基本,12,6,1536,1219190,机器释义，经首轮浏览
+1337,10,日時,にちじ,nichiji,日期和时间,"date and time (of a meeting, departure, etc.)",日時,12,6,1537,1464110,机器释义，经首轮浏览
+1338,10,空き,あき,aki,空缺,space; room; gap,明き,12,2,1538,1609010,机器释义，经首轮浏览
+1339,10,無意識,むいしき,muishiki,无意识,unconsciousness,無意識,12,8,1539,1529600,机器释义，经首轮浏览
+1340,10,宿泊,しゅくはく,shukuhaku,住宿,accommodation; lodging,宿泊,12,2,1540,1337300,机器释义，经首轮浏览
+1341,10,支払い,しはらい,shiharai,付款,payment,支払い,12,4,1541,1594480,机器释义，经首轮浏览
+1342,10,解析,かいせき,kaiseki,分析,analysis; analytical study,解析,12,1,1542,1199060,机器释义，经首轮浏览
+1343,10,買い手,かいて,kaite,买家,buyer,買い手,12,3,1543,1589700,机器释义，经首轮浏览
+1344,10,平等,びょうどう,byoudou,平等,equality; impartiality; evenness,平等,12,2,1544,1507670,机器释义，经首轮浏览
+1345,10,花火,はなび,hanabi,烟花,fireworks,花火,12,3,1545,1194580,机器释义，经首轮浏览
+1346,10,読書,どくしょ,dokusho,阅读,reading (books),読書,12,4,1546,1456420,机器释义，经首轮浏览
+1347,10,育児,いくじ,ikuji,育儿,childcare; child-rearing; nursing,育児,12,3,1547,1160630,人工修订
+1348,10,展示,てんじ,tenji,展览,exhibition; display,展示,11,6,1548,1440610,机器释义，经首轮浏览
+1349,10,独特,どくとく,dokutoku,独特,peculiarity; uniqueness; characteristic,独特,11,6,1551,1456010,机器释义，经首轮浏览
+1350,10,増す,ます,masu,增加,to increase; to grow,増す,11,7,1552,1403120,机器释义，经首轮浏览
+1351,10,制作,せいさく,seisaku,生产,"work (film, book)",制作,11,4,1555,1374810,机器释义，经首轮浏览
+1352,10,広報,こうほう,kouhou,宣传；公关,public relations; PR; publicity,広報,11,5,1557,1593040,人工修订
+1353,10,保つ,たもつ,tamotsu,保持,to keep; to preserve; to hold,保つ,11,6,1559,1513250,机器释义，经首轮浏览
+1354,10,成す,なす,nasu,完成,to form; to make; to constitute,成す,11,8,1560,1157130,机器释义，经首轮浏览
+1355,10,従業員,じゅうぎょういん,juugyouin,员工,employee; worker,従業員,11,5,1561,1335250,机器释义，经首轮浏览
+1356,10,落ち込む,おちこむ,ochikomu,感到沮丧,to feel down; to feel sad; to be depressed,落ち込む,11,8,1562,1548570,机器释义，经首轮浏览
+1357,10,許す,ゆるす,yurusu,允许；原谅,to permit; to allow; to approve,許す,11,9,1563,1232870,人工修订
+1358,10,候補,こうほ,kouho,候选人,candidate; contender; prospect,候補,11,6,1564,1272730,机器释义，经首轮浏览
+1359,10,防ぐ,ふせぐ,fusegu,预防,to defend against; to protect against,防ぐ,11,9,1565,1520190,机器释义，经首轮浏览
+1360,10,表す,あらわす,arawasu,代表,to represent; to signify; to stand for,表す,11,8,1566,1263490,机器释义，经首轮浏览
+1361,10,たまたま,たまたま,tamatama,偶然,by chance; by accident; accidentally,偶々,11,8,1567,1597180,机器释义，经首轮浏览
+1362,10,入手,にゅうしゅ,nyuushu,获取,acquisition; obtaining; procurement,入手,11,5,1569,1466290,机器释义，经首轮浏览
+1363,10,給料,きゅうりょう,kyuuryou,薪资,salary; wages; pay,給料,11,5,1570,1230360,机器释义，经首轮浏览
+1364,10,自動車,じどうしゃ,jidousha,汽车,car; automobile; motorcar,自動車,11,8,1571,1318400,机器释义，经首轮浏览
+1365,10,一杯,いっぱい,ippai,一杯；满；很多（依语境）,one cup (of); one glass (of); one bowl (of),一杯,11,8,1573,1165670,人工修订
+1366,10,ゆえ,ゆえ,yue,因为,reason; circumstances; grounds,故,11,8,1574,1267120,机器释义，经首轮浏览
+1367,10,彼女,かのじょ,kanojo,她；女朋友,she; her,彼女,11,4,1576,1483150,人工修订
+1368,10,編集者,へんしゅうしゃ,henshuusha,编辑,"editor (in publishing, etc.)",編集者,11,4,1577,1512010,机器释义，经首轮浏览
+1369,10,重い,おもい,omoi,重,heavy; weighty,重い,11,6,1578,1335750,机器释义，经首轮浏览
+1370,10,面談,めんだん,mendan,面试,interview,面談,11,4,1579,1612940,机器释义，经首轮浏览
+1371,10,安定,あんてい,antei,稳定性,stability; steadiness; consistency,安定,11,9,1580,1154120,机器释义，经首轮浏览
+1372,10,競争,きょうそう,kyousou,竞争,competition; contest; rivalry,競争,11,8,1581,1234140,机器释义，经首轮浏览
+1373,10,分業,ぶんぎょう,bungyou,分工,division of labor; division of labour; specialization,分業,11,3,1582,1503390,机器释义，经首轮浏览
+1374,10,真似,まね,mane,模仿,imitating; copying; mimicry,真似,11,6,1583,1363740,机器释义，经首轮浏览
+1375,10,出来事,できごと,dekigoto,事件；发生的事,occurrence; happening; incident,出来事,11,8,1584,1340570,人工修订
+1376,10,哲学,てつがく,tetsugaku,哲学,philosophy,哲学,11,6,1586,1437610,机器释义，经首轮浏览
+1377,10,方向,ほうこう,houkou,方向,direction; orientation; bearing,方向,11,10,1589,1516990,机器释义，经首轮浏览
+1378,10,事情,じじょう,jijou,情况,circumstances; conditions; situation,事情,11,7,1590,1314010,机器释义，经首轮浏览
+1379,10,登場,とうじょう,toujou,登场；出现,"entrance (on the stage); appearance (in a book, film, etc.)",登場,11,7,1591,1444800,人工修订
+1380,10,台,だい,dai,平台,stand; rest; base,台,11,8,1593,1412560,机器释义，经首轮浏览
+1381,10,経つ,たつ,tatsu,经过（时间）,to pass (of time); to elapse,経つ,11,7,1594,1251100,人工修订
+1382,10,遺跡,いせき,iseki,废墟,(archeological) remains; ruins; relics,遺跡,11,4,1595,1159380,机器释义，经首轮浏览
+1383,10,建物,たてもの,tatemono,建筑,building,建物,11,6,1596,1257540,机器释义，经首轮浏览
+1384,10,国内,こくない,kokunai,国内,within the country; inside the county; domestic,国内,11,6,1597,1286930,机器释义，经首轮浏览
+1385,10,率直,そっちょく,sotchoku,坦率,frank; candid; straightforward,率直,11,3,1598,1596570,机器释义，经首轮浏览
+1386,10,天気,てんき,tenki,天气,weather,天気,11,7,1599,1438690,机器释义，经首轮浏览
+1387,10,本物,ほんもの,honmono,正宗,genuine article; real thing; real deal,本物,11,5,1600,1523180,机器释义，经首轮浏览
+1388,10,照明,しょうめい,shoumei,照明,illumination; lighting,照明,11,4,1601,1350990,机器释义，经首轮浏览
+1389,10,観光客,かんこうきゃく,kankoukyaku,游客,tourist,観光客,11,5,1603,1214870,机器释义，经首轮浏览
+1390,10,農家,のうか,nouka,农民,farmer; farming family,農家,11,6,1604,1470620,机器释义，经首轮浏览
+1391,10,現れる,あらわれる,arawareru,出现,to appear; to come in sight; to become visible,現れる,11,7,1605,1263510,机器释义，经首轮浏览
+1392,10,間に合う,まにあう,maniau,准时,to be in time (for),間に合う,11,7,1607,1215260,机器释义，经首轮浏览
+1393,10,崩れる,くずれる,kuzureru,崩溃,to collapse; to crumble,崩れる,11,7,1608,1516270,机器释义，经首轮浏览
+1394,10,気温,きおん,kion,温度,(air) temperature,気温,11,6,1609,1221950,机器释义，经首轮浏览
+1395,10,辞める,やめる,yameru,辞职；辞去,to resign; to retire; to quit,辞める,11,7,1610,1318950,人工修订
+1396,10,事務,じむ,jimu,办公室工作,office work; clerical work; administration,事務,11,4,1612,1314270,机器释义，经首轮浏览
+1397,10,対話,たいわ,taiwa,对话,dialogue; conversation; talk,対話,11,4,1613,1410300,机器释义，经首轮浏览
+1398,10,見極める,みきわめる,mikiwameru,确定,to watch to the end,見極める,11,9,1614,1259490,机器释义，经首轮浏览
+1399,10,演劇,えんげき,engeki,戏剧,drama; theatre; theater,演劇,11,6,1615,1176860,人工修订
+1400,10,改めて,あらためて,aratamete,再一次,another time; again; over again,改めて,11,7,1617,1200740,机器释义，经首轮浏览
+1401,10,木々,きぎ,kigi,树木,(many) trees; every tree; all kinds of trees,木々,11,4,1619,1591090,机器释义，经首轮浏览
+1402,10,雑談,ざつだん,zatsudan,聊天,chatting; idle talk,雑談,11,2,1620,1299480,机器释义，经首轮浏览
+1403,10,心理学,しんりがく,shinrigaku,心理学,psychology,心理学,11,6,1621,1361010,机器释义，经首轮浏览
+1404,10,苦労,くろう,kurou,困难,trouble; hardship; difficulty,苦労,11,9,1622,1244680,机器释义，经首轮浏览
+1405,10,まいる,まいる,mairu,去、来（谦让语）；受不了,to go; to come,参る,11,6,1624,1302070,人工修订
+1406,10,他社,たしゃ,tasha,其他公司,another company; other company,他社,11,7,1625,1407130,机器释义，经首轮浏览
+1407,10,麺,めん,men,面条,noodles,麺,11,3,1626,1533610,机器释义，经首轮浏览
+1408,10,かつ,かつ,katsu,而且；并且,and; moreover; besides,且つ,11,7,1628,1208840,人工修订
+1409,10,倍,ばい,bai,倍,double; twice (as much),倍,11,6,1630,1473230,人工修订
+1410,10,分かれる,わかれる,wakareru,分裂,to branch; to fork; to diverge,分かれる,11,8,1631,1606600,机器释义，经首轮浏览
+1411,10,青,あお,ao,蓝色,blue; azure,青,11,3,1632,1381380,机器释义，经首轮浏览
+1412,10,店頭,てんとう,tentou,店内,shopfront; storefront; shopwindow,店頭,11,3,1633,1440740,机器释义，经首轮浏览
+1413,10,世,よ,yo,世界,world; society; public,世,11,5,1634,1605810,机器释义，经首轮浏览
+1414,10,手段,しゅだん,shudan,手段,means; way; method,手段,11,6,1636,1328110,机器释义，经首轮浏览
+1415,10,耳,みみ,mimi,耳朵,ear,耳,11,7,1638,1317170,机器释义，经首轮浏览
+1416,10,心理,しんり,shinri,心理,state of mind; mentality; psychology,心理,11,5,1639,1361000,人工修订
+1417,10,外部,がいぶ,gaibu,外部,outside (e.g. of a building); exterior,外部,11,8,1640,1204070,机器释义，经首轮浏览
+1418,10,枠,わく,waku,框架,frame; framework,枠,11,3,1641,1562610,机器释义，经首轮浏览
+1419,10,発生,はっせい,hassei,发生,occurrence; incidence; outbreak,発生,11,8,1642,1477620,机器释义，经首轮浏览
+1420,10,見方,みかた,mikata,看法；观察方式,viewpoint; point of view; way of looking (at something),見方,11,6,1643,1260070,人工修订
+1421,10,在庫,ざいこ,zaiko,库存,stock; inventory,在庫,11,5,1644,1296470,机器释义，经首轮浏览
+1422,10,構成,こうせい,kousei,配置,composition; construction; formation,構成,11,6,1645,1279730,机器释义，经首轮浏览
+1423,10,買い物,かいもの,kaimono,购物,shopping; purchased goods,買い物,11,6,1647,1589730,机器释义，经首轮浏览
+1424,10,大量,たいりょう,tairyou,大量,"large quantity; massive (quantity); mass (e.g. mass production, mass transit, mass destruction)",大量,11,8,1648,1415190,人工修订
+1425,10,浮かぶ,うかぶ,ukabu,浮动,to float; to be suspended,浮かぶ,11,6,1649,1497430,机器释义，经首轮浏览
+1426,10,番組,ばんぐみ,bangumi,节目,program (e.g. TV); programme,番組,11,9,1650,1482340,人工修订
+1427,10,学問,がくもん,gakumon,学问；学术,study; scholarship; learning,学問,11,4,1651,1207130,人工修订
+1428,10,褒める,ほめる,homeru,赞美,to praise; to commend; to compliment,褒める,11,7,1654,1603550,机器释义，经首轮浏览
+1429,10,自宅,じたく,jitaku,家,one's home; one's house,自宅,11,6,1655,1318260,机器释义，经首轮浏览
+1430,10,麦,むぎ,mugi,小麦,wheat; barley; oat (oats),麦,11,2,1656,1476080,机器释义，经首轮浏览
+1431,11,絞る,しぼる,shiboru,缩小范围,"to wring (towel, rag); to squeeze",絞る,11,6,1657,1594520,机器释义，经首轮浏览
+1432,11,余計,よけい,yokei,额外,extra; more; too much,余計,11,7,1658,1544090,机器释义，经首轮浏览
+1433,11,収容,しゅうよう,shuuyou,收容,accommodation; taking in; receiving,収容,11,3,1659,1330880,机器释义，经首轮浏览
+1434,11,結ぶ,むすぶ,musubu,系；连接；缔结,to tie; to bind; to link,結ぶ,11,7,1661,1254670,人工修订
+1435,11,到達,とうたつ,toutatsu,到达,reaching; attaining; arrival,到達,11,6,1662,1449860,机器释义，经首轮浏览
+1436,11,右,みぎ,migi,右,right; right-hand side,右,11,11,1664,1171010,机器释义，经首轮浏览
+1437,11,宿,やど,yado,住宿,lodging; inn; hotel,宿,11,6,1666,1337190,机器释义，经首轮浏览
+1438,11,ちらし,ちらし,chirashi,传单,leaflet; flyer; handbill,散らし,11,4,1667,1303440,机器释义，经首轮浏览
+1439,11,翻訳,ほんやく,honyaku,翻译,translation,翻訳,11,3,1669,1523400,机器释义，经首轮浏览
+1440,11,急激,きゅうげき,kyuugeki,迅速,sudden; abrupt; rapid,急激,11,4,1671,1228680,机器释义，经首轮浏览
+1441,11,仮説,かせつ,kasetsu,假设,hypothesis; supposition; assumption,仮説,11,3,1672,1590320,机器释义，经首轮浏览
+1442,11,味噌,みそ,miso,味噌,miso; fermented condiment usu. made from soybeans,味噌,11,2,1674,1527040,机器释义，经首轮浏览
+1443,11,氷,こおり,koori,冰,ice,氷,11,1,1675,1488840,机器释义，经首轮浏览
+1444,11,畳,たたみ,tatami,榻榻米,tatami mat; Japanese straw floor coverings,畳,11,1,1676,1356750,机器释义，经首轮浏览
+1445,11,香水,こうすい,kousui,香水,perfume; scent,香水,11,1,1679,1283060,机器释义，经首轮浏览
+1446,11,形式,けいしき,keishiki,格式,form (as opposed to substance),形式,10,5,1682,1250310,机器释义，经首轮浏览
+1447,11,昇進,しょうしん,shoushin,晋升,promotion; advancement; rising in rank,昇進,10,3,1687,1349780,人工修订
+1448,11,店舗,てんぽ,tenpo,商店,shop; store; establishment,店舗,10,5,1688,1440800,机器释义，经首轮浏览
+1449,11,今年度,こんねんど,konnendo,今年,this year; this fiscal year; this school year,今年度,10,6,1689,1657600,机器释义，经首轮浏览
+1450,11,巧み,たくみ,takumi,熟练,skillful; adroit; dexterous,巧み,10,5,1690,1278290,机器释义，经首轮浏览
+1451,11,好評,こうひょう,kouhyou,流行,favorable reception; good reputation; popularity,好評,10,6,1691,1277780,机器释义，经首轮浏览
+1452,11,昨年,さくねん,sakunen,去年,last year,昨年,10,7,1692,1298230,机器释义，经首轮浏览
+1453,11,一人暮らし,ひとりぐらし,hitorigurashi,独居,living by oneself; living alone,独り暮らし,10,6,1693,1613340,机器释义，经首轮浏览
+1454,11,電気,でんき,denki,电力,electricity,電気,10,7,1694,1443000,机器释义，经首轮浏览
+1455,11,養う,やしなう,yashinau,养育；培养；供养,to support; to maintain; to provide for,養う,10,5,1695,1547090,人工修订
+1456,11,以来,いらい,irai,自从,since; henceforth,以来,10,8,1697,1155210,机器释义，经首轮浏览
+1457,11,進出,しんしゅつ,shinshutsu,扩展,"advance (into a new market, industry, etc.); expansion (into); launch (into)",進出,10,7,1698,1366080,机器释义，经首轮浏览
+1458,11,ようやく,ようやく,youyaku,最后,finally; at last,漸く,10,7,1699,1394600,机器释义，经首轮浏览
+1459,11,狭い,せまい,semai,狭窄,narrow; confined; small,狭い,10,7,1700,1237680,机器释义，经首轮浏览
+1460,11,規制,きせい,kisei,监管,regulation; (traffic) policing; control,規制,10,3,1701,1223010,机器释义，经首轮浏览
+1461,11,共存,きょうぞん,kyouzon,共存,coexistence,共存,10,6,1703,1578050,机器释义，经首轮浏览
+1462,11,収める,おさめる,osameru,收纳；取得成果；缴纳（依语境）,to put (into); to put away (in); to put back (in),収める,10,7,1704,1589090,人工修订
+1463,11,迫力,はくりょく,hakuryoku,令人印象深刻,impressiveness; impact; force,迫力,10,6,1705,1475770,机器释义，经首轮浏览
+1464,11,飛び出す,とびだす,tobidasu,跳出,to jump out; to leap out; to fly out,飛び出す,10,4,1706,1485350,机器释义，经首轮浏览
+1465,11,膨大,ぼうだい,boudai,巨大,huge; vast; enormous,膨大,10,5,1707,1603660,机器释义，经首轮浏览
+1466,11,道路,どうろ,douro,道路,road; highway,道路,10,8,1708,1454290,机器释义，经首轮浏览
+1467,11,世間,せけん,seken,世界,world; society; people,世間,10,6,1709,1373970,机器释义，经首轮浏览
+1468,11,残す,のこす,nokosu,留下；剩下,to leave (behind),残す,10,6,1710,1600260,人工修订
+1469,11,趣旨,しゅし,shushi,目的,meaning; point (e.g. of a statement); gist,趣旨,10,9,1711,1328990,机器释义，经首轮浏览
+1470,11,ますます,ますます,masumasu,越来越多,increasingly; more and more,益々,10,7,1713,1603950,机器释义，经首轮浏览
+1471,11,幸福,こうふく,koufuku,幸福,happiness; well-being; joy,幸福,10,4,1714,1278400,机器释义，经首轮浏览
+1472,11,葉,は,ha,叶子,leaf; blade (of grass); (pine) needle,葉,10,8,1715,1546550,机器释义，经首轮浏览
+1473,11,働き,はたらき,hataraki,工作,work; labor; labour,働き,10,6,1716,1451040,机器释义，经首轮浏览
+1474,11,虫,むし,mushi,昆虫,insect; bug; cricket,虫,10,5,1717,1426680,机器释义，经首轮浏览
+1475,11,たとえ,たとえ,tatoe,即使；哪怕,even if; no matter (what); if,たとえ,10,8,1718,1597125,人工修订
+1476,11,引き出す,ひきだす,hikidasu,拉出,to pull out; to take out; to draw out,引き出す,10,8,1720,1601660,机器释义，经首轮浏览
+1477,11,深める,ふかめる,fukameru,深化,to deepen; to heighten; to intensify,深める,10,7,1721,1362680,机器释义，经首轮浏览
+1478,11,控える,ひかえる,hikaeru,避免,to be temperate in; to refrain; to abstain,控える,10,7,1722,1279060,机器释义，经首轮浏览
+1479,11,差し上げる,さしあげる,sashiageru,给（あげる的谦让语）；举起,to lift up; to hold up; to raise,差し上げる,10,7,1724,1291270,人工修订
+1480,11,資格,しかく,shikaku,资格条件,qualifications; requirements; capabilities,資格,10,5,1725,1312690,机器释义，经首轮浏览
+1481,11,お願い,おねがい,onegai,请求；拜托,request; favour (to ask); wish,御願い,10,6,1726,2036870,人工修订
+1482,11,売り場,うりば,uriba,销售楼层,selling area; counter; section,売り場,10,7,1727,1588550,机器释义，经首轮浏览
+1483,11,急ぐ,いそぐ,isogu,快点,to hurry; to rush; to hasten,急ぐ,10,7,1728,1228650,机器释义，经首轮浏览
+1484,11,抜ける,ぬける,nukeru,退出,to come out; to fall out; to be omitted,抜ける,10,7,1729,1478200,机器释义，经首轮浏览
+1485,11,経営者,けいえいしゃ,keieisha,经营者,manager; proprietor,経営者,10,7,1730,1251200,人工修订
+1486,11,下がる,さがる,sagaru,往下走,to come down; to go down; to fall,下がる,10,6,1731,1184160,机器释义，经首轮浏览
+1487,11,巡る,めぐる,meguru,游览,to go around; to make a circle around,巡る,10,8,1732,1342050,机器释义，经首轮浏览
+1488,11,用いる,もちいる,mochiiru,使用,to use; to make use of; to utilize,用いる,10,7,1733,1546210,机器释义，经首轮浏览
+1489,11,もはや,もはや,mohaya,已经；事到如今,already; now,最早,10,5,1734,1294170,人工修订
+1490,11,絶大,ぜつだい,zetsudai,巨大,tremendous; immense; enormous,絶大,10,6,1736,1386920,机器释义，经首轮浏览
+1491,11,根拠,こんきょ,konkyo,根据；依据,basis; grounds; foundation,根拠,10,4,1739,1290120,人工修订
+1492,11,行政,ぎょうせい,gyousei,行政；政府行政管理,executive; government,行政,10,5,1740,1282010,人工修订
+1493,11,医師,いし,ishi,医生,doctor; physician,医師,10,4,1741,1159930,机器释义，经首轮浏览
+1494,11,交通費,こうつうひ,koutsuuhi,交通费,traveling expenses; travelling expenses; carfare,交通費,10,3,1742,1272410,机器释义，经首轮浏览
+1495,11,咲く,さく,saku,开花,to bloom; to flower; to blossom,咲く,10,7,1743,1297210,人工修订
+1496,11,たまる,たまる,tamaru,积累,to collect; to gather; to save,たまる,10,8,1744,1552650,机器释义，经首轮浏览
+1497,11,踏む,ふむ,fumu,踩,to step on; to tread on; to trample on,踏む,10,7,1747,1450270,机器释义，经首轮浏览
+1498,11,備える,そなえる,sonaeru,准备,to furnish with; to equip with; to provide,備える,10,8,1748,1244960,机器释义，经首轮浏览
+1499,11,事務所,じむしょ,jimusho,办公室,office,事務所,10,5,1749,1314400,机器释义，经首轮浏览
+1500,11,邪魔,じゃま,jama,阻碍,hindrance; obstacle; nuisance,邪魔,10,7,1750,1323500,机器释义，经首轮浏览
+1501,11,同僚,どうりょう,douryou,同事们,coworker; co-worker; colleague,同僚,10,5,1752,1453580,机器释义，经首轮浏览
+1502,11,恐れ,おそれ,osore,恐惧,fear; horror; anxiety,恐れ,10,7,1753,1236660,机器释义，经首轮浏览
+1503,11,論文,ろんぶん,ronbun,论文,thesis; essay; treatise,論文,10,5,1754,1561840,机器释义，经首轮浏览
+1504,11,植える,うえる,ueru,种植,to plant; to grow; to raise,植える,10,4,1755,1357250,人工修订
+1505,11,建築,けんちく,kenchiku,建筑,construction; architecture (of buildings),建築,10,6,1756,1257500,机器释义，经首轮浏览
+1506,11,問い合わせる,といあわせる,toiawaseru,询问,to enquire; to inquire; to seek information,問い合わせる,10,5,1757,1535960,机器释义，经首轮浏览
+1507,11,時々,ときどき,tokidoki,有时,sometimes; occasionally; at times,時々,10,7,1759,1598680,机器释义，经首轮浏览
+1508,11,応援,おうえん,ouen,支持；助威；援助,aid; assistance; help,応援,10,6,1761,1179840,人工修订
+1509,11,外す,はずす,hazusu,取下；去除；偏离,to remove; to take off; to detach,外す,10,6,1762,1203270,人工修订
+1510,11,椅子,いす,isu,椅子,chair; seat; stool,椅子,10,4,1763,1157070,机器释义，经首轮浏览
+1511,11,会議室,かいぎしつ,kaigishitsu,会议室,conference room; council room,会議室,10,4,1764,1198380,机器释义，经首轮浏览
+1512,11,顧客,こきゃく,kokyaku,顾客,customer; client; patron,顧客,10,7,1765,1578540,机器释义，经首轮浏览
+1513,11,飽きる,あきる,akiru,感到无聊,to get tired of; to tire of; to lose interest in,飽きる,10,6,1766,1586250,机器释义，经首轮浏览
+1514,11,滅びる,ほろびる,horobiru,灭亡,to go to ruin; to go under; to fall,滅びる,10,4,1767,1603610,机器释义，经首轮浏览
+1515,11,負ける,まける,makeru,输；败给,to lose; to be defeated; to be beaten,負ける,10,6,1768,1497980,人工修订
+1516,11,引退,いんたい,intai,退休,retirement,引退,10,6,1769,1169610,机器释义，经首轮浏览
+1517,11,歌う,うたう,utau,唱歌,to sing,歌う,10,7,1770,1588120,机器释义，经首轮浏览
+1518,11,株式会社,かぶしきがいしゃ,kabushikigaisha,有限公司,stock company; corporation; kabushiki kaisha,株式会社,10,6,1771,1208980,机器释义，经首轮浏览
+1519,11,飼育,しいく,shiiku,饲养,breeding; raising; rearing,飼育,10,1,1772,1312980,人工修订
+1520,11,刈る,かる,karu,割草,"to cut (grass, hair, etc.); to mow; to clip",かる,10,8,1773,1209540,机器释义，经首轮浏览
+1521,11,拡大,かくだい,kakudai,展开,expansion; extension,拡大,10,5,1774,1205200,机器释义，经首轮浏览
+1522,11,自動化,じどうか,jidouka,自动化,automation,自動化,10,4,1775,1318370,机器释义，经首轮浏览
+1523,11,嘘,うそ,uso,谎言,lie; fib; falsehood,嘘,10,3,1776,1172400,机器释义，经首轮浏览
+1524,11,側面,そくめん,sokumen,侧面,side; flank; profile,側面,10,7,1777,1404040,机器释义，经首轮浏览
+1525,11,付き合い,つきあい,tsukiai,社交,association; socializing; socialising,付き合い,10,5,1778,1495640,机器释义，经首轮浏览
+1526,11,営み,いとなみ,itonami,运营,activity; action; performance,営み,10,5,1780,1173410,机器释义，经首轮浏览
+1527,11,次々,つぎつぎ,tsugitsugi,一个又一个,in succession; one by one,次々,10,7,1781,1597850,机器释义，经首轮浏览
+1528,11,知的,ちてき,chiteki,智力方面的；有知识的,intellectual,知的,10,5,1782,1420650,人工修订
+1529,11,回る,まわる,mawaru,旋转,to turn; to rotate; to revolve,回る,10,7,1784,1604300,机器释义，经首轮浏览
+1530,11,南,みなみ,minami,南,south,南,10,5,1785,1459870,机器释义，经首轮浏览
+1531,11,携帯,けいたい,keitai,携带；手机（简称）,carrying (on one's person or in the hand),携帯,10,5,1786,1250680,人工修订
+1532,11,高級,こうきゅう,koukyuu,奢华,high-class; high-grade; high-quality,高級,10,3,1787,1283400,机器释义，经首轮浏览
+1533,11,掃除,そうじ,souji,清洁,cleaning; sweeping; dusting,掃除,10,4,1788,1399790,机器释义，经首轮浏览
+1534,11,需要,じゅよう,juyou,需求,demand; need,需要,10,5,1789,1330450,机器释义，经首轮浏览
+1535,11,幼虫,ようちゅう,youchuu,幼虫,larva; grub; maggot,幼虫,10,2,1790,1545270,机器释义，经首轮浏览
+1536,11,ちょうど,ちょうど,choudo,恰好；正好,exactly; precisely; just,丁度,10,8,1791,1427340,人工修订
+1537,11,外国,がいこく,gaikoku,外国,foreign country,外国,10,4,1792,1203620,机器释义，经首轮浏览
+1538,11,大きさ,おおきさ,ookisa,尺寸,size; dimensions; volume,大きさ,10,9,1793,1412910,机器释义，经首轮浏览
+1539,11,冷静,れいせい,reisei,冷静,calmness; composure; coolness,冷静,10,5,1794,1557050,机器释义，经首轮浏览
+1540,11,乗り越える,のりこえる,norikoeru,克服它,to climb over; to get over; to cross (a mountain),乗り越える,10,5,1795,1354770,机器释义，经首轮浏览
+1541,11,降りる,おりる,oriru,下车,to descend (e.g. a mountain); to go down; to come down,下りる,10,5,1796,1589500,机器释义，经首轮浏览
+1542,11,かつて,かつて,katsute,从前,once; before; formerly,嘗て,10,8,1797,1581210,机器释义，经首轮浏览
+1543,11,機器,きき,kiki,设备,device; equipment; machinery,機器,10,5,1798,1220900,机器释义，经首轮浏览
+1544,11,竜,りゅう,ryuu,龙,dragon (esp. a Chinese dragon),竜,10,6,1799,1629170,机器释义，经首轮浏览
+1545,11,市場,しじょう,shijou,市场,"market (financial, stock, domestic, etc.); marketplace; exchange",市場,10,5,1800,1308305,机器释义，经首轮浏览
+1546,11,激しい,はげしい,hageshii,激烈,violent; furious; tempestuous,激しい,10,8,1801,1600720,机器释义，经首轮浏览
+1547,11,登山,とざん,tozan,登山,mountain climbing; mountaineering; ascent of a mountain,登山,10,5,1803,1444780,人工修订
+1548,11,無事,ぶじ,buji,安全,safety; security; peace,無事,10,8,1804,1530030,机器释义，经首轮浏览
+1549,11,苦しい,くるしい,kurushii,痛苦,painful; difficult; tough,苦しい,10,3,1806,1244320,机器释义，经首轮浏览
+1550,11,発明,はつめい,hatsumei,发明,invention,発明,10,5,1807,1477910,机器释义，经首轮浏览
+1551,11,形成,けいせい,keisei,形成,formation; molding; making (up),形成,10,6,1809,1250360,人工修订
+1552,11,生息,せいそく,seisoku,栖息,inhabiting; living,生息,10,3,1810,1379220,人工修订
+1553,11,承知,しょうち,shouchi,知道；同意；明白,knowledge; awareness,承知,10,4,1811,1349480,人工修订
+1554,11,宇宙,うちゅう,uchuu,宇宙,universe; cosmos; space,宇宙,10,5,1813,1171300,机器释义，经首轮浏览
+1555,11,段階,だんかい,dankai,阶段,stage; step; phase,段階,10,5,1814,1419950,人工修订
+1556,11,振る舞い,ふるまい,furumai,行为,behavior; behaviour; conduct,振る舞い,10,5,1816,1952740,机器释义，经首轮浏览
+1557,11,生地,きじ,kiji,面料,cloth; fabric; material,生地,10,4,1817,1379330,机器释义，经首轮浏览
+1558,11,かに,かに,kani,螃蟹,crab,蟹,10,2,1818,1202410,机器释义，经首轮浏览
+1559,11,連れる,つれる,tsureru,带领；带着某人,to take (someone) with one; to bring along; to go with,連れる,9,6,1822,1559290,人工修订
+1560,11,休み,やすみ,yasumi,休息,rest; recess; respite,休み,9,3,1823,1227500,机器释义，经首轮浏览
+1561,11,順調,じゅんちょう,junchou,进展顺利,favourable; favorable; doing well,順調,9,7,1824,1342380,机器释义，经首轮浏览
+1562,11,配慮,はいりょ,hairyo,考虑因素,consideration; concern; attention,配慮,9,6,1827,1473210,机器释义，经首轮浏览
+1563,11,目立つ,めだつ,medatsu,脱颖而出,to be conspicuous; to stand out,目立つ,9,6,1828,1535700,机器释义，经首轮浏览
+1564,11,ずいぶん,ずいぶん,zuibun,很多,very; extremely; surprisingly,随分,9,6,1829,1372800,机器释义，经首轮浏览
+1565,11,相互,そうご,sougo,相互,mutual; reciprocal,相互,9,4,1830,1596370,机器释义，经首轮浏览
+1566,11,限定,げんてい,gentei,有限,limit; restriction,限定,9,7,1831,1264670,机器释义，经首轮浏览
+1567,11,売り,うり,uri,出售,sale; selling,売り,9,5,1832,1854880,机器释义，经首轮浏览
+1568,11,在住,ざいじゅう,zaijuu,居住,residing; living; dwelling,在住,9,4,1833,1296500,机器释义，经首轮浏览
+1569,11,従来,じゅうらい,juurai,以往；从前,up to now; so far,従来,9,6,1834,1335400,人工修订
+1570,11,実家,じっか,jikka,父母之家,(one's parents') home,実家,9,5,1835,1320900,机器释义，经首轮浏览
+1571,11,退屈,たいくつ,taikutsu,无聊,tedious; boring; dull,退屈,9,7,1836,1596750,机器释义，经首轮浏览
+1572,11,重ねる,かさねる,kasaneru,重叠,to pile up; to heap up; to stack up,重ねる,9,7,1837,1335830,机器释义，经首轮浏览
+1573,11,飲む,のむ,nomu,喝,to drink; to swallow; to take (medicine),飲む,9,6,1838,1169870,机器释义，经首轮浏览
+1574,12,解く,とく,toku,解决,to untie; to unfasten; to unwrap,解く,9,4,1839,1198890,机器释义，经首轮浏览
+1575,12,業績,ぎょうせき,gyouseki,成就,achievement; performance; results,業績,9,7,1840,1239460,机器释义，经首轮浏览
+1576,12,付き合う,つきあう,tsukiau,交往；陪同；谈恋爱,to associate with; to keep company with; to go out with,付き合う,9,6,1841,1597790,人工修订
+1577,12,容易,ようい,youi,简单,easy; simple; plain,容易,9,7,1842,1545350,机器释义，经首轮浏览
+1578,12,甘い,あまい,amai,甜蜜,sweet-tasting; sweet; sugary,甘い,9,7,1843,1213400,机器释义，经首轮浏览
+1579,12,成績,せいせき,seiseki,成绩,results; record; grades,成績,9,6,1844,1375760,机器释义，经首轮浏览
+1580,12,処理,しょり,shori,加工,processing; dealing with; treatment,処理,9,8,1845,1342510,机器释义，经首轮浏览
+1581,12,貸す,かす,kasu,借出,to lend; to loan,貸す,9,7,1846,1411160,机器释义，经首轮浏览
+1582,12,医者,いしゃ,isha,医生,doctor; physician,医者,9,6,1848,1159980,机器释义，经首轮浏览
+1583,12,好み,このみ,konomi,偏好,liking; taste; fancy,好み,9,6,1849,1277500,机器释义，经首轮浏览
+1584,12,舞台,ぶたい,butai,舞台,"stage (of a theatre, concert hall, etc.)",舞台,9,7,1850,1499150,机器释义，经首轮浏览
+1585,12,体制,たいせい,taisei,系统,order; system; structure,体制,9,6,1851,1409550,机器释义，经首轮浏览
+1586,12,交通,こうつう,koutsuu,交通,traffic; transportation,交通,9,4,1852,1272280,机器释义，经首轮浏览
+1587,12,幼い,おさない,osanai,年幼；幼稚,very young; little,幼い,9,5,1853,1545110,人工修订
+1588,12,夏休み,なつやすみ,natsuyasumi,暑假,summer vacation; summer holiday,夏休み,9,5,1854,1191420,机器释义，经首轮浏览
+1589,12,具合,ぐあい,guai,条件,condition; state,具合,9,6,1855,1592500,机器释义，经首轮浏览
+1590,12,図,ず,zu,图,drawing; picture; diagram,図,9,5,1856,1370320,机器释义，经首轮浏览
+1591,12,完璧,かんぺき,kanpeki,完美,perfect; complete; flawless,完璧,9,3,1858,1590970,机器释义，经首轮浏览
+1592,12,腕,うで,ude,手臂,arm,腕,9,5,1860,1562850,机器释义，经首轮浏览
+1593,12,座る,すわる,suwaru,坐,to sit (down); to have a seat; to be seated,座る,9,7,1861,1291800,机器释义，经首轮浏览
+1594,12,職業,しょくぎょう,shokugyou,职业,occupation; profession; job,職業,9,7,1862,1357510,机器释义，经首轮浏览
+1595,12,聞こえる,きこえる,kikoeru,听得见；听起来,to be heard; to be audible; to reach one's ears,聞こえる,9,8,1863,1591150,人工修订
+1596,12,存続,そんぞく,sonzoku,存续；继续存在,continuance; survival; persistence,存続,9,4,1864,1406190,人工修订
+1597,12,許容,きょよう,kyoyou,宽容度,permission; allowance; acceptance,許容,9,7,1865,1232910,机器释义，经首轮浏览
+1598,12,掲載,けいさい,keisai,刊登；登载,publication (e.g. of an article in a newspaper); carrying (e.g. a story); running (e.g. a serial),掲載,9,6,1867,1250610,人工修订
+1599,12,年度,ねんど,nendo,年度,fiscal year (usu. April 1 to March 31 in Japan); financial year,年度,9,5,1868,1469050,人工修订
+1600,12,出席,しゅっせき,shusseki,出席情况,attendance; presence; appearance,出席,9,2,1869,1339460,机器释义，经首轮浏览
+1601,12,申込書,もうしこみしょ,moushikomisho,申请表,(written) application; application form,申込書,9,4,1870,1605150,机器释义，经首轮浏览
+1602,12,書式,しょしき,shoshiki,格式,prescribed form (of writing); format,書式,9,3,1871,1344060,机器释义，经首轮浏览
+1603,12,確かめる,たしかめる,tashikameru,检查,to make sure; to check; to ascertain,確かめる,9,7,1872,1205780,机器释义，经首轮浏览
+1604,12,自社,じしゃ,jisha,我们公司,one's company; company one works for,自社,9,5,1873,1317850,机器释义，经首轮浏览
+1605,12,やつ,やつ,yatsu,家伙（口语）,fellow; guy; chap,奴,9,5,1875,1445640,人工修订
+1606,12,定着,ていちゃく,teichaku,固定下来；扎根；稳定留存,"sticking (in one place, position, etc.); settling; fixing",定着,9,7,1877,1435730,人工修订
+1607,12,出会う,であう,deau,相遇,to meet (by chance); to come across; to run across,出会う,9,5,1880,1598530,机器释义，经首轮浏览
+1608,12,先週,せんしゅう,senshuu,上周,last week; the week before,先週,9,6,1881,1387870,机器释义，经首轮浏览
+1609,12,逃す,のがす,nogasu,错过,to miss (e.g. a chance); to lose; to let get away,逃す,9,8,1882,1450430,机器释义，经首轮浏览
+1610,12,前向き,まえむき,maemuki,积极,front-facing,前向き,9,4,1883,1392970,机器释义，经首轮浏览
+1611,12,治療,ちりょう,chiryou,治疗,(medical) treatment; care; therapy,治療,9,6,1884,1316890,机器释义，经首轮浏览
+1612,12,調節,ちょうせつ,chousetsu,调整,regulation; adjustment; control,調節,9,3,1886,1429240,机器释义，经首轮浏览
+1613,12,緩和,かんわ,kanwa,缓解措施,relief; mitigation; alleviation,緩和,9,4,1887,1214530,机器释义，经首轮浏览
+1614,12,遠い,とおい,tooi,远,far; distant; far away,遠い,9,6,1888,1177800,机器释义，经首轮浏览
+1615,12,好む,このむ,konomu,喜欢,to like; to prefer,好む,9,7,1889,1277520,机器释义，经首轮浏览
+1616,12,痛い,いたい,itai,很痛,painful; sore,痛い,9,7,1891,1432680,机器释义，经首轮浏览
+1617,12,画家,がか,gaka,画家,painter; artist,画家,9,4,1892,1197120,机器释义，经首轮浏览
+1618,12,きっと,きっと,kitto,当然,surely; undoubtedly; almost certainly,きっと,9,6,1893,1003430,机器释义，经首轮浏览
+1619,12,愛情,あいじょう,aijou,爱,love; affection,愛情,9,3,1894,1150860,机器释义，经首轮浏览
+1620,12,内訳,うちわけ,uchiwake,明细；组成详情,itemization (of expenses); the items; breakdown,内訳,9,2,1895,1459360,人工修订
+1621,12,事件,じけん,jiken,事件,event; affair; incident,事件,9,6,1896,1313830,机器释义，经首轮浏览
+1622,12,あふれる,あふれる,afureru,溢出,to overflow; to brim over; to flood,溢れる,9,6,1897,1167610,机器释义，经首轮浏览
+1623,12,平日,へいじつ,heijitsu,工作日,weekday; ordinary days (i.e. non-holiday),平日,9,4,1898,1507720,机器释义，经首轮浏览
+1624,12,仲間,なかま,nakama,朋友,companion; fellow; friend,仲間,9,5,1899,1425790,机器释义，经首轮浏览
+1625,12,得,とく,toku,增益,profit; advantage; benefit,得,9,6,1900,1454490,机器释义，经首轮浏览
+1626,12,とにかく,とにかく,tonikaku,无论如何,anyway; anyhow; at any rate,兎に角,9,7,1901,1443990,机器释义，经首轮浏览
+1627,12,見つめる,みつめる,mitsumeru,凝视,to stare (at); to gaze (at); to look hard (at),見詰める,9,5,1902,1604580,机器释义，经首轮浏览
+1628,12,真理,しんり,shinri,真相,truth,真理,9,3,1904,1364400,机器释义，经首轮浏览
+1629,12,眺める,ながめる,nagameru,看,to look at; to gaze at; to watch,眺める,9,6,1908,1428830,机器释义，经首轮浏览
+1630,12,怠る,おこたる,okotaru,忽视,to neglect; to be negligent in; to be neglectful of,怠る,9,4,1909,1410710,机器释义，经首轮浏览
+1631,12,見落とす,みおとす,miotosu,看漏；忽略,to overlook; to fail to notice; to miss (seeing),見落とす,9,3,1910,1260140,人工修订
+1632,12,辞書,じしょ,jisho,字典,dictionary; lexicon,辞書,9,5,1911,1318970,机器释义，经首轮浏览
+1633,12,図面,ずめん,zumen,图纸,drawing; diagram; plans,図面,9,1,1912,1370520,人工修订
+1634,12,本番,ほんばん,honban,实际表现,performance (as opposed to practice); going before an audience or on-air; take,本番,9,4,1914,1523150,机器释义，经首轮浏览
+1635,12,洗剤,せんざい,senzai,洗涤剂,detergent; cleanser; cleaning agent,洗剤,9,3,1915,1390950,机器释义，经首轮浏览
+1636,12,湯,ゆ,yu,热水,hot water,湯,9,2,1916,1448580,机器释义，经首轮浏览
+1637,12,勝手,かって,katte,自私,one's own convenience; one's way; selfishness,勝手,9,6,1917,1346190,机器释义，经首轮浏览
+1638,12,削減,さくげん,sakugen,减少,cut; reduction; curtailment,削減,9,5,1919,1298110,机器释义，经首轮浏览
+1639,12,生き生き,いきいき,ikiiki,活泼,in a lively way; vividly; freshly,生き生き,9,6,1920,1609130,机器释义，经首轮浏览
+1640,12,元気,げんき,genki,元气,lively; full of spirit; energetic,元気,9,5,1921,1260720,机器释义，经首轮浏览
+1641,12,だめ,だめ,dame,不行；无用,no good; not serving its purpose; useless,駄目,9,7,1922,1409110,人工修订
+1642,12,毎回,まいかい,maikai,每次,every time; each round,毎回,9,6,1924,1524670,机器释义，经首轮浏览
+1643,12,配布,はいふ,haifu,分配,distribution,配布,9,3,1925,1473190,机器释义，经首轮浏览
+1644,12,不正,ふせい,fusei,欺诈,injustice; unfairness; wrongdoing,不正,9,3,1926,1493370,机器释义，经首轮浏览
+1645,12,可愛い,かわいい,kawaii,可爱,cute; adorable; charming,可愛い,9,7,1927,1577200,机器释义，经首轮浏览
+1646,12,俳優,はいゆう,haiyuu,演员,actor; actress; player,俳優,9,6,1928,1471970,机器释义，经首轮浏览
+1647,12,個体,こたい,kotai,个体,individual; specimen,個体,9,4,1929,1264980,人工修订
+1648,12,下げる,さげる,sageru,降低,to hang; to suspend; to wear (e.g. decoration),下げる,9,5,1930,1184170,机器释义，经首轮浏览
+1649,12,思い出,おもいで,omoide,回忆,memories; recollections; reminiscence,思い出,9,7,1932,1589340,机器释义，经首轮浏览
+1650,12,既存,きそん,kison,现有,existing,既存,9,4,1933,1220450,机器释义，经首轮浏览
+1651,12,味わう,あじわう,ajiwau,味道,to taste; to savor; to savour,味わう,9,6,1934,1527010,机器释义，经首轮浏览
+1652,12,磨く,みがく,migaku,磨；擦亮；磨炼,to polish; to shine; to burnish,磨く,9,6,1935,1523940,人工修订
+1653,12,会費,かいひ,kaihi,会员费,membership fee,会費,9,1,1936,1198860,机器释义，经首轮浏览
+1654,12,濃い,こい,koi,浓；深（颜色）；密,deep (colour); dark,濃い,9,6,1938,1469890,人工修订
+1655,12,公共,こうきょう,koukyou,公共,"public (facilities, service, etc.); communal",公共,9,4,1939,1273510,机器释义，经首轮浏览
+1656,12,伸びる,のびる,nobiru,伸长；增长,to stretch; to extend; to lengthen,伸びる,9,6,1940,1358870,人工修订
+1657,12,橋,はし,hashi,桥,bridge,橋,9,2,1941,1237410,机器释义，经首轮浏览
+1658,12,促す,うながす,unagasu,促使；催促,to urge; to encourage; to press,促す,9,8,1942,1403760,人工修订
+1659,12,民家,みんか,minka,私人住宅,private house,民家,9,4,1944,1528620,机器释义，经首轮浏览
+1660,12,法則,ほうそく,housoku,规律；法则,law; rule,法則,9,3,1945,1517380,人工修订
+1661,12,天候,てんこう,tenkou,天气,weather,天候,9,8,1946,1438970,机器释义，经首轮浏览
+1662,12,昆虫,こんちゅう,konchuu,昆虫,insect; bug,昆虫,9,4,1947,1289980,机器释义，经首轮浏览
+1663,12,家電,かでん,kaden,家用电器,household (electrical) appliances; home appliances; consumer electronics,家電,9,4,1948,1192380,机器释义，经首轮浏览
+1664,12,ちゃんと,ちゃんと,chanto,正确地,diligently; seriously; earnestly,ちゃんと,9,7,1949,1007720,机器释义，经首轮浏览
+1665,12,あらかじめ,あらかじめ,arakajime,提前,beforehand; in advance; ahead of time,予め,9,6,1950,1542860,机器释义，经首轮浏览
+1666,12,習得,しゅうとく,shuutoku,学会；掌握,"learning; acquisition (of a skill, knowledge, etc.)",習得,9,4,1952,1594750,人工修订
+1667,12,陶芸,とうげい,tougei,陶瓷,ceramic art; ceramics,陶芸,9,2,1953,1450620,机器释义，经首轮浏览
+1668,12,生き方,いきかた,ikikata,生活方式,way of life; how to live,生き方,9,7,1954,1587100,机器释义，经首轮浏览
+1669,12,叱る,しかる,shikaru,责骂,to scold; to chide; to rebuke,叱る,9,4,1955,1319580,机器释义，经首轮浏览
+1670,12,旅行者,りょこうしゃ,ryokousha,旅行者,traveller; traveler,旅行者,9,3,1957,1553180,机器释义，经首轮浏览
+1671,12,前提,ぜんてい,zentei,前提,condition; assumption; prerequisite,前提,9,5,1958,1393680,机器释义，经首轮浏览
+1672,12,冷たい,つめたい,tsumetai,冷,cold (to the touch); chilly; icy,冷たい,9,4,1959,1556730,机器释义，经首轮浏览
+1673,12,中身,なかみ,nakami,内容,contents; interior; filling,中身,9,7,1961,1599430,机器释义，经首轮浏览
+1674,12,回数,かいすう,kaisuu,次数,number of times; frequency; count,回数,9,6,1962,1199510,机器释义，经首轮浏览
+1675,12,冬,ふゆ,fuyu,冬天,winter,冬,9,5,1963,1446070,机器释义，经首轮浏览
+1676,12,利点,りてん,riten,优点,advantage; point in favor; point in favour,利点,9,7,1964,1549620,机器释义，经首轮浏览
+1677,12,田舎,いなか,inaka,乡村,rural area; countryside; the sticks,田舎,9,3,1965,1442750,机器释义，经首轮浏览
+1678,12,解説,かいせつ,kaisetsu,说明,explanation; commentary; exposition,解説,9,4,1968,1199080,机器释义，经首轮浏览
+1679,12,林業,りんぎょう,ringyou,林业,forestry,林業,9,3,1969,1555470,机器释义，经首轮浏览
+1680,12,兄,あに,ani,哥哥,older brother; elder brother,兄,9,7,1970,1249900,人工修订
+1681,12,整備,せいび,seibi,维护保养,maintenance; servicing,整備,9,6,1971,1376240,机器释义，经首轮浏览
+1682,12,概要,がいよう,gaiyou,概述,outline; summary; overview,概要,9,4,1972,1204500,机器释义，经首轮浏览
+1683,12,制限,せいげん,seigen,局限性,restriction; restraint; limitation,制限,9,6,1973,1374700,机器释义，经首轮浏览
+1684,12,通常,つうじょう,tsuujou,正常,usual; ordinary; normal,通常,9,6,1974,1433280,机器释义，经首轮浏览
+1685,12,劇場,げきじょう,gekijou,剧院,theatre; theater; playhouse,劇場,9,4,1975,1253410,机器释义，经首轮浏览
+1686,12,作動,さどう,sadou,操作,operation; functioning; running,作動,9,2,1976,1297890,机器释义，经首轮浏览
+1687,12,対戦,たいせん,taisen,战斗,fighting (against); taking on (an opponent); facing,対戦,9,3,1977,1410190,机器释义，经首轮浏览
+1688,12,目安,めやす,meyasu,指南,criterion; standard; yardstick,目安,9,3,1978,1535280,机器释义，经首轮浏览
+1689,12,土壌,どじょう,dojou,土壤,soil,土壌,9,2,1979,1445380,机器释义，经首轮浏览
+1690,12,優秀,ゆうしゅう,yuushuu,非常好,superior; excellent; brilliant,優秀,9,7,1980,1539230,机器释义，经首轮浏览
+1691,12,普及,ふきゅう,fukyuu,普及,diffusion; spread; popularization,普及,9,7,1981,1497110,机器释义，经首轮浏览
+1692,12,東,ひがし,higashi,东,east,東,9,4,1983,1447440,机器释义，经首轮浏览
+1693,12,想像力,そうぞうりょく,souzouryoku,想象力,(power of) imagination,想像力,9,2,1985,1749300,机器释义，经首轮浏览
+1694,12,一種,いっしゅ,isshu,一种,a kind; a sort; a variety,一種,9,6,1986,1163170,人工修订
+1695,12,前日,ぜんじつ,zenjitsu,前一天,previous day; day before; eve,前日,9,4,1989,1393790,机器释义，经首轮浏览
+1696,12,出席者,しゅっせきしゃ,shussekisha,出席者,attendee; participant; person present,出席者,9,3,1990,1339470,机器释义，经首轮浏览
+1697,12,歌舞伎,かぶき,kabuki,歌舞伎,kabuki; traditional form of drama and music performed by male actors wearing makeup mainly in white and red,歌舞伎,9,2,1991,1193420,机器释义，经首轮浏览
+1698,12,書籍,しょせき,shoseki,书籍,book; publication,書籍,9,4,1992,1344090,机器释义，经首轮浏览
+1699,12,実力,じつりょく,jitsuryoku,能力,(real) ability; true strength; merit,実力,9,5,1994,1321530,机器释义，经首轮浏览
+1700,12,当たり前,あたりまえ,atarimae,理所当然；正常,natural; reasonable; obvious,当たり前,9,5,1995,1448800,人工修订
+1701,12,発酵,はっこう,hakkou,发酵,fermentation; zymosis,発酵,9,2,1999,1477450,机器释义，经首轮浏览
+1702,12,望ましい,のぞましい,nozomashii,理想,desirable; hoped for; preferable,望ましい,9,5,2000,1519610,机器释义，经首轮浏览
+1703,12,振替,ふりかえ,furikae,转乘,transfer; switching over; change,振り替え,9,1,2001,1602920,机器释义，经首轮浏览
+1704,12,検査,けんさ,kensa,检查,"inspection (e.g. customs, factory); examination; test",検査,9,4,2003,1257890,机器释义，经首轮浏览
+1705,12,海老,えび,ebi,虾,prawn; shrimp; lobster,蝦,9,2,2004,1588720,机器释义，经首轮浏览
+1706,12,読み返す,よみかえす,yomikaesu,重读,to reread; to read again,読み返す,9,3,2005,1456320,机器释义，经首轮浏览
+1707,12,未熟,みじゅく,mijuku,不成熟,unripe; green; immature,未熟,9,2,2006,1527560,机器释义，经首轮浏览
+1708,12,羽毛,うもう,umou,羽毛,feather; plume; plumage,羽毛,9,1,2007,1171810,机器释义，经首轮浏览
+1709,12,宅配,たくはい,takuhai,交货,home delivery,宅配,9,2,2008,1415780,机器释义，经首轮浏览
+1710,12,棋士,きし,kishi,将棋棋手,professional shogi player; professional go player,棋士,9,1,2009,1220640,机器释义，经首轮浏览
+1711,12,当初,とうしょ,tousho,最初,beginning; start; outset,当初,8,7,2010,1449110,机器释义，经首轮浏览
+1712,12,週,しゅう,shuu,周,week,週,8,5,2011,1333450,机器释义，经首轮浏览
+1713,12,家庭,かてい,katei,家,home; household; family,家庭,8,6,2012,1192280,机器释义，经首轮浏览
+1714,12,流す,ながす,nagasu,流动,to drain; to pour; to run,流す,8,4,2013,1552120,机器释义，经首轮浏览
+1715,12,漢字,かんじ,kanji,汉字,kanji; Chinese character,漢字,8,6,2014,1213170,机器释义，经首轮浏览
+1716,12,了承,りょうしょう,ryoushou,理解并同意,acknowledgement; acknowledgment; understanding,了承,8,5,2016,1606280,人工修订
+1717,13,手配,てはい,tehai,安排,arrangement; preparations,手配,8,6,2017,1328260,机器释义，经首轮浏览
+1718,13,半ば,なかば,nakaba,中,middle; halfway; midway,半ば,8,4,2018,1478780,机器释义，经首轮浏览
+1719,13,いったん,いったん,ittan,一次,once,一旦,8,6,2019,1164650,机器释义，经首轮浏览
+1720,13,辺,へん,hen,侧面,area; vicinity; region,辺,8,3,2021,1512070,机器释义，经首轮浏览
+1721,13,相撲,すもう,sumou,相扑,sumo (wrestling),相撲,8,2,2022,1401360,机器释义，经首轮浏览
+1722,13,伝統,でんとう,dentou,传统,tradition; convention,伝統,8,7,2023,1442260,机器释义，经首轮浏览
+1723,13,格好,かっこう,kakkou,外观,shape; form; figure,格好,8,5,2024,1590480,机器释义，经首轮浏览
+1724,13,流れる,ながれる,nagareru,流动,"to stream; to flow (liquid, time, etc.); to run (ink)",流れる,8,7,2025,1552140,机器释义，经首轮浏览
+1725,13,落ち着く,おちつく,ochitsuku,冷静下来,to calm down; to compose oneself; to regain presence of mind,落ち着く,8,6,2026,1589220,机器释义，经首轮浏览
+1726,13,気楽,きらく,kiraku,随和,carefree; comfortable; at ease,気楽,8,5,2027,1222010,机器释义，经首轮浏览
+1727,13,努める,つとめる,tsutomeru,努力,to endeavor (to do); to endeavour; to try hard,努める,8,6,2029,1240820,机器释义，经首轮浏览
+1728,13,熱い,あつい,atsui,热,hot (to the touch),熱い,8,3,2030,1467720,机器释义，经首轮浏览
+1729,13,左右,さゆう,sayuu,左、右,left and right; right and left,左右,8,8,2031,1290810,机器释义，经首轮浏览
+1730,13,開拓,かいたく,kaitaku,发展,reclamation (e.g. of wasteland); cultivation; development,開拓,8,6,2032,1202830,机器释义，经首轮浏览
+1731,13,視野,しや,shiya,视野,field of vision; view,視野,8,5,2033,1312140,机器释义，经首轮浏览
+1732,13,労働,ろうどう,roudou,劳工,labor; labour; work,労働,8,6,2035,1606450,机器释义，经首轮浏览
+1733,13,取得,しゅとく,shutoku,取得；获得,"obtaining (a qualification, right, object, etc.); acquisition (of land, property, etc.); gaining possession (of)",取得,8,5,2036,1327070,人工修订
+1734,13,歩み,あゆみ,ayumi,步骤,walking,歩,8,5,2037,1514330,机器释义，经首轮浏览
+1735,13,遠慮,えんりょ,enryo,客气；顾虑；婉拒,reserve; constraint; restraint,遠慮,8,6,2038,1178450,人工修订
+1736,13,近所,きんじょ,kinjo,邻里,neighbourhood; neighborhood; vicinity,近所,8,5,2039,1242350,机器释义，经首轮浏览
+1737,13,ありがたい,ありがたい,arigatai,值得感谢；难得可贵,grateful; thankful; welcome,有り難い,8,6,2040,1541560,人工修订
+1738,13,円滑,えんかつ,enkatsu,光滑,smooth; undisturbed; uninterrupted,円滑,8,4,2041,1576570,机器释义，经首轮浏览
+1739,13,深刻,しんこく,shinkoku,严肃,serious; severe; grave,深刻,8,6,2043,1362730,机器释义，经首轮浏览
+1740,13,両親,りょうしん,ryoushin,父母,parents; both parents,両親,8,7,2044,1602710,机器释义，经首轮浏览
+1741,13,窓,まど,mado,窗户,window,窓,8,6,2045,1401400,机器释义，经首轮浏览
+1742,13,聞き取る,ききとる,kikitoru,听清；听懂,to catch (someone's words); to make out; to follow,聞き取る,8,5,2046,1505800,人工修订
+1743,13,経緯,けいい,keii,背景,details; particulars; sequence of events,経緯,8,4,2047,1251120,机器释义，经首轮浏览
+1744,13,視察,しさつ,shisatsu,检查,inspection; observation,視察,8,1,2048,1312040,机器释义，经首轮浏览
+1745,13,体力,たいりょく,tairyoku,体力,physical strength; power; stamina,体力,8,7,2049,1409760,人工修订
+1746,13,突然,とつぜん,totsuzen,突然,abrupt; sudden; unexpected,突然,8,8,2050,1457040,机器释义，经首轮浏览
+1747,13,つい,つい,tsui,只是,just (now),つい,8,7,2051,1008030,机器释义，经首轮浏览
+1748,13,指示,しじ,shiji,说明,indication; denotation; designation,指示,8,5,2052,1309800,机器释义，经首轮浏览
+1749,13,散歩,さんぽ,sanpo,步行,walk; stroll,散歩,8,4,2053,1303620,机器释义，经首轮浏览
+1750,13,すなわち,すなわち,sunawachi,即,that is (to say); namely; i.e.,即ち,8,6,2054,1404100,机器释义，经首轮浏览
+1751,13,まるで,まるで,marude,就像,as if; as though; just like,丸で,8,7,2055,1216280,机器释义，经首轮浏览
+1752,13,不幸,ふこう,fukou,不快乐,unhappiness; sorrow; misfortune,不幸,8,5,2056,1492350,机器释义，经首轮浏览
+1753,13,自立,じりつ,jiritsu,独立,independence; self-reliance,自立,8,4,2057,1318880,机器释义，经首轮浏览
+1754,13,上達,じょうたつ,joutatsu,改进,"improvement (e.g. in skill, ability); advance; progress",上達,8,5,2058,1353850,机器释义，经首轮浏览
+1755,13,文句,もんく,monku,投诉,complaint; grumbling; objection,文句,8,5,2059,1505260,机器释义，经首轮浏览
+1756,13,号,ごう,gou,号；编号,number; edition; make,号,8,4,2060,1284220,人工修订
+1757,13,情報処理,じょうほうしょり,jouhoushori,信息处理,data processing; information processing,情報処理,8,2,2061,1356460,机器释义，经首轮浏览
+1758,13,決断,けつだん,ketsudan,决定,decision; determination,決断,8,5,2062,1254370,机器释义，经首轮浏览
+1759,13,死ぬ,しぬ,shinu,死亡,to die; to pass away,死ぬ,8,5,2063,1310730,机器释义，经首轮浏览
+1760,13,もろい,もろい,moroi,脆弱,brittle; fragile; weak,脆い,8,4,2064,1382220,机器释义，经首轮浏览
+1761,13,縛る,しばる,shibaru,绑定,to tie; to bind; to fasten,縛る,8,8,2065,1476050,机器释义，经首轮浏览
+1762,13,結びつく,むすびつく,musubitsuku,连接,to be related; to be connected; to be joined together,結び付く,8,5,2067,1254640,机器释义，经首轮浏览
+1763,13,方々,かたがた,katagata,人,people; (all) persons; everyone,方々,8,6,2068,1584100,机器释义，经首轮浏览
+1764,13,距離,きょり,kyori,距离,distance; range; interval,距離,8,8,2069,1232920,机器释义，经首轮浏览
+1765,13,反映,はんえい,han'ei,反映,reflection (of light),反映,8,6,2072,1601160,人工修订
+1766,13,押す,おす,osu,按,to push; to thrust; to shove,押す,8,4,2073,1180470,机器释义，经首轮浏览
+1767,13,世紀,せいき,seiki,世纪,century,世紀,8,2,2074,1373990,机器释义，经首轮浏览
+1768,13,医療,いりょう,iryou,医疗,medical treatment; medical care,医療,8,6,2075,1160140,机器释义，经首轮浏览
+1769,13,集,しゅう,shuu,收藏,collection; compilation,集,8,5,2076,1956400,机器释义，经首轮浏览
+1770,13,常識,じょうしき,joushiki,常识,common sense; good sense; common knowledge,常識,8,3,2077,1356000,机器释义，经首轮浏览
+1771,13,覆す,くつがえす,kutsugaesu,颠覆,to overturn; to capsize; to upset,覆す,8,3,2078,1501490,机器释义，经首轮浏览
+1772,13,都市,とし,toshi,城市,town; city; municipal,都市,8,6,2079,1444990,机器释义，经首轮浏览
+1773,13,承る,うけたまわる,uketamawaru,听取；接受委托（谦让语）,to hear; to be told; to know,承る,8,6,2080,1349440,人工修订
+1774,13,正直,しょうじき,shoujiki,诚实,honest; frank; candid,正直,8,3,2081,1377590,机器释义，经首轮浏览
+1775,13,先ほど,さきほど,sakihodo,早些时候,a short while ago; a moment ago; just now,先程,8,5,2082,1388170,机器释义，经首轮浏览
+1776,13,政治,せいじ,seiji,政治,politics; government,政治,8,7,2083,1375970,机器释义，经首轮浏览
+1777,13,再現,さいげん,saigen,再现；重现,reappearance; reemergence; return,再現,8,5,2085,1292640,人工修订
+1778,13,曲,きょく,kyoku,歌曲,composition; piece of music; song,曲,8,4,2086,1239700,机器释义，经首轮浏览
+1779,13,適当,てきとう,tekitou,适当,suitable; proper; appropriate,適当,8,6,2087,1437450,机器释义，经首轮浏览
+1780,13,鮭,さけ,sake,三文鱼,salmon (Salmonidae spp.),鮭,8,1,2088,1579300,机器释义，经首轮浏览
+1781,13,結婚,けっこん,kekkon,婚姻,marriage,結婚,8,5,2089,1254790,机器释义，经首轮浏览
+1782,13,盛り上がる,もりあがる,moriagaru,兴奋起来,to swell; to rise; to bulge,盛り上がる,8,4,2091,1379690,机器释义，经首轮浏览
+1783,13,経費,けいひ,keihi,费用,expenses; expenditure; outgoings,経費,8,7,2094,1251640,机器释义，经首轮浏览
+1784,13,柔らかい,やわらかい,yawarakai,软,soft; tender; supple,柔らかい,8,5,2095,1605630,机器释义，经首轮浏览
+1785,13,単に,たんに,tanni,仅仅；单纯地,simply; merely; only,単に,8,6,2096,1417030,人工修订
+1786,13,夢中,むちゅう,muchuu,着迷；专注,absorbed in; immersed in; crazy about,夢中,8,5,2097,1529500,人工修订
+1787,13,嫌う,きらう,kirau,不喜欢,to hate; to dislike; to loathe,嫌う,8,6,2099,1257250,机器释义，经首轮浏览
+1788,13,一生懸命,いっしょうけんめい,isshoukenmei,努力工作,very hard; with utmost effort; as hard as one can,一生懸命,8,6,2100,1164010,机器释义，经首轮浏览
+1789,13,完結,かんけつ,kanketsu,完结；结束,conclusion; completion,完結,8,3,2104,1211440,人工修订
+1790,13,建てる,たてる,tateru,建造,to build; to construct,建てる,8,4,2107,1257330,机器释义，经首轮浏览
+1791,13,理念,りねん,rinen,理念,"(Platonic) ideal (of how things ought to be, e.g. human rights); foundational principle; idea",理念,8,4,2108,1550060,人工修订
+1792,13,えーっと,えーっと,eetto,嗯,let me see; well; errr ...,えーと,8,6,2109,1001150,机器释义，经首轮浏览
+1793,13,写る,うつる,utsuru,拍照,to be photographed; to be projected,写る,8,5,2112,1321820,机器释义，经首轮浏览
+1794,13,衣装,いしょう,ishou,服装,clothing; costume; outfit,衣装,8,2,2114,1158760,机器释义，经首轮浏览
+1795,13,助かる,たすかる,tasukaru,获救；得到帮助,to be saved; to be rescued; to survive,助かる,8,7,2116,1344380,人工修订
+1796,13,黄色,きいろ,kiiro,黄色,yellow; amber,黄色,8,4,2117,1576760,机器释义，经首轮浏览
+1797,13,下す,くだす,kudasu,作出（决定、判断）；使下降,to make a decision; to draw a conclusion,下す,8,8,2118,1184320,人工修订
+1798,13,欲求,よっきゅう,yokkyuu,欲望,desire; want; will,欲求,8,3,2120,1547350,机器释义，经首轮浏览
+1799,13,歌手,かしゅ,kashu,歌手,singer,歌手,8,7,2121,1193290,机器释义，经首轮浏览
+1800,13,表示,ひょうじ,hyouji,显示,indication; expression; showing,表示,8,5,2122,1489610,机器释义，经首轮浏览
+1801,13,代表,だいひょう,daihyou,代表,representation; representative; delegate,代表,8,7,2123,1412170,机器释义，经首轮浏览
+1802,13,全国,ぜんこく,zenkoku,全国范围,the whole country,全国,8,6,2124,1581180,机器释义，经首轮浏览
+1803,13,攻撃,こうげき,kougeki,攻击,attack; assault; raid,攻撃,8,4,2126,1279170,机器释义，经首轮浏览
+1804,13,見事,みごと,migoto,辉煌,splendid; magnificent; excellent,見事,8,7,2127,1259620,机器释义，经首轮浏览
+1805,13,好奇心,こうきしん,koukishin,好奇心,curiosity; inquisitiveness,好奇心,8,4,2128,1277590,机器释义，经首轮浏览
+1806,13,手法,しゅほう,shuhou,方法论,technique; method,手法,8,3,2131,1328380,机器释义，经首轮浏览
+1807,13,驚き,おどろき,odoroki,惊喜,surprise; astonishment; wonder,驚き,8,7,2132,1238660,机器释义，经首轮浏览
+1808,13,すっかり,すっかり,sukkari,完全,all; completely; totally,すっかり,8,5,2133,1006110,机器释义，经首轮浏览
+1809,13,概念,がいねん,gainen,概念,general idea; concept; notion,概念,8,5,2134,1204480,机器释义，经首轮浏览
+1810,13,偉大,いだい,idai,太棒了,great; grand; magnificent,偉大,8,3,2135,1155920,机器释义，经首轮浏览
+1811,13,活躍,かつやく,katsuyaku,活跃；发挥作用,activity (esp. energetic or successful); great efforts; active participation,活躍,8,3,2136,1208450,人工修订
+1812,13,特典,とくてん,tokuten,福利,privilege; special favor; special favour,特典,8,3,2137,1455220,机器释义，经首轮浏览
+1813,13,見逃す,みのがす,minogasu,看漏；错过；放过,to miss; to overlook; to fail to notice,見逃す,8,4,2138,1604670,人工修订
+1814,13,書き直す,かきなおす,kakinaosu,重写,to write out; to make a fair copy; to rewrite,書き直す,8,5,2139,1343830,机器释义，经首轮浏览
+1815,13,寄付,きふ,kifu,捐赠,contribution; donation,寄付,8,5,2141,1591400,机器释义，经首轮浏览
+1816,13,届ける,とどける,todokeru,交付,to deliver; to forward; to send,届ける,8,3,2144,1457210,机器释义，经首轮浏览
+1817,13,羽,はね,hane,羽毛,feather; plume; down,羽根,8,3,2145,1171680,机器释义，经首轮浏览
+1818,13,得意,とくい,tokui,擅长,satisfaction; pride; triumph,得意,8,4,2148,1454510,机器释义，经首轮浏览
+1819,13,前半,ぜんはん,zenhan,上半场,first half,前半,8,6,2149,1581140,机器释义，经首轮浏览
+1820,13,品,しな,shina,货物,article; item; thing,品,8,6,2150,1583470,机器释义，经首轮浏览
+1821,13,真剣,しんけん,shinken,严肃,serious; earnest,真剣,8,5,2152,1363650,机器释义，经首轮浏览
+1822,13,水泳,すいえい,suiei,游泳,swimming,水泳,8,2,2153,1371320,机器释义，经首轮浏览
+1823,13,装置,そうち,souchi,设备,equipment; device; installation,装置,8,6,2155,1402360,机器释义，经首轮浏览
+1824,13,嘆く,なげく,nageku,哀叹,to lament; to grieve; to regret,嘆く,8,5,2159,1418090,机器释义，经首轮浏览
+1825,13,冴える,さえる,saeru,清晰；敏锐；出色,"to be clear (of a sight, sound, colour, etc.); to be bright; to be vivid",冴える,8,4,2160,1297050,人工修订
+1826,13,預かる,あずかる,azukaru,代为保管；照看,to look after; to take care of; to keep,預かる,8,4,2161,1544970,人工修订
+1827,13,片付ける,かたづける,katazukeru,清理,to put in order; to tidy up; to clean up,片付ける,8,2,2162,1511790,机器释义，经首轮浏览
+1828,13,乗り出す,のりだす,noridasu,开始着手；探出身子,to set out; to set sail,乗り出す,8,4,2163,1354940,人工修订
+1829,13,展示会,てんじかい,tenjikai,展览,exhibition,展示会,8,4,2164,1440620,机器释义，经首轮浏览
+1830,13,転職,てんしょく,tenshoku,换工作,change of job; change of occupation; career change,転職,8,6,2165,1441210,机器释义，经首轮浏览
+1831,13,作家,さっか,sakka,作家,author; writer; novelist,作家,8,5,2166,1297510,机器释义，经首轮浏览
+1832,13,言い方,いいかた,iikata,怎么说呢,way of saying (something); way of putting it; wording,言い方,8,4,2167,1264330,机器释义，经首轮浏览
+1833,13,臨む,のぞむ,nozomu,面对；参加；临近,to look out on; to overlook; to front onto,臨む,8,6,2168,1555560,人工修订
+1834,13,意思,いし,ishi,意图,intention; wish; purpose,意思,8,5,2169,1156610,机器释义，经首轮浏览
+1835,13,修業,しゅぎょう,shugyou,培训,pursuit of knowledge; studying; learning,修業,8,2,2170,1579800,机器释义，经首轮浏览
+1836,13,集合,しゅうごう,shuugou,集合,meeting up; gathering; assembly,集合,8,4,2171,1333680,机器释义，经首轮浏览
+1837,13,収集,しゅうしゅう,shuushuu,收藏,collecting; accumulating; gathering,収集,8,5,2172,1594720,机器释义，经首轮浏览
+1838,13,研究室,けんきゅうしつ,kenkyuushitsu,实验室,laboratory,研究室,8,5,2173,1258570,机器释义，经首轮浏览
+1839,13,紛失,ふんしつ,funshitsu,遗失,loss; going missing,紛失,8,4,2175,1505050,人工修订
+1840,13,装飾,そうしょく,soushoku,装修,ornament; decoration,装飾,8,2,2178,1402340,机器释义，经首轮浏览
+1841,13,請求書,せいきゅうしょ,seikyuusho,账单；付款请求书,bill; account; invoice,請求書,8,2,2180,1381330,人工修订
+1842,13,許可,きょか,kyoka,许可,permission; approval; authorization,許可,8,5,2182,1232880,机器释义，经首轮浏览
+1843,13,移住,いじゅう,ijuu,移民,migration; move; emigration,移住,8,1,2183,1158280,机器释义，经首轮浏览
+1844,13,薬,くすり,kusuri,药,medicine; pharmaceuticals; (legal) drugs,薬,8,6,2184,1538160,人工修订
+1845,13,熊,くま,kuma,熊,bear (any mammal of family Ursidae),くま,8,2,2185,1246850,机器释义，经首轮浏览
+1846,13,性能,せいのう,seinou,性能,ability; performance; efficiency,性能,8,4,2188,1375470,机器释义，经首轮浏览
+1847,13,依存,いぞん,izon,依赖性,dependence; reliance,依存,8,4,2189,1575870,机器释义，经首轮浏览
+1848,13,玉,たま,tama,球,ball; sphere; globe,球,8,1,2191,1240530,机器释义，经首轮浏览
+1849,13,整う,ととのう,totonou,安排,to be ready; to be prepared; to be arranged,整う,8,7,2192,1598800,机器释义，经首轮浏览
+1850,13,要約,ようやく,youyaku,总结,summary; digest,要約,8,3,2193,1605860,机器释义，经首轮浏览
+1851,13,州,しゅう,shuu,州,"state (of the US, Australia, India, Germany, etc.); province (e.g. of Canada); county (e.g. of the UK)",州,8,1,2194,1331840,人工修订
+1852,13,書店,しょてん,shoten,书店,bookshop; bookstore,書店,8,3,2195,1344120,机器释义，经首轮浏览
+1853,13,資質,ししつ,shishitsu,资质；素质,nature; disposition; temperament,資質,8,2,2196,1312770,人工修订
+1854,13,戦い,たたかい,tatakai,战斗,battle; war; fight,戦い,8,3,2197,1596950,机器释义，经首轮浏览
+1855,13,音読,おんどく,ondoku,大声朗读,reading aloud,音読,8,1,2198,1183990,机器释义，经首轮浏览
+1856,13,事柄,ことがら,kotogara,事项,matter; thing; affair,事柄,8,3,2199,1314240,机器释义，经首轮浏览
+1857,13,出店,しゅってん,shutten,开店,opening a new store; opening a new branch,出店,8,1,2200,2404300,机器释义，经首轮浏览
+1858,13,改修,かいしゅう,kaishuu,装修,repair; improvement,改修,8,3,2201,1200880,机器释义，经首轮浏览
+1859,14,正当,せいとう,seitou,合理,just; justifiable; right,正当,8,2,2204,1377660,机器释义，经首轮浏览
+1860,14,事務室,じむしつ,jimushitsu,办公室,office (room),事務室,7,4,2205,1314380,机器释义，经首轮浏览
+1861,14,生む,うむ,umu,生孩子,to give birth; to bear (child); to lay (eggs),生む,7,6,2207,1588410,机器释义，经首轮浏览
+1862,14,記述,きじゅつ,kijutsu,说明,description; account,記述,7,6,2209,1223280,机器释义，经首轮浏览
+1863,14,まずい,まずい,mazui,难吃；糟糕,bad(-tasting); unpalatable; unsavoury,不味い,7,5,2212,1495000,人工修订
+1864,14,飲食店,いんしょくてん,inshokuten,餐厅,restaurant,飲食店,7,6,2213,1169950,机器释义，经首轮浏览
+1865,14,思い切る,おもいきる,omoikiru,大胆尝试,to give up (all thoughts of); to abandon; to despair of,思い切る,7,7,2214,1309320,机器释义，经首轮浏览
+1866,14,練る,ねる,neru,揉捏,to knead; to thicken into a paste (stirring over a flame),練る,7,4,2215,1559140,机器释义，经首轮浏览
+1867,14,着物,きもの,kimono,和服,kimono; Japanese traditional clothing (esp. full-length),着物,7,4,2216,1423240,机器释义，经首轮浏览
+1868,14,喫茶店,きっさてん,kissaten,咖啡厅,coffee shop; tearoom; coffee lounge,喫茶店,7,5,2218,1226440,机器释义，经首轮浏览
+1869,14,各自,かくじ,kakuji,各有各的,each (person); everyone; individual,各自,7,6,2219,1205010,机器释义，经首轮浏览
+1870,14,当てる,あてる,ateru,猜猜,to hit,当てる,7,6,2222,1448860,机器释义，经首轮浏览
+1871,14,線,せん,sen,线,line; stripe; stria,線,7,3,2223,1391780,机器释义，经首轮浏览
+1872,14,最新,さいしん,saishin,最新,latest; newest; late-breaking (news),最新,7,6,2225,1294090,机器释义，经首轮浏览
+1873,14,あえて,あえて,aete,敢于,"purposely (of something needless, unexpected or seemingly counterproductive, etc.); daringly (doing something); deliberately",敢えて,7,5,2226,1212850,机器释义，经首轮浏览
+1874,14,快適,かいてき,kaiteki,舒适,pleasant; agreeable; comfortable,快適,7,6,2227,1200120,机器释义，经首轮浏览
+1875,14,日頃,ひごろ,higoro,日常,usually; habitually; always,日頃,7,6,2228,1464070,机器释义，经首轮浏览
+1876,14,内面,ないめん,naimen,内侧,inside; interior,内面,7,2,2229,1459290,机器释义，经首轮浏览
+1877,14,重要性,じゅうようせい,juuyousei,重要性,importance; gravity,重要性,7,6,2230,1336850,机器释义，经首轮浏览
+1878,14,取り込む,とりこむ,torikomu,导入,to take in; to bring in; to adopt (e.g. behaviour),取り込む,7,4,2231,1326720,机器释义，经首轮浏览
+1879,14,長年,ながねん,naganen,很多年,many years; a long time,長年,7,5,2232,1430100,机器释义，经首轮浏览
+1880,14,全力,ぜんりょく,zenryoku,全力,"all one's power (strength, energy, efforts); one's utmost",全力,7,4,2233,1396390,人工修订
+1881,14,募る,つのる,tsunoru,招募,to become stronger; to grow in intensity; to grow violent,募る,7,6,2234,1514800,机器释义，经首轮浏览
+1882,14,公開,こうかい,koukai,出版,opening to the public; making available to the public; exhibiting,公開,7,5,2235,1273370,机器释义，经首轮浏览
+1883,14,砂糖,さとう,satou,糖,sugar,砂糖,7,4,2237,1291600,机器释义，经首轮浏览
+1884,14,一切,いっさい,issai,全部；一切；一切〜ない表示完全不……,all; everything; entirety,一切,7,5,2238,1164170,人工修订
+1885,14,どうぞ,どうぞ,douzo,请,please; kindly; pray,どうぞ,7,5,2239,1189130,机器释义，经首轮浏览
+1886,14,体調,たいちょう,taichou,身体状况,physical condition; state of health; shape,体調,7,4,2240,1409610,机器释义，经首轮浏览
+1887,14,交渉,こうしょう,koushou,谈判,negotiations; bargaining; discussions,交渉,7,6,2241,1272110,机器释义，经首轮浏览
+1888,14,まとまる,まとまる,matomaru,聚在一起,to find resolution; to be settled; to be agreed on,纏まる,7,6,2242,1611640,机器释义，经首轮浏览
+1889,14,対抗,たいこう,taikou,对抗,opposition; rivalry; competition,対抗,7,5,2243,1410020,人工修订
+1890,14,鼻,はな,hana,鼻子,nose,鼻,7,3,2245,1486720,机器释义，经首轮浏览
+1891,14,周辺,しゅうへん,shuuhen,周围环境,circumference; outskirts; environs,周辺,7,5,2247,1331300,机器释义，经首轮浏览
+1892,14,今月,こんげつ,kongetsu,这个月,this month,今月,7,5,2248,1289100,机器释义，经首轮浏览
+1893,14,頻繁,ひんぱん,hinpan,经常,frequent; incessant,頻繁,7,7,2250,1491050,机器释义，经首轮浏览
+1894,14,思い出す,おもいだす,omoidasu,记住,to recall; to remember; to recollect,思い出す,7,7,2251,1309260,机器释义，经首轮浏览
+1895,14,退く,しりぞく,shirizoku,撤退,to step back; to move back; to retreat,退く,7,3,2252,1595084,机器释义，经首轮浏览
+1896,14,訴える,うったえる,uttaeru,诉说；呼吁；起诉,to raise; to bring to (someone's attention),訴える,7,5,2253,1397720,人工修订
+1897,14,風邪,かぜ,kaze,感冒,(common) cold; influenza; flu,風邪,7,5,2254,1583720,人工修订
+1898,14,約束,やくそく,yakusoku,承诺,promise; agreement; arrangement,約束,7,5,2255,1538130,机器释义，经首轮浏览
+1899,14,管理職,かんりしょく,kanrishoku,管理岗位；管理人员,management; managerial position; administrative post,管理職,7,2,2256,1214250,人工修订
+1900,14,店主,てんしゅ,tenshu,店主,shopkeeper; storekeeper; proprietor of a shop,店主,7,3,2257,1440710,机器释义，经首轮浏览
+1901,14,不満,ふまん,fuman,不满,dissatisfaction; discontent; displeasure,不満,7,7,2258,1494970,机器释义，经首轮浏览
+1902,14,本社,ほんしゃ,honsha,总部,head office; main office; headquarters,本社,7,4,2259,1522630,机器释义，经首轮浏览
+1903,14,到着,とうちゃく,touchaku,到达,arrival,到着,7,5,2260,1449870,机器释义，经首轮浏览
+1904,14,日程,にってい,nittei,日程,schedule; program; programme,日程,7,5,2261,1464300,机器释义，经首轮浏览
+1905,14,振り返る,ふりかえる,furikaeru,回头看,to turn one's head; to look over one's shoulder; to turn around,振り返る,7,4,2262,1361290,机器释义，经首轮浏览
+1906,14,逸脱,いつだつ,itsudatsu,偏差,deviation; departure,逸脱,7,4,2263,1167750,机器释义，经首轮浏览
+1907,14,慰める,なぐさめる,nagusameru,安慰,to comfort; to console; to amuse,慰める,7,6,2264,1156890,人工修订
+1908,14,住まい,すまい,sumai,家,dwelling; house; residence,住まい,7,5,2265,1595750,机器释义，经首轮浏览
+1909,14,面識,めんしき,menshiki,相识,acquaintance,面識,7,3,2266,1641450,机器释义，经首轮浏览
+1910,14,たどる,たどる,tadoru,沿着；追溯；经历,"to follow (a road, path, etc.); to trace",辿る,7,7,2267,1416690,人工修订
+1911,14,真実,しんじつ,shinjitsu,真相,truth; reality,真実,7,6,2268,1363780,机器释义，经首轮浏览
+1912,14,ごく,ごく,goku,极其；非常,quite; very,極く,7,6,2270,1240180,人工修订
+1913,14,まさに,まさに,masani,正是如此,exactly; just; precisely,正に,7,7,2273,1376640,机器释义，经首轮浏览
+1914,14,知覚,ちかく,chikaku,感知,perception; sensation; awareness,知覚,7,4,2274,1420510,机器释义，经首轮浏览
+1915,14,要因,よういん,youin,因素,main cause; primary factor,要因,7,5,2275,1546670,机器释义，经首轮浏览
+1916,14,調和,ちょうわ,chouwa,和谐,harmony; accord; reconciliation,調和,7,4,2276,1429330,机器释义，经首轮浏览
+1917,14,器具,きぐ,kigu,设备,utensil; implement; tool,器具,7,5,2277,1218920,机器释义，经首轮浏览
+1918,14,言い換える,いいかえる,iikaeru,释义,to say in other words; to put another way; to express in different words,言い替える,7,7,2278,1610580,机器释义，经首轮浏览
+1919,14,豊富,ほうふ,houfu,丰富性,abundant; plentiful; rich,豊富,7,4,2279,1518180,机器释义，经首轮浏览
+1920,14,外国人,がいこくじん,gaikokujin,外国人,foreigner; foreign citizen; foreign national,外国人,7,4,2280,1203650,机器释义，经首轮浏览
+1921,14,字,じ,ji,字；文字,character (esp. kanji); letter; written text,字,7,5,2281,1315130,人工修订
+1922,14,見積もり,みつもり,mitsumori,估算,estimate; estimation; valuation,見積もり,7,2,2283,1604590,机器释义，经首轮浏览
+1923,14,子育て,こそだて,kosodate,养育子女,child rearing; child raising; raising children,子育て,7,2,2285,1307790,机器释义，经首轮浏览
+1924,14,焼く,やく,yaku,烤；烧；煎,to burn,焼く,7,5,2286,1350600,人工修订
+1925,14,試行錯誤,しこうさくご,shikousakugo,尝试和错误,trial and error,試行錯誤,7,6,2287,1312410,机器释义，经首轮浏览
+1926,14,見た目,みため,mitame,外观,appearance; look,見た目,7,6,2288,1611750,机器释义，经首轮浏览
+1927,14,全然,ぜんぜん,zenzen,一点也不,(not) at all; (not) in the slightest,全然,7,5,2289,1395620,机器释义，经首轮浏览
+1928,14,誕生,たんじょう,tanjou,出生,birth (of a person); nativity,誕生,7,4,2290,1419080,机器释义，经首轮浏览
+1929,14,次回,じかい,jikai,下次,next time (occasion),次回,7,5,2291,1316470,机器释义，经首轮浏览
+1930,14,基盤,きばん,kiban,基础；根基,base; basis; foundation,基盤,7,4,2293,1219170,人工修订
+1931,14,発掘,はっくつ,hakkutsu,挖掘,excavation; exhumation; digging up,発掘,7,3,2294,1477290,机器释义，经首轮浏览
+1932,14,中央,ちゅうおう,chuuou,中心,centre; center; middle,中央,7,3,2295,1423430,机器释义，经首轮浏览
+1933,14,おしゃれ,おしゃれ,oshare,时尚,stylish; fashionable; trendy,御洒落,7,3,2296,1002770,机器释义，经首轮浏览
+1934,14,角度,かくど,kakudo,角度,angle,角度,7,4,2298,1206190,机器释义，经首轮浏览
+1935,14,疲れ,つかれ,tsukare,疲劳,tiredness; fatigue,疲れ,7,5,2301,1483730,机器释义，经首轮浏览
+1936,14,頼り,たより,tayori,信赖,reliance; dependence,頼り,7,3,2303,1548390,机器释义，经首轮浏览
+1937,14,何回,なんかい,nankai,多少次,how many times,何回,7,5,2304,1188650,机器释义，经首轮浏览
+1938,14,我慢,がまん,gaman,耐心,endurance; patience; perseverance,我慢,7,6,2306,1196970,机器释义，经首轮浏览
+1939,14,悩ます,なやます,nayamasu,担心,to afflict; to torment; to harass,悩ます,7,5,2307,1469840,机器释义，经首轮浏览
+1940,14,貴重,きちょう,kichou,珍贵,precious; valuable,貴重,7,6,2309,1223520,机器释义，经首轮浏览
+1941,14,記念,きねん,kinen,纪念,commemoration; celebration; remembrance,記念,7,6,2310,1223340,人工修订
+1942,14,景色,けしき,keshiki,风景,scenery; scene; landscape,景色,7,5,2311,1250870,机器释义，经首轮浏览
+1943,14,溶ける,とける,tokeru,融化,to melt; to liquefy; to soften (e.g. through heat),溶ける,7,4,2314,1546070,机器释义，经首轮浏览
+1944,14,混雑,こんざつ,konzatsu,拥挤,congestion; crush; crowding,混雑,7,4,2315,1290390,机器释义，经首轮浏览
+1945,14,白い,しろい,shiroi,白色,white,白い,7,5,2317,1474910,机器释义，经首轮浏览
+1946,14,英語,えいご,eigo,英语,English (language),英語,7,5,2318,1174420,机器释义，经首轮浏览
+1947,14,枠組み,わくぐみ,wakugumi,框架,frame (physical structure); framework,枠組み,7,2,2319,1606690,机器释义，经首轮浏览
+1948,14,謎,なぞ,nazo,神秘,riddle; puzzle; enigma,謎,7,3,2320,1459690,机器释义，经首轮浏览
+1949,14,親しい,したしい,shitashii,亲密；熟悉,close (e.g. friend); familiar; friendly,親しい,7,5,2321,1365050,人工修订
+1950,14,昨今,さっこん,sakkon,如今,these days; nowadays; recently,昨今,7,4,2322,1298210,机器释义，经首轮浏览
+1951,14,込める,こめる,komeru,倾注；包含；装入,"to load (a gun, etc.); to charge",込める,7,5,2324,1288790,人工修订
+1952,14,主役,しゅやく,shuyaku,主角,leading part; leading actor; leading actress,主役,7,4,2325,1326290,机器释义，经首轮浏览
+1953,14,箇所,かしょ,kasho,地点,place; point; part,箇所,7,6,2327,1590250,机器释义，经首轮浏览
+1954,14,設備,せつび,setsubi,设备,equipment; facilities; installation,設備,7,5,2330,1386070,机器释义，经首轮浏览
+1955,14,布,ぬの,nuno,布料,cloth; fabric; material,布,7,4,2331,1496840,机器释义，经首轮浏览
+1956,14,試す,ためす,tamesu,尝试一下,to try (out); to have a try (at); to test,試す,7,7,2332,1312260,机器释义，经首轮浏览
+1957,14,たいてい,たいてい,taitei,通常,mostly; ordinarily; usually,大抵,7,6,2333,1414580,机器释义，经首轮浏览
+1958,14,補う,おぎなう,oginau,补充,to supplement; to make up for; to compensate for,補う,7,6,2334,1514460,机器释义，经首轮浏览
+1959,14,戦う,たたかう,tatakau,战斗,to make war (on); to wage war (against); to go to war (with),戦う,7,4,2335,1596960,机器释义，经首轮浏览
+1960,14,投資,とうし,toushi,投资,investment,投資,7,4,2337,1447230,机器释义，经首轮浏览
+1961,14,始め,はじめ,hajime,开始,beginning; start; outset,はじめ,7,5,2339,1342540,机器释义，经首轮浏览
+1962,14,やり取り,やりとり,yaritori,互动,giving and taking; exchange (of letters); arguing back and forth,遣り取り,7,5,2340,1012940,机器释义，经首轮浏览
+1963,14,林,はやし,hayashi,林,wood; woods; forest,林,7,5,2341,1555440,机器释义，经首轮浏览
+1964,14,各地,かくち,kakuchi,各地,each place; every place; various places,各地,7,5,2342,1205100,机器释义，经首轮浏览
+1965,14,おそらく,おそらく,osoraku,可能,probably; (most) likely; in all likelihood,恐らく,7,5,2346,1236650,机器释义，经首轮浏览
+1966,14,最大,さいだい,saidai,最大,biggest; greatest; largest,最大,7,5,2347,1294180,机器释义，经首轮浏览
+1967,14,提起,ていき,teiki,提出（问题等）,raising (a question); posing (a problem); bringing up (an issue),提起,7,2,2348,1436340,人工修订
+1968,14,周年,しゅうねん,shuunen,周年纪念日,whole year; entire year,周年,7,3,2349,1331240,机器释义，经首轮浏览
+1969,14,赤ちゃん,あかちゃん,akachan,宝贝,baby; infant,赤ちゃん,7,5,2350,1383260,机器释义，经首轮浏览
+1970,14,実態,じったい,jittai,实际情况,true state; actual condition; reality,実態,7,4,2351,1321360,机器释义，经首轮浏览
+1971,14,関係者,かんけいしゃ,kankeisha,利益相关者,person concerned; people involved (in an event); those concerned,関係者,7,5,2352,1215850,机器释义，经首轮浏览
+1972,14,ほぼ,ほぼ,hobo,几乎,almost; nearly; for the most part,ほぼ,7,4,2353,1551940,机器释义，经首轮浏览
+1973,14,整える,ととのえる,totonoeru,安排,to put in order; to arrange; to tidy up,整える,7,5,2355,1376140,机器释义，经首轮浏览
+1974,14,素直,すなお,sunao,诚实,obedient; meek; docile,素直,7,6,2356,1397340,机器释义，经首轮浏览
+1975,14,占める,しめる,shimeru,占领,to account for; to make up; to take up,占める,7,5,2357,1389460,机器释义，经首轮浏览
+1976,14,包む,つつむ,tsutsumu,包装,to wrap up; to pack; to bundle,包む,7,5,2358,1584060,机器释义，经首轮浏览
+1977,14,器,うつわ,utsuwa,容器；器皿；器量,bowl; vessel; container,器,7,5,2359,1218880,人工修订
+1978,14,瞬間,しゅんかん,shunkan,时刻,moment; instant; second,瞬間,7,6,2360,1341210,机器释义，经首轮浏览
+1979,14,指先,ゆびさき,yubisaki,指尖,fingertip; finger,指先,7,4,2361,1309890,机器释义，经首轮浏览
+1980,14,美,び,bi,美丽,beauty,美,7,4,2363,1486350,机器释义，经首轮浏览
+1981,14,考え直す,かんがえなおす,kangaenaosu,再想一想,to reconsider; to rethink; to reassess,考え直す,7,5,2364,1281070,机器释义，经首轮浏览
+1982,14,県,けん,ken,县,"prefecture (of Japan); county (of China, Taiwan, Norway, etc.); department (of France)",県,7,4,2367,1258810,机器释义，经首轮浏览
+1983,14,動画,どうが,douga,视频,video (esp. digital); video clip; clip,動画,7,3,2368,1451290,机器释义，经首轮浏览
+1984,14,先行,せんこう,senkou,前进,going ahead; going first,先行,7,4,2369,1387640,机器释义，经首轮浏览
+1985,14,上昇,じょうしょう,joushou,崛起,rising; ascending; climbing,上昇,7,4,2370,1353450,机器释义，经首轮浏览
+1986,14,今週,こんしゅう,konshuu,本周,this week,今週,7,5,2371,1289220,机器释义，经首轮浏览
+1987,14,楽器,がっき,gakki,乐器,musical instrument,楽器,7,4,2372,1207340,机器释义，经首轮浏览
+1988,14,演奏,えんそう,ensou,演奏,musical performance,演奏,7,4,2373,1607520,人工修订
+1989,14,要請,ようせい,yousei,请求,appeal; call for something; request,要請,7,6,2374,1546780,机器释义，经首轮浏览
+1990,14,配属,はいぞく,haizoku,分配到（部门等）,"assignment (of a person to somewhere); attachment (of a person to another unit, organization, etc.)",配属,7,3,2375,1473130,人工修订
+1991,14,解消,かいしょう,kaishou,消除；解除,cancellation; liquidation; resolution,解消,7,6,2376,1199040,人工修订
+1992,14,検証,けんしょう,kenshou,验证,verification; confirmation; substantiation,検証,7,4,2377,1257950,机器释义，经首轮浏览
+1993,14,有利,ゆうり,yuuri,有利,advantageous; favourable; better,有利,7,6,2378,1605720,机器释义，经首轮浏览
+1994,14,店内,てんない,tennai,店内,"inside of a store (restaurant, café, etc.); store interior; on the premises",店内,7,5,2379,1440780,机器释义，经首轮浏览
+1995,14,増殖,ぞうしょく,zoushoku,扩散,increase; multiplication; propagation,増殖,7,3,2380,1403250,机器释义，经首轮浏览
+1996,14,海水,かいすい,kaisui,海水,seawater; saltwater,海水,7,2,2381,1201490,人工修订
+1997,14,能,のう,nou,能力；能剧（日本传统戏剧，依语境）,talent; gift; function,能,7,5,2382,1470120,人工修订
+1998,14,勤務,きんむ,kinmu,工作；任职,service; duty; work,勤務,7,5,2383,1241070,人工修订
+1999,14,打つ,うつ,utsu,打；击；采取（措施等）,to hit; to strike; to knock,打つ,7,6,2384,1408810,人工修订
+2000,14,出荷,しゅっか,shukka,发货；出货,shipping; shipment; forwarding,出荷,7,3,2385,1338350,人工修订
