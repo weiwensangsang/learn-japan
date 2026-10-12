@@ -10,6 +10,7 @@
 
 - [第 1 课 五十音的历史与形成](lessons/01-gojuon-history.md)：先了解假名的来源、音表的形成和命名。
 - [我的五十音学习方法](docs/gojuon-learning-method.md)：汉字来源、发音结构、按行学习与当前进度。
+- [五十音认读考试页面](web/kana-exam/README.md)：本地运行，随机认字与读音、判卷、错字重考及个人速记提示。
 - [五十音认读练习记录](docs/kana-practice-log.md)：实际作答、易混字与下次续学位置。
 - [假名认读练习](lessons/02-kana-reading.md)：了解来源后，练习前两行假名和常用词。
 - [日语学习与日本求职经验](docs/learning-notes.md)：学习顺序、课程候选、AI 辅助方法和统计解读。

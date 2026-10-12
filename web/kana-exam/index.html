@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#315c49">
+  <title>五十音 · 平假名认读考试</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="kana-data.js"></script>
+  <script defer src="core.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="masthead"><a class="brand" href="./"><span class="brand-mark" lang="ja">あ</span><span>五十音<span class="brand-sub">KANA STUDY</span></span></a><span class="header-note">平假名 · 46 字</span></header>
+  <main>
+    <section class="intro"><p class="eyebrow">从眼熟，到认得出</p><h1>把读音，和字形连起来。</h1><p class="intro-copy">一次一个字。用你自己的速记法，检查平假名的认和读。</p></section>
+    <section id="setup" class="workspace">
+      <div class="panel setup-panel">
+        <div class="section-heading"><span class="step">01</span><h2>看字，选读音</h2></div>
+        <div class="exam-description"><span class="example-character" lang="ja">く</span><div><strong>四个读音，选出正确的一个。</strong><p>例如看到「く」，选择 ku。<br>点选即可提交，也可按数字键 1–4。</p></div></div>
+        <div class="section-heading second"><span class="step">02</span><h2>选出题范围</h2><button class="text-button" id="select-all" type="button">全选</button><button class="text-button" id="clear-all" type="button">清空</button></div>
+        <div id="row-options" class="row-options"></div>
+        <p class="muted" id="selection-count"></p>
+        <div class="round-rules"><span>每局 <strong>20 题</strong></span><span>看字选读音 · 四选一</span><span>全部答完再判卷</span></div>
+        <button class="primary start-button" id="start" type="button">开始考试 <span aria-hidden="true">→</span></button>
+        <p class="form-note" id="setup-note">随机顺序，每个字只出一次。考试中不显示答案和提示。</p>
+      </div>
+      <aside class="side-column"><div class="panel preview-panel"><span class="eyebrow">你选定的记忆线索</span><div class="sample-kana" lang="ja">く</div><p class="sample-reading">ku</p><p class="sample-hint">哭得张开尖角嘴</p><span class="small-pill">答完后，再看速记提示</span></div><div class="panel history-panel"><div class="section-heading"><h2>最近的记录</h2><button class="text-button" id="clear-history" type="button">清除</button></div><div id="history"></div><p class="tiny">成绩仅保存在这个浏览器中。</p></div></aside>
+    </section>
+    <section id="quiz" class="panel quiz-panel" hidden>
+      <div class="quiz-top"><span id="quiz-label" class="eyebrow"></span><button id="exit" class="text-button" type="button">结束本轮</button></div>
+      <div class="quiz-stats"><span id="progress-label"></span><span id="clock">00:00</span></div><div class="progress-track"><div id="progress-fill"></div></div>
+      <div class="question-stage"><p id="question-instruction" class="muted"></p><div id="question" class="question" lang="ja"></div><p id="sound-message" class="tiny" role="status"></p></div>
+      <div id="answer-form"><div id="choices" class="choices"></div><button id="skip" class="text-button skip" type="button">想不起来，跳过</button></div>
+    </section>
+    <section id="results" hidden><div class="panel results-panel"><p class="eyebrow" id="result-label">本轮成绩</p><h2>这一轮，认出了多少？</h2><div class="score-line"><span id="score" class="score"></span><span id="score-total"></span></div><div class="result-stats"><span id="accuracy"></span><span id="duration"></span><span id="mode-result"></span></div><p id="result-note" class="muted"></p><div class="result-actions"><button class="primary" id="retry-wrong" type="button">只重考错字</button><button class="secondary" id="restart" type="button">再来一轮</button><button class="text-button" id="back" type="button">重新设置</button></div></div><div class="panel review-panel"><div class="section-heading"><h2>逐字回看</h2><label class="wrong-filter"><input id="wrong-only" type="checkbox" checked>只看错字</label></div><div id="review"></div></div></section>
+    <footer><span>认字形 · 找读音 · 用自己的记忆线索</span><span>日语音为浏览器合成示范；本页不评判口头发音。</span></footer>
+  </main>
+</body>
+</html>
