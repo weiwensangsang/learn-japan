@@ -3,11 +3,12 @@
   function shuffle(items,random=Math.random){const result=items.slice();for(let i=result.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}return result;}
   function makeDeck(pool,count=20,random=Math.random){
     if(!pool.length)throw new Error('请至少选择一行假名。');
-    const n=count==='all'?pool.length:Math.max(1,Number(count)||20),deck=[];
-    while(deck.length<n){const round=shuffle(pool,random);if(round.length>1&&deck.length&&round[0].kana===deck[deck.length-1].kana)[round[0],round[1]]=[round[1],round[0]];deck.push(...round.slice(0,n-deck.length));}
+    const uniquePool=[...new Map(pool.map(item=>[item.kana,item])).values()];
+    const n=count==='all'?uniquePool.length:Math.min(uniquePool.length,Math.max(1,Math.floor(Number(count)||20)));
+    const deck=shuffle(uniquePool,random).slice(0,n);
     // 混合题库至少出现两种字形；错字重考只有一种时仍只考错字。
-    if(n>1&&new Set(pool.map(item=>item.script)).size>1&&new Set(deck.map(item=>item.script)).size===1){
-      deck[n-1]=shuffle(pool.filter(item=>item.script!==deck[0].script),random)[0];
+    if(n>1&&new Set(uniquePool.map(item=>item.script)).size>1&&new Set(deck.map(item=>item.script)).size===1){
+      deck[n-1]=shuffle(uniquePool.filter(item=>item.script!==deck[0].script),random)[0];
     }
     return deck;
   }

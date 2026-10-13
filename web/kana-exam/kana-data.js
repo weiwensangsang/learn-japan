@@ -752,7 +752,7 @@ window.KANA_SETS = {
       {
         "kana": "ン",
         "romaji": "n",
-        "hint": "像断开的对勾 → 表示认可，说声嗯 → n；用户以「1」推进后沿用",
+        "hint": "上划 ↗ → 捅鼻子 → 嗯 → n；用户直接选定，替换对勾提示",
         "row": "w",
         "script": "katakana"
       }
@@ -1463,7 +1463,7 @@ window.KANA_SETS = {
       {
         "kana": "ン",
         "romaji": "n",
-        "hint": "像断开的对勾 → 表示认可，说声嗯 → n；用户以「1」推进后沿用",
+        "hint": "上划 ↗ → 捅鼻子 → 嗯 → n；用户直接选定，替换对勾提示",
         "row": "w",
         "script": "katakana"
       }

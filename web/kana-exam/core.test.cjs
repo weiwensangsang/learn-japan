@@ -24,7 +24,7 @@ test('两套基本假名各46字，混合92字，保留用户最新口诀', () =
   assert.match(find('ム').hint, /牟/);
   assert.match(find('ヨ').hint, /右手一挥舞/);
   assert.match(find('ラ').hint, /像平假名ら/);
-  assert.match(find('ン').hint, /断开的对勾/);
+  assert.match(find('ン').hint, /上划.*捅鼻子.*嗯.*n/);
   assert.equal(find('ヲ').romaji, 'o');
   assert.equal(find('を').romaji, 'o');
 });
@@ -57,16 +57,26 @@ test('混合模式在极端随机序列下也包含两种假名', () => {
   }
 });
 
-test('小范围先遍历再重复；混合错字不会引入未选字', () => {
+test('小范围与错字重考按实际字数出题，一局不重复且不引入未选字', () => {
   for (const pool of [data.slice(0, 5), katakana.slice(0, 5), [find('く'), find('ク')]]) {
     const deck = core.makeDeck(pool);
-    assert.equal(deck.length, 20);
-    for (let i = 0; i < 20; i += pool.length) assert.equal(new Set(deck.slice(i, i + pool.length).map(k => k.kana)).size, Math.min(pool.length, 20 - i));
-    for (let i = 1; i < 20; i++) assert.notEqual(deck[i].kana, deck[i - 1].kana);
+    assert.equal(deck.length, pool.length);
+    assert.equal(new Set(deck.map(k => k.kana)).size, pool.length);
     assert.ok(deck.every(item => pool.includes(item)));
   }
-  assert.ok(core.makeDeck([find('ク')]).every(item => item.kana === 'ク'));
+  assert.deepEqual(core.makeDeck([find('ク')]), [find('ク')]);
   assert.throws(() => core.makeDeck([]));
+});
+
+test('即使输入重复条目，同一个字也只出一次；同音不同字仍分别保留', () => {
+  const pool = [find('オ'), { ...find('オ') }, find('ヲ'), find('お'), find('を'), find('ヲ')];
+  const original = pool.slice();
+  for (const count of [20, 'all', 100]) {
+    const deck = core.makeDeck(pool, count);
+    assert.equal(deck.length, 4);
+    assert.deepEqual(new Set(deck.map(item => item.kana)), new Set(['オ', 'ヲ', 'お', 'を']));
+  }
+  assert.deepEqual(pool, original);
 });
 
 test('错字与跳过计入已答题，计分不混淆同音的不同字形', () => {

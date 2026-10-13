@@ -23,9 +23,11 @@
   function escapeText(value) { return String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char])); }
   function updateSelection() {
     const pool = currentSet().data.filter(k => selectedRows().has(k.row));
+    const count = Math.min(roundSize, new Set(pool.map(item => item.kana)).size);
     $('selection-count').textContent = `已选 ${selectedRows().size} 行 · ${pool.length} 个假名`;
     $('start').disabled = !pool.length;
-    $('setup-note').textContent = (pool.length > 0 && pool.length < roundSize ? `所选不足 ${roundSize} 个，会先遍历再随机重复，凑满 ${roundSize} 题。` : `随机抽取 ${roundSize} 个字，不重复。`) + `点选直接下一题，第 ${roundSize} 题答完自动判卷。`;
+    $('round-count').textContent = `${count} 题`;
+    $('setup-note').textContent = count ? (count < roundSize ? `所选共 ${count} 个字，本轮出 ${count} 题。` : `随机抽取 ${count} 个字。`) + `同一局每个字只出一次，答完第 ${count} 题自动判卷。` : '请至少选择一行假名。';
     for (const button of $('row-options').children) button.setAttribute('aria-pressed', String(selectedRows().has(button.dataset.row)));
   }
   function renderSetup() {
@@ -88,7 +90,7 @@
   function renderQuestion() {
     const item = session.deck[session.index], questionIndex = session.index;
     session.submitted = false;
-    $('quiz-label').textContent = `${sets[session.script].label} / ${roundSize} 题一局`;
+    $('quiz-label').textContent = `${sets[session.script].label} / 本轮 ${session.deck.length} 题`;
     $('progress-label').textContent = `第 ${session.index + 1} / ${session.deck.length} 题`;
     $('progress-fill').style.width = `${session.index / session.deck.length * 100}%`;
     $('answer-form').hidden = false; $('sound-message').textContent = ''; $('choices').replaceChildren();
