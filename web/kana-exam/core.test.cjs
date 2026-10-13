@@ -1,7 +1,78 @@
-const test=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const vm=require('node:vm');const core=require('./core.js');
-const context={window:{}};vm.runInNewContext(fs.readFileSync(__dirname+'/kana-data.js','utf8'),context);const data=Array.from(context.window.KANA_DATA);const find=kana=>data.find(item=>item.kana===kana);
-test('完整 46 字与用户最新口诀',()=>{assert.equal(data.length,46);assert.equal(new Set(data.map(k=>k.kana)).size,46);assert.match(find('ち').hint,/乞/);assert.match(find('ね').hint,/neko/);assert.match(find('お').hint,/右上有点/);});
-test('每局固定20题，完整范围不重复且不改主数据',()=>{const order=data.map(k=>k.kana);const deck=core.makeDeck(data);assert.equal(deck.length,20);assert.equal(new Set(deck.map(k=>k.kana)).size,20);assert.deepEqual(data.map(k=>k.kana),order);assert.throws(()=>core.makeDeck([]));});
-test('小范围与错字重考仍出20题，每轮遍历后再重复',()=>{const deck=core.makeDeck(data.slice(0,5),20);assert.equal(deck.length,20);for(let i=0;i<20;i+=5)assert.equal(new Set(deck.slice(i,i+5).map(k=>k.kana)).size,5);for(let i=1;i<20;i++)assert.notEqual(deck[i].kana,deck[i-1].kana);assert.equal(core.makeDeck([find('く')]).length,20);});
-test('错字与跳过计入已答题，提前结束不把未作答字判错',()=>{const results=core.score([{item:find('あ'),correct:true},{item:find('く'),correct:false},{item:find('ね'),correct:false,skipped:true}]);assert.equal(results.correct,1);assert.equal(results.total,3);assert.equal(results.wrong.length,2);assert.equal(core.score([]).total,0);});
-test('看字选四个读音：全部 46 字只有一个正确读音，不重复 o',()=>{for(const item of data){const options=core.makeReadingChoices(item,data);assert.equal(options.length,4);assert.equal(new Set(options).size,4);assert.equal(options.filter(reading=>reading===item.romaji).length,1);}const options=core.makeReadingChoices(find('を'),data);assert.equal(options.filter(value=>value==='o').length,1);});
+const test = require('node:test');
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const vm = require('node:vm');
+const core = require('./core.js');
+const context = { window: {} };
+vm.runInNewContext(fs.readFileSync(__dirname + '/kana-data.js', 'utf8'), context);
+const sets = context.window.KANA_SETS;
+const data = Array.from(sets.hiragana.data);
+const katakana = Array.from(sets.katakana.data);
+const mixed = Array.from(sets.mixed.data);
+const find = kana => mixed.find(item => item.kana === kana);
+
+test('两套基本假名各46字，混合92字，保留用户最新口诀', () => {
+  for (const [script, expected] of [['hiragana', 46], ['katakana', 46], ['mixed', 92]]) {
+    const items = sets[script].data;
+    assert.equal(items.length, expected);
+    assert.equal(new Set(items.map(k => k.kana)).size, expected);
+    assert.ok(items.every(item => item.hint && item.romaji && sets[script].rows.some(row => row.id === item.row)));
+  }
+  assert.match(find('ち').hint, /乞/);
+  assert.match(find('ね').hint, /neko/);
+  assert.match(find('お').hint, /右上有点/);
+  assert.match(find('ム').hint, /牟/);
+  assert.match(find('ヨ').hint, /右手一挥舞/);
+  assert.match(find('ラ').hint, /像平假名ら/);
+  assert.match(find('ン').hint, /断开的对勾/);
+  assert.equal(find('ヲ').romaji, 'o');
+  assert.equal(find('を').romaji, 'o');
+});
+
+for (const [name, pool] of [['平假名', data], ['片假名', katakana], ['混合', mixed]]) {
+  test(name + '每局20题，完整范围不重复且不改题库', () => {
+    const order = pool.map(k => k.kana);
+    const deck = core.makeDeck(pool);
+    assert.equal(deck.length, 20);
+    assert.equal(new Set(deck.map(k => k.kana)).size, 20);
+    assert.deepEqual(pool.map(k => k.kana), order);
+    assert.ok(deck.every(item => pool.includes(item)));
+  });
+  test(name + '全部题目四个不同读音，只有一个正确答案', () => {
+    for (const item of pool) {
+      const choices = core.makeReadingChoices(item, pool);
+      assert.equal(choices.length, 4);
+      assert.equal(new Set(choices).size, 4);
+      assert.equal(choices.filter(value => value === item.romaji).length, 1);
+      assert.ok(!choices.includes('wo'));
+    }
+  });
+}
+
+test('混合模式在极端随机序列下也包含两种假名', () => {
+  for (const random of [() => 0, () => .999999]) {
+    const deck = core.makeDeck(mixed, 20, random);
+    assert.equal(new Set(deck.map(item => item.script)).size, 2);
+    assert.equal(new Set(deck.map(item => item.kana)).size, 20);
+  }
+});
+
+test('小范围先遍历再重复；混合错字不会引入未选字', () => {
+  for (const pool of [data.slice(0, 5), katakana.slice(0, 5), [find('く'), find('ク')]]) {
+    const deck = core.makeDeck(pool);
+    assert.equal(deck.length, 20);
+    for (let i = 0; i < 20; i += pool.length) assert.equal(new Set(deck.slice(i, i + pool.length).map(k => k.kana)).size, Math.min(pool.length, 20 - i));
+    for (let i = 1; i < 20; i++) assert.notEqual(deck[i].kana, deck[i - 1].kana);
+    assert.ok(deck.every(item => pool.includes(item)));
+  }
+  assert.ok(core.makeDeck([find('ク')]).every(item => item.kana === 'ク'));
+  assert.throws(() => core.makeDeck([]));
+});
+
+test('错字与跳过计入已答题，计分不混淆同音的不同字形', () => {
+  const results = core.score([{ item: find('あ'), correct: true }, { item: find('ア'), correct: false }, { item: find('ン'), correct: false, skipped: true }]);
+  assert.equal(results.correct, 1);
+  assert.equal(results.total, 3);
+  assert.deepEqual(results.wrong.map(answer => answer.item.kana), ['ア', 'ン']);
+  assert.equal(core.score([]).total, 0);
+});

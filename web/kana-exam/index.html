@@ -11,13 +11,18 @@
   <script defer src="app.js"></script>
 </head>
 <body>
-  <header class="masthead"><a class="brand" href="./"><span class="brand-mark" lang="ja">あ</span><span>五十音<span class="brand-sub">KANA STUDY</span></span></a><span class="header-note">平假名 · 46 字</span></header>
+  <header class="masthead"><a class="brand" href="./"><span id="brand-mark" class="brand-mark" lang="ja">あ</span><span>五十音<span class="brand-sub">KANA STUDY</span></span></a><span id="header-note" class="header-note">平假名 · 46 字</span></header>
   <main>
-    <section class="intro"><p class="eyebrow">从眼熟，到认得出</p><h1>把读音，和字形连起来。</h1><p class="intro-copy">一次一个字。用你自己的速记法，检查平假名的认和读。</p></section>
+    <section class="intro"><p class="eyebrow">从眼熟，到认得出</p><h1>把读音，和字形连起来。</h1><p id="intro-copy" class="intro-copy">一次一个字。用你自己的速记法，检查平假名的认和读。</p></section>
     <section id="setup" class="workspace">
       <div class="panel setup-panel">
+        <fieldset class="script-picker"><legend>选择题库</legend><div class="script-options">
+          <label class="mode-card"><input type="radio" name="script" value="hiragana" checked><span><strong>平假名</strong><small>46 字 · 单独练习</small></span><span class="mode-symbol" lang="ja">あ</span></label>
+          <label class="mode-card"><input type="radio" name="script" value="katakana"><span><strong>片假名</strong><small>46 字 · 单独练习</small></span><span class="mode-symbol" lang="ja">ア</span></label>
+          <label class="mode-card"><input type="radio" name="script" value="mixed"><span><strong>平片混合</strong><small>92 字 · 进阶练习</small></span><span class="mode-symbol mixed-symbol" lang="ja">あア</span></label>
+        </div></fieldset>
         <div class="section-heading"><span class="step">01</span><h2>看字，选读音</h2></div>
-        <div class="exam-description"><span class="example-character" lang="ja">く</span><div><strong>四个读音，选出正确的一个。</strong><p>例如看到「く」，选择 ku。<br>点选即可提交，也可按数字键 1–4。</p></div></div>
+        <div class="exam-description"><span id="example-character" class="example-character" lang="ja">く</span><div><strong>四个读音，选出正确的一个。</strong><p id="example-copy">例如看到「く」，选择 ku。点选即可提交，也可按数字键 1–4。</p></div></div>
         <div class="section-heading second"><span class="step">02</span><h2>选出题范围</h2><button class="text-button" id="select-all" type="button">全选</button><button class="text-button" id="clear-all" type="button">清空</button></div>
         <div id="row-options" class="row-options"></div>
         <p class="muted" id="selection-count"></p>
@@ -25,7 +30,7 @@
         <button class="primary start-button" id="start" type="button">开始考试 <span aria-hidden="true">→</span></button>
         <p class="form-note" id="setup-note">随机顺序，每个字只出一次。考试中不显示答案和提示。</p>
       </div>
-      <aside class="side-column"><div class="panel preview-panel"><span class="eyebrow">你选定的记忆线索</span><div class="sample-kana" lang="ja">く</div><p class="sample-reading">ku</p><p class="sample-hint">哭得张开尖角嘴</p><span class="small-pill">答完后，再看速记提示</span></div><div class="panel history-panel"><div class="section-heading"><h2>最近的记录</h2><button class="text-button" id="clear-history" type="button">清除</button></div><div id="history"></div><p class="tiny">成绩仅保存在这个浏览器中。</p></div></aside>
+      <aside class="side-column"><div class="panel preview-panel"><span class="eyebrow">你选定的记忆线索</span><div id="sample-kana" class="sample-kana" lang="ja">く</div><p id="sample-reading" class="sample-reading">ku</p><p id="sample-hint" class="sample-hint">哭得张开尖角嘴</p><span class="small-pill">答完后，再看速记提示</span></div><div class="panel history-panel"><div class="section-heading"><h2 id="history-label">平假名记录</h2><button class="text-button" id="clear-history" type="button">清除</button></div><div id="history"></div><p class="tiny">成绩仅保存在这个浏览器中。</p></div></aside>
     </section>
     <section id="quiz" class="panel quiz-panel" hidden>
       <div class="quiz-top"><span id="quiz-label" class="eyebrow"></span><button id="exit" class="text-button" type="button">结束本轮</button></div>
