@@ -8,3 +8,63 @@
 .script-picker{border:0;margin:0 0 28px;padding:0;min-width:0}.script-picker legend{font-size:16px;font-weight:600;padding:0;margin-bottom:14px}.script-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.script-options .mode-card{padding:13px 10px;gap:7px;flex-wrap:wrap}.script-options .mode-card input{margin:0}.script-options .mode-card strong{font-size:13px}.script-options .mode-card small{font-size:10px}.script-options .mode-symbol{font-size:24px}.script-options .mixed-symbol{font-size:19px}.brand-mark.mixed-mark{font-size:19px}.sample-hint{line-height:1.8}
 @media(max-width:1000px) and (min-width:761px){.script-options{grid-template-columns:1fr}.script-options .mode-card{flex-wrap:nowrap}}
 @media(max-width:520px){.script-options{grid-template-columns:1fr}.script-options .mode-card{flex-wrap:nowrap}.script-options .mode-card small{margin-top:4px}.script-options .mode-symbol{font-size:27px}.script-options .mixed-symbol{font-size:22px}}
+
+/* 第三关：卡面、解答与符号说明常驻，输入读音后逐段反馈。 */
+.script-options{grid-template-columns:repeat(2,minmax(0,1fr))}
+.card-mode .row-options{grid-template-columns:repeat(2,minmax(0,1fr))}
+.row-count{font-size:10px;opacity:.75;margin-left:3px}
+.card-mode .row-toggle{padding:13px 6px}
+.card-mode .row-toggle small{letter-spacing:0;font-size:10px}
+.card-mode .example-character{font-size:25px;writing-mode:vertical-rl;white-space:nowrap;letter-spacing:3px}
+.card-mode .sample-kana{font-size:30px;margin:12px 0 5px;line-height:1.5}
+.preview-image{display:block;width:138px;height:auto;margin:18px auto 0;border-radius:4px;box-shadow:0 6px 18px #243e3426}
+.card-mode .sample-reading{font-size:23px}
+.yugioh-quiz{max-width:890px}
+.yugioh-quiz .question-stage{display:grid;grid-template-columns:200px minmax(0,1fr);align-items:center;gap:30px;padding:24px 0}
+.card-context{margin:0;min-width:0;text-align:center}
+.card-context>img{display:block;width:100%;height:auto;max-width:200px;margin:auto;border-radius:4px;box-shadow:0 5px 15px #243e3421}
+.card-context figcaption{font-size:11px;line-height:1.7;margin-top:12px;overflow-wrap:anywhere}
+.card-context a,.source-link,.card-attribution a{color:var(--green);text-underline-offset:3px}
+.card-context a{display:block;font-size:10px;margin-top:6px}
+.question-copy{min-width:0}
+.yugioh-quiz .question{font-size:clamp(28px,3.6vw,43px);line-height:1.5;margin:20px 0 0;overflow-wrap:anywhere}
+.word-context{background:#f0f3e9;border:1px solid var(--border);border-radius:12px;padding:18px;text-align:left;margin-top:18px}
+.word-context .eyebrow{font-size:10px;margin:0 0 8px;letter-spacing:1px}
+#context-text{font-size:16px;line-height:1.9;margin:0;overflow-wrap:anywhere}
+mark{background:#dce8c9;color:var(--green);padding:2px 1px;border-radius:3px;font-weight:600}
+.yugioh-quiz .reading-choice{font-size:23px;padding:16px 10px;gap:10px;overflow-wrap:anywhere}
+.yugioh-quiz .choice-number{flex-shrink:0}
+.word-review{grid-template-columns:90px minmax(0,1fr) auto;gap:22px;padding:24px 0}
+.review-card{width:90px;height:auto;border-radius:3px}
+.review-word{font-family:"Yu Gothic","Meiryo",sans-serif;font-size:27px;line-height:1.5;overflow-wrap:anywhere}
+.review-card-name{font-size:11px;color:var(--muted);margin:4px 0 12px}
+.word-parts{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}
+.word-parts>span{min-width:36px;padding:7px 8px;border:1px solid var(--border);border-radius:8px;text-align:center;background:#fafbf5}
+.word-parts b{display:block;font-weight:500;font-size:18px}
+.word-parts small{display:block;font-size:11px;color:var(--green);margin-top:4px;white-space:pre}
+.source-link{font-size:10px}
+.card-attribution{margin:-15px 0 24px}
+.word-guide{background:#f4f7ee;border:1px solid #d6e1d0;border-radius:16px;padding:22px;text-align:left;margin:0 0 26px}
+.practice-picker{border:0;padding:0;margin:0 0 28px;min-width:0}.practice-picker legend{font-weight:600;font-size:16px;margin-bottom:14px;padding:0}.practice-options{display:grid;grid-template-columns:1fr 1fr;gap:10px}.practice-options .mode-card{padding:14px 10px;gap:7px}.practice-options .mode-card small{font-size:11px;line-height:1.6}.pronunciation{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 20px;text-align:left}.pronunciation .secondary{padding:10px 15px;font-size:13px}
+.native-audio{width:100%;display:flex;align-items:center;gap:10px;flex-wrap:wrap}.native-audio audio{width:300px;max-width:100%;height:40px}.review-audio{margin-top:14px}.review-audio audio{width:280px;max-width:100%;height:40px;display:block}
+@media(max-width:520px){.practice-options{grid-template-columns:1fr}.pronunciation{gap:8px}}
+.guide-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.guide-heading h2{font-size:18px;margin:0}.guide-reading{font-size:28px;font-weight:650;color:var(--green);margin:12px 0 8px;overflow-wrap:anywhere}
+.guide-meaning{font-size:14px;line-height:1.7;margin:0}.word-guide h3{font-size:15px;margin:22px 0 10px}
+.word-guide .word-parts small{font-size:13px}.reading-rules{display:grid;gap:12px}
+.reading-rule{border-left:3px solid #b8ccb0;padding:2px 0 2px 13px}.reading-rule h4{font-size:14px;margin:0 0 5px}
+.reading-rule p{font-size:13px;line-height:1.85;margin:2px 0;overflow-wrap:anywhere}.reading-rule .rule-example{font-size:15px;color:var(--green);font-weight:600}
+.guide-hint{font-size:12px;line-height:1.8;color:var(--muted);margin:16px 0 0}.symbol-reference{margin-top:18px;border-top:1px solid #d6e1d0;padding-top:15px;font-size:13px;line-height:1.8}
+.symbol-reference summary{cursor:pointer;color:var(--green)}.symbol-reference dl{margin-bottom:0}.symbol-reference dt{font-weight:600;margin-top:10px}.symbol-reference dd{margin:2px 0 0}
+.reading-form{text-align:left;margin:12px 0}.reading-form label{font-size:16px;font-weight:600}.reading-form .tiny{line-height:1.8}
+.reading-entry{display:flex;gap:10px;align-items:stretch}.reading-entry input{min-width:0;flex:1;width:100%;border:1px solid #99ad9b;border-radius:10px;padding:13px 15px;font:inherit;font-size:20px;color:var(--ink);background:#fff}
+.reading-entry input:focus{outline:3px solid #cee0c5;outline-offset:2px}.reading-entry input:disabled{background:#f4f5ef;color:#555}.reading-entry .primary{flex-shrink:0}
+.guided-feedback{padding:20px 0 0;border-top:1px solid var(--border);text-align:left}.guided-feedback>p{font-size:15px;line-height:1.8;margin-top:0}.guided-actions{display:flex;justify-content:flex-end;gap:12px;flex-wrap:wrap;margin-top:22px}
+.comparison-legend{font-size:12px;line-height:1.8;color:var(--muted)}.reading-comparison{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.comparison-part{border:1px solid #b9ccb9;background:#f3f8ef;border-radius:10px;min-width:64px;padding:10px;text-align:center}.comparison-part.wrong{border-color:#d2a499;background:#fff6f3}.comparison-part.separator{border-color:var(--border);background:#f7f7f2}
+.comparison-part>b{font-size:21px;font-weight:500;display:block}.comparison-part>small{display:block;font-size:11px;margin:5px 0;color:#526350}.comparison-part .part-status{margin-top:8px}.comparison-part.wrong .part-status{color:#983a30}
+.comparison-actual{display:block;font-size:20px;white-space:pre-wrap;overflow-wrap:anywhere;max-width:260px}.letter-correct{color:#2e663e}.letter-wrong,.letter-extra{color:#a93224;background:#ffe0d9;border-radius:3px}.letter-missing{color:#a93224;border:1px dashed #ba7465;border-radius:3px}.review-rules{margin-top:18px}
+@media(max-width:520px){.word-guide{padding:16px;margin-bottom:20px}.guide-reading{font-size:24px}.guide-heading .small-pill{font-size:10px}.reading-entry{flex-direction:column}.reading-entry input{font-size:18px;box-sizing:border-box}.reading-entry .primary{width:100%}.comparison-part{min-width:48px;padding:8px}.reading-rule .rule-example{font-size:14px}.symbol-reference summary{font-size:12px}}
+@media(max-width:520px){.yugioh-quiz.long-choices .choices{grid-template-columns:1fr}.yugioh-quiz.long-word .question{font-size:21px}}
+@media(max-width:760px){.yugioh-quiz .question-stage{grid-template-columns:145px minmax(0,1fr);gap:20px}.yugioh-quiz .question{font-size:30px}.word-context{padding:13px}.word-review{grid-template-columns:70px minmax(0,1fr);gap:14px}.review-card{width:70px}.word-review>div:last-child{grid-column:2}}
+@media(max-width:520px){.script-options{grid-template-columns:1fr}.yugioh-quiz{padding:20px 16px}.yugioh-quiz .question-stage{grid-template-columns:100px minmax(0,1fr);gap:14px}.yugioh-quiz .question{font-size:26px}.yugioh-quiz .question-instruction{font-size:11px}.word-context{padding:10px}#context-text{font-size:14px}.yugioh-quiz .reading-choice{font-size:19px;gap:6px}.yugioh-quiz .choices{gap:8px}.card-mode .row-options{grid-template-columns:1fr}.card-mode .row-toggle small{display:inline;margin-left:12px}.review-word{font-size:23px}.card-context figcaption{font-size:10px}}

@@ -7,6 +7,7 @@
   <title>五十音 · 平假名认读考试</title>
   <link rel="stylesheet" href="styles.css">
   <script defer src="kana-data.js"></script>
+  <script defer src="yugioh-data.js"></script>
   <script defer src="core.js"></script>
   <script defer src="app.js"></script>
 </head>
@@ -20,26 +21,52 @@
           <label class="mode-card"><input type="radio" name="script" value="hiragana" checked><span><strong>平假名</strong><small>46 字 · 单独练习</small></span><span class="mode-symbol" lang="ja">あ</span></label>
           <label class="mode-card"><input type="radio" name="script" value="katakana"><span><strong>片假名</strong><small>46 字 · 单独练习</small></span><span class="mode-symbol" lang="ja">ア</span></label>
           <label class="mode-card"><input type="radio" name="script" value="mixed"><span><strong>平片混合</strong><small>92 字 · 进阶练习</small></span><span class="mode-symbol mixed-symbol" lang="ja">あア</span></label>
+          <label class="mode-card"><input type="radio" name="script" value="yugioh"><span><strong>游戏王</strong><small id="card-mode-count">第三关 · 卡名与词汇</small></span><span class="mode-symbol" aria-hidden="true">Ⅲ</span></label>
         </div></fieldset>
-        <div class="section-heading"><span class="step">01</span><h2>看字，选读音</h2></div>
-        <div class="exam-description"><span id="example-character" class="example-character" lang="ja">く</span><div><strong>四个读音，选出正确的一个。</strong><p id="example-copy">例如看到「く」，选择 ku。点选即可提交，也可按数字键 1–4。</p></div></div>
+        <fieldset id="practice-picker" class="practice-picker" hidden><legend>选择模式</legend><div class="practice-options">
+          <label class="mode-card"><input type="radio" name="practice" value="study" checked><span><strong>学习模式</strong><small>听读音 · 带解答 · 即时检查</small></span></label>
+          <label class="mode-card"><input type="radio" name="practice" value="exam"><span><strong>考试模式</strong><small>每局 20 题 · 最后统一看结果</small></span></label>
+        </div></fieldset>
+        <div class="section-heading"><span class="step">01</span><h2 id="practice-heading">看字，选读音</h2></div>
+        <div class="exam-description"><span id="example-character" class="example-character" lang="ja">く</span><div><strong id="practice-description">四个读音，选出正确的一个。</strong><p id="example-copy">例如看到「く」，选择 ku。点选即可提交，也可按数字键 1–4。</p></div></div>
         <div class="section-heading second"><span class="step">02</span><h2>选出题范围</h2><button class="text-button" id="select-all" type="button">全选</button><button class="text-button" id="clear-all" type="button">清空</button></div>
         <div id="row-options" class="row-options"></div>
         <p class="muted" id="selection-count"></p>
-        <div class="round-rules"><span>本轮 <strong id="round-count">20 题</strong></span><span>看字选读音 · 四选一</span><span>全部答完再判卷</span></div>
+        <div class="round-rules"><span>本轮 <strong id="round-count">20 题</strong></span><span id="round-mode">看字选读音 · 四选一</span><span id="round-feedback">全部答完再判卷</span></div>
         <button class="primary start-button" id="start" type="button">开始考试 <span aria-hidden="true">→</span></button>
         <p class="form-note" id="setup-note">随机顺序，每个字只出一次。考试中不显示答案和提示。</p>
       </div>
-      <aside class="side-column"><div class="panel preview-panel"><span class="eyebrow">你选定的记忆线索</span><div id="sample-kana" class="sample-kana" lang="ja">く</div><p id="sample-reading" class="sample-reading">ku</p><p id="sample-hint" class="sample-hint">哭得张开尖角嘴</p><span class="small-pill">答完后，再看速记提示</span></div><div class="panel history-panel"><div class="section-heading"><h2 id="history-label">平假名记录</h2><button class="text-button" id="clear-history" type="button">清除</button></div><div id="history"></div><p class="tiny">成绩仅保存在这个浏览器中。</p></div></aside>
+      <aside class="side-column"><div class="panel preview-panel"><span id="preview-label" class="eyebrow">你选定的记忆线索</span><img id="preview-image" class="preview-image" alt="" hidden><div id="sample-kana" class="sample-kana" lang="ja">く</div><p id="sample-reading" class="sample-reading">ku</p><p id="sample-hint" class="sample-hint">哭得张开尖角嘴</p><span id="preview-note" class="small-pill">答完后，再看速记提示</span></div><div class="panel history-panel"><div class="section-heading"><h2 id="history-label">平假名记录</h2><button class="text-button" id="clear-history" type="button">清除</button></div><div id="history"></div><p class="tiny">成绩仅保存在这个浏览器中。</p></div></aside>
     </section>
     <section id="quiz" class="panel quiz-panel" hidden>
       <div class="quiz-top"><span id="quiz-label" class="eyebrow"></span><button id="exit" class="text-button" type="button">结束本轮</button></div>
       <div class="quiz-stats"><span id="progress-label"></span><span id="clock">00:00</span></div><div class="progress-track"><div id="progress-fill"></div></div>
-      <div class="question-stage"><p id="question-instruction" class="muted"></p><div id="question" class="question" lang="ja"></div><p id="sound-message" class="tiny" role="status"></p></div>
-      <div id="answer-form"><div id="choices" class="choices"></div><button id="skip" class="text-button skip" type="button">想不起来，跳过</button></div>
+      <div class="question-stage"><figure id="card-context" class="card-context" hidden><img id="card-image" width="200" height="290" alt=""><p id="card-image-error" class="tiny" hidden>卡面暂时无法显示，仍可认读右侧词汇。</p><figcaption><span id="card-name" lang="ja"></span><a id="card-source" target="_blank" rel="noopener noreferrer">官方日文卡页 ↗</a></figcaption></figure><div class="question-copy"><p id="question-instruction" class="muted"></p><div id="word-context" class="word-context" hidden><p id="context-label" class="eyebrow"></p><p id="context-text" lang="ja"></p></div><div id="question" class="question" lang="ja"></div><p id="sound-message" class="tiny" role="status"></p></div></div>
+      <div id="pronunciation" class="pronunciation" hidden><button id="play-word" class="secondary" type="button">▶ Google 读音</button><button id="play-slow" class="text-button" type="button">慢速听</button><button id="play-offline" class="text-button" type="button">离线读音</button><span class="tiny">Google 在线朗读 · 断网可用离线读音</span><div class="native-audio"><audio id="word-audio" controls preload="none" aria-label="日语读音播放器"></audio><a id="open-audio" class="text-button" target="_blank" rel="noopener noreferrer">单独打开音频 ↗</a></div></div>
+      <section id="word-guide" class="word-guide" aria-label="本题解答与解释" hidden>
+        <div class="guide-heading"><h2>本题解答</h2><span class="small-pill">边看边学</span></div>
+        <p id="guide-reading" class="guide-reading"></p><p id="guide-meaning" class="guide-meaning"></p>
+        <div id="guide-parts" class="word-parts" aria-label="假名拆音"></div>
+        <h3>这题怎么读</h3><div id="guide-rules" class="reading-rules"></div><p id="guide-hint" class="guide-hint"></p>
+        <details class="symbol-reference"><summary>常见符号速查：ー・゛・゜・小假名</summary>
+          <dl><dt>ー 长音</dt><dd>把前面的元音拉长一拍。カー kaa：ka 的 a 拉长。</dd>
+          <dt>゛ 浊点／゜ 半浊点</dt><dd>两点会改读音：サ sa → ザ za、ト to → ド do。小圆圈把は行变成 p 音：ハ ha → パ pa。</dd>
+          <dt>ッ／っ 促音</dt><dd>小ッ不读 tsu；在下一个辅音处留一拍。デッキ dekki：de → 留一拍 → ki。</dd>
+          <dt>小ャュョ／ゃゅょ</dt><dd>和前一个假名合读一拍。シャ sha；大字的シヤ是 shi＋ya，两拍。</dd>
+          <dt>小ァィゥェォ</dt><dd>用于外来音等拼写，结合前面的字读。ティ ti、ファ fa；ピィ pii 则把 i 延长一拍。</dd>
+          <dt>・ 中点</dt><dd>分隔词语，不发音。アーマー・リザード读 aamaa rizaado。</dd></dl>
+        </details>
+      </section>
+      <div id="answer-form">
+        <form id="reading-form" class="reading-form" hidden><label for="reading-input">输入这张卡的罗马字读音</label><p id="input-help" class="tiny">例如 アーマー・リザード → aamaa rizaado。长音重复元音；大小写、空格和连字符不影响判定。</p><div class="reading-entry"><input id="reading-input" name="reading" type="text" maxlength="160" autocomplete="off" autocapitalize="none" spellcheck="false" aria-describedby="input-help input-message" placeholder="在这里输入读音…"><button id="check-reading" class="primary" type="submit">检查读音</button></div><p id="input-message" class="tiny" role="status"></p></form>
+        <div id="choices" class="choices"></div><button id="skip" class="text-button skip" type="button">想不起来，跳过</button>
+      </div>
+      <div id="guided-feedback" class="guided-feedback" hidden><p id="answer-feedback" role="status" aria-live="polite"></p><div id="reading-comparison" aria-label="逐段对照"></div><div class="guided-actions"><button id="edit-reading" class="secondary" type="button">修改后再检查</button><button id="next-card" class="primary" type="button">下一张 →</button></div></div>
     </section>
-    <section id="results" hidden><div class="panel results-panel"><p class="eyebrow" id="result-label">本轮成绩</p><h2>这一轮，认出了多少？</h2><div class="score-line"><span id="score" class="score"></span><span id="score-total"></span></div><div class="result-stats"><span id="accuracy"></span><span id="duration"></span><span id="mode-result"></span></div><p id="result-note" class="muted"></p><div class="result-actions"><button class="primary" id="retry-wrong" type="button">只重考错字</button><button class="secondary" id="restart" type="button">再来一轮</button><button class="text-button" id="back" type="button">重新设置</button></div></div><div class="panel review-panel"><div class="section-heading"><h2>逐字回看</h2><label class="wrong-filter"><input id="wrong-only" type="checkbox" checked>只看错字</label></div><div id="review"></div></div></section>
-    <footer><span>认字形 · 找读音 · 用自己的记忆线索</span><span>日语音为浏览器合成示范；本页不评判口头发音。</span></footer>
+    <section id="results" hidden><div class="panel results-panel"><p class="eyebrow" id="result-label">本轮成绩</p><h2>这一轮，认出了多少？</h2><div class="score-line"><span id="score" class="score"></span><span id="score-total"></span></div><div class="result-stats"><span id="accuracy"></span><span id="duration"></span><span id="mode-result"></span></div><p id="result-note" class="muted"></p><div class="result-actions"><button class="primary" id="retry-wrong" type="button">只重考错字</button><button class="secondary" id="restart" type="button">再来一轮</button><button class="text-button" id="back" type="button">重新设置</button></div></div><div class="panel review-panel"><div class="section-heading"><h2>逐题回看</h2><label class="wrong-filter"><input id="wrong-only" type="checkbox" checked>只看错题</label></div><div id="review"></div></div></section>
+    <footer><span>认字形 · 找读音 · 用自己的记忆线索</span><span>日语音为合成示范；本页不评判口头发音。</span></footer>
+    <p id="card-attribution" class="tiny card-attribution" hidden>卡面与日文原文来自 <a href="https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja" target="_blank" rel="noopener noreferrer">KONAMI 官方卡片数据库</a>，保留 SAMPLE 标记，权利归原权利人所有。中文释义和拆音用于本地学习。</p>
+    <p id="audio-attribution" class="tiny card-attribution" hidden>在线读音来自 Google 翻译；备用离线读音以 <a href="https://github.com/tsukumijima/pyopenjtalk-plus" target="_blank" rel="noopener noreferrer">Open JTalk / Mei</a> 合成。Mei 声库：MMDAgent Project Team / 名古屋工业大学，<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">CC BY 3.0</a>。</p>
   </main>
 </body>
 </html>

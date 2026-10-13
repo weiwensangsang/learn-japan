@@ -1,0 +1,5010 @@
+{
+  "engine": "pyopenjtalk-plus 0.4.1.post9",
+  "voice": "Mei (MMDAgent Project Team / Nagoya Institute of Technology)",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "source": "https://github.com/tsukumijima/pyopenjtalk-plus",
+  "speed": 0.9,
+  "clips": [
+    {
+      "cid": 4064,
+      "kana": "クリボー",
+      "spokenKana": "クリボー",
+      "file": "audio/4064.ogg",
+      "seconds": 1.265,
+      "sha256": "56dca64b540e62bb3ce7aecfc3d3697c53256c71c658ff1261fbc226c28e8c3a",
+      "pcmFile": "audio/4064.wav",
+      "pcmSha256": "dc7d53c81566eef17391b8dac2a7a6a9a8b8db42a8c8fbb6f83e4a5a540fb36f"
+    },
+    {
+      "cid": 4041,
+      "kana": "ブラック",
+      "spokenKana": "ブラック",
+      "file": "audio/4041.ogg",
+      "seconds": 1.235,
+      "sha256": "ea6f402f99fb791d1495ee1f6c96cbad43ab0cb6848fa0b9d994270b2be18ad0",
+      "pcmFile": "audio/4041.wav",
+      "pcmSha256": "42b53bbdbdf706ae98714b4437d755a5cef5ff92957cf288e44e7d0e7852cf6a"
+    },
+    {
+      "cid": 4766,
+      "kana": "マジシャン",
+      "spokenKana": "マジシャン",
+      "file": "audio/4766.ogg",
+      "seconds": 1.275,
+      "sha256": "5dbd9a0fcb3fdd1d2b80b83defe6a5ff6bf32ed4687771b32e04269612ba12f5",
+      "pcmFile": "audio/4766.wav",
+      "pcmSha256": "cbf13b4536c437e663509a7e25a801bbe2802633306460864f9beb73b41b990c"
+    },
+    {
+      "cid": 6390,
+      "kana": "サイバー",
+      "spokenKana": "サイバー",
+      "file": "audio/6390.ogg",
+      "seconds": 1.385,
+      "sha256": "e04164945339c9972f2c6d0b48928a4686d1b08314d4765fede0cc28c528990f",
+      "pcmFile": "audio/6390.wav",
+      "pcmSha256": "cf526618e054b6628d66dd12dcef273c9fc0825388cb65b005b5fee43c08235a"
+    },
+    {
+      "cid": 4068,
+      "kana": "ハーピィ",
+      "spokenKana": "ハーピィ",
+      "file": "audio/4068.ogg",
+      "seconds": 1.135,
+      "sha256": "08f806b5ce71e09753b50c5cf8e715b5f70f6eda8aff82c720c411fdea6c7463",
+      "pcmFile": "audio/4068.wav",
+      "pcmSha256": "60f0a898bf4ab21fcd6ed607d70c5bee9f2aeb54fd0e5cd2c482b9ce71581fe5"
+    },
+    {
+      "cid": 4010,
+      "kana": "ベビー",
+      "spokenKana": "ベビー",
+      "file": "audio/4010.ogg",
+      "seconds": 1.115,
+      "sha256": "983f8158db05392d64d88e27dc11590da186be8ea0f794b7ec7f4b2233831f6a",
+      "pcmFile": "audio/4010.wav",
+      "pcmSha256": "9ab7237848c672d95ae6519105ed215306eac83d48ef194390aa12bbb003acbd"
+    },
+    {
+      "cid": 4431,
+      "kana": "サンダー",
+      "spokenKana": "サンダー",
+      "file": "audio/4431.ogg",
+      "seconds": 1.39,
+      "sha256": "c0aec296a1e9567cf83d88e46ec4632483afd42ccc0ffa448df40c1470f22b95",
+      "pcmFile": "audio/4431.wav",
+      "pcmSha256": "0cc17be680aedba85712bd1c9d193a4ecce8fa1018e2d3105e961e4ab4de2a58"
+    },
+    {
+      "cid": 4008,
+      "kana": "エルフ",
+      "spokenKana": "エルフ",
+      "file": "audio/4008.ogg",
+      "seconds": 1.155,
+      "sha256": "01bf2ddc43fcc488a2d90b80778337159720b04dd0ead5338a05130cc33220e4",
+      "pcmFile": "audio/4008.wav",
+      "pcmSha256": "e09d106b24e3a19923ea361ec128aac2070a983eb4edd68fc7e49f2757f75eb5"
+    },
+    {
+      "cid": 6000,
+      "kana": "マシュマロン",
+      "spokenKana": "マシュマロン",
+      "file": "audio/6000.ogg",
+      "seconds": 1.23,
+      "sha256": "d65d4e6fe88b333655f1766f3a44f95816fb4f8383ece76e27448fb9ff965c23",
+      "pcmFile": "audio/6000.wav",
+      "pcmSha256": "c85e80d90b7e0cfb9b32dfc02c817c27132f8693773321b636833dc3d321e1f4"
+    },
+    {
+      "cid": 6314,
+      "kana": "ハネクリボー",
+      "spokenKana": "ハネクリボー",
+      "file": "audio/6314.ogg",
+      "seconds": 1.545,
+      "sha256": "db59e65d43df3d52e7e517633150c699f3f2c61eae391152b31d9cacfbe25f5c",
+      "pcmFile": "audio/6314.wav",
+      "pcmSha256": "595cec898dbb72f87cb44253da64a93db9fffec1434fe0b4282c63be92fa2952"
+    },
+    {
+      "cid": 4054,
+      "kana": "クリッター",
+      "spokenKana": "クリッター",
+      "file": "audio/4054.ogg",
+      "seconds": 1.41,
+      "sha256": "3ff6b3bc1f73fb0d76928cc416bb51919480f6296e0096886c097ca8e859b88b",
+      "pcmFile": "audio/4054.wav",
+      "pcmSha256": "86ad8c1f1efffb5238b316d4a5ecf488f1ed2f17c38227c42391303823a7fd74"
+    },
+    {
+      "cid": 4818,
+      "kana": "スケープ・ゴート",
+      "spokenKana": "スケープ・ゴート",
+      "file": "audio/4818.ogg",
+      "seconds": 2.265,
+      "sha256": "bcd35a87a6d040100f7fdeb90846a88fdaed60fb72061203f3f64f2c5bc83c8d",
+      "pcmFile": "audio/4818.wav",
+      "pcmSha256": "cdf87f0975ea710592337ff93d0d3109af6a75a7edfff295663df976648a3ad1"
+    },
+    {
+      "cid": 4354,
+      "kana": "ひかり",
+      "spokenKana": "ヒカリ",
+      "file": "audio/4354.ogg",
+      "seconds": 1.21,
+      "sha256": "8e91e92a0c8e94209e786b0149d33974eba13b2e59394c1d54d7c85ad8df7219",
+      "pcmFile": "audio/4354.wav",
+      "pcmSha256": "854951714a771f8b3ae9b6749c698b6e46ac885f3afb30f50e00efadff927d51"
+    },
+    {
+      "cid": 4842,
+      "kana": "そせい",
+      "spokenKana": "ソセイ",
+      "file": "audio/4842.ogg",
+      "seconds": 1.295,
+      "sha256": "d4019df71d8aeab8c8c7b4e7a1f57c347c7002456001b3440657b20f68c01620",
+      "pcmFile": "audio/4842.wav",
+      "pcmSha256": "0b373d6d9e3b81f177aa12646b2ec12bf73afd32999132b7b9d0254653c59460"
+    },
+    {
+      "cid": 4844,
+      "kana": "つぼ",
+      "spokenKana": "ツボ",
+      "file": "audio/4844.ogg",
+      "seconds": 1.155,
+      "sha256": "9b3d0c291da387d14cb02294161553cb1d42547bf12b37645369d2afb0992945",
+      "pcmFile": "audio/4844.wav",
+      "pcmSha256": "6212664817266328e1ff657655c01a4e6455291e76fa3336f581d4d2f628b113"
+    },
+    {
+      "cid": 5236,
+      "kana": "おろかな",
+      "spokenKana": "オロカナ",
+      "file": "audio/5236.ogg",
+      "seconds": 1.205,
+      "sha256": "7d7ef659bb95efd19bdfeb1cc3a55beab32f4cf4f11925714536ab037b83f181",
+      "pcmFile": "audio/5236.wav",
+      "pcmSha256": "0c870834695b8fbedc7c00333b5e41957523aa75a385ef26e1fc98931b44149e"
+    },
+    {
+      "cid": 4901,
+      "kana": "いたずら",
+      "spokenKana": "イタズラ",
+      "file": "audio/4901.ogg",
+      "seconds": 1.33,
+      "sha256": "88c72b353536127ae03cac49aacdd8482e8a2e23cfdd757d387227b4f9163e3b",
+      "pcmFile": "audio/4901.wav",
+      "pcmSha256": "c01e2a0f84796884a78424dc163da469ef253a936e6a6c954e5dd200d624be41"
+    },
+    {
+      "cid": 5432,
+      "kana": "つき",
+      "spokenKana": "ツキ",
+      "file": "audio/5432.ogg",
+      "seconds": 1.15,
+      "sha256": "8c4885bb3a278368b100bc25a318951f460e2198fec9e037e45d43768bd93743",
+      "pcmFile": "audio/5432.wav",
+      "pcmSha256": "5a330ca4b6a4354061745007e4cc15f5830afb9e4ca6a67d105bc7f6e85b8dd1"
+    },
+    {
+      "cid": 4860,
+      "kana": "こころ",
+      "spokenKana": "ココロ",
+      "file": "audio/4860.ogg",
+      "seconds": 1.295,
+      "sha256": "cb8b7f935ea0f76f3e84d6fedad8aa6525d984ecc8063abc7f5d66d87018f16d",
+      "pcmFile": "audio/4860.wav",
+      "pcmSha256": "9e1a8346f2b348ef05609b1f587cd4ad2d7f9c95c4cefc0eb0a0426d19d51d1f"
+    },
+    {
+      "cid": 4836,
+      "kana": "おとしあな",
+      "spokenKana": "オトシアナ",
+      "file": "audio/4836.ogg",
+      "seconds": 1.305,
+      "sha256": "42fb5e8ec19651306b64c18cd084f6f1a608d48818d4f2bfc812451ac72fe3e1",
+      "pcmFile": "audio/4836.wav",
+      "pcmSha256": "aee5c5e2240bc1b6178d4838db09a6fc8c7257bdd4b55d2690238f2a48ec3032"
+    },
+    {
+      "cid": 4837,
+      "kana": "モンスター",
+      "spokenKana": "モンスター",
+      "file": "audio/4837.ogg",
+      "seconds": 1.41,
+      "sha256": "75b302044fa49df86a81ae448c634afb86edadced46e3b75d839edb167e40555",
+      "pcmFile": "audio/4837.wav",
+      "pcmSha256": "f9a888d67c2960b601fcfc7582f7bc02e8c0b5214b001b53c938bb09733c74cd"
+    },
+    {
+      "cid": 6511,
+      "kana": "デッキ",
+      "spokenKana": "デッキ",
+      "file": "audio/6511.ogg",
+      "seconds": 1.12,
+      "sha256": "3940034f8c402aeda78311677f0311b77cb80ca2a9899d43e052f13fda87b253",
+      "pcmFile": "audio/6511.wav",
+      "pcmSha256": "27ef27c58b029012354484238d717fb3ec1f36517214f355a82618e0d57ab0a2"
+    },
+    {
+      "cid": 4804,
+      "kana": "バトルフェイズ",
+      "spokenKana": "バトルフェイズ",
+      "file": "audio/4804.ogg",
+      "seconds": 1.44,
+      "sha256": "7c1708053bda530eee0be63544e7d5df6d6d043d9f031e3ca55a6e921af97a2e",
+      "pcmFile": "audio/4804.wav",
+      "pcmSha256": "79f762be48da5d58282f10772fe44a51a967236bfea2624713809185db1b7a03"
+    },
+    {
+      "cid": 5124,
+      "kana": "その",
+      "spokenKana": "ソノ",
+      "file": "audio/5124.ogg",
+      "seconds": 1.185,
+      "sha256": "ced98b682fa35b8f68e3c518a7724f0c08dacebb9cf563122b2f7d1a4b6154ed",
+      "pcmFile": "audio/5124.wav",
+      "pcmSha256": "9dbf368b9a1ab624bf4f2ee8182b77d0a811887ffe281dd13c39cd7ac3879aec"
+    },
+    {
+      "cid": 4007,
+      "kana": "ブルーアイズ・ホワイト・ドラゴン",
+      "spokenKana": "ブルーアイズ・ホワイト・ドラゴン",
+      "file": "audio/4007.ogg",
+      "seconds": 3.48,
+      "sha256": "9b4f0cb2f5d4744057f799f36478129307b33f13c8435b4a97e662e66d862401",
+      "pcmFile": "audio/4007.wav",
+      "pcmSha256": "c972e4e8d0092b9d3e674bfaac68cbd95492d73d3447c4105084fecb051b5f8a"
+    },
+    {
+      "cid": 4009,
+      "kana": "サイクロプス",
+      "spokenKana": "サイクロプス",
+      "file": "audio/4009.ogg",
+      "seconds": 1.75,
+      "sha256": "4b2c76e6b49c1d43ae7c5ee2eb22b7edd2e521b87a7a29de2c5d8e294fe245d6",
+      "pcmFile": "audio/4009.wav",
+      "pcmSha256": "b0894e21603a9cdeaa756a010bc75394b75cc495e0c9bd974757efb2d9e1d769"
+    },
+    {
+      "cid": 4011,
+      "kana": "ガーゴイル",
+      "spokenKana": "ガーゴイル",
+      "file": "audio/4011.ogg",
+      "seconds": 1.33,
+      "sha256": "b6cc11df0b03ee2900b0307ad2d7b9007ba1cf676e7eb67af0832fe7947674f7",
+      "pcmFile": "audio/4011.wav",
+      "pcmSha256": "2b16056cb2cce3b16a7085d2ec22f473123702b2335f140e7dd33bf2ea56fdb7"
+    },
+    {
+      "cid": 4012,
+      "kana": "グレムリン",
+      "spokenKana": "グレムリン",
+      "file": "audio/4012.ogg",
+      "seconds": 1.185,
+      "sha256": "40a257be4d1858e7025eaaf3f919a16616ff60d42a2470db186edf40dbd031fd",
+      "pcmFile": "audio/4012.wav",
+      "pcmSha256": "ac6e202ef32f62a78d5a5aaa56a5ab43792bded0c07d8dfb963094eab74ee17a"
+    },
+    {
+      "cid": 4013,
+      "kana": "とりでをまもるよくりゅう",
+      "spokenKana": "トリデヲマモルヨクリュウ",
+      "file": "audio/4013.ogg",
+      "seconds": 2.125,
+      "sha256": "d57dd1a1ac87a676edbe18c2c0f896144955261db051bb2c845e84f73f163407",
+      "pcmFile": "audio/4013.wav",
+      "pcmSha256": "72e91dfd629a7215d41b145519d1f56959ba4190637af30fb41db5b06e92fa31"
+    },
+    {
+      "cid": 4014,
+      "kana": "きのこマン",
+      "spokenKana": "キノコマン",
+      "file": "audio/4014.ogg",
+      "seconds": 1.265,
+      "sha256": "3ef63c082755ba245ffa23363e673f4fc6710e97125361c4759e93c67a2c31a0",
+      "pcmFile": "audio/4014.wav",
+      "pcmSha256": "a5e0462064bc4fb93be5711388ff9ba79c0b0ab42a688ea30d36b7b30062f044"
+    },
+    {
+      "cid": 4015,
+      "kana": "ヘルバウンド",
+      "spokenKana": "ヘルバウンド",
+      "file": "audio/4015.ogg",
+      "seconds": 1.425,
+      "sha256": "039ab1c194f491ed427f1e193e29d063507d89040a527bbaf546f5d2e2c89112",
+      "pcmFile": "audio/4015.wav",
+      "pcmSha256": "a43a12b7772ba0da897043bdc5dbf4bcc57913d0b784407ba074520d7c070cc1"
+    },
+    {
+      "cid": 4016,
+      "kana": "あんこくのドラゴン",
+      "spokenKana": "アンコクノドラゴン",
+      "file": "audio/4016.ogg",
+      "seconds": 1.695,
+      "sha256": "81ed359be146b6a1d2d83668bfd6b9727cc8e9ba262c9a686ddcc1f9fbab6a75",
+      "pcmFile": "audio/4016.wav",
+      "pcmSha256": "989be07ef07bccfed91d6136f16e6be95eeaa8c33858812c155e75ff026d96b1"
+    },
+    {
+      "cid": 4017,
+      "kana": "ソード・ドラゴン",
+      "spokenKana": "ソード・ドラゴン",
+      "file": "audio/4017.ogg",
+      "seconds": 2.105,
+      "sha256": "3022980f0a67d9c44ecf41ed970a32ffbfcb99483f651beb68b40686fc148203",
+      "pcmFile": "audio/4017.wav",
+      "pcmSha256": "dd03f1e0a35f32ef3af56d124143317ccac7c5d90766af0a7229088ef2c90078"
+    },
+    {
+      "cid": 4019,
+      "kana": "タイホーン",
+      "spokenKana": "タイホーン",
+      "file": "audio/4019.ogg",
+      "seconds": 1.135,
+      "sha256": "acadeff1779095bc05c754e5044f3fff44d0f8d90d4e2ae4dfef1bb7699c881c",
+      "pcmFile": "audio/4019.wav",
+      "pcmSha256": "9a8d7656ed1a4154b5d2dc25b66b4cded74b28244aeedaf3fc84d6196a6ef652"
+    },
+    {
+      "cid": 4020,
+      "kana": "ぎゅうまじん",
+      "spokenKana": "ギュウマジン",
+      "file": "audio/4020.ogg",
+      "seconds": 1.27,
+      "sha256": "e02b9274e05c8f220346fd86cc7cc3814435a24022a54fd4dd4379a4216e962b",
+      "pcmFile": "audio/4020.wav",
+      "pcmSha256": "27edef874bd7cbf45bd2159544617b4e48cd6240e3944d23e0e3677e774c2bf0"
+    },
+    {
+      "cid": 4021,
+      "kana": "ほのおのけんし",
+      "spokenKana": "ホノオノケンシ",
+      "file": "audio/4021.ogg",
+      "seconds": 1.63,
+      "sha256": "5511c138e5c083f8cb3f5d8ff09f0d61fed6884435601df8748b69e8df3e4413",
+      "pcmFile": "audio/4021.wav",
+      "pcmSha256": "bf9514da6002799235895c6b29864392815360ebccf45f8834b50cceb273e304"
+    },
+    {
+      "cid": 4022,
+      "kana": "ときのまじゅつし",
+      "spokenKana": "トキノマジュツシ",
+      "file": "audio/4022.ogg",
+      "seconds": 1.735,
+      "sha256": "fbfef9e94f110e127d555ff29552f51bf7ca3b7cf346327d4ce66ce7a8611f7a",
+      "pcmFile": "audio/4022.wav",
+      "pcmSha256": "4c59bc12c3368185e15833c8f9459b49a348cca538fc9634ea1ded58429ee237"
+    },
+    {
+      "cid": 4023,
+      "kana": "ふういんされしもののみぎあし",
+      "spokenKana": "フウインサレシモノノミギアシ",
+      "file": "audio/4023.ogg",
+      "seconds": 2.515,
+      "sha256": "3b8121ba749a9ea8546334925a60937dfdba02c4b1adb132fcaab86330b55b86",
+      "pcmFile": "audio/4023.wav",
+      "pcmSha256": "6234f3fe9b55d41cee29da005cfe7093fd17ce861f3e0813b01e7438c84641c6"
+    },
+    {
+      "cid": 4024,
+      "kana": "ふういんされしもののひだりあし",
+      "spokenKana": "フウインサレシモノノヒダリアシ",
+      "file": "audio/4024.ogg",
+      "seconds": 2.625,
+      "sha256": "9fa1264de35799de58b98656c74a4f0413b4fcb9fce54b20a5729708566779f7",
+      "pcmFile": "audio/4024.wav",
+      "pcmSha256": "2f35c8e025dcfc60a20bad9eabfd9e216d1aefecd9b3b4abdee1e1d64e8a6a4e"
+    },
+    {
+      "cid": 4025,
+      "kana": "ふういんされしもののみぎうで",
+      "spokenKana": "フウインサレシモノノミギウデ",
+      "file": "audio/4025.ogg",
+      "seconds": 2.47,
+      "sha256": "a990d421f7cd040bb4bdd954fd91a65f53778de28aec7ce4e7a2cc0ff192720e",
+      "pcmFile": "audio/4025.wav",
+      "pcmSha256": "46daaecdc008f2d796fc1ffcfd28b69e9be219de8532bc75e218e915a16cc114"
+    },
+    {
+      "cid": 4026,
+      "kana": "ふういんされしもののひだりうで",
+      "spokenKana": "フウインサレシモノノヒダリウデ",
+      "file": "audio/4026.ogg",
+      "seconds": 2.63,
+      "sha256": "7d7f2ce62f6393b8f8eac3fff4716bb56151bff315282567822dd0d0141e8d9e",
+      "pcmFile": "audio/4026.wav",
+      "pcmSha256": "6242ae3acffa504178ecdb0486c4dfdcaa665e19e91391cc21c44f31c5703a0e"
+    },
+    {
+      "cid": 4027,
+      "kana": "ふういんされしエクゾディア",
+      "spokenKana": "フウインサレシエクゾディア",
+      "file": "audio/4027.ogg",
+      "seconds": 2.195,
+      "sha256": "4f8b5c4b8bf55ad52e3534585fa4144b21485f2aaada84a5994f018f27483a41",
+      "pcmFile": "audio/4027.wav",
+      "pcmSha256": "7a96eac52d66bb24faf8de0af23fb5e484930c0c8c43c514d4ae07887ea31736"
+    },
+    {
+      "cid": 4028,
+      "kana": "デーモンのしょうかん",
+      "spokenKana": "デーモンノショウカン",
+      "file": "audio/4028.ogg",
+      "seconds": 1.74,
+      "sha256": "f0e24569135661b08c5ba3c7653c54199d06120b46332ebf9fbed4d0b2a32248",
+      "pcmFile": "audio/4028.wav",
+      "pcmSha256": "aa1683fd6890a5336f7fe886b0a1cba81877feff4c7440d10fa760cbd553043d"
+    },
+    {
+      "cid": 4029,
+      "kana": "じゃあくなるワーム・ビースト",
+      "spokenKana": "ジャアクナルワーム・ビースト",
+      "file": "audio/4029.ogg",
+      "seconds": 2.86,
+      "sha256": "425a24a43a610f66a39e4e4dcd2777a3ddc3f6a1fd6d2894c56aab60861f08df",
+      "pcmFile": "audio/4029.wav",
+      "pcmSha256": "aa5a0c99a07264bfb3d0ad9b976711c982080dfab2e61817465b7ea2b23650e6"
+    },
+    {
+      "cid": 4030,
+      "kana": "ワイト",
+      "spokenKana": "ワイト",
+      "file": "audio/4030.ogg",
+      "seconds": 1.19,
+      "sha256": "47db546eee6487edce08201958339bdf9df79b7f913cf81ab564f449d2125768",
+      "pcmFile": "audio/4030.wav",
+      "pcmSha256": "a54ac21c42c5c316e4e1177df7874d237b6effc4b0279321757216550b9d3f1a"
+    },
+    {
+      "cid": 4031,
+      "kana": "インプ",
+      "spokenKana": "インプ",
+      "file": "audio/4031.ogg",
+      "seconds": 1.075,
+      "sha256": "1b8af547642cd8ea57027f65d4607288d7584095317aa165d11069daee67402f",
+      "pcmFile": "audio/4031.wav",
+      "pcmSha256": "f42e2c3c8161da4d317a8885c941bfb1d4d188c99cc97f664f004d562c406922"
+    },
+    {
+      "cid": 4032,
+      "kana": "ミノタウルス",
+      "spokenKana": "ミノタウルス",
+      "file": "audio/4032.ogg",
+      "seconds": 1.58,
+      "sha256": "4486362a10f59454e64c5f71edd698442c91c0efa29b2d65735d3b180545d2f2",
+      "pcmFile": "audio/4032.wav",
+      "pcmSha256": "48d03e2064e451ccd04ace2bf74e075f8c18e592bedc3a8d6499f643ab8d849c"
+    },
+    {
+      "cid": 4033,
+      "kana": "ルイーズ",
+      "spokenKana": "ルイーズ",
+      "file": "audio/4033.ogg",
+      "seconds": 1.24,
+      "sha256": "c8a121272efb31902aeda0b7368aad8dcffb267082d7a60140b89787dc00f9a2",
+      "pcmFile": "audio/4033.wav",
+      "pcmSha256": "ba1a18977161bbea7606db540550359e9ad1616f15eb61548bb61cbf0f032cd0"
+    },
+    {
+      "cid": 4034,
+      "kana": "がんくつまじんオーガ・ロック",
+      "spokenKana": "ガンクツマジンオーガ・ロック",
+      "file": "audio/4034.ogg",
+      "seconds": 2.98,
+      "sha256": "748666fa5b3dbe42e3261d4a46dee890fee9744badb497d82442f79f50281878",
+      "pcmFile": "audio/4034.wav",
+      "pcmSha256": "2f2b3dc3be6d26c9a192573691b855559d3649307ad83be4bcb921c1ce55e7cc"
+    },
+    {
+      "cid": 4035,
+      "kana": "マウンテン・ウォーリアー",
+      "spokenKana": "マウンテン・ウォーリアー",
+      "file": "audio/4035.ogg",
+      "seconds": 2.315,
+      "sha256": "74e6d5f46a1b8febb16adbac27859ee3d1e9492ce1179c18d88617ecd50a0942",
+      "pcmFile": "audio/4035.wav",
+      "pcmSha256": "17bd3fd757782b92d6ff439cae0a8b94f012fd26a623bf44dbfd339c08dcaa65"
+    },
+    {
+      "cid": 4036,
+      "kana": "アンデット・ウォーリアー",
+      "spokenKana": "アンデット・ウォーリアー",
+      "file": "audio/4036.ogg",
+      "seconds": 2.35,
+      "sha256": "3d702a53a313eb6cfda5c7c8a4ea4e47c8d8b1416b9fd3c38f3b91ff3a727b6a",
+      "pcmFile": "audio/4036.wav",
+      "pcmSha256": "09252486bf38428920e25b93f7718c23fd6e0acc1f9709758088fce895b68034"
+    },
+    {
+      "cid": 4037,
+      "kana": "デビル・ドラゴン",
+      "spokenKana": "デビル・ドラゴン",
+      "file": "audio/4037.ogg",
+      "seconds": 2.045,
+      "sha256": "c7cef337492465f89648a68ea916ea389c10f514f508c7107d3705d392dfd811",
+      "pcmFile": "audio/4037.wav",
+      "pcmSha256": "38809b964374d060a41c437c68d61b70e3ed034f13ccbc909b8ae4cc3d74c518"
+    },
+    {
+      "cid": 4038,
+      "kana": "にとうをもつキング・レックス",
+      "spokenKana": "ニトウヲモツキング・レックス",
+      "file": "audio/4038.ogg",
+      "seconds": 3.025,
+      "sha256": "248d476ce896359a5c572f6a1aa34064cba055c19d2a9062d7d749bec6be6402",
+      "pcmFile": "audio/4038.wav",
+      "pcmSha256": "6e80d84ee2c1db9838df9cb0d08f1907dd51d9aa6b4bdf6c966e10f61e4bae4a"
+    },
+    {
+      "cid": 4039,
+      "kana": "ジャッジ・マン",
+      "spokenKana": "ジャッジ・マン",
+      "file": "audio/4039.ogg",
+      "seconds": 1.8,
+      "sha256": "94e50859d6d6ce51a7800baa5bed16adbf4ce5627cebeec85366228e82d411a5",
+      "pcmFile": "audio/4039.wav",
+      "pcmSha256": "fbb57315f8edcbea878924bb02cb9b91aa51820115ae863e95176a28e17258e5"
+    },
+    {
+      "cid": 4040,
+      "kana": "やみ・どうけしのサギー",
+      "spokenKana": "ヤミ・ドウケシノサギー",
+      "file": "audio/4040.ogg",
+      "seconds": 2.63,
+      "sha256": "d0d336408105c316a443776e1f149133b4e4d9db029241a40897fa8163b37c23",
+      "pcmFile": "audio/4040.wav",
+      "pcmSha256": "aea918cc42520cd800e36a911156174540b5dcd6b0d4efd6cbd8cc725f4d9a6e"
+    },
+    {
+      "cid": 4042,
+      "kana": "メデューサのぼうれい",
+      "spokenKana": "メデューサノボウレイ",
+      "file": "audio/4042.ogg",
+      "seconds": 1.72,
+      "sha256": "46acba8968b3a6ef181aa730c52c765d27f03566f49c146029c64ec2b1102a5c",
+      "pcmFile": "audio/4042.wav",
+      "pcmSha256": "7507df6e9b7337c28b3e7e25c26adef487d8c1b8015a0b09e5d8e61191ea53bc"
+    },
+    {
+      "cid": 4043,
+      "kana": "りゅうきしガイア",
+      "spokenKana": "リュウキシガイア",
+      "file": "audio/4043.ogg",
+      "seconds": 1.665,
+      "sha256": "b745485c2b131a3c8f66e67f7ffebdec123dc3d6c8e523d0ba7b7b0f592c29a7",
+      "pcmFile": "audio/4043.wav",
+      "pcmSha256": "d400bfd3fe6bb5309344a33099c66bddf1e9c2d8d8902f9d00c5646992488652"
+    },
+    {
+      "cid": 4044,
+      "kana": "あんこくきしガイア",
+      "spokenKana": "アンコクキシガイア",
+      "file": "audio/4044.ogg",
+      "seconds": 1.89,
+      "sha256": "c54ff54303a1b10ec7eee5a9f28327c45a0f9bfb621d5214e75d0eaea6066507",
+      "pcmFile": "audio/4044.wav",
+      "pcmSha256": "1c3c051b03b0e36da4961fab7b81bd761577cab75d2b2db263cf597078a49d28"
+    },
+    {
+      "cid": 4045,
+      "kana": "カース・オブ・ドラゴン",
+      "spokenKana": "カース・オブ・ドラゴン",
+      "file": "audio/4045.ogg",
+      "seconds": 2.895,
+      "sha256": "7bc8b4b32fc3297b7d78ffa090926eb219b2fa24e15f743bb80f6ab46671bd38",
+      "pcmFile": "audio/4045.wav",
+      "pcmSha256": "fc6e24c86b5d610e96945fd80d2217ecb42692d3e2228be637fad0389c7dbd4e"
+    },
+    {
+      "cid": 4046,
+      "kana": "つぼまじん",
+      "spokenKana": "ツボマジン",
+      "file": "audio/4046.ogg",
+      "seconds": 1.36,
+      "sha256": "3f4a03a9af20896e586b16983eebad6694a99227272d55b6c8adfe7609b8674e",
+      "pcmFile": "audio/4046.wav",
+      "pcmSha256": "f8f7b9eed0f0406bd776c96cca1266244854a42bf1c6ae07a76ddce8902106bc"
+    },
+    {
+      "cid": 4047,
+      "kana": "エルフのけんし",
+      "spokenKana": "エルフノケンシ",
+      "file": "audio/4047.ogg",
+      "seconds": 1.605,
+      "sha256": "5cc1492619000579caf0eaab54ee16fcd6136cab7c60e9294727313b994eb193",
+      "pcmFile": "audio/4047.wav",
+      "pcmSha256": "819cf4c8c58995846ca593ca75994c5d0a5fa17dc0922b09ea8dc045b70fba6c"
+    },
+    {
+      "cid": 4048,
+      "kana": "イリュージョニスト・ノー・フェイス",
+      "spokenKana": "イリュージョニスト・ノー・フェイス",
+      "file": "audio/4048.ogg",
+      "seconds": 3.455,
+      "sha256": "d670e7f1e2c709dbb89adf0792afc1ec0f62e075f9b7fddb0bfa7bd6eff29aba",
+      "pcmFile": "audio/4048.wav",
+      "pcmSha256": "0e0b80cbee65a81e5466df3ca3295bba9141d3be2b226c348908feac72ca33d6"
+    },
+    {
+      "cid": 4049,
+      "kana": "カルボナーラせんし",
+      "spokenKana": "カルボナーラセンシ",
+      "file": "audio/4049.ogg",
+      "seconds": 1.84,
+      "sha256": "855aa033462b0e905e435377b8ae1c47828271c29081af4569c74c6b985fa868",
+      "pcmFile": "audio/4049.wav",
+      "pcmSha256": "26af574c2e5a09bdbeaa1e11742c253f4f30109b90f82746d163a5c63e265a2c"
+    },
+    {
+      "cid": 4050,
+      "kana": "ホーリー・ドール",
+      "spokenKana": "ホーリー・ドール",
+      "file": "audio/4050.ogg",
+      "seconds": 2.085,
+      "sha256": "5b856b9b2b5980ce14ca98acf429f950e3c19da6534ab1b7c555ede206a0a8d9",
+      "pcmFile": "audio/4050.wav",
+      "pcmSha256": "4f0a637d4ae1e14a82e8589d4f2ee949d95bd47f2cb11e734fc848bf824951af"
+    },
+    {
+      "cid": 4051,
+      "kana": "エレキッズ",
+      "spokenKana": "エレキッズ",
+      "file": "audio/4051.ogg",
+      "seconds": 1.24,
+      "sha256": "e4151a1d73be44ac7e5a196ce2bb25d14fb48307361274ba8a98c14f1780f53b",
+      "pcmFile": "audio/4051.wav",
+      "pcmSha256": "702689a53082621805197ab7eb49e11be25a5f9b5f444f5745a2fed524af4678"
+    },
+    {
+      "cid": 4052,
+      "kana": "グリフォール",
+      "spokenKana": "グリフォール",
+      "file": "audio/4052.ogg",
+      "seconds": 1.255,
+      "sha256": "0027dba9219e0902293d798a325b9ea4b2c4c00c2ef24e8b3dcbaf9ec2688d7d",
+      "pcmFile": "audio/4052.wav",
+      "pcmSha256": "64f591d6e0fe1967c31f7a2d772f3c401a3825db6b12c5a0a0b044682165f3a4"
+    },
+    {
+      "cid": 4053,
+      "kana": "サイガー",
+      "spokenKana": "サイガー",
+      "file": "audio/4053.ogg",
+      "seconds": 1.325,
+      "sha256": "15715db33be034f33775f7977af4567d365bf1d7cc06110837594d503e2355f4",
+      "pcmFile": "audio/4053.wav",
+      "pcmSha256": "9f50843347d0fe201b340e44c43ce3838a2210df48f808d0a8724730e57f6816"
+    },
+    {
+      "cid": 4055,
+      "kana": "ビック・アント",
+      "spokenKana": "ビック・アント",
+      "file": "audio/4055.ogg",
+      "seconds": 2.01,
+      "sha256": "5ebd449abb50f6f41106b0bb7f6a8e1217442337c90edf9e9edd0d1365e502ef",
+      "pcmFile": "audio/4055.wav",
+      "pcmSha256": "063f139b3f8ec00c61d3ed4d409583fc525b84b2ef080329409eeb419e2e0888"
+    },
+    {
+      "cid": 4056,
+      "kana": "ベーシック・インセクト",
+      "spokenKana": "ベーシック・インセクト",
+      "file": "audio/4056.ogg",
+      "seconds": 2.545,
+      "sha256": "d392340252a0f1ac31a4233a17fab2dc80dc7d0e229a9b3a0f839202f6d2a9d3",
+      "pcmFile": "audio/4056.wav",
+      "pcmSha256": "f1be7b511ab66e0283716355824b23cc3b30473a957c29eb5e8ee7319969513a"
+    },
+    {
+      "cid": 4057,
+      "kana": "アーマー・リザード",
+      "spokenKana": "アーマー・リザード",
+      "file": "audio/4057.ogg",
+      "seconds": 2.285,
+      "sha256": "b871794b7e074c2bdf41019921e172b6ee0ff8d7a202792f96635376d2b43b6c",
+      "pcmFile": "audio/4057.wav",
+      "pcmSha256": "5ee50dbd05b21fbb158668581fbf3f11764b51c1ac752e38fa15bd0cd2590f38"
+    },
+    {
+      "cid": 4058,
+      "kana": "ヘラクレス・ビートル",
+      "spokenKana": "ヘラクレス・ビートル",
+      "file": "audio/4058.ogg",
+      "seconds": 2.4,
+      "sha256": "f81271d63206497d9ad2751ca4d5a57671248d2753eb04660ff4380aa2193df2",
+      "pcmFile": "audio/4058.wav",
+      "pcmSha256": "ac70e1864698f2d626f7dd83b14324183bb7f831035a9157045359b53887cc27"
+    },
+    {
+      "cid": 4059,
+      "kana": "キラー・ビー",
+      "spokenKana": "キラー・ビー",
+      "file": "audio/4059.ogg",
+      "seconds": 1.86,
+      "sha256": "9f9a097d301fd31e1b409036fe84049e65aff2c1e92cd0c394dba8a3e0060b67",
+      "pcmFile": "audio/4059.wav",
+      "pcmSha256": "7841144b38daa73e4078b7a3570d9359e874f09aa45bc83d8fa907516da78e04"
+    },
+    {
+      "cid": 4060,
+      "kana": "ゴキボール",
+      "spokenKana": "ゴキボール",
+      "file": "audio/4060.ogg",
+      "seconds": 1.28,
+      "sha256": "99e5def819c829d71de4cc7423e61135a3ee4ec02faf6612ac3ea6f8f6cf7dfa",
+      "pcmFile": "audio/4060.wav",
+      "pcmSha256": "77aec93db58fb176dfa2ddd0c28994b756951d6171b21a4b237f80a9e7c6fc5f"
+    },
+    {
+      "cid": 4061,
+      "kana": "きゅうけつノミ",
+      "spokenKana": "キュウケツノミ",
+      "file": "audio/4061.ogg",
+      "seconds": 1.49,
+      "sha256": "258f9d29e604e2268fd835774a8ec3a3be1a8f77d76ff7ed64055b3389e27d26",
+      "pcmFile": "audio/4061.wav",
+      "pcmSha256": "33755a04ac863852bc6fdb163973f5021472ed1ace72b2c5fb81582e0845cb42"
+    },
+    {
+      "cid": 4062,
+      "kana": "ラーバモス",
+      "spokenKana": "ラーバモス",
+      "file": "audio/4062.ogg",
+      "seconds": 1.355,
+      "sha256": "75d290d88b889c1633afa5cf514665c329a443bfbe58ad77a7ecd784e9fe87fa",
+      "pcmFile": "audio/4062.wav",
+      "pcmSha256": "6b987ef39925b6c41ba07458592d855a416bd3d3df450d2bb6680d04beff775d"
+    },
+    {
+      "cid": 4063,
+      "kana": "グレート・モス",
+      "spokenKana": "グレート・モス",
+      "file": "audio/4063.ogg",
+      "seconds": 2.11,
+      "sha256": "12a2d322880a602063a38ee0e6695c3de2fc8ac02f0efffd256255df6df0461f",
+      "pcmFile": "audio/4063.wav",
+      "pcmSha256": "ec88168794b7e79e0e6bf772727e2eb81d48761d97789d685f87bd8e73cce5fb"
+    },
+    {
+      "cid": 4065,
+      "kana": "マンモスのはかば",
+      "spokenKana": "マンモスノハカバ",
+      "file": "audio/4065.ogg",
+      "seconds": 1.875,
+      "sha256": "351f23dc3b708da43ed737ea110ccbfcb34c8c10a0750902097dd709db9614c4",
+      "pcmFile": "audio/4065.wav",
+      "pcmSha256": "70ffd02506a04423b2f416284b25924e9630fb9c99ad3607f283a4ea9949378a"
+    },
+    {
+      "cid": 4066,
+      "kana": "グレート・ホワイト",
+      "spokenKana": "グレート・ホワイト",
+      "file": "audio/4066.ogg",
+      "seconds": 2.33,
+      "sha256": "671161d3992fefa6b9341faeb6ee3b9b02818bdf3face14d0d964a6142e2ae2d",
+      "pcmFile": "audio/4066.wav",
+      "pcmSha256": "ee30e3b17de76a8e3c32bd42a49eeee45a5b86a047bdcecf2ff3758e5e15ef51"
+    },
+    {
+      "cid": 4067,
+      "kana": "オオカミ",
+      "spokenKana": "オオカミ",
+      "file": "audio/4067.ogg",
+      "seconds": 1.295,
+      "sha256": "0314eb3c1d10a30883530b93810049c2fdd7f008c9ba0107e13f9bc5d456e105",
+      "pcmFile": "audio/4067.wav",
+      "pcmSha256": "e9528230f24552f1982797f9f0b14a2c4e5b62b2d3055974574903f3f7a86a64"
+    },
+    {
+      "cid": 4069,
+      "kana": "ハーピィ・レディさんしまい",
+      "spokenKana": "ハーピィ・レディサンシマイ",
+      "file": "audio/4069.ogg",
+      "seconds": 1.945,
+      "sha256": "1164d59603af678a43b559c962e9af766236cc25f17e0d3e7acb114238531ca4",
+      "pcmFile": "audio/4069.wav",
+      "pcmSha256": "bc9b9b9874f0da9f8bf7ba49bf87d81bf78aae06258581328c1cb460f493d9c2"
+    },
+    {
+      "cid": 4070,
+      "kana": "タイガー・アックス",
+      "spokenKana": "タイガー・アックス",
+      "file": "audio/4070.ogg",
+      "seconds": 2.26,
+      "sha256": "63622471cd0f0252da92b1f61d1e3a2bb70f8c810103bdf4e7974a26a03c0c05",
+      "pcmFile": "audio/4070.wav",
+      "pcmSha256": "a199b792ad0db908c0cc9f34e4099141df6289db9b76fa918d2da17fefc9a184"
+    },
+    {
+      "cid": 4071,
+      "kana": "シルバー・フォング",
+      "spokenKana": "シルバー・フォング",
+      "file": "audio/4071.ogg",
+      "seconds": 2.245,
+      "sha256": "26f63669247cf254a83bc8d2e1c0aa58087787e7dc2407dc61c3b7841619d9b5",
+      "pcmFile": "audio/4071.wav",
+      "pcmSha256": "2eb3e228598dcd0eab2c711691cfa73b84ccdad36792b705ab38085c1a70e333"
+    },
+    {
+      "cid": 4072,
+      "kana": "まもののかりうど",
+      "spokenKana": "マモノノカリウド",
+      "file": "audio/4072.ogg",
+      "seconds": 1.76,
+      "sha256": "cd0d388f582714e5d9b2e3cbee7530773a51f849adf5a58425ed818322bd0557",
+      "pcmFile": "audio/4072.wav",
+      "pcmSha256": "93658981f7b45013273c7ada8574b745e4f9ffde1fe569ff2f351ff4b48ba17c"
+    },
+    {
+      "cid": 4073,
+      "kana": "きゅうきょくかんぜんたい・グレート・モス",
+      "spokenKana": "キュウキョクカンゼンタイ・グレート・モス",
+      "file": "audio/4073.ogg",
+      "seconds": 4.02,
+      "sha256": "07d996c1122b2db7225756b319a02d3e56d4ab4dddc784ff4eb0f21303241d56",
+      "pcmFile": "audio/4073.wav",
+      "pcmSha256": "02773cd1b13cb87fab9403387f4d57d569bfb8a61f2958c5f35dda59ec2f2d7f"
+    },
+    {
+      "cid": 4074,
+      "kana": "ガルーザス",
+      "spokenKana": "ガルーザス",
+      "file": "audio/4074.ogg",
+      "seconds": 1.32,
+      "sha256": "4d34f07d641ec5daf9d5338fb684212c0c50eb98bd5415a12815c54ab2f8f406",
+      "pcmFile": "audio/4074.wav",
+      "pcmSha256": "e3a2ed117e547559eb967079f3a093415c9a8c0d3d0003e1583ce2438a8ba6c7"
+    },
+    {
+      "cid": 4075,
+      "kana": "サウザンド・ドラゴン",
+      "spokenKana": "サウザンド・ドラゴン",
+      "file": "audio/4075.ogg",
+      "seconds": 2.375,
+      "sha256": "e44064d5747490040b5f27a6e3e9132fde27f2a256aae49d045b769fc71efe87",
+      "pcmFile": "audio/4075.wav",
+      "pcmSha256": "f84201c74a9d4cac3bf130424494ea320f5df666e14c13bcea544b12f38a67cd"
+    },
+    {
+      "cid": 4076,
+      "kana": "デビル・クラーケン",
+      "spokenKana": "デビル・クラーケン",
+      "file": "audio/4076.ogg",
+      "seconds": 2.23,
+      "sha256": "9c19646598597138e86f9e607ef518bbe0c1361fba57989f4941dc9fd4250701",
+      "pcmFile": "audio/4076.wav",
+      "pcmSha256": "49eafe35a3274f2ad415447fb5d5694c391d0485b0404819d4cf67dda4ef2644"
+    },
+    {
+      "cid": 4078,
+      "kana": "しんかのまゆ",
+      "spokenKana": "シンカノマユ",
+      "file": "audio/4078.ogg",
+      "seconds": 1.575,
+      "sha256": "5ae776f55b813a4abd8d67fc7e13187087e084d32d767ad96838b3127b2c32de",
+      "pcmFile": "audio/4078.wav",
+      "pcmSha256": "1a12b301961a15346b882e7ea78bde828443fcf7f2b288212be534294f7bab14"
+    },
+    {
+      "cid": 4079,
+      "kana": "リバイアサン",
+      "spokenKana": "リバイアサン",
+      "file": "audio/4079.ogg",
+      "seconds": 1.41,
+      "sha256": "136b0f0ad52da6f8d7c4f07b7cdf567dba47906be1ea942545caa0833bd9f2ee",
+      "pcmFile": "audio/4079.wav",
+      "pcmSha256": "310acc46289f23583eb12527c3b8b0f04d74ebc46aa2c2e41de4e75e2ba9416d"
+    },
+    {
+      "cid": 4080,
+      "kana": "がんせきのきょへい",
+      "spokenKana": "ガンセキノキョヘイ",
+      "file": "audio/4080.ogg",
+      "seconds": 1.795,
+      "sha256": "0b3b12464f720f8ce81b324774ef5cf7c5e2c83d7e89ffb03052c4bd52cc99d6",
+      "pcmFile": "audio/4080.wav",
+      "pcmSha256": "9fa58faea4ea4da9b2bb4ddb72f7a5861e37e5ad92d5c5761b4a91f1765d5f79"
+    },
+    {
+      "cid": 4081,
+      "kana": "ひとくいしょくぶつ",
+      "spokenKana": "ヒトクイショクブツ",
+      "file": "audio/4081.ogg",
+      "seconds": 1.805,
+      "sha256": "a158d3069f4a42d2848a865f9826ce36efd874b5b63e8a7a50286ed5eba2523a",
+      "pcmFile": "audio/4081.wav",
+      "pcmSha256": "6396f0adabf69561eb91cf6e7846e83cc04bc8ac1cfde6993cd627b5665bc7b1"
+    },
+    {
+      "cid": 4082,
+      "kana": "クロコダイラス",
+      "spokenKana": "クロコダイラス",
+      "file": "audio/4082.ogg",
+      "seconds": 1.685,
+      "sha256": "6acbba520e587b204635e19eb4f30d09847bbc073bfdb076125e09c7c550f30d",
+      "pcmFile": "audio/4082.wav",
+      "pcmSha256": "54707024ffbdf3836d0d7dcc48cec638e250708fe3ab8f91505dae8edf36e70e"
+    },
+    {
+      "cid": 4083,
+      "kana": "グラップラー",
+      "spokenKana": "グラップラー",
+      "file": "audio/4083.ogg",
+      "seconds": 1.51,
+      "sha256": "8775e31a83e1969c5cb1c71343376ee977e7aa631078c1d26c7a40d39118293e",
+      "pcmFile": "audio/4083.wav",
+      "pcmSha256": "9028c3711daa41d5263d96643e88c7d33a598e54c2143d431f8ee67567f3f4b1"
+    },
+    {
+      "cid": 4084,
+      "kana": "アックス・レイダー",
+      "spokenKana": "アックス・レイダー",
+      "file": "audio/4084.ogg",
+      "seconds": 2.295,
+      "sha256": "561387227fa432e3d93d4692e5f428763d5a50a6c91f5cd1a0df2d8fa52d7315",
+      "pcmFile": "audio/4084.wav",
+      "pcmSha256": "36fa26dd25415ab5ab603ee45d9370c10277f4378614d4d34701ab348bf3469c"
+    },
+    {
+      "cid": 4085,
+      "kana": "メガザウラー",
+      "spokenKana": "メガザウラー",
+      "file": "audio/4085.ogg",
+      "seconds": 1.45,
+      "sha256": "f956b2d733b62a8eba9b841952287a13afbe8e9576a5083a426c12ab2718538f",
+      "pcmFile": "audio/4085.wav",
+      "pcmSha256": "96972982cea049e7ddb6e14119b55952ba90c39a10731b750587f04b46e8acaa"
+    },
+    {
+      "cid": 4086,
+      "kana": "ワイルド・ラプター",
+      "spokenKana": "ワイルド・ラプター",
+      "file": "audio/4086.ogg",
+      "seconds": 2.305,
+      "sha256": "07760856234df59f7b13f74965b36a947cd49509b3b2f89ab6935fa85197ab82",
+      "pcmFile": "audio/4086.wav",
+      "pcmSha256": "85162213d42b20bc0c33d8ef39ee8e3a7cffbaf47b93f4be6bc93a80fcb5696e"
+    },
+    {
+      "cid": 4087,
+      "kana": "しかばねをむさぼるりゅう",
+      "spokenKana": "シカバネヲムサボルリュウ",
+      "file": "audio/4087.ogg",
+      "seconds": 2.185,
+      "sha256": "685b9b56b785e3613d16c04a551e4c82f4edcbeedeb9a12fe569f459b303efd9",
+      "pcmFile": "audio/4087.wav",
+      "pcmSha256": "bd62e2b8351912f86fd62697e896735f3953dc5d002795019d1ce522f785e085"
+    },
+    {
+      "cid": 4088,
+      "kana": "レッドアイズ・ブラックドラゴン",
+      "spokenKana": "レッドアイズ・ブラックドラゴン",
+      "file": "audio/4088.ogg",
+      "seconds": 2.845,
+      "sha256": "63a78aceb2eb2edac356a818b9caa870892c4842ab145b306f98db715ef936ee",
+      "pcmFile": "audio/4088.wav",
+      "pcmSha256": "a9da56970aaabbccfdd2fd261d8080d259765b6f216e697a5285b3e911b6c3ac"
+    },
+    {
+      "cid": 4089,
+      "kana": "やみくらましのしろ",
+      "spokenKana": "ヤミクラマシノシロ",
+      "file": "audio/4089.ogg",
+      "seconds": 2.085,
+      "sha256": "25ba8efe210dbe9b57ee34212ff44dfbfd16264ca2cbc9bdd8febf5994c7fa94",
+      "pcmFile": "audio/4089.wav",
+      "pcmSha256": "2f56a96c7a9e3ff2893108ec8daab8e88e99a64a6578880e69a1e292e2c0647a"
+    },
+    {
+      "cid": 4090,
+      "kana": "カードをかるしにがみ",
+      "spokenKana": "カードヲカルシニガミ",
+      "file": "audio/4090.ogg",
+      "seconds": 1.985,
+      "sha256": "84c6efa717e2200e40ce1fe7cc455d45076cea54a06ae585e5222b7391af2bf9",
+      "pcmFile": "audio/4090.wav",
+      "pcmSha256": "6efce93297423f59e4c6a117779086c099af769ece0aa986ea4bc2f47645b746"
+    },
+    {
+      "cid": 4091,
+      "kana": "やみまかいのはおう",
+      "spokenKana": "ヤミマカイノハオウ",
+      "file": "audio/4091.ogg",
+      "seconds": 1.815,
+      "sha256": "de8e41ce93d2ab63470231dd7d2f0852030059628e707ce0cd10c1bb2ea0f718",
+      "pcmFile": "audio/4091.wav",
+      "pcmSha256": "976e349609ff00f4f3bc88a8a6d6d2d4a0c433d2d4ac5bc0123d12c2427f23fa"
+    },
+    {
+      "cid": 4092,
+      "kana": "バロックス",
+      "spokenKana": "バロックス",
+      "file": "audio/4092.ogg",
+      "seconds": 1.33,
+      "sha256": "8b3c8cb451d30ac88bfc5195714766f0fedc07523df6b24d6e095f5a50bcd723",
+      "pcmFile": "audio/4092.wav",
+      "pcmSha256": "9aa664014a3eed61d97179e92cb788a62843c46d91844199af210d921dce94d0"
+    },
+    {
+      "cid": 4093,
+      "kana": "ダーク・キメラ",
+      "spokenKana": "ダーク・キメラ",
+      "file": "audio/4093.ogg",
+      "seconds": 2.09,
+      "sha256": "ab757dcccd37ea09df5a0e07683237eea0d1260d48eab2f96ac475fbd0e5e3c8",
+      "pcmFile": "audio/4093.wav",
+      "pcmSha256": "38aeee19e18ee98706f6d02343d46e90e268695356c536d805b0a78d2416e8a0"
+    },
+    {
+      "cid": 4094,
+      "kana": "メタル・ガーディアン",
+      "spokenKana": "メタル・ガーディアン",
+      "file": "audio/4094.ogg",
+      "seconds": 2.14,
+      "sha256": "5ef59c294f0e5786ab1c654d18e014a1772e3974724cfb8cefb97743195a5b3f",
+      "pcmFile": "audio/4094.wav",
+      "pcmSha256": "f6ba8b2885eb55801c3673591a00150b904f5538d6010c3fdcd7fea893cedeb6"
+    },
+    {
+      "cid": 4095,
+      "kana": "カタパルト・タートル",
+      "spokenKana": "カタパルト・タートル",
+      "file": "audio/4095.ogg",
+      "seconds": 2.48,
+      "sha256": "4d464788028d760f25003a565cbdb95f0ed80e71a56baf1e5548a97ed3c48414",
+      "pcmFile": "audio/4095.wav",
+      "pcmSha256": "ad8d4f9a6eba77a8868f676efc7b528e5c7d9e9f47e8682cd9fe10147c0e78fa"
+    },
+    {
+      "cid": 4096,
+      "kana": "ぎゃくてんのめがみ",
+      "spokenKana": "ギャクテンノメガミ",
+      "file": "audio/4096.ogg",
+      "seconds": 1.705,
+      "sha256": "84be9d5dda1312c72a2d36f6d0015f2b1b1cd7dba6cefb2a5dd5d3e470d9a709",
+      "pcmFile": "audio/4096.wav",
+      "pcmSha256": "8782a74dffff6cb77194e73a8d7f53b57fb7fa60574d416fe87197daccd337b6"
+    },
+    {
+      "cid": 4097,
+      "kana": "ケンタウロス",
+      "spokenKana": "ケンタウロス",
+      "file": "audio/4097.ogg",
+      "seconds": 1.6,
+      "sha256": "ffad16479bdaa90288f3069e4678d6d2838665ad9f257084b4e6ead3b4423f16",
+      "pcmFile": "audio/4097.wav",
+      "pcmSha256": "35d990cc0846387f94ddf20e1ad8e1833ff29b88200db1c71aa00559e6753537"
+    },
+    {
+      "cid": 4098,
+      "kana": "ミノケンタウロス",
+      "spokenKana": "ミノケンタウロス",
+      "file": "audio/4098.ogg",
+      "seconds": 1.76,
+      "sha256": "7accd9a2fba1285fb294f204bc61111993649142fc0535c8422c20da17bc761e",
+      "pcmFile": "audio/4098.wav",
+      "pcmSha256": "c2a45ef1aef6d3c3069f4d0ebaeda0c3ddbb8446f36a6a0e0df10ffc601ad970"
+    },
+    {
+      "cid": 4099,
+      "kana": "よろいむしゃザンキ",
+      "spokenKana": "ヨロイムシャザンキ",
+      "file": "audio/4099.ogg",
+      "seconds": 1.77,
+      "sha256": "aead5e0661265e9308e7b62c8b931bf7bc38501ab4d310032263120c0be57821",
+      "pcmFile": "audio/4099.wav",
+      "pcmSha256": "c04ec692963202045558539aac1a8cef767429eb3a25681bbd1673e64a6664f2"
+    },
+    {
+      "cid": 4100,
+      "kana": "ちをはうドラゴン",
+      "spokenKana": "チヲハウドラゴン",
+      "file": "audio/4100.ogg",
+      "seconds": 1.59,
+      "sha256": "3dfd3fd351834606ac7a5c9f88c4e7b62b73432fb4f9a40a246617c8af5e374b",
+      "pcmFile": "audio/4100.wav",
+      "pcmSha256": "23004a95c930c43107fb481041706a34ecd58eb2dbe812806e0406b4d9dab0b2"
+    },
+    {
+      "cid": 4101,
+      "kana": "マーダーサーカス",
+      "spokenKana": "マーダーサーカス",
+      "file": "audio/4101.ogg",
+      "seconds": 1.75,
+      "sha256": "d17a6dce42e8fdf17db1dd897d6579268d9028a0aa1f9bdc3779af2959eee372",
+      "pcmFile": "audio/4101.wav",
+      "pcmSha256": "f779ce9d71682180432b68dff64b041c4f3dfdb3280e8f5dc2b60d678a46757a"
+    },
+    {
+      "cid": 4102,
+      "kana": "よろいむしゃゾンビ",
+      "spokenKana": "ヨロイムシャゾンビ",
+      "file": "audio/4102.ogg",
+      "seconds": 1.705,
+      "sha256": "62cf8e8d185f013f2c4aa5c549c24f96ebab8fe726b1bd6503c5a657b50c8570",
+      "pcmFile": "audio/4102.wav",
+      "pcmSha256": "948057a4e5008b333f892a3a940a90f1aa810221904d7e049b7a8a0118cbd485"
+    },
+    {
+      "cid": 4103,
+      "kana": "ドラゴン・ゾンビ",
+      "spokenKana": "ドラゴン・ゾンビ",
+      "file": "audio/4103.ogg",
+      "seconds": 2.01,
+      "sha256": "3ff93d1907ec567378d7c6964b71c8845592ae20e5090653ab0833aaa87270e9",
+      "pcmFile": "audio/4103.wav",
+      "pcmSha256": "87c3b83b74c0a9927f972eaa448843e1a95da98a96beaaef695f4520b24d67dc"
+    },
+    {
+      "cid": 4104,
+      "kana": "マーダーサーカス・ゾンビ",
+      "spokenKana": "マーダーサーカス・ゾンビ",
+      "file": "audio/4104.ogg",
+      "seconds": 2.67,
+      "sha256": "593ee88be73d4ce1910ea3ee9b864ce883a77269c6b1d63833537cea08a65b81",
+      "pcmFile": "audio/4104.wav",
+      "pcmSha256": "a9b8a720ed725af3e66ab5d719d958859d8a541ac5ad3c4ec5977b326839065d"
+    },
+    {
+      "cid": 4106,
+      "kana": "かくとうせんしアルティメーター",
+      "spokenKana": "カクトウセンシアルティメーター",
+      "file": "audio/4106.ogg",
+      "seconds": 2.445,
+      "sha256": "616a5111a101b4be49636c020c1fae73cbaafad62f650f872027a3ded75b2539",
+      "pcmFile": "audio/4106.wav",
+      "pcmSha256": "cdb17c037e69d7991dfd8f652859ab45dad53079ed5cbddef218bd8c14c2c72b"
+    },
+    {
+      "cid": 4107,
+      "kana": "じゃえんのつばさ",
+      "spokenKana": "ジャエンノツバサ",
+      "file": "audio/4107.ogg",
+      "seconds": 1.76,
+      "sha256": "f8dca3ce0a13ab454cce95adeacc655e1fe44c20093bb3e10cb283e486eb08ae",
+      "pcmFile": "audio/4107.wav",
+      "pcmSha256": "7ad8b4dd1e8d875b30091f5f970fb2ebf1bcf923a91904de8ebb77408647cd39"
+    },
+    {
+      "cid": 4108,
+      "kana": "やみのかめん",
+      "spokenKana": "ヤミノカメン",
+      "file": "audio/4108.ogg",
+      "seconds": 1.415,
+      "sha256": "00e6092614b00a86587041dae1126591f4a5da8495000c9d5466a3e8b2e67688",
+      "pcmFile": "audio/4108.wav",
+      "pcmSha256": "d998f0041b0697917f304c74011038a016a2b7f25e624c90bee0856001eaf7be"
+    },
+    {
+      "cid": 4109,
+      "kana": "てんしょくのまきょう",
+      "spokenKana": "テンショクノマキョウ",
+      "file": "audio/4109.ogg",
+      "seconds": 1.895,
+      "sha256": "ecbec05852f1a9afee45216cd7e0972cd1d48aef19d55675c535c55b086a78e6",
+      "pcmFile": "audio/4109.wav",
+      "pcmSha256": "e326128eb45224b5faa2aa5fb7551a7362e0cef14c68b2345cf60c46e350d691"
+    },
+    {
+      "cid": 4110,
+      "kana": "くろまぞくのカーテン",
+      "spokenKana": "クロマゾクノカーテン",
+      "file": "audio/4110.ogg",
+      "seconds": 2.035,
+      "sha256": "a58ce4d1642aacc7077dee640e728bf484a13e45d7b404392bf2debbc84c8bef",
+      "pcmFile": "audio/4110.wav",
+      "pcmSha256": "aa79ccd297df90f02ae953d811736dfe918d40ca16e9896a810b14ed4d7f3a8e"
+    },
+    {
+      "cid": 4111,
+      "kana": "トモザウルス",
+      "spokenKana": "トモザウルス",
+      "file": "audio/4111.ogg",
+      "seconds": 1.46,
+      "sha256": "a7114235c4f1f9ee5babe18c247736db0ba380cceccaa2521f04eac97398a37e",
+      "pcmFile": "audio/4111.wav",
+      "pcmSha256": "f55f96feca313d82e161a75e499fd38f54fc975f41e81e0a94bb0c7e7887b020"
+    },
+    {
+      "cid": 4112,
+      "kana": "かぜのせいれい",
+      "spokenKana": "カゼノセイレイ",
+      "file": "audio/4112.ogg",
+      "seconds": 1.61,
+      "sha256": "bccd57b335315776dc6c5d50e88ba66152ee9565bd1d28cf1d76d5488b66d19c",
+      "pcmFile": "audio/4112.wav",
+      "pcmSha256": "d9da1174893378a132d079dd63130fd397bb883bf7111c9804ff5b5472bfb262"
+    },
+    {
+      "cid": 4113,
+      "kana": "シャドウ・ファイター",
+      "spokenKana": "シャドウ・ファイター",
+      "file": "audio/4113.ogg",
+      "seconds": 2.33,
+      "sha256": "ed18673bd5ec0bb13cbea182a6329513bfb4b700482d53c085000221702878d9",
+      "pcmFile": "audio/4113.wav",
+      "pcmSha256": "f7db92c60714bb993ba14e58524fd299bc34438410d230f259cb50ac75ff3013"
+    },
+    {
+      "cid": 4114,
+      "kana": "てまねきするはかば",
+      "spokenKana": "テマネキスルハカバ",
+      "file": "audio/4114.ogg",
+      "seconds": 2.01,
+      "sha256": "680eb6ce5f01d8003e834cce15475b5dbf7fffc3efc54738c60205e305117d4e",
+      "pcmFile": "audio/4114.wav",
+      "pcmSha256": "7dbda30a5a9431a87076a6760c838c8bb4becd7f9492a700f5f6eda63e4d8400"
+    },
+    {
+      "cid": 4115,
+      "kana": "しんがんのめがみ",
+      "spokenKana": "シンガンノメガミ",
+      "file": "audio/4115.ogg",
+      "seconds": 1.735,
+      "sha256": "073da966e3826a17ef5f9c2f9108ddd83e707890dc8232b347caf5936acce56a",
+      "pcmFile": "audio/4115.wav",
+      "pcmSha256": "4dea26f87da976b08d68faca7f36edd34eed39444dae90afbf7b99184d08b9bf"
+    },
+    {
+      "cid": 4116,
+      "kana": "とうほうのえいゆう",
+      "spokenKana": "トウホウノエイユウ",
+      "file": "audio/4116.ogg",
+      "seconds": 1.66,
+      "sha256": "ebdb1ebdaa5a547e909192803b78614cf44c5056f68e81e5d2067f9532193877",
+      "pcmFile": "audio/4116.wav",
+      "pcmSha256": "7849a2af3fed69278f0fe695050e6d6148b9dbd40d47791827204d95b1dde526"
+    },
+    {
+      "cid": 4117,
+      "kana": "しのちんもくのてんし　ドマ",
+      "spokenKana": "シノチンモクノテンシ　ドマ",
+      "file": "audio/4117.ogg",
+      "seconds": 2.425,
+      "sha256": "a6bcedcdd790c9325950a7689b57a55bbf6866c8ea94fc8fa6f8405127e903dc",
+      "pcmFile": "audio/4117.wav",
+      "pcmSha256": "55117ce7ab492300e01e916a0e13516f043702a3e0966b4d1efc37d680e66589"
+    },
+    {
+      "cid": 4118,
+      "kana": "いのちをしょくするもの",
+      "spokenKana": "イノチヲショクスルモノ",
+      "file": "audio/4118.ogg",
+      "seconds": 2.11,
+      "sha256": "f82a1cddfcc31d38f604fee542436300fa9c9ce488d9474a56d7fdb4cc99f587",
+      "pcmFile": "audio/4118.wav",
+      "pcmSha256": "b093ee388638a655237765debefad531ec72f95bbd2de79792c50bfbd1ca5ddd"
+    },
+    {
+      "cid": 4119,
+      "kana": "ダーク・グレイ",
+      "spokenKana": "ダーク・グレイ",
+      "file": "audio/4119.ogg",
+      "seconds": 1.985,
+      "sha256": "757070f87edd76879af2c3d12a3e40f3e0b0c637d4538b58179864bd9ec6f3e4",
+      "pcmFile": "audio/4119.wav",
+      "pcmSha256": "2f73b244bf574fd86ef168c555ffc130b5d7d519c6529ac8c31a923839ffd915"
+    },
+    {
+      "cid": 4120,
+      "kana": "ホワイト・シーフ",
+      "spokenKana": "ホワイト・シーフ",
+      "file": "audio/4120.ogg",
+      "seconds": 2.265,
+      "sha256": "ca002c6995e025ed060dcff1ee04ea0c41dc4401189d9ac3aecd7f2842b2b180",
+      "pcmFile": "audio/4120.wav",
+      "pcmSha256": "68beccc826527d8b00688f995c1a2dba3d496d8138b3d4fba3acb84afee0959a"
+    },
+    {
+      "cid": 4121,
+      "kana": "カオス・ウィザード",
+      "spokenKana": "カオス・ウィザード",
+      "file": "audio/4121.ogg",
+      "seconds": 2.245,
+      "sha256": "fe2440b5c8d2e1612c4ee0ba69b3950f0ae2f5223294d1c24e4788a9af55e4f1",
+      "pcmFile": "audio/4121.wav",
+      "pcmSha256": "62bc88dc3d389e899d7c7dd8cb7855b1973662f59bae2ed5b2df5e77957e047c"
+    },
+    {
+      "cid": 4122,
+      "kana": "ナイトメア・スコーピオン",
+      "spokenKana": "ナイトメア・スコーピオン",
+      "file": "audio/4122.ogg",
+      "seconds": 2.64,
+      "sha256": "3a721d61513daa0fa410964a5a11344e86a53231263126d05e95cecc3bc55aa7",
+      "pcmFile": "audio/4122.wav",
+      "pcmSha256": "e62a5b2fc20e45e7a883b9c1936a5fcdbed83cae0730d69e7d0b53f41cca9bcf"
+    },
+    {
+      "cid": 4123,
+      "kana": "ほんのせいれい　ホーク・ビショップ",
+      "spokenKana": "ホンノセイレイ　ホーク・ビショップ",
+      "file": "audio/4123.ogg",
+      "seconds": 3.02,
+      "sha256": "b7dcdcd7616ead3b30b5b7e2d87a716aafcdbf902c73f91db986bfbbd420386c",
+      "pcmFile": "audio/4123.wav",
+      "pcmSha256": "756020a8c23b16b0db3dc06900fc239158c139884fd1fa67708e0e33a24fae00"
+    },
+    {
+      "cid": 4124,
+      "kana": "ものかげのきょうりょくしゃ",
+      "spokenKana": "モノカゲノキョウリョクシャ",
+      "file": "audio/4124.ogg",
+      "seconds": 2.355,
+      "sha256": "50d95afc97a2f79b3c38dff2ab23da86a4e94f5d054abf6b2f0a1b67c20dac9b",
+      "pcmFile": "audio/4124.wav",
+      "pcmSha256": "dc9cbfa23c4516556098f906382447ab274da030443103d1484e40487f63395e"
+    },
+    {
+      "cid": 4125,
+      "kana": "じごくのさいばん",
+      "spokenKana": "ジゴクノサイバン",
+      "file": "audio/4125.ogg",
+      "seconds": 1.715,
+      "sha256": "c6d4c7d08b5e4d7512c1e88fb217deccc59db1e63fb545291d4e496dedaae2f0",
+      "pcmFile": "audio/4125.wav",
+      "pcmSha256": "fe6702378852f1eaa4bb006a26d8af522d8cba52a5c6e988f05e1216d88c6677"
+    },
+    {
+      "cid": 4126,
+      "kana": "ドリーム・ピエロ",
+      "spokenKana": "ドリーム・ピエロ",
+      "file": "audio/4126.ogg",
+      "seconds": 2.12,
+      "sha256": "52bd07dca6741217ab6660e3d09488c6614925096be8c4f72086c46a8584bf02",
+      "pcmFile": "audio/4126.wav",
+      "pcmSha256": "e567106dad102b65f98cf8d0ab717d3ca03ae08da62cd570561e7a31b3e547a9"
+    },
+    {
+      "cid": 4127,
+      "kana": "ねむれるシシ",
+      "spokenKana": "ネムレルシシ",
+      "file": "audio/4127.ogg",
+      "seconds": 1.54,
+      "sha256": "e70a50807856fd59e3c2579fe7d427cfcc88cf1b1a69212b6fb09277e6903f59",
+      "pcmFile": "audio/4127.wav",
+      "pcmSha256": "ec9c631e94d9b4cd39f962006e9411d6147b593e246f5a6a1f10b7598a74001f"
+    },
+    {
+      "cid": 4128,
+      "kana": "ヤマタノドラゴンえまき",
+      "spokenKana": "ヤマタノドラゴンエマキ",
+      "file": "audio/4128.ogg",
+      "seconds": 2.14,
+      "sha256": "d070f21b524f530257028d1327b41ad65d27af5521c1206c499a596fe60d9999",
+      "pcmFile": "audio/4128.wav",
+      "pcmSha256": "425a8ed45f49cc3187dc7fad87f678f3c9f6c7b27982dca23224c3c58a0386c6"
+    },
+    {
+      "cid": 4129,
+      "kana": "ダーク・プラント",
+      "spokenKana": "ダーク・プラント",
+      "file": "audio/4129.ogg",
+      "seconds": 2.165,
+      "sha256": "44f4f5329322aee9514043af6826936666cbbec723219feb534a909cc89c558d",
+      "pcmFile": "audio/4129.wav",
+      "pcmSha256": "75924a1d295968b4d765d862de35d7e0337527d5bcef8239f6ebbc01d1a2524a"
+    },
+    {
+      "cid": 4130,
+      "kana": "アイアン・ハート",
+      "spokenKana": "アイアン・ハート",
+      "file": "audio/4130.ogg",
+      "seconds": 2.005,
+      "sha256": "6c96b34fd64a5ddfa3e3b65af0cff7300573ea443638083139ef1b10a1cda02a",
+      "pcmFile": "audio/4130.wav",
+      "pcmSha256": "b17e47b0c73d61280fc8401603e77cf274968e77694c0cd3dc1a865f155d3ad8"
+    },
+    {
+      "cid": 4131,
+      "kana": "セイント・バード",
+      "spokenKana": "セイント・バード",
+      "file": "audio/4131.ogg",
+      "seconds": 2.23,
+      "sha256": "a17882d35b1d45fbda2f7fe36c79418af86ec7673e38e9bd70adead064667b77",
+      "pcmFile": "audio/4131.wav",
+      "pcmSha256": "78949252ec3b0b95ea33d58cdb3924eb6d7ae37008b55bee9964ba57f57def1f"
+    },
+    {
+      "cid": 4132,
+      "kana": "たたかいのかみ　オリオン",
+      "spokenKana": "タタカイノカミ　オリオン",
+      "file": "audio/4132.ogg",
+      "seconds": 2.025,
+      "sha256": "e9505de3fdf972670e666a73f4409843e3b8c08e2e014af2e83a920f92d00a6b",
+      "pcmFile": "audio/4132.wav",
+      "pcmSha256": "0d3da0168306aef59c441192c6b1ee792961f5a8d15cebdc8ffe7e916092a96d"
+    },
+    {
+      "cid": 4133,
+      "kana": "アサシン",
+      "spokenKana": "アサシン",
+      "file": "audio/4133.ogg",
+      "seconds": 1.25,
+      "sha256": "df89e58161597e36082aa0ad4a76295924b2d8ce35280e1304d7814d8ff66645",
+      "pcmFile": "audio/4133.wav",
+      "pcmSha256": "74a311cc8acce600e4bf984efe013e0917bb0d31598b452b62f245f39257c18f"
+    },
+    {
+      "cid": 4134,
+      "kana": "ラムーン",
+      "spokenKana": "ラムーン",
+      "file": "audio/4134.ogg",
+      "seconds": 1.155,
+      "sha256": "a10b7eba4cc437609045259986f00c0674c53bdf8bb6684e0a6a11018674be41",
+      "pcmFile": "audio/4134.wav",
+      "pcmSha256": "7414a78704b19044fef3ac81b1a3f4948d6247f3c767fa86f5f7f415402009d8"
+    },
+    {
+      "cid": 4135,
+      "kana": "ねむりこ",
+      "spokenKana": "ネムリコ",
+      "file": "audio/4135.ogg",
+      "seconds": 1.305,
+      "sha256": "63b408631dae8579a29504cf95109bb03be27dc2191b4c7faa166b51c6491f08",
+      "pcmFile": "audio/4135.wav",
+      "pcmSha256": "382961652ef7e2625a8a69e47cd6e6a4759765e5d73b540bbbcbfdf7c9abbe7d"
+    },
+    {
+      "cid": 4136,
+      "kana": "ウェザー・コントロール",
+      "spokenKana": "ウェザー・コントロール",
+      "file": "audio/4136.ogg",
+      "seconds": 2.405,
+      "sha256": "6e2562936f60928bba9defa4ca846589a0dbe248abd555d54e5c8898669f3990",
+      "pcmFile": "audio/4136.wav",
+      "pcmSha256": "8e46dd269c68f47887589982b09c873fa22721ca1a97e6befc0e6fb2c6dd4186"
+    },
+    {
+      "cid": 4137,
+      "kana": "オクトバーサー",
+      "spokenKana": "オクトバーサー",
+      "file": "audio/4137.ogg",
+      "seconds": 1.645,
+      "sha256": "df877d0a4aa30c309c3f591e8cea8dda30832008a0bb058ac2c1faef8f54a924",
+      "pcmFile": "audio/4137.wav",
+      "pcmSha256": "afd1cced33e968bebf562f7aa140b71066904e63ab0b2b3fec735bec65047f84"
+    },
+    {
+      "cid": 4139,
+      "kana": "ほのおのきし　キラー",
+      "spokenKana": "ホノオノキシ　キラー",
+      "file": "audio/4139.ogg",
+      "seconds": 1.935,
+      "sha256": "4c051844805cc2c9880c0d3b4d8449a6cb1e1ba2d237e69d8d8b2d9918f5ad78",
+      "pcmFile": "audio/4139.wav",
+      "pcmSha256": "73f6de6979d119f709d4542c9413793b14bbb0a4f1b66b45774bcf0283c633bf"
+    },
+    {
+      "cid": 4140,
+      "kana": "せいなるくさり",
+      "spokenKana": "セイナルクサリ",
+      "file": "audio/4140.ogg",
+      "seconds": 1.705,
+      "sha256": "28d859c800c2b4c0062aad19182d83c381735368e63b58035fc55b34e0d59950",
+      "pcmFile": "audio/4140.wav",
+      "pcmSha256": "078ab20f01018e7dad1c3865404b76deecf6203160bbaf4fd0008105cd1aca2f"
+    },
+    {
+      "cid": 4141,
+      "kana": "ししゃのうで",
+      "spokenKana": "シシャノウデ",
+      "file": "audio/4141.ogg",
+      "seconds": 1.61,
+      "sha256": "6c03eca0ef80c9e9a7e9e9c2e9a9e521e03c9d0d609c3ea2b05fe2724809d144",
+      "pcmFile": "audio/4141.wav",
+      "pcmSha256": "677c0380bdefa6958796321e7fa4d3c403713a0ff7ba8cf36899149df1550a12"
+    },
+    {
+      "cid": 4142,
+      "kana": "まじんデスサタン",
+      "spokenKana": "マジンデスサタン",
+      "file": "audio/4142.ogg",
+      "seconds": 1.685,
+      "sha256": "461d6df3b5bb9b6171c9e41352c008ae6c8494c377122355b91992bd4e736645",
+      "pcmFile": "audio/4142.wav",
+      "pcmSha256": "22c3fc0910d745f8065ee9b86409537db1ba4ad6741cc0cea3a52fb2c15e33e0"
+    },
+    {
+      "cid": 4143,
+      "kana": "なぞのて",
+      "spokenKana": "ナゾノテ",
+      "file": "audio/4143.ogg",
+      "seconds": 1.29,
+      "sha256": "2ec018c129a44627c6244efa59a2c93610a6e633322fc8cfd58f478825b3581a",
+      "pcmFile": "audio/4143.wav",
+      "pcmSha256": "1fa04649087913da727a4e48f3974992f365bd4319fa2dae5ece2ae465a7d493"
+    },
+    {
+      "cid": 4144,
+      "kana": "ドラゴン・ソウル・スタチュー",
+      "spokenKana": "ドラゴン・ソウル・スタチュー",
+      "file": "audio/4144.ogg",
+      "seconds": 3.335,
+      "sha256": "b2ce689a6d2b48c45073c82440648185be01a4e2afd6e9ba34a21f41e3619edf",
+      "pcmFile": "audio/4144.wav",
+      "pcmSha256": "7decbc3500973c65cd38ae3d358ca5cdc6ce2abc5cb95a047095021e9552916a"
+    },
+    {
+      "cid": 4145,
+      "kana": "ブルーアイド・シルバーゾンビ",
+      "spokenKana": "ブルーアイド・シルバーゾンビ",
+      "file": "audio/4145.ogg",
+      "seconds": 2.09,
+      "sha256": "46a327a8c2ca8895c0b1a9b63a44a66a676a7844e5a8378d163ed934d9b81445",
+      "pcmFile": "audio/4145.wav",
+      "pcmSha256": "ee60dcb55fe376daa4fa4e057e5e44632d5cd60b8b54bc5f8d6d8c0dfc66387b"
+    },
+    {
+      "cid": 4146,
+      "kana": "トードマスター",
+      "spokenKana": "トードマスター",
+      "file": "audio/4146.ogg",
+      "seconds": 1.555,
+      "sha256": "a83ed2d6a1a626527c220147f5a4bed8038030005cb9c5acae32a6fac6a97675",
+      "pcmFile": "audio/4146.wav",
+      "pcmSha256": "3f44e6f8fa3cf5cb87763f44c3963af4c4eb303b568e6c86d6365f52ecbe1b7b"
+    },
+    {
+      "cid": 4147,
+      "kana": "デビルツムリ",
+      "spokenKana": "デビルツムリ",
+      "file": "audio/4147.ogg",
+      "seconds": 1.53,
+      "sha256": "2806fe62e7f306dd6328eb61fe9626d336c02b1c9ccdfa531bd13463f7b05091",
+      "pcmFile": "audio/4147.wav",
+      "pcmSha256": "c84243d09ae2d7b4afe27a408975da7b68dc67787e6fb98bc9a296686152343a"
+    },
+    {
+      "cid": 4148,
+      "kana": "ほのおをあやつるもの",
+      "spokenKana": "ホノオヲアヤツルモノ",
+      "file": "audio/4148.ogg",
+      "seconds": 1.95,
+      "sha256": "e6d4d4222c3b6d36f9531584f6f1a0fd6b0ca5414bc1376b03378ff96e6d484b",
+      "pcmFile": "audio/4148.wav",
+      "pcmSha256": "486848517c4bc887892d61a48d7eec4de9a6748b5b01ae9a0b4e2d57b7b1f5b6"
+    },
+    {
+      "cid": 4149,
+      "kana": "ときのまじん　ネクロランサ",
+      "spokenKana": "トキノマジン　ネクロランサ",
+      "file": "audio/4149.ogg",
+      "seconds": 2.32,
+      "sha256": "a43b04f608c1305379a8dd07b987fef3064b02be23002cf7705d4d5f8bfb9c07",
+      "pcmFile": "audio/4149.wav",
+      "pcmSha256": "bf21cd036ca2527f44ab9d557722e6d135dc6fdb6c61801838cd2f09ab444285"
+    },
+    {
+      "cid": 4150,
+      "kana": "かぜのばんにん　ジン",
+      "spokenKana": "カゼノバンニン　ジン",
+      "file": "audio/4150.ogg",
+      "seconds": 1.79,
+      "sha256": "b52e5697e7c6c7379a710e3ac2b2bf7ca6a3df519cb2ff88ecf760ca1316d3bc",
+      "pcmFile": "audio/4150.wav",
+      "pcmSha256": "59e58cfa30a9ac41cb60c3a5e452ff6e23e3f85d39bf13f4a25969aedf4fc390"
+    },
+    {
+      "cid": 4151,
+      "kana": "みわくのかいとう",
+      "spokenKana": "ミワクノカイトウ",
+      "file": "audio/4151.ogg",
+      "seconds": 1.685,
+      "sha256": "7e8c009d4803b8dcc85ccfacd5b833c9ee8535e4e8be8490f0248484d31cb3eb",
+      "pcmFile": "audio/4151.wav",
+      "pcmSha256": "dba1f0198648930c025286d7809e31f1d9aec3ddec1a6d84879862304ba7b26e"
+    },
+    {
+      "cid": 4152,
+      "kana": "ドクロのじいん",
+      "spokenKana": "ドクロノジイン",
+      "file": "audio/4152.ogg",
+      "seconds": 1.48,
+      "sha256": "f259cf84d70ec3a9d24b262dbb82d6c0716c8f13c2be37112db0e387746d260a",
+      "pcmFile": "audio/4152.wav",
+      "pcmSha256": "c07e64f560594825619e514bf65a60e50a82e5c5668c37191b757491b5f66729"
+    },
+    {
+      "cid": 4153,
+      "kana": "モンスター・エッグ",
+      "spokenKana": "モンスター・エッグ",
+      "file": "audio/4153.ogg",
+      "seconds": 2.18,
+      "sha256": "a262d89a8d3f7158c3e3d89efe9946cccc948fcdb27bd21a28692cf294fda396",
+      "pcmFile": "audio/4153.wav",
+      "pcmSha256": "b5b95dfd2bc5b51f2ca5dbabfa74333bbff676014f04ae1e1d384cb4e8587660"
+    },
+    {
+      "cid": 4154,
+      "kana": "やみをつかさどるかげ",
+      "spokenKana": "ヤミヲツカサドルカゲ",
+      "file": "audio/4154.ogg",
+      "seconds": 2.22,
+      "sha256": "737da9ab6f41f962811f735d5bd4d7ab0e45eac6196fd1448f1bff130e63c889",
+      "pcmFile": "audio/4154.wav",
+      "pcmSha256": "fa518d8a7caa27022b73860979a21ee709a9eda482d37534b1e9e37e0850618c"
+    },
+    {
+      "cid": 4155,
+      "kana": "ランプのまじん",
+      "spokenKana": "ランプノマジン",
+      "file": "audio/4155.ogg",
+      "seconds": 1.52,
+      "sha256": "e0ffc9e90d1b24ef18e933c145d4e800c5c530b8867180b8b05e5130491aeb0d",
+      "pcmFile": "audio/4155.wav",
+      "pcmSha256": "fc8af75d0d086998c5914d65f8290ae938cd1224646e8a44fa5e4071148845da"
+    },
+    {
+      "cid": 4156,
+      "kana": "カクタス",
+      "spokenKana": "カクタス",
+      "file": "audio/4156.ogg",
+      "seconds": 1.48,
+      "sha256": "7c072b7a9c5ecd3c89f85cf47e0b9b445709c55e780885c491dff4258b450416",
+      "pcmFile": "audio/4156.wav",
+      "pcmSha256": "18b65a682f4489bf5ceb71f3f96f107011417a9396a687059896b52614222eb5"
+    },
+    {
+      "cid": 4157,
+      "kana": "あかきけんのライムンドス",
+      "spokenKana": "アカキケンノライムンドス",
+      "file": "audio/4157.ogg",
+      "seconds": 2.28,
+      "sha256": "7fc9d96d25cb8093c221ec1d41be077275c6f1eeb6915db9ed0fc3d991dd38fc",
+      "pcmFile": "audio/4157.wav",
+      "pcmSha256": "1001a8e83503caa70be63d2548d6c4c0d3f47c9ae38ec2c7127ab6fa0a7fc73d"
+    },
+    {
+      "cid": 4158,
+      "kana": "とろけるあかきかげ",
+      "spokenKana": "トロケルアカキカゲ",
+      "file": "audio/4158.ogg",
+      "seconds": 2.03,
+      "sha256": "4048b6306f5e90e7b6205dcbafe6074f7e3b12aedfdce46723c5025185f4690c",
+      "pcmFile": "audio/4158.wav",
+      "pcmSha256": "e9c5a860571db3bb01c284adb77d16e3874cbca297f5698e8f7897dea4df7e52"
+    },
+    {
+      "cid": 4159,
+      "kana": "しにがみのドクロイゾ",
+      "spokenKana": "シニガミノドクロイゾ",
+      "file": "audio/4159.ogg",
+      "seconds": 2.125,
+      "sha256": "30df9b00f3c4f5f889b3d42d65c972b4cedf917dc62f411d3b9894ad8e3d2bf7",
+      "pcmFile": "audio/4159.wav",
+      "pcmSha256": "95209bd18672b24cf50368bff9e4ad4c5a5a45ebaac38ec536a376a813829ad3"
+    },
+    {
+      "cid": 4160,
+      "kana": "ファイヤー・デビル",
+      "spokenKana": "ファイヤー・デビル",
+      "file": "audio/4160.ogg",
+      "seconds": 2.13,
+      "sha256": "ab40c10603a4ecd059efe789468ab9e590255ce5c41a243cc5290630c905ce15",
+      "pcmFile": "audio/4160.wav",
+      "pcmSha256": "2636b94a61f283d4467a06471aa73f385d01eea3e1cfe41e50a6dc95a381775d"
+    },
+    {
+      "cid": 4161,
+      "kana": "ラーバス",
+      "spokenKana": "ラーバス",
+      "file": "audio/4161.ogg",
+      "seconds": 1.21,
+      "sha256": "3df1790c7cfa6150a5ad2126f669fc7ccf185a636fba265dfc3be92452b5f7c4",
+      "pcmFile": "audio/4161.wav",
+      "pcmSha256": "69524df135cbd70460b4c3aa853045712d4f6555a85a629bc488f189b8c24437"
+    },
+    {
+      "cid": 4162,
+      "kana": "ハードアーマー",
+      "spokenKana": "ハードアーマー",
+      "file": "audio/4162.ogg",
+      "seconds": 1.495,
+      "sha256": "49f482e4a89698cefb499689972a5f9a0032e65c6bda0c29a62b359aada347d4",
+      "pcmFile": "audio/4162.wav",
+      "pcmSha256": "e520c4c3c34cff3b2c0c0206908784ceb32a624d315ac9059c2f7238ad39633c"
+    },
+    {
+      "cid": 4163,
+      "kana": "かえんそう",
+      "spokenKana": "カエンソウ",
+      "file": "audio/4163.ogg",
+      "seconds": 1.265,
+      "sha256": "57fe966656906e497cb28885eba13edfb01259af522076dd950207e4667b206e",
+      "pcmFile": "audio/4163.wav",
+      "pcmSha256": "28f21cc0327a1eb698e3c5e16f0c907b8c08ca6e2d687a2d130b002ef5b9e796"
+    },
+    {
+      "cid": 4164,
+      "kana": "マンイーター",
+      "spokenKana": "マンイーター",
+      "file": "audio/4164.ogg",
+      "seconds": 1.385,
+      "sha256": "b26bdee851085afe59289378fb0cf9becd991510b40deae3c2734bcc9be6211d",
+      "pcmFile": "audio/4164.wav",
+      "pcmSha256": "0ea8daff17ed03bdb7dd9ce53118c1812b7281688d1da42ea23402d37f5a4a51"
+    },
+    {
+      "cid": 4165,
+      "kana": "ディッグ・ビーク",
+      "spokenKana": "ディッグ・ビーク",
+      "file": "audio/4165.ogg",
+      "seconds": 1.975,
+      "sha256": "2b316951fdee250523d9e27a338f327d800e69391560be83bd77028a146ee8e1",
+      "pcmFile": "audio/4165.wav",
+      "pcmSha256": "e52e5a3b0988b99fa21466e82bab2cb52f4989be7d36533bc8040c83bb881846"
+    },
+    {
+      "cid": 4168,
+      "kana": "あくまのちえ",
+      "spokenKana": "アクマノチエ",
+      "file": "audio/4168.ogg",
+      "seconds": 1.64,
+      "sha256": "dc28c4cde6de7a9e63d55571723778df7133a7b9df45baf041983a9418c3f67d",
+      "pcmFile": "audio/4168.wav",
+      "pcmSha256": "e923aeecbbf4814b5a3fd8152b6d62c6cf420280808d4ef787ec444849a44b68"
+    },
+    {
+      "cid": 4169,
+      "kana": "サファイヤ・リサーク",
+      "spokenKana": "サファイヤ・リサーク",
+      "file": "audio/4169.ogg",
+      "seconds": 2.465,
+      "sha256": "cdc982baa5200b290dd012de6e260a3c10c0ecd778fbfe7d0cbc07f4ee984aa0",
+      "pcmFile": "audio/4169.wav",
+      "pcmSha256": "2395f4679925e707a4273369b14c8a1f56b7cb43c96917075940025c0eb95263"
+    },
+    {
+      "cid": 4170,
+      "kana": "ゼミアのかみ",
+      "spokenKana": "ゼミアノカミ",
+      "file": "audio/4170.ogg",
+      "seconds": 1.555,
+      "sha256": "e23e424a75bcb3a9ccfd448bc483424c6ce72a3b6a1966d7f47dae5f2cf5c25f",
+      "pcmFile": "audio/4170.wav",
+      "pcmSha256": "f48413537975220816f62f72fe92dae5c96e8aeda9a412e9199346ea46ebb944"
+    },
+    {
+      "cid": 4171,
+      "kana": "ジャジメント・ザ・ハンド",
+      "spokenKana": "ジャジメント・ザ・ハンド",
+      "file": "audio/4171.ogg",
+      "seconds": 3.175,
+      "sha256": "0afc13185a950aaca8de3ad99be161f524050750308e01110e6f02f02b62872d",
+      "pcmFile": "audio/4171.wav",
+      "pcmSha256": "ef9cc9e5e9175838c63ddbb638f04344fb59d0d300ae659c02caa9801504b9ca"
+    },
+    {
+      "cid": 4172,
+      "kana": "なぞのくぐつし",
+      "spokenKana": "ナゾノクグツシ",
+      "file": "audio/4172.ogg",
+      "seconds": 1.76,
+      "sha256": "c8cf002fe03308a94e2fda1b32bf86ff56103bf6c86c902765f4a442c548dd13",
+      "pcmFile": "audio/4172.wav",
+      "pcmSha256": "712d7e4a9cbc946009e2155b29ce4600cac9d90202ecabb34ad86584e09664de"
+    },
+    {
+      "cid": 4173,
+      "kana": "たいこのつぼ",
+      "spokenKana": "タイコノツボ",
+      "file": "audio/4173.ogg",
+      "seconds": 1.55,
+      "sha256": "abb4dc0861f12539f96cb9b6daa253560f188ade1978e3e158fa36397b3d99cb",
+      "pcmFile": "audio/4173.wav",
+      "pcmSha256": "f2a2f61bdc044e858fce4b2aa435aa7dde4922c61f074918e94c662c4e729c57"
+    },
+    {
+      "cid": 4174,
+      "kana": "あんこくかえんりゅう",
+      "spokenKana": "アンコクカエンリュウ",
+      "file": "audio/4174.ogg",
+      "seconds": 1.735,
+      "sha256": "f6b0ecee6506f7e26f3e31ab15437f2dc2a976b49a949d3625a2c28fdcd2cf68",
+      "pcmFile": "audio/4174.wav",
+      "pcmSha256": "ce293614f1428316ba4c6c60d7e126b9028c4ff41ec53aacc6b37e8830dd8ec7"
+    },
+    {
+      "cid": 4175,
+      "kana": "しんえんのめいおう",
+      "spokenKana": "シンエンノメイオウ",
+      "file": "audio/4175.ogg",
+      "seconds": 1.67,
+      "sha256": "173e1db84bc2c4bba3b5d5bbf5a1af4d5c296d3cdf4cf6d48448c3e59087206d",
+      "pcmFile": "audio/4175.wav",
+      "pcmSha256": "93a0c6a2f170fd7e647df2d82f2402e7e8a147fbc1516b32ae390f05ab434d34"
+    },
+    {
+      "cid": 4176,
+      "kana": "ハープのせい",
+      "spokenKana": "ハープノセイ",
+      "file": "audio/4176.ogg",
+      "seconds": 1.51,
+      "sha256": "8836d5e0ef8d2e09393e7c0568d47b2a64601c5e9571fe45c1368994262dd389",
+      "pcmFile": "audio/4176.wav",
+      "pcmSha256": "b1cb05780647e85d350d5c08e5392d3aed119c127b39e12af935c243d17b59ed"
+    },
+    {
+      "cid": 4177,
+      "kana": "だいおうめだま",
+      "spokenKana": "ダイオウメダマ",
+      "file": "audio/4177.ogg",
+      "seconds": 1.51,
+      "sha256": "0bf4e4fed90da201637df3bad8d8b56e9f0143fb3383c7253c8664e380f3cac0",
+      "pcmFile": "audio/4177.wav",
+      "pcmSha256": "f1764fa93d0415657ae9377b543096f37c2b95b378c05efc128511ddf8e14ae5"
+    },
+    {
+      "cid": 4178,
+      "kana": "アーメイル",
+      "spokenKana": "アーメイル",
+      "file": "audio/4178.ogg",
+      "seconds": 1.17,
+      "sha256": "78a7c386b5c17ec020c307ade108e4a14f4f41cdec5d79cf3f7cac588cc2fa95",
+      "pcmFile": "audio/4178.wav",
+      "pcmSha256": "af0044828b3385e608375589a50ad0afbaa34f660273a1476eb4a1a222644bf3"
+    },
+    {
+      "cid": 4179,
+      "kana": "ダーク・プリズナー",
+      "spokenKana": "ダーク・プリズナー",
+      "file": "audio/4179.ogg",
+      "seconds": 2.31,
+      "sha256": "66ac2efc48cfa81d0baa694ffe0c65855c184634f05a490db5b002b46e3d8ff7",
+      "pcmFile": "audio/4179.wav",
+      "pcmSha256": "94e106b4eceb93c58b5da61f050ccf32275979e3d691d51950382ea75549d6ec"
+    },
+    {
+      "cid": 4180,
+      "kana": "ハリケル",
+      "spokenKana": "ハリケル",
+      "file": "audio/4180.ogg",
+      "seconds": 1.25,
+      "sha256": "4965fab07031d182e0a5a255746013d8af50be5e2a82c61502dc31ee99bd3acb",
+      "pcmFile": "audio/4180.wav",
+      "pcmSha256": "86046c6ec8a4f88a2b31422c388097a78ede298d568542f731aabc958ab9296e"
+    },
+    {
+      "cid": 4181,
+      "kana": "まてんろう",
+      "spokenKana": "マテンロウ",
+      "file": "audio/4181.ogg",
+      "seconds": 1.24,
+      "sha256": "7037896580c56761a6a1114176a4250b622a7fdc2474f1644ade54ea0da820b8",
+      "pcmFile": "audio/4181.wav",
+      "pcmSha256": "af0b38952250d1fdf67442590cc2e3826f6333740d7171e3d22942babd119190"
+    },
+    {
+      "cid": 4182,
+      "kana": "ファイヤー・アイ",
+      "spokenKana": "ファイヤー・アイ",
+      "file": "audio/4182.ogg",
+      "seconds": 1.95,
+      "sha256": "8399f4095585186da387e41c12eea09e9229fe0bd16c48930f43323005d10c19",
+      "pcmFile": "audio/4182.wav",
+      "pcmSha256": "17eb1285b92cef05614d4b1e3c7650258bf1acdc6a57f87b32ad758133f8ccda"
+    },
+    {
+      "cid": 4183,
+      "kana": "モンスタートル",
+      "spokenKana": "モンスタートル",
+      "file": "audio/4183.ogg",
+      "seconds": 1.495,
+      "sha256": "f2fbf4bf68a72b1739889a8b7a5afc500a71ee771de2315078cd557ec19d5583",
+      "pcmFile": "audio/4183.wav",
+      "pcmSha256": "362639a51eff930637ad9716bf2113398a7ef95fffef759d32e62bb0f96202c5"
+    },
+    {
+      "cid": 4184,
+      "kana": "キラー・ザ・クロー",
+      "spokenKana": "キラー・ザ・クロー",
+      "file": "audio/4184.ogg",
+      "seconds": 1.615,
+      "sha256": "a01989b7a2183c5a10af4c7281ffec0775a0c24ca99ff0cdf35d91004f39a8d0",
+      "pcmFile": "audio/4184.wav",
+      "pcmSha256": "90d929564ad9ab279d541ed7a1f9c13136455959eb8fc2ec8c6b233a528dc75b"
+    },
+    {
+      "cid": 4185,
+      "kana": "サターナ",
+      "spokenKana": "サターナ",
+      "file": "audio/4185.ogg",
+      "seconds": 1.3,
+      "sha256": "94ecf7ecd1d38d9c80dbee06e8392517c20b157064108179f4f2a26fc7e83fc8",
+      "pcmFile": "audio/4185.wav",
+      "pcmSha256": "76d7dae244f8396040a46e46013c44099aba4e95ff6261731257d6ea20983820"
+    },
+    {
+      "cid": 4186,
+      "kana": "アルラウネ",
+      "spokenKana": "アルラウネ",
+      "file": "audio/4186.ogg",
+      "seconds": 1.26,
+      "sha256": "8a4e74736ff0c148ecb4cb26846a41148d6adc6980bf04e34cdd8cf6b484c5be",
+      "pcmFile": "audio/4186.wav",
+      "pcmSha256": "e31b40ff1140ce6cadc0e5b255d8af48129d188c4ab224b89349e7db4f1aa3a5"
+    },
+    {
+      "cid": 4187,
+      "kana": "ダークシェイド",
+      "spokenKana": "ダークシェイド",
+      "file": "audio/4187.ogg",
+      "seconds": 1.475,
+      "sha256": "1d0db30c7313f3f46550c142adc1325c738336e25be3370cef93cf8284fa1b7f",
+      "pcmFile": "audio/4187.wav",
+      "pcmSha256": "13e94dceb425a454a2d198820f8f044a06e999cbbd73b645c5ea40b437df7c39"
+    },
+    {
+      "cid": 4188,
+      "kana": "かめんどうけ",
+      "spokenKana": "カメンドウケ",
+      "file": "audio/4188.ogg",
+      "seconds": 1.52,
+      "sha256": "da1bceec1a3f1098ef5290e68783beae3584228122701e283bd4a08c24d41eed",
+      "pcmFile": "audio/4188.wav",
+      "pcmSha256": "d6d8dfd12b9bf06f7dd799feac4bdcbb36278067f6026b6b58d7f05e119ff3ad"
+    },
+    {
+      "cid": 4189,
+      "kana": "ホーリー・パワー",
+      "spokenKana": "ホーリー・パワー",
+      "file": "audio/4189.ogg",
+      "seconds": 2.165,
+      "sha256": "4916a10853e2b135c9216f5a324f30ffa6f47e704fd13fda9266140b4fc77dcd",
+      "pcmFile": "audio/4189.wav",
+      "pcmSha256": "7eb83e2763f778d0e5a104fe0117c1d59653404262198c6a983d198198a056bc"
+    },
+    {
+      "cid": 4190,
+      "kana": "ジャグラー",
+      "spokenKana": "ジャグラー",
+      "file": "audio/4190.ogg",
+      "seconds": 1.34,
+      "sha256": "134372c05c7b7a2ad0ab256009fd9df38870c1abb3b5a86d07800baa51c1e925",
+      "pcmFile": "audio/4190.wav",
+      "pcmSha256": "a2a6c158e17d00750e5e50f0a2bbb72154b5f0fcb1ab2602b9ce72e0ff411ed2"
+    },
+    {
+      "cid": 4191,
+      "kana": "コピックス",
+      "spokenKana": "コピックス",
+      "file": "audio/4191.ogg",
+      "seconds": 1.445,
+      "sha256": "b02e5f06d52a210d5b72b1a016e1ca2842314e91a30e9f7c824b237c63dd0529",
+      "pcmFile": "audio/4191.wav",
+      "pcmSha256": "73e6d0053cb1a3c53919d8822a67bc76ae720e3c8205f0e2101c522451be60bc"
+    },
+    {
+      "cid": 4192,
+      "kana": "ミラージュ",
+      "spokenKana": "ミラージュ",
+      "file": "audio/4192.ogg",
+      "seconds": 1.255,
+      "sha256": "dcfd5db126015168616c96941723f74b0c6bbe140d182742b7f9afc3c4ce3e2a",
+      "pcmFile": "audio/4192.wav",
+      "pcmSha256": "679b9ce6dcfce0ebf671f31972158506580a05ae6ee2f19aa6997cf4d780a22c"
+    },
+    {
+      "cid": 4193,
+      "kana": "ヘルゲート・ディーグ",
+      "spokenKana": "ヘルゲート・ディーグ",
+      "file": "audio/4193.ogg",
+      "seconds": 1.635,
+      "sha256": "3fab32488d4c077306ce7c4e5c7aa20d6254dd4e219e53a2e498eb63ffe45de8",
+      "pcmFile": "audio/4193.wav",
+      "pcmSha256": "9553cc7c0183dc2652afb00e92426ddb18f63d13dd661b80ebe10263ab801205"
+    },
+    {
+      "cid": 4194,
+      "kana": "ファランクス",
+      "spokenKana": "ファランクス",
+      "file": "audio/4194.ogg",
+      "seconds": 1.54,
+      "sha256": "f23ca27b6a26fd14669cd39a1916ff44bc695f8d8064aabdd8465f71a5483cdd",
+      "pcmFile": "audio/4194.wav",
+      "pcmSha256": "f042a515f3dbb868f8a5994668c12600e9e11087c1eb3d0b9c780a7067ed524c"
+    },
+    {
+      "cid": 4195,
+      "kana": "フュージョニスト",
+      "spokenKana": "フュージョニスト",
+      "file": "audio/4195.ogg",
+      "seconds": 1.525,
+      "sha256": "fbb56b0253182e29964d1a27b9507b251d90e807fce845389d8fcdc84f6e5258",
+      "pcmFile": "audio/4195.wav",
+      "pcmSha256": "59d1a6c80a70aa577352d0646256e10b4a4badb9f50acb1fd0964bc3fd7bedf4"
+    },
+    {
+      "cid": 4196,
+      "kana": "レッド・エース",
+      "spokenKana": "レッド・エース",
+      "file": "audio/4196.ogg",
+      "seconds": 2.03,
+      "sha256": "1658b3b6ad7ef7e51c3146f1a1b1ff6e8ddf733616e2b638d66aaea5fd40a5a0",
+      "pcmFile": "audio/4196.wav",
+      "pcmSha256": "76706eae8ac35f0ef0794b9183ac8ff6a1c9883618bdb9c6954af1ea7f12cd5a"
+    },
+    {
+      "cid": 4197,
+      "kana": "ララ・ライウーン",
+      "spokenKana": "ララ・ライウーン",
+      "file": "audio/4197.ogg",
+      "seconds": 1.92,
+      "sha256": "24f37be31838cc24bdedcafb0235a549ae7e4775382038b75bfb5fb5f6889ddd",
+      "pcmFile": "audio/4197.wav",
+      "pcmSha256": "aa667b5ab6811ea4347f54d23ff3017b67b15d420466aeb338490f9205ddecde"
+    },
+    {
+      "cid": 4198,
+      "kana": "キーメイス",
+      "spokenKana": "キーメイス",
+      "file": "audio/4198.ogg",
+      "seconds": 1.365,
+      "sha256": "f4d0edfca2ef973c9d2eacfc3e45b3471b9fe7d5135a1ddb3cd4563a3fa6d032",
+      "pcmFile": "audio/4198.wav",
+      "pcmSha256": "cf68e1767b23b93b8f5767557e59c98c2b4fdcff46231d8326342b35ceb7828c"
+    },
+    {
+      "cid": 4199,
+      "kana": "タートル・タイガー",
+      "spokenKana": "タートル・タイガー",
+      "file": "audio/4199.ogg",
+      "seconds": 2.28,
+      "sha256": "89d4c5dc289289a03a27e855328d59124d4d904bc611b44def47c204857e8178",
+      "pcmFile": "audio/4199.wav",
+      "pcmSha256": "7a1135c96f367ea17729699f2746f7f182264fad741db38b13b7d66ec8947f4d"
+    },
+    {
+      "cid": 4200,
+      "kana": "まじん　テラ",
+      "spokenKana": "マジン　テラ",
+      "file": "audio/4200.ogg",
+      "seconds": 1.38,
+      "sha256": "f0e273d7d713a45428fe490d22d92362e21f907d0e48e8c6db1806b17d906d00",
+      "pcmFile": "audio/4200.wav",
+      "pcmSha256": "83e6478cc99419a3b1c17c9d3991e11a4974a5489000020bc024d884b4b2b83c"
+    },
+    {
+      "cid": 4201,
+      "kana": "ドローン",
+      "spokenKana": "ドローン",
+      "file": "audio/4201.ogg",
+      "seconds": 1.115,
+      "sha256": "87332d9677089d6ce1b976d314c861bb35c116830bd44efd85a9567541009ffd",
+      "pcmFile": "audio/4201.wav",
+      "pcmSha256": "1f194eea065120bfa36cba164891e503a9f7252a5c7580d7954ffeb09d08692d"
+    },
+    {
+      "cid": 4202,
+      "kana": "アンモ・ナイト",
+      "spokenKana": "アンモ・ナイト",
+      "file": "audio/4202.ogg",
+      "seconds": 1.95,
+      "sha256": "b7dce707e7e5ea79b1b91f32b060928fbac470cc89b82196e215a4e43750035a",
+      "pcmFile": "audio/4202.wav",
+      "pcmSha256": "819110f074905ac8ed94f22c48a224f43a70b811ceff467747fbe94cc35cc17b"
+    },
+    {
+      "cid": 4203,
+      "kana": "ゾンビランプ",
+      "spokenKana": "ゾンビランプ",
+      "file": "audio/4203.ogg",
+      "seconds": 1.41,
+      "sha256": "540869fb23ae805e2d79d5fcdaebd8c7c093abe3106f75a528f84a080f49f8d2",
+      "pcmFile": "audio/4203.wav",
+      "pcmSha256": "e35b09ca0fddd027cdfd15e98e92cddb0d99b4b25c9f920b4ef19e4e94763a5c"
+    },
+    {
+      "cid": 4204,
+      "kana": "ハッピー・ラヴァー",
+      "spokenKana": "ハッピー・ラヴァー",
+      "file": "audio/4204.ogg",
+      "seconds": 2.2,
+      "sha256": "10a4a97342228f66c757ed5f4581f3bdd861d782fb78a2d326f85a64807feb33",
+      "pcmFile": "audio/4204.wav",
+      "pcmSha256": "6863d5bb73b411d51c2e26a5258471ee59ec5f6dc49bceb388b8610048ce62d2"
+    },
+    {
+      "cid": 4205,
+      "kana": "ペンギン・ナイト",
+      "spokenKana": "ペンギン・ナイト",
+      "file": "audio/4205.ogg",
+      "seconds": 2.055,
+      "sha256": "3595edf9a6d2fac542048f730910e2514e1e4fecf662dde6db49de2e5eccbb35",
+      "pcmFile": "audio/4205.wav",
+      "pcmSha256": "bc8de73a187604e56803b140a6c1b800ed880c9b4697a415e5ce859e88d8d2b4"
+    },
+    {
+      "cid": 4206,
+      "kana": "プチリュウ",
+      "spokenKana": "プチリュウ",
+      "file": "audio/4206.ogg",
+      "seconds": 1.175,
+      "sha256": "97cb4c7903d33a073b8b3e99f415364378acbc21b27e910b2322ac82ed686f63",
+      "pcmFile": "audio/4206.wav",
+      "pcmSha256": "350d981ed2143fd2671284e8027ac32a527a39bec44d371ef75dfe15f505b814"
+    },
+    {
+      "cid": 4207,
+      "kana": "キラーパンダ",
+      "spokenKana": "キラーパンダ",
+      "file": "audio/4207.ogg",
+      "seconds": 1.44,
+      "sha256": "9a72fd567531072339f1b189afa71cb96076091239b4c319cc9f76070abd1deb",
+      "pcmFile": "audio/4207.wav",
+      "pcmSha256": "0af40b0db9325300b3d19a31ebcd906ec598dce358bfb362dfec13e77b207859"
+    },
+    {
+      "cid": 4208,
+      "kana": "デーモン・ビーバー",
+      "spokenKana": "デーモン・ビーバー",
+      "file": "audio/4208.ogg",
+      "seconds": 2.11,
+      "sha256": "0e1d94dc5a0c579682cc6f28867fdd623cd8e21a1b29bf85039b0bce2a54bac7",
+      "pcmFile": "audio/4208.wav",
+      "pcmSha256": "37b14dd00aa79b81db756ed1335b90e269b50f3215451fd22644d192cb12253e"
+    },
+    {
+      "cid": 4209,
+      "kana": "ゴースト",
+      "spokenKana": "ゴースト",
+      "file": "audio/4209.ogg",
+      "seconds": 1.32,
+      "sha256": "4dd8a3c9a20027fa73700b46b6a2046587e42322f92d38ceb63530a96fc614f3",
+      "pcmFile": "audio/4209.wav",
+      "pcmSha256": "cf2066343bf45dd5759f363c32e66e70fc68b325f51bdaa2a693c47b64981bed"
+    },
+    {
+      "cid": 4210,
+      "kana": "マキャノン",
+      "spokenKana": "マキャノン",
+      "file": "audio/4210.ogg",
+      "seconds": 1.12,
+      "sha256": "33fb9762e8ad28747c1e003c9b2374ab1cec0448910a156af8bdb8f3a799eb87",
+      "pcmFile": "audio/4210.wav",
+      "pcmSha256": "f1df1347a4d7891f78bc87a2eac20170ee436d29e3d64b44c795b21caddd5c06"
+    },
+    {
+      "cid": 4211,
+      "kana": "ドローバ",
+      "spokenKana": "ドローバ",
+      "file": "audio/4211.ogg",
+      "seconds": 1.155,
+      "sha256": "df9d4029752d1b97daca5a3f8ba448d742aa9cdb6c97873da8899d2b489e0bb5",
+      "pcmFile": "audio/4211.wav",
+      "pcmSha256": "877726d531a4efe50d9568ad4fc7c3be82e5792d668faeeff0353e04b52b3ff1"
+    },
+    {
+      "cid": 4212,
+      "kana": "グロス",
+      "spokenKana": "グロス",
+      "file": "audio/4212.ogg",
+      "seconds": 1.225,
+      "sha256": "4b5bf23a8820a20c033999788732998121ce4cbc007d9b754f6d9668c55fd299",
+      "pcmFile": "audio/4212.wav",
+      "pcmSha256": "c081fc9f47db4123119f2b773bd32ee1bef814d8b01969baf94cdf1743f80502"
+    },
+    {
+      "cid": 4213,
+      "kana": "スピック",
+      "spokenKana": "スピック",
+      "file": "audio/4213.ogg",
+      "seconds": 1.36,
+      "sha256": "2dd7916217cee495643a9786e7056b610ae461ababdaefd3475ea13ffdb1029b",
+      "pcmFile": "audio/4213.wav",
+      "pcmSha256": "ebf50087826c604c9d91e4380c20c133605510868e2d12033b4ab459d9f5202b"
+    },
+    {
+      "cid": 4214,
+      "kana": "プチテンシ",
+      "spokenKana": "プチテンシ",
+      "file": "audio/4214.ogg",
+      "seconds": 1.395,
+      "sha256": "6bfed05614e754372eda760f32fc7e54996e5929e89736e75c5bfeabed5ceeb4",
+      "pcmFile": "audio/4214.wav",
+      "pcmSha256": "ef9480ddee0261f652ba081a50982a63962608b144a58040699d03b78e569278"
+    },
+    {
+      "cid": 4215,
+      "kana": "ダークキラー",
+      "spokenKana": "ダークキラー",
+      "file": "audio/4215.ogg",
+      "seconds": 1.49,
+      "sha256": "135e5626942163d93bcb3b407375b8eb9ee5a47278bb4ab5d482ff87137fdc9c",
+      "pcmFile": "audio/4215.wav",
+      "pcmSha256": "b55bcc8e2a91c67b534cd3ad137a9c9a308ac4613adeceac3d65d2e9373d5c5c"
+    },
+    {
+      "cid": 4216,
+      "kana": "スティング",
+      "spokenKana": "スティング",
+      "file": "audio/4216.ogg",
+      "seconds": 1.34,
+      "sha256": "796478c05535674050af69c13635ef4d433c9101981bccaae23293c83ef10f79",
+      "pcmFile": "audio/4216.wav",
+      "pcmSha256": "e66bb5177cf92fab00bd4698de9c950dc0186832137badfed5cc8809ab23facb"
+    },
+    {
+      "cid": 4217,
+      "kana": "サンダー・キッズ",
+      "spokenKana": "サンダー・キッズ",
+      "file": "audio/4217.ogg",
+      "seconds": 2.195,
+      "sha256": "52d9a6aeb900072dea21685e026cb8df698333e2c6ea24189b4fe5d537742c26",
+      "pcmFile": "audio/4217.wav",
+      "pcmSha256": "e3aa62d9a3def369287419029a90fdb64e1cc4d686aab97d6ccc225972e88e0c"
+    },
+    {
+      "cid": 4218,
+      "kana": "バビロン",
+      "spokenKana": "バビロン",
+      "file": "audio/4218.ogg",
+      "seconds": 1.17,
+      "sha256": "dc888a5963493d74117f8785a9c7db41d01b4e873587586116f3c58dfe02662a",
+      "pcmFile": "audio/4218.wav",
+      "pcmSha256": "4a108e0a3bbd2816c4c5ee7f8b5d12f4ca9de2a982ef519ce970e26d81cd7abe"
+    },
+    {
+      "cid": 4219,
+      "kana": "アクア・マドール",
+      "spokenKana": "アクア・マドール",
+      "file": "audio/4219.ogg",
+      "seconds": 2.06,
+      "sha256": "b8e000351bd335a6e28b71d73c8d786654bc676fc82cb1a42e16988aa30c43cd",
+      "pcmFile": "audio/4219.wav",
+      "pcmSha256": "14c6ed87f5c61d7eff22c895b76a20ea2f952ccb98256423bdb9f49312fed1c9"
+    },
+    {
+      "cid": 4220,
+      "kana": "シエンのかげむしゃ",
+      "spokenKana": "シエンノカゲムシャ",
+      "file": "audio/4220.ogg",
+      "seconds": 1.91,
+      "sha256": "40a52ccc185bcf193c25d9e5242c8a91da5c18edf17ffe679300236652ac779c",
+      "pcmFile": "audio/4220.wav",
+      "pcmSha256": "2b9da6c5205ab837c0d8a2aa560504cff8566d98ffcb0527cd411511e83ee4bd"
+    },
+    {
+      "cid": 4221,
+      "kana": "フレイム・ゴースト",
+      "spokenKana": "フレイム・ゴースト",
+      "file": "audio/4221.ogg",
+      "seconds": 2.33,
+      "sha256": "939fdc6be55d5184370e7cfca21082e6b997630ab7b60452e2527d993e9e3274",
+      "pcmFile": "audio/4221.wav",
+      "pcmSha256": "55bfa6eb88ca67cd980cb6dd94a140995a809b2419d6eb26acddeb3a5a5b8117"
+    },
+    {
+      "cid": 4222,
+      "kana": "ドリアード",
+      "spokenKana": "ドリアード",
+      "file": "audio/4222.ogg",
+      "seconds": 1.27,
+      "sha256": "e6ec608e97150b838333ddbecebf31033508c45c0f224d27da7ec5f9190ae5b2",
+      "pcmFile": "audio/4222.wav",
+      "pcmSha256": "1dacefd0397f3c7a28af89f0453c3ad6d81bdc9ae477066a93d15624456bb9dd"
+    },
+    {
+      "cid": 4223,
+      "kana": "ブラック・デーモンズ・ドラゴン",
+      "spokenKana": "ブラック・デーモンズ・ドラゴン",
+      "file": "audio/4223.ogg",
+      "seconds": 3.355,
+      "sha256": "f2d2780c4b494ce718e7c98141728ec6f1a68efc1f38f4fa70391c4f95a2d2fb",
+      "pcmFile": "audio/4223.wav",
+      "pcmSha256": "b4462738607d28c343e2aa824116c3d1f91e64478d4b90b267869090556ed0a9"
+    },
+    {
+      "cid": 4224,
+      "kana": "ツーマウス・ダークルーラー",
+      "spokenKana": "ツーマウス・ダークルーラー",
+      "file": "audio/4224.ogg",
+      "seconds": 2.175,
+      "sha256": "db404b9bfde713a3d38eae2abb2f81a395a6664ad41a5a3a2d3d7c1dc837fddb",
+      "pcmFile": "audio/4224.wav",
+      "pcmSha256": "859a03cbcd7f3e25fab25ee0fe97a9a6c362e72eb6662f93f219a0739db613a6"
+    },
+    {
+      "cid": 4225,
+      "kana": "ソリテュード",
+      "spokenKana": "ソリテュード",
+      "file": "audio/4225.ogg",
+      "seconds": 1.385,
+      "sha256": "11f4503164c2b0976fb610c85898ed0b86da38fd9ff3740523f823d4e38a297c",
+      "pcmFile": "audio/4225.wav",
+      "pcmSha256": "1782168e7c4c69cebfaf984887feafdc4c6c8e726cfeeb46079e8a2b3ceaa7ff"
+    },
+    {
+      "cid": 4226,
+      "kana": "かめんまどうし",
+      "spokenKana": "カメンマドウシ",
+      "file": "audio/4226.ogg",
+      "seconds": 1.615,
+      "sha256": "34af8d6ffe2dca12fe2a9e4c8dcff914dd54f12ce73591b5c8c20a9dd7ece28e",
+      "pcmFile": "audio/4226.wav",
+      "pcmSha256": "1c0bd2efc77a64316be23078107c01d430186d777a5ab510f42e5fbb022af075"
+    },
+    {
+      "cid": 4227,
+      "kana": "クモおとこ",
+      "spokenKana": "クモオトコ",
+      "file": "audio/4227.ogg",
+      "seconds": 1.44,
+      "sha256": "70e7a88466bd9fc273c466af09586651e1cf618070141a7368cbee6d57d2ea15",
+      "pcmFile": "audio/4227.wav",
+      "pcmSha256": "fd646192299c2d5fe0d2330dda1e46c4f57314e85c0575e07424b31930b091c7"
+    },
+    {
+      "cid": 4228,
+      "kana": "ミッドナイト・デビル",
+      "spokenKana": "ミッドナイト・デビル",
+      "file": "audio/4228.ogg",
+      "seconds": 2.355,
+      "sha256": "3e930da5e303cb3dd8449f15089f73d39b326ab3a80d5a2fda7795d78469ee70",
+      "pcmFile": "audio/4228.wav",
+      "pcmSha256": "fb89ec4c92ee7f1cb484d0aa3b6a8a3c5c371b253f8853dc12d89b1f1c3575ec"
+    },
+    {
+      "cid": 4229,
+      "kana": "とどろきのおおうみへび",
+      "spokenKana": "トドロキノオオウミヘビ",
+      "file": "audio/4229.ogg",
+      "seconds": 2.08,
+      "sha256": "2b119ba9ed6bba0507930170974950005e3f97b3819f3f61724469b29c71d83a",
+      "pcmFile": "audio/4229.wav",
+      "pcmSha256": "26dc13b3ae7ad921b167349b9f03670ca4c97e48ceea6aafab733ea43cef6617"
+    },
+    {
+      "cid": 4230,
+      "kana": "トラップ・マスター",
+      "spokenKana": "トラップ・マスター",
+      "file": "audio/4230.ogg",
+      "seconds": 2.36,
+      "sha256": "8af9b03f751346d1406ebf9cfe026714c2acd0b402476b6439a8bda4451813a6",
+      "pcmFile": "audio/4230.wav",
+      "pcmSha256": "c8e3b60f901e67d637c1962487ebbbe26e31009fdfb5ac35b92527051639a06e"
+    },
+    {
+      "cid": 4231,
+      "kana": "のろわれしまけん",
+      "spokenKana": "ノロワレシマケン",
+      "file": "audio/4231.ogg",
+      "seconds": 1.735,
+      "sha256": "89c13071f2b9f3843149ea715de1e2cb7e2bbb51d573323912c9431bce692fda",
+      "pcmFile": "audio/4231.wav",
+      "pcmSha256": "dbbc748da8dcb774ba86aefaa25c9f27307656234669328bb541043a7fc3b37b"
+    },
+    {
+      "cid": 4232,
+      "kana": "デス・ストーカー",
+      "spokenKana": "デス・ストーカー",
+      "file": "audio/4232.ogg",
+      "seconds": 2.36,
+      "sha256": "ba5225af5e0af581ec5d47d8f4ae45e93fe839984c626540789277322d0b1e3f",
+      "pcmFile": "audio/4232.wav",
+      "pcmSha256": "c3387b3edab0e4161c90aa6b44297c8ea3ac9b09d3005931dec3828de1d1cedc"
+    },
+    {
+      "cid": 4233,
+      "kana": "ヒトデンチャク",
+      "spokenKana": "ヒトデンチャク",
+      "file": "audio/4233.ogg",
+      "seconds": 1.58,
+      "sha256": "630608ab50277edb5e5775395a8c3636bf0c391f9def33254af8c483ed7ae151",
+      "pcmFile": "audio/4233.wav",
+      "pcmSha256": "dd2937dca49af7929d626b39ceba282cbeee908ee05e33c90925065d4430f7fd"
+    },
+    {
+      "cid": 4234,
+      "kana": "もりのしかばね",
+      "spokenKana": "モリノシカバネ",
+      "file": "audio/4234.ogg",
+      "seconds": 1.7,
+      "sha256": "fd7e9efbd6698a47e1bd64d85cb3a890880c58583edf72494022960299630fff",
+      "pcmFile": "audio/4234.wav",
+      "pcmSha256": "71c7437c9d2fbec635e560ad5e80e084960497cc774585c24dbfbc7ddec04b5b"
+    },
+    {
+      "cid": 4235,
+      "kana": "いのちのすなどけい",
+      "spokenKana": "イノチノスナドケイ",
+      "file": "audio/4235.ogg",
+      "seconds": 1.955,
+      "sha256": "32a8ec01754eb4c2805b665fdc484ebd74a9e2bd876e0d10224d6ee8a88c4738",
+      "pcmFile": "audio/4235.wav",
+      "pcmSha256": "9908c2326ce07ee78c054e5ed5f691dcefaeb248d0afd464349a7fcd94b9a646"
+    },
+    {
+      "cid": 4236,
+      "kana": "レア・フィッシュ",
+      "spokenKana": "レア・フィッシュ",
+      "file": "audio/4236.ogg",
+      "seconds": 1.895,
+      "sha256": "9dcdd94c451ae14b385e832e5e354095aa6e6e6423b9fdd0d3e9b91e90b83bee",
+      "pcmFile": "audio/4236.wav",
+      "pcmSha256": "1517885b3c91dad098268b88baa532955eb5c80f686aa07115dcd574c4dd32a7"
+    },
+    {
+      "cid": 4237,
+      "kana": "ウッド・ジョーカー",
+      "spokenKana": "ウッド・ジョーカー",
+      "file": "audio/4237.ogg",
+      "seconds": 2.18,
+      "sha256": "1e9cf648362ec151cd97ee0bff6065aaaed7f4b5533beb7808e9226ede13fe00",
+      "pcmFile": "audio/4237.wav",
+      "pcmSha256": "7ae0487bbfd7f5ca4e0d8d682b26b55fb7a7711f80a1eb286185eec7638ee24c"
+    },
+    {
+      "cid": 4238,
+      "kana": "マジンガン",
+      "spokenKana": "マジンガン",
+      "file": "audio/4238.ogg",
+      "seconds": 1.235,
+      "sha256": "143282f7227a71245af3cfa6d0b10950b93d314a791965ae22f352d11c0eec5c",
+      "pcmFile": "audio/4238.wav",
+      "pcmSha256": "84da0a47de12f4aa40a4c7343f0c30d7892643a59c9736a65ac9a4d8e40d5773"
+    },
+    {
+      "cid": 4239,
+      "kana": "あんこくまじん　ナイトメア",
+      "spokenKana": "アンコクマジン　ナイトメア",
+      "file": "audio/4239.ogg",
+      "seconds": 2.245,
+      "sha256": "158ee1944423d348796a7913065ad01bad7a82361aec2a0cd394046484f0f747",
+      "pcmFile": "audio/4239.wav",
+      "pcmSha256": "51906afba70c786ede17c0e73256f493df83d4ef433e5179e3ee0cab56b75589"
+    },
+    {
+      "cid": 4240,
+      "kana": "ざんしゅのびじょ",
+      "spokenKana": "ザンシュノビジョ",
+      "file": "audio/4240.ogg",
+      "seconds": 1.555,
+      "sha256": "c2e161e3e6afaa6717617af40acb98dd5ea098c737f623df52e110003a26bd8b",
+      "pcmFile": "audio/4240.wav",
+      "pcmSha256": "df55fffcde1172891ed0b15ae58bfad55933db2dce0ce84d166d2d167444f2aa"
+    },
+    {
+      "cid": 4241,
+      "kana": "もりのじゅうにん　ウダン",
+      "spokenKana": "モリノジュウニン　ウダン",
+      "file": "audio/4241.ogg",
+      "seconds": 1.79,
+      "sha256": "4159ccca11294b7a55ba9c40f22c41c0ef10b09b88d1ccf158e6be665010cc8d",
+      "pcmFile": "audio/4241.wav",
+      "pcmSha256": "34512424e747cedd7d5fb5a4d2db05b48026fcb9456ef4c003015313c9627211"
+    },
+    {
+      "cid": 4242,
+      "kana": "めいかいのばんにん",
+      "spokenKana": "メイカイノバンニン",
+      "file": "audio/4242.ogg",
+      "seconds": 1.685,
+      "sha256": "2c8e4dd37243814d8610a34342d4d6a27acd49818bb6660a899f520f5a707f36",
+      "pcmFile": "audio/4242.wav",
+      "pcmSha256": "af4f352ad71eea9c93b2abebb72391ae091ed404c17fd6241699969d52ca2c00"
+    },
+    {
+      "cid": 4243,
+      "kana": "はにわ",
+      "spokenKana": "ハニワ",
+      "file": "audio/4243.ogg",
+      "seconds": 1.23,
+      "sha256": "bc6cdd70c4b04199cc3fc3e460e1e6fb5233ffacde06f7bee3adb62afe7b732a",
+      "pcmFile": "audio/4243.wav",
+      "pcmSha256": "4132712de40d640af951b56ccf85176b8ae70715623af7c16addeed9436d5962"
+    },
+    {
+      "cid": 4244,
+      "kana": "ヤシのき",
+      "spokenKana": "ヤシノキ",
+      "file": "audio/4244.ogg",
+      "seconds": 1.295,
+      "sha256": "0d9ef48703b36259d60ff55ce6e0a9ce41b91a885e8407195c2a696479d2a97a",
+      "pcmFile": "audio/4244.wav",
+      "pcmSha256": "8eff8fc74ab378cf1be165f470a485ae60baf656be40d3a2500dd98a2cb7f4da"
+    },
+    {
+      "cid": 4245,
+      "kana": "ヴィシュワ・ランディー",
+      "spokenKana": "ヴィシュワ・ランディー",
+      "file": "audio/4245.ogg",
+      "seconds": 2.225,
+      "sha256": "131d4d3d099a470cd8518203fddc02f6a733fd96403e4cce6eed08e2e667c5ca",
+      "pcmFile": "audio/4245.wav",
+      "pcmSha256": "86fa43440ace04af6a87e9c34481ce1e1d93666ff43d986e45a5a54a2b814817"
+    },
+    {
+      "cid": 4246,
+      "kana": "デス・フット",
+      "spokenKana": "デス・フット",
+      "file": "audio/4246.ogg",
+      "seconds": 1.995,
+      "sha256": "24d6e748e5019e84055018ba5002375273afd1294ccf019b7e3d61ca93a4e1c8",
+      "pcmFile": "audio/4246.wav",
+      "pcmSha256": "d88cac76d804fff7501d8023c0f9b5f659893e655238ac1c4bdd0f41d2058d97"
+    },
+    {
+      "cid": 4247,
+      "kana": "やみのあんさつしゃ",
+      "spokenKana": "ヤミノアンサツシャ",
+      "file": "audio/4247.ogg",
+      "seconds": 1.85,
+      "sha256": "59139bc67ce7fdc43b04c8132114f0734fd6f4dfe7b8291958e37e355c39a923",
+      "pcmFile": "audio/4247.wav",
+      "pcmSha256": "89a4d2d0ae7a1a99412f57339e3fcf6685d681cecd8f5dfea2ed18fe8911db29"
+    },
+    {
+      "cid": 4248,
+      "kana": "うんめいのろうそく",
+      "spokenKana": "ウンメイノロウソク",
+      "file": "audio/4248.ogg",
+      "seconds": 1.755,
+      "sha256": "b9823e33f87b4b993dc2416c2fb89fe053f958cbcfcb11bd7da4c173943fc8b7",
+      "pcmFile": "audio/4248.wav",
+      "pcmSha256": "b65e49c9ff2f5d4844168269d8a16d4ce6925d18e312f2d99e2935cb72061fb0"
+    },
+    {
+      "cid": 4249,
+      "kana": "ウォーター・エレメント",
+      "spokenKana": "ウォーター・エレメント",
+      "file": "audio/4249.ogg",
+      "seconds": 2.42,
+      "sha256": "746c6a2d5fb14a41d1a913e94a17bb821abe5df4115590226a48a79f58dee0db",
+      "pcmFile": "audio/4249.wav",
+      "pcmSha256": "9e4a9b4ce5b152a1cfcbccbe0e1a9ef4411e9a3b9980fe04b5812271fe7e8535"
+    },
+    {
+      "cid": 4250,
+      "kana": "マグマン",
+      "spokenKana": "マグマン",
+      "file": "audio/4250.ogg",
+      "seconds": 1.1,
+      "sha256": "00bfe3e24f3577ec8806ff665de538762c2e492bf599dff025bcaa60c3b45813",
+      "pcmFile": "audio/4250.wav",
+      "pcmSha256": "6c5f383c1ce64dd4d6fa7c7f4cee2c78f4eb339d0e5316c19ded625f2aa18911"
+    },
+    {
+      "cid": 4251,
+      "kana": "ダーク・ナポレオン",
+      "spokenKana": "ダーク・ナポレオン",
+      "file": "audio/4251.ogg",
+      "seconds": 2.155,
+      "sha256": "e95f7e539a99503ae1d5a5354155755429217c514904ea5d89e6ff029df25ed3",
+      "pcmFile": "audio/4251.wav",
+      "pcmSha256": "09903eb1d1f43662b5ab277aec22b784b759aca3fdee14679b8a4f7aacfe11ce"
+    },
+    {
+      "cid": 4252,
+      "kana": "たましいをかるもの",
+      "spokenKana": "タマシイヲカルモノ",
+      "file": "audio/4252.ogg",
+      "seconds": 1.89,
+      "sha256": "53b7ab9a3234ef82f5fc590cde20477fda5f3885b19a5494be3ae89e2be82dbe",
+      "pcmFile": "audio/4252.wav",
+      "pcmSha256": "f10e89b7f71ab5253f14ac962995e32e85c344f649f22d333b5234e56f947509"
+    },
+    {
+      "cid": 4253,
+      "kana": "ルート・ウォーター",
+      "spokenKana": "ルート・ウォーター",
+      "file": "audio/4253.ogg",
+      "seconds": 2.19,
+      "sha256": "79773eab2386d37b40268de5982b0bb91f651afa361745e47012187c313a429a",
+      "pcmFile": "audio/4253.wav",
+      "pcmSha256": "cf396e63affd588d07d60d67d77abd6d1d7a8de335af9cefc81788eabb1be47f"
+    },
+    {
+      "cid": 4254,
+      "kana": "マスター・アン・エキスパート",
+      "spokenKana": "マスター・アン・エキスパート",
+      "file": "audio/4254.ogg",
+      "seconds": 3.32,
+      "sha256": "06468703a0682758fe035139cc64c4daec43856830d329bfe7ed9b296ff09826",
+      "pcmFile": "audio/4254.wav",
+      "pcmSha256": "c6c0740dd7ac359e1a028850fa6c8aa844af812abdb7227708bf64332423c6f4"
+    },
+    {
+      "cid": 4255,
+      "kana": "みずのおどりこ",
+      "spokenKana": "ミズノオドリコ",
+      "file": "audio/4255.ogg",
+      "seconds": 1.64,
+      "sha256": "6d9a24e6095e256aaca49bc07a05e3b445d2767f1075b1c90bffea5e7cd1d150",
+      "pcmFile": "audio/4255.wav",
+      "pcmSha256": "742c224d23002c1fcb6d537f53d566e07f67a67e5fbda9b6a07511b366773359"
+    },
+    {
+      "cid": 4256,
+      "kana": "ヒョウ",
+      "spokenKana": "ヒョウ",
+      "file": "audio/4256.ogg",
+      "seconds": 1.035,
+      "sha256": "f22526aa7279d1662fac4314847410d764b289d3be650e29cc64bb7fe70e64f9",
+      "pcmFile": "audio/4256.wav",
+      "pcmSha256": "02ca17e61bf324c1157ba523cdddb61dda49149aa053cfb0c587c2b66f798785"
+    },
+    {
+      "cid": 4257,
+      "kana": "こうこつのマーメイド",
+      "spokenKana": "コウコツノマーメイド",
+      "file": "audio/4257.ogg",
+      "seconds": 2.115,
+      "sha256": "ec679ca0cb0c66e9956bccc7aa011db66e4f004832519b214093f69971fc5264",
+      "pcmFile": "audio/4257.wav",
+      "pcmSha256": "cb09063f524d44851fc1c3ecc839a86edd71cfdeecf6f4abdae9aa8241d38f34"
+    },
+    {
+      "cid": 4258,
+      "kana": "キャッツ・フェアリー",
+      "spokenKana": "キャッツ・フェアリー",
+      "file": "audio/4258.ogg",
+      "seconds": 2.145,
+      "sha256": "8810e11efe9f36481cb31164fab91057eca588a5d954aa6fbac6b7ca061b0535",
+      "pcmFile": "audio/4258.wav",
+      "pcmSha256": "96f8894fa1c40c9f25075f84ff63e8945a6387413c48f094fe7d351e45d50eaf"
+    },
+    {
+      "cid": 4259,
+      "kana": "エンジェル・まじょ",
+      "spokenKana": "エンジェル・マジョ",
+      "file": "audio/4259.ogg",
+      "seconds": 2.15,
+      "sha256": "41d3930724c74bc0a5e3d342dc026e5da35c0c7d016d419fbb498a8ab8a4495f",
+      "pcmFile": "audio/4259.wav",
+      "pcmSha256": "2aa4169fdad06a747085e858c2cef65912617bf69260025959a65cf63cfd7ccb"
+    },
+    {
+      "cid": 4260,
+      "kana": "みじゅくなあくま",
+      "spokenKana": "ミジュクナアクマ",
+      "file": "audio/4260.ogg",
+      "seconds": 1.705,
+      "sha256": "369d26bee87cea472b25113cb902e827ced4353e9656b9614342447b6b52d1e5",
+      "pcmFile": "audio/4260.wav",
+      "pcmSha256": "0af49ca9e7a3a341702f39cb0ceff765212913763dd9bd51e4ce5d24790ea117"
+    },
+    {
+      "cid": 4261,
+      "kana": "プリヴェント・ラット",
+      "spokenKana": "プリヴェント・ラット",
+      "file": "audio/4261.ogg",
+      "seconds": 2.255,
+      "sha256": "3aeef38e2fff8c07c148598a3da2898f9222c1b3fd901ab8a4a3f2d733c08fba",
+      "pcmFile": "audio/4261.wav",
+      "pcmSha256": "b31a1f2b86c853755f4c204ffaea4e06ce0fc833dab44027e07200f0f911ca0b"
+    },
+    {
+      "cid": 4262,
+      "kana": "いじげんのせんし",
+      "spokenKana": "イジゲンノセンシ",
+      "file": "audio/4262.ogg",
+      "seconds": 1.725,
+      "sha256": "b60f8c26a2dc4e60920174ccbe99a75db5ecb741cc333a61538cfca30dc8d8b3",
+      "pcmFile": "audio/4262.wav",
+      "pcmSha256": "ceeae4adef054f468df739d916a7821a2e2fea99d41575cc18837d2b38ab8cc0"
+    },
+    {
+      "cid": 4263,
+      "kana": "ストーン・アルマジラー",
+      "spokenKana": "ストーン・アルマジラー",
+      "file": "audio/4263.ogg",
+      "seconds": 1.955,
+      "sha256": "4e11ef02b2420380232937dbc9cb3afbd023f49496c6deb96bc2039753d875c7",
+      "pcmFile": "audio/4263.wav",
+      "pcmSha256": "659efb970ff6dc1a26b45d2baa1487b1bf173a621b832c2304bb3b9d52a0cdce"
+    },
+    {
+      "cid": 4264,
+      "kana": "ぬまちのまじゅうおう",
+      "spokenKana": "ヌマチノマジュウオウ",
+      "file": "audio/4264.ogg",
+      "seconds": 1.88,
+      "sha256": "2f8f2091f817be7ce8632f9ae5b36d0b5532acdf49f54020b4a5340a6a6be47a",
+      "pcmFile": "audio/4264.wav",
+      "pcmSha256": "f5aee84830e9cf606c51f50ef607d2ea901320627c3e7422534ebe8c214194be"
+    },
+    {
+      "cid": 4265,
+      "kana": "こだいまどうし",
+      "spokenKana": "コダイマドウシ",
+      "file": "audio/4265.ogg",
+      "seconds": 1.575,
+      "sha256": "fc1805bccd849f42ced1b75d355a27d9d3127be7ce12a37160d13a54fc891691",
+      "pcmFile": "audio/4265.wav",
+      "pcmSha256": "3f4651c00f3b2d46f5392b306b3fca85ae2ce35b72e0711e74f8c6b56fcef345"
+    },
+    {
+      "cid": 4266,
+      "kana": "つきのめがみ　エルザェム",
+      "spokenKana": "ツキノメガミ　エルザェム",
+      "file": "audio/4266.ogg",
+      "seconds": 2.2,
+      "sha256": "5eacd2576cf647cb226524acaa227f12ac6eaa131177ed8d8130ecb8805443ef",
+      "pcmFile": "audio/4266.wav",
+      "pcmSha256": "0711b0019831dc54029ee5072a261d665191f4b949c946f9d1bf8d0b8fd061d1"
+    },
+    {
+      "cid": 4267,
+      "kana": "デーモンズ・ミラー",
+      "spokenKana": "デーモンズ・ミラー",
+      "file": "audio/4267.ogg",
+      "seconds": 2.275,
+      "sha256": "6f77431213b8295d6bb856cafbbfa4f756eb858637a6403a0550e9b36a09f2bc",
+      "pcmFile": "audio/4267.wav",
+      "pcmSha256": "b78d8790f3f70214df2f0fdd910c2c6fb850b495a9240802a89b29774bccba14"
+    },
+    {
+      "cid": 4268,
+      "kana": "アイルのしょうけんし",
+      "spokenKana": "アイルノショウケンシ",
+      "file": "audio/4268.ogg",
+      "seconds": 1.875,
+      "sha256": "a050f50e3c4fa559b0697a4da23767fc7bef70e5b48bd03faf5b8c58260750dc",
+      "pcmFile": "audio/4268.wav",
+      "pcmSha256": "231555a6f69e818a88d12a88231d9cc871a410afaaae73f95905e906fdc53e2f"
+    },
+    {
+      "cid": 4269,
+      "kana": "ウォー・アース",
+      "spokenKana": "ウォー・アース",
+      "file": "audio/4269.ogg",
+      "seconds": 1.925,
+      "sha256": "74c624a7f35f5e6fd3bcacdae1b44393acb4df0456639ed5b5a6086fc68e3bef",
+      "pcmFile": "audio/4269.wav",
+      "pcmSha256": "66139fcdbc5d4f0d4c06e63867c9b97b9bc92a4b1662086aeb2eb74eba421ace"
+    },
+    {
+      "cid": 4270,
+      "kana": "ウィング・エッグ・エルフ",
+      "spokenKana": "ウィング・エッグ・エルフ",
+      "file": "audio/4270.ogg",
+      "seconds": 2.96,
+      "sha256": "9bf841dc9053dfea26b7d213925d2376d1978988579c314d06aed9ca341a1d2e",
+      "pcmFile": "audio/4270.wav",
+      "pcmSha256": "339492bba2502416e47902ca7ff8fcf87cc042195663a6158617b4bb24d54a82"
+    },
+    {
+      "cid": 4271,
+      "kana": "いかりのかいおう",
+      "spokenKana": "イカリノカイオウ",
+      "file": "audio/4271.ogg",
+      "seconds": 1.56,
+      "sha256": "8c85b754490456d0333b8d447de5a8d9aab4e125803c623202b785456b311c48",
+      "pcmFile": "audio/4271.wav",
+      "pcmSha256": "be1ffad2a43277f3bde8dc16bcc519c9b5d9fbf27d968eed5b539774f50b8f07"
+    },
+    {
+      "cid": 4272,
+      "kana": "つるぎのじょおう",
+      "spokenKana": "ツルギノジョオウ",
+      "file": "audio/4272.ogg",
+      "seconds": 1.64,
+      "sha256": "8e54e0558d6d5c4a8bd0a8e59224a50c94a0d0e3d1a2857a3f902c55106803f9",
+      "pcmFile": "audio/4272.wav",
+      "pcmSha256": "1d2df07867e8fe089ac8e835d984c5080e3fd706fd1b9b9ea954edfa159da525"
+    },
+    {
+      "cid": 4273,
+      "kana": "あくのむめいせんし",
+      "spokenKana": "アクノムメイセンシ",
+      "file": "audio/4273.ogg",
+      "seconds": 1.84,
+      "sha256": "5cd78989c4a81986423fabb9fc62ea364663963cba012c9c49d4061ef1e287c5",
+      "pcmFile": "audio/4273.wav",
+      "pcmSha256": "46b991ca85ba86e3d7dc481b1c53ca4fa8342acfcce1e62e75c0e166b1ad84d8"
+    },
+    {
+      "cid": 4274,
+      "kana": "やみにしたがうもの",
+      "spokenKana": "ヤミニシタガウモノ",
+      "file": "audio/4274.ogg",
+      "seconds": 1.9,
+      "sha256": "7d6cc269ab78de921a117c19080bbd3421642b2b762500154f3a4864f3c56275",
+      "pcmFile": "audio/4274.wav",
+      "pcmSha256": "a31b40799ad9b867ed3f7cd11d041ba602245fdf8e47f3d85e88d4cb4639b903"
+    },
+    {
+      "cid": 4275,
+      "kana": "はかいしん　ヴァサーゴ",
+      "spokenKana": "ハカイシン　ヴァサーゴ",
+      "file": "audio/4275.ogg",
+      "seconds": 1.95,
+      "sha256": "7ff5a88d4447679423fe0371b327c293c8d71242344581d0dab786faaaed2646",
+      "pcmFile": "audio/4275.wav",
+      "pcmSha256": "d15b6e86d4ea5e3ff977c4380cf158fc573fe0cf6e821a6db697bbe08d503f01"
+    },
+    {
+      "cid": 4276,
+      "kana": "ウェザ",
+      "spokenKana": "ウェザ",
+      "file": "audio/4276.ogg",
+      "seconds": 1.105,
+      "sha256": "74bfdcf1a24673b4230924fe4164e1dd2a5485ae9ed0c1d7241d45dfe867028e",
+      "pcmFile": "audio/4276.wav",
+      "pcmSha256": "9c03f73b7fe58297328e1227c31c7a94fd209f813a9c1453a42eede44a58deae"
+    },
+    {
+      "cid": 4277,
+      "kana": "メギラス・ライト",
+      "spokenKana": "メギラス・ライト",
+      "file": "audio/4277.ogg",
+      "seconds": 2.24,
+      "sha256": "12d5b4dba7a915fbe90c72541b4392f3198e93e1de3941c432824fb013c715c4",
+      "pcmFile": "audio/4277.wav",
+      "pcmSha256": "4b774c8acd3662242b849dd874ce556976e850f6632ac5cbc24356ea7f5c522e"
+    },
+    {
+      "cid": 4278,
+      "kana": "マブラス",
+      "spokenKana": "マブラス",
+      "file": "audio/4278.ogg",
+      "seconds": 1.23,
+      "sha256": "dc0b70e397a4f44dc0bed0400bdfae8bddb49c7247b4fa6d1b7808c24694aff3",
+      "pcmFile": "audio/4278.wav",
+      "pcmSha256": "61bef4fecde2d23a67d1582708161ac64b2103a809d769d906683018ed6ff7f6"
+    },
+    {
+      "cid": 4279,
+      "kana": "さとりのろうじゅ",
+      "spokenKana": "サトリノロウジュ",
+      "file": "audio/4279.ogg",
+      "seconds": 1.77,
+      "sha256": "a5c76898aeaea5cd09699351ebe2c683287f308d7d3b3810ab935420429f3a4e",
+      "pcmFile": "audio/4279.wav",
+      "pcmSha256": "3269010aedb03f24bf07cee14bd396a43eb0a738d953f89ebe5b8ff1ac3964b4"
+    },
+    {
+      "cid": 4280,
+      "kana": "りょくじゅのれいおう",
+      "spokenKana": "リョクジュノレイオウ",
+      "file": "audio/4280.ogg",
+      "seconds": 1.675,
+      "sha256": "93bc80e1c4d297b79edbf149d574a23e547342eb957b35fb89e7adbfff18442b",
+      "pcmFile": "audio/4280.wav",
+      "pcmSha256": "afa61363dec34ce75cf04b786b38ec6c7f800def1eb45e2acfab8c31254356ce"
+    },
+    {
+      "cid": 4281,
+      "kana": "りくせんがた　バグロス",
+      "spokenKana": "リクセンガタ　バグロス",
+      "file": "audio/4281.ogg",
+      "seconds": 2.125,
+      "sha256": "d8a709e550625b7f4bc925cd4c57274914e2982af0505a1c6da627483e227196",
+      "pcmFile": "audio/4281.wav",
+      "pcmSha256": "20a73c4e899b76ed10827e59022c2d5d739f3bff99a8ebf97314427d451c1cb8"
+    },
+    {
+      "cid": 4282,
+      "kana": "きたかぜとたいよう",
+      "spokenKana": "キタカゼトタイヨウ",
+      "file": "audio/4282.ogg",
+      "seconds": 1.895,
+      "sha256": "7f510bf5a7b2243d06c50a791c413d18dea05ccdd9f742a2fb9c98bdf57b639c",
+      "pcmFile": "audio/4282.wav",
+      "pcmSha256": "cd53f767cad6e8c6ef0f3e25e7784ca172899f56326bd4bc5236b46419aefbc2"
+    },
+    {
+      "cid": 4283,
+      "kana": "ゴーゴン・エッグ",
+      "spokenKana": "ゴーゴン・エッグ",
+      "file": "audio/4283.ogg",
+      "seconds": 1.9,
+      "sha256": "45a692015b3b86018625a669dfa4acf1a76b58f41437aab4a9d65fa344e3a6b8",
+      "pcmFile": "audio/4283.wav",
+      "pcmSha256": "46a1a817ef70730d0b88f45124f2c3193813e7c021486006f5c27c371b9aa28c"
+    },
+    {
+      "cid": 4284,
+      "kana": "プチモス",
+      "spokenKana": "プチモス",
+      "file": "audio/4284.ogg",
+      "seconds": 1.315,
+      "sha256": "ae9977f04c51e6d9aff1567c73aefdf6f5070de4be337b64663f9dcd4585dcaf",
+      "pcmFile": "audio/4284.wav",
+      "pcmSha256": "13af6338412edafaceb94c02bfba19ba3695cdbd8d76d43b1a046ebbdd987fd7"
+    },
+    {
+      "cid": 4285,
+      "kana": "キング・スモーク",
+      "spokenKana": "キング・スモーク",
+      "file": "audio/4285.ogg",
+      "seconds": 2.265,
+      "sha256": "27fa50d41a8d858985f445c1dfdb089c39ded868e9a78da2b71b9cf40da42c6f",
+      "pcmFile": "audio/4285.wav",
+      "pcmSha256": "a1289681078449a4ea0fb18ff03fe153ae248a476bd5447a61c6fec504735064"
+    },
+    {
+      "cid": 4286,
+      "kana": "おうざのしゅごしゃ",
+      "spokenKana": "オウザノシュゴシャ",
+      "file": "audio/4286.ogg",
+      "seconds": 1.685,
+      "sha256": "2391c23e875eba8534063bf8653baed5f1b60ca7f3f377507778266f9073f77b",
+      "pcmFile": "audio/4286.wav",
+      "pcmSha256": "0d6589a3d09c40d05f6514f207115f57aeb1552bdfe8d8f077cc39e00ddf9e11"
+    },
+    {
+      "cid": 4287,
+      "kana": "バーサーカー",
+      "spokenKana": "バーサーカー",
+      "file": "audio/4287.ogg",
+      "seconds": 1.515,
+      "sha256": "9b60e01178d8f5e21e68ce10ce6629df91713f58644b688fa022d536ff6360aa",
+      "pcmFile": "audio/4287.wav",
+      "pcmSha256": "1ae122caf3fd8d71792d076808bf5ec10735adc571a8a95ff79b70ab56749e5b"
+    },
+    {
+      "cid": 4288,
+      "kana": "スリーピィ",
+      "spokenKana": "スリーピィ",
+      "file": "audio/4288.ogg",
+      "seconds": 1.44,
+      "sha256": "22f723f94340bf9b558123c9bdbb2dbf39a30033886c3b6d83af04be9b70ed01",
+      "pcmFile": "audio/4288.wav",
+      "pcmSha256": "eecacda03419325657f2488d8bdec8eebc8dc08670fd9edc72539bdbc8a63a8b"
+    },
+    {
+      "cid": 4289,
+      "kana": "ホログラー",
+      "spokenKana": "ホログラー",
+      "file": "audio/4289.ogg",
+      "seconds": 1.355,
+      "sha256": "9dde003dc41310d915a6d94bad913910b96648301eb38a790ceee82ab748998b",
+      "pcmFile": "audio/4289.wav",
+      "pcmSha256": "3e70008a7b0b8a045912af33032e86dbc819327b5d091f10555aa680f56f129f"
+    },
+    {
+      "cid": 4290,
+      "kana": "おんみょうし　タオ",
+      "spokenKana": "オンミョウシ　タオ",
+      "file": "audio/4290.ogg",
+      "seconds": 1.48,
+      "sha256": "8365907807c11fbccccfadf6e9ae61619fdcddeb0a543075b3b430106f3e3a0e",
+      "pcmFile": "audio/4290.wav",
+      "pcmSha256": "865f6b6587c0c9cb7353b26e5b2605e4b9196cfb349a3afdb02808f9cbfe34c2"
+    },
+    {
+      "cid": 4291,
+      "kana": "デビル・スネーク",
+      "spokenKana": "デビル・スネーク",
+      "file": "audio/4291.ogg",
+      "seconds": 2.265,
+      "sha256": "8b754943146adca9ba51ca4cacf27762e61cbcd6add71010533515b94a0295ed",
+      "pcmFile": "audio/4291.wav",
+      "pcmSha256": "1f24a51a2cc5bc1f20a706b64b58a876557310a86f4d8332358cb50802f50244"
+    },
+    {
+      "cid": 4292,
+      "kana": "ゲート・キーパー",
+      "spokenKana": "ゲート・キーパー",
+      "file": "audio/4292.ogg",
+      "seconds": 2.19,
+      "sha256": "a02fe0bb56b23e427cfd293d2b303ce0965a9fe398b0e57f4c65ed2fbfbcdc5b",
+      "pcmFile": "audio/4292.wav",
+      "pcmSha256": "194ca165ba2fa21fe6271f89b5c8ed8fe4162d0f6289abf53c9efc12416b36f3"
+    },
+    {
+      "cid": 4293,
+      "kana": "くろいかげのオーガ",
+      "spokenKana": "クロイカゲノオーガ",
+      "file": "audio/4293.ogg",
+      "seconds": 1.855,
+      "sha256": "11a99ff93a7fdc614be13890691b98ce51fe4e563202ee0404aaba942493f400",
+      "pcmFile": "audio/4293.wav",
+      "pcmSha256": "c16875d21a5e13af3245aee9728b021391d64c622e806c120447863615672a63"
+    },
+    {
+      "cid": 4294,
+      "kana": "ダーク・アーティスト",
+      "spokenKana": "ダーク・アーティスト",
+      "file": "audio/4294.ogg",
+      "seconds": 2.33,
+      "sha256": "da4968de175e32b6c799d50be9ad6184f50bd280eeb901c9bdf2cdfde73522fe",
+      "pcmFile": "audio/4294.wav",
+      "pcmSha256": "fdd2c0a5650c4d425c06a6feb3678761ef7b8c87a961ec1bea0875dd92f9de81"
+    },
+    {
+      "cid": 4295,
+      "kana": "チェンジ・スライム",
+      "spokenKana": "チェンジ・スライム",
+      "file": "audio/4295.ogg",
+      "seconds": 2.24,
+      "sha256": "6dc28fe81d8ee88457f4cc61faf9bb31a446824f0097f973956cadb671a03436",
+      "pcmFile": "audio/4295.wav",
+      "pcmSha256": "6ff90eb7bbcb0d0f2c4380f51a25bb2809e647c3a1e9568c5a1b326ae7717536"
+    },
+    {
+      "cid": 4296,
+      "kana": "つきのししゃ",
+      "spokenKana": "ツキノシシャ",
+      "file": "audio/4296.ogg",
+      "seconds": 1.595,
+      "sha256": "4a599e82025e394cb0fd19dc58f01e2474080b9a568ad7edb13af05bf04bace2",
+      "pcmFile": "audio/4296.wav",
+      "pcmSha256": "fe5714c71934522a5150d97228bb7c9b7c27864215b9dd4f15d13079d99b07af"
+    },
+    {
+      "cid": 4297,
+      "kana": "ほのおのまじん",
+      "spokenKana": "ホノオノマジン",
+      "file": "audio/4297.ogg",
+      "seconds": 1.55,
+      "sha256": "dc898ea0358d5b20d3cc3f609f0fe44d4405f165ce52bda7d48cfaf33c0b047c",
+      "pcmFile": "audio/4297.wav",
+      "pcmSha256": "2045b67b3030c8086dab5e4afbc96af07138427068ef5c5972ec3199eba0046a"
+    },
+    {
+      "cid": 4298,
+      "kana": "サイコ・カッパー",
+      "spokenKana": "サイコ・カッパー",
+      "file": "audio/4298.ogg",
+      "seconds": 2.335,
+      "sha256": "63dbae93951346d0b4d31648e18eb41a935940325dbc6d3afc697cd0da48b927",
+      "pcmFile": "audio/4298.wav",
+      "pcmSha256": "d16a50caf6a4b1bf389253a539cff149ca4f51c6210b36e8aff127633a5264ac"
+    },
+    {
+      "cid": 4299,
+      "kana": "でんせつのけんごう　マサキ",
+      "spokenKana": "デンセツノケンゴウ　マサキ",
+      "file": "audio/4299.ogg",
+      "seconds": 2.325,
+      "sha256": "b21cbaf903a0f9bb9cdf127f4803a90885243dcd844f4ff77236471e9cb340c3",
+      "pcmFile": "audio/4299.wav",
+      "pcmSha256": "558eee05331abdb1a3a1fee5c8caf6b6f6dc1a2e9f4e701028d4dc3734d7946f"
+    },
+    {
+      "cid": 4300,
+      "kana": "まそうきしドラゴネス",
+      "spokenKana": "マソウキシドラゴネス",
+      "file": "audio/4300.ogg",
+      "seconds": 2.17,
+      "sha256": "8beda73d6ce3ce0eb4e462964eb39aefe96dd7f3757f445c033b5b5318fe1f63",
+      "pcmFile": "audio/4300.wav",
+      "pcmSha256": "bb9939b271f81f44de648397e8a02f1976db991a31d25d9bc2a6d6d73a01db57"
+    },
+    {
+      "cid": 4301,
+      "kana": "バイオ・プラント",
+      "spokenKana": "バイオ・プラント",
+      "file": "audio/4301.ogg",
+      "seconds": 2.105,
+      "sha256": "8097935353b2669cde077e994853871dee7c573cc666dc85307d353a682a8ae6",
+      "pcmFile": "audio/4301.wav",
+      "pcmSha256": "b7a34779679922ee606a90c0b5736d967b0a68dd2b5528780a1c44d9ac313e59"
+    },
+    {
+      "cid": 4302,
+      "kana": "ワンアイド・シールドドラゴン",
+      "spokenKana": "ワンアイド・シールドドラゴン",
+      "file": "audio/4302.ogg",
+      "seconds": 2.755,
+      "sha256": "f15f8ed9c27204a854fd2e5429d94cb72d2febb8327ccc39a15966e4246035d2",
+      "pcmFile": "audio/4302.wav",
+      "pcmSha256": "8a1873665bad25d266d13c69cb1de9092f1dba034acca89711a7c852dde21280"
+    },
+    {
+      "cid": 4303,
+      "kana": "まかいのきかいへい",
+      "spokenKana": "マカイノキカイヘイ",
+      "file": "audio/4303.ogg",
+      "seconds": 1.855,
+      "sha256": "0dc34d545346c465c447335a616d37c0c6c015ec15428ac5b49829958782e21b",
+      "pcmFile": "audio/4303.wav",
+      "pcmSha256": "49dce13102590278fc02c4de9bc6a0f028b9900170696627250b58129d206d75"
+    },
+    {
+      "cid": 4304,
+      "kana": "まとうをもつじゃりゅう",
+      "spokenKana": "マトウヲモツジャリュウ",
+      "file": "audio/4304.ogg",
+      "seconds": 1.775,
+      "sha256": "43c62f163419918a9a36fc613f3a573162baf9060b97ed21c5218a33a53f60c8",
+      "pcmFile": "audio/4304.wav",
+      "pcmSha256": "5192ac83bb678cf0898108f4d2317d52cc5c99fadee14545cf7c0035904a0db0"
+    },
+    {
+      "cid": 4305,
+      "kana": "オトメ",
+      "spokenKana": "オトメ",
+      "file": "audio/4305.ogg",
+      "seconds": 1.205,
+      "sha256": "70d412a5e5d9fce73c5fda5ce51f5b51165ccefa8f91596b73d3111f26411d8a",
+      "pcmFile": "audio/4305.wav",
+      "pcmSha256": "7cef4e36b4a32dc886e1369bdc54b270e58f28ac6fee4d16bf2a70ae532e68cb"
+    },
+    {
+      "cid": 4306,
+      "kana": "ドレイク",
+      "spokenKana": "ドレイク",
+      "file": "audio/4306.ogg",
+      "seconds": 1.28,
+      "sha256": "2655ad74fb1fe5e19353444d8f68e049444c3311a24cacd29723eb6a5415152e",
+      "pcmFile": "audio/4306.wav",
+      "pcmSha256": "a12ae7822df94fc391fb6dbdbabc0650d890fdd332ca47520b3053ff478ac820"
+    },
+    {
+      "cid": 4307,
+      "kana": "でんせつのけん",
+      "spokenKana": "デンセツノケン",
+      "file": "audio/4307.ogg",
+      "seconds": 1.53,
+      "sha256": "4dfdbf0189dc7d542f23fa5a828e69fe035ea1c2c6d2da20a94039dff6038dab",
+      "pcmFile": "audio/4307.wav",
+      "pcmSha256": "d68489e71b7bf900d5cc2614b288762ccb821e3e53c38e0d546f5566a3536366"
+    },
+    {
+      "cid": 4308,
+      "kana": "やみのはしんけん",
+      "spokenKana": "ヤミノハシンケン",
+      "file": "audio/4308.ogg",
+      "seconds": 1.735,
+      "sha256": "b90394357b708a7b7dad4e9da834dc66d8377b295c4f3be8eb49fe7414e6831e",
+      "pcmFile": "audio/4308.wav",
+      "pcmSha256": "d88e37ed3b3666b6dae466dabd79b97ecaf47a729e94c85494a7eb6108033b31"
+    },
+    {
+      "cid": 4309,
+      "kana": "やみ・エネルギー",
+      "spokenKana": "ヤミ・エネルギー",
+      "file": "audio/4309.ogg",
+      "seconds": 2.16,
+      "sha256": "d0f916470eda8a7bdb449a1066a254610c51b39dc29fd23d906327fb72774327",
+      "pcmFile": "audio/4309.wav",
+      "pcmSha256": "85375e1712a5f72c9a8cd159b1f976a03573e769562989aa13e283a424aa9e5f"
+    },
+    {
+      "cid": 4310,
+      "kana": "デーモンのおの",
+      "spokenKana": "デーモンノオノ",
+      "file": "audio/4310.ogg",
+      "seconds": 1.51,
+      "sha256": "7fe06478cd09e9432ed34929fdd07098c47923d3254cbc64a758ead28de9e372",
+      "pcmFile": "audio/4310.wav",
+      "pcmSha256": "79aa251b2848f97a43ae15964452a8454feb660246c77fd592bba6259e3e1c1d"
+    },
+    {
+      "cid": 4311,
+      "kana": "レーザーキャノンアーマー",
+      "spokenKana": "レーザーキャノンアーマー",
+      "file": "audio/4311.ogg",
+      "seconds": 2.02,
+      "sha256": "6ec169c729b13d76ca90918eca1ba34d94b1693cb77be72d7c33754c0e340040",
+      "pcmFile": "audio/4311.wav",
+      "pcmSha256": "3199f9cee9a0b883d8c04ba433fb209b024cfe262fcd85d6b709c447ca266cd5"
+    },
+    {
+      "cid": 4312,
+      "kana": "かきつきインセクトアーマー",
+      "spokenKana": "カキツキインセクトアーマー",
+      "file": "audio/4312.ogg",
+      "seconds": 2.425,
+      "sha256": "7d1ad6e01bb8c869e76b610af311d2f33283f286d241ac61debadbe1eb146957",
+      "pcmFile": "audio/4312.wav",
+      "pcmSha256": "232ea6c8070c01483085b5d3bb97c279bef55a9788e5aa374a26a0e0ba03ae95"
+    },
+    {
+      "cid": 4313,
+      "kana": "エルフのひかり",
+      "spokenKana": "エルフノヒカリ",
+      "file": "audio/4313.ogg",
+      "seconds": 1.65,
+      "sha256": "7bd94ff2b226b69659d6e5b5d4e72328997f17cae541b497c546f2d53d90c255",
+      "pcmFile": "audio/4313.wav",
+      "pcmSha256": "02518dd62e59a0477c0fa1e4bbdfbdd7d35643304a6c5d82406daf17f2a1652b"
+    },
+    {
+      "cid": 4314,
+      "kana": "もうじゅうのは",
+      "spokenKana": "モウジュウノハ",
+      "file": "audio/4314.ogg",
+      "seconds": 1.52,
+      "sha256": "47f98b9ccbbc26e4da105db577d66f9428a5317b386e1889975a683c8dc2cb8a",
+      "pcmFile": "audio/4314.wav",
+      "pcmSha256": "cab50d03180e33666354bd225f99bc86915b8555b1902f643761d7cd194e1f95"
+    },
+    {
+      "cid": 4315,
+      "kana": "はがねのこうら",
+      "spokenKana": "ハガネノコウラ",
+      "file": "audio/4315.ogg",
+      "seconds": 1.675,
+      "sha256": "9b889252b847dfa5a99617643b9cfe04cdc7b0cf11736a4513db465b13286848",
+      "pcmFile": "audio/4315.wav",
+      "pcmSha256": "62c2cb6c318d007ccf1f27050e3ec7c34dfc13dd6361b7486dc0eb973db80ea2"
+    },
+    {
+      "cid": 4316,
+      "kana": "まきん",
+      "spokenKana": "マキン",
+      "file": "audio/4316.ogg",
+      "seconds": 1.135,
+      "sha256": "94b547bad55b42073ad1015289cb0c21028b0f32b3aa37e6ba9fa3d259292822",
+      "pcmFile": "audio/4316.wav",
+      "pcmSha256": "866e711392353e53a2e3082aebdff1edb4d79e68a7ac80a79b73355000ff6dd1"
+    },
+    {
+      "cid": 4317,
+      "kana": "ブラック・ペンダント",
+      "spokenKana": "ブラック・ペンダント",
+      "file": "audio/4317.ogg",
+      "seconds": 2.41,
+      "sha256": "aeba4b6a876c802537a709a0ef25c5144dc354bb86e405164eca7de58a98385d",
+      "pcmFile": "audio/4317.wav",
+      "pcmSha256": "5935413ba5d1a4697405b0cd82b1e12c4b74e684a55fe19f60b1c3aae4a4c1b1"
+    },
+    {
+      "cid": 4318,
+      "kana": "ぎんのゆみや",
+      "spokenKana": "ギンノユミヤ",
+      "file": "audio/4318.ogg",
+      "seconds": 1.475,
+      "sha256": "b4592a5ec348465e2e9aac91faa1ef4feaf06fe24c398240f03620e018c6c310",
+      "pcmFile": "audio/4318.wav",
+      "pcmSha256": "8c900c2a6d291222078c3ca9a00bd3781f4668cd052e28e4797e08bb1270457e"
+    },
+    {
+      "cid": 4319,
+      "kana": "ひかりのつの",
+      "spokenKana": "ヒカリノツノ",
+      "file": "audio/4319.ogg",
+      "seconds": 1.645,
+      "sha256": "89f4e66571f3480558c32dc4dd259d19040ec35196423145afd761fafac3a849",
+      "pcmFile": "audio/4319.wav",
+      "pcmSha256": "2a42883da1a3fdb0b8f64c2fbd2dba951acbcdecfff45bc8664577c6e625c402"
+    },
+    {
+      "cid": 4320,
+      "kana": "いっかくじゅうのホーン",
+      "spokenKana": "イッカクジュウノホーン",
+      "file": "audio/4320.ogg",
+      "seconds": 1.865,
+      "sha256": "99884ce18c4a9dee45247c9f99c63bd4645cfaf7f9f2dd305a8f2a914607819f",
+      "pcmFile": "audio/4320.wav",
+      "pcmSha256": "e8fc2e0be236ea1572f03b48a3cd81ca1a35b5ea220a94bc4e89da8d8138517e"
+    },
+    {
+      "cid": 4321,
+      "kana": "ドラゴンのひほう",
+      "spokenKana": "ドラゴンノヒホウ",
+      "file": "audio/4321.ogg",
+      "seconds": 1.695,
+      "sha256": "b78fc1569819410c5dae79b8868478c17c418d0d103ab7462a4c896c0baa3baa",
+      "pcmFile": "audio/4321.wav",
+      "pcmSha256": "08313f76b6f1a1c2d227e70fd954eda6819ba0ac6e9c656e9e9856b9c269ea5f"
+    },
+    {
+      "cid": 4322,
+      "kana": "でんげきむち",
+      "spokenKana": "デンゲキムチ",
+      "file": "audio/4322.ogg",
+      "seconds": 1.44,
+      "sha256": "96c7838fe28a981f3ea4dc95fea159413192e34b7d1c047daef9fc9be339f7f8",
+      "pcmFile": "audio/4322.wav",
+      "pcmSha256": "6a0d8030ec264967de2e92bff120c489a299b1b97b8d301a8ceb15d997ae8792"
+    },
+    {
+      "cid": 4323,
+      "kana": "サイバー・ボンテージ",
+      "spokenKana": "サイバー・ボンテージ",
+      "file": "audio/4323.ogg",
+      "seconds": 2.445,
+      "sha256": "677e138214ef0845a77f8c582ebd4aa0b92d29127e7b57872031c628edf0f338",
+      "pcmFile": "audio/4323.wav",
+      "pcmSha256": "84c54d39d36b4785217ee98074a8b52ae760106422a9bb7a76e3308a9d5c769d"
+    },
+    {
+      "cid": 4325,
+      "kana": "ましょうのつき",
+      "spokenKana": "マショウノツキ",
+      "file": "audio/4325.ogg",
+      "seconds": 1.665,
+      "sha256": "457107d1d902cb7dd6ba5114c666b73cbd0d9448ff74e39917bfc94092abca1a",
+      "pcmFile": "audio/4325.wav",
+      "pcmSha256": "d05e6202963b973349f3a225048377f161dc510394d4bc5bca4d80f718c8db2d"
+    },
+    {
+      "cid": 4327,
+      "kana": "あくまのくちづけ",
+      "spokenKana": "アクマノクチヅケ",
+      "file": "audio/4327.ogg",
+      "seconds": 1.895,
+      "sha256": "10edce31450a3b974a0496c45ea6557c00e9c2a4a2901ec18d32a643f473f18e",
+      "pcmFile": "audio/4327.wav",
+      "pcmSha256": "5ad308da04882eeceae2ba9cfb0642315269d6bb275770909ce54196c50d9c33"
+    },
+    {
+      "cid": 4328,
+      "kana": "むらさきすいしょう",
+      "spokenKana": "ムラサキスイショウ",
+      "file": "audio/4328.ogg",
+      "seconds": 1.75,
+      "sha256": "86753bd97421c73c035274b75afaee8180477bde282fa02d23a1c6c6ada41c6d",
+      "pcmFile": "audio/4328.wav",
+      "pcmSha256": "58cf6b408be624957140e8879c20ebff82d61cc57bb19f1c3ac76160b5920c6a"
+    },
+    {
+      "cid": 4329,
+      "kana": "ひじゅつのしょ",
+      "spokenKana": "ヒジュツノショ",
+      "file": "audio/4329.ogg",
+      "seconds": 1.53,
+      "sha256": "d7000bb1e8c0bd4d9c04646a7bc19bae9d66c31020afb0fa1035c407cbf84f45",
+      "pcmFile": "audio/4329.wav",
+      "pcmSha256": "9d39eac5a218b0aef40e095246fb37944f18c088771f92cfa2df5f5f93cd1271"
+    },
+    {
+      "cid": 4330,
+      "kana": "かくせい",
+      "spokenKana": "カクセイ",
+      "file": "audio/4330.ogg",
+      "seconds": 1.285,
+      "sha256": "9e31eeca04b69686068115a67703c2fc08e78da35c44a8596252735b89fe626a",
+      "pcmFile": "audio/4330.wav",
+      "pcmSha256": "667b710014263ad4214ae19885ff7124e8cce81d108892cc9eb6cae52c638857"
+    },
+    {
+      "cid": 4331,
+      "kana": "きかいかいぞうこうじょう",
+      "spokenKana": "キカイカイゾウコウジョウ",
+      "file": "audio/4331.ogg",
+      "seconds": 2.11,
+      "sha256": "41e5537ae961babd497f9978bd08b364537c5b43722813e294b0e8f77ddbf1f5",
+      "pcmFile": "audio/4331.wav",
+      "pcmSha256": "2bc6839d11ee3555dfbec575c2db261cea4566df0751630475200599553d5b56"
+    },
+    {
+      "cid": 4332,
+      "kana": "たいおんのじょうしょう",
+      "spokenKana": "タイオンノジョウショウ",
+      "file": "audio/4332.ogg",
+      "seconds": 1.74,
+      "sha256": "3ea07029d62b97284ec421d9e9c2358fe6de71e81ee6928365ce6fbf35b67e6a",
+      "pcmFile": "audio/4332.wav",
+      "pcmSha256": "7535c69334c6289e3caeae90b996ff27090aceb915884dcb13bab8e71aa7671a"
+    },
+    {
+      "cid": 4333,
+      "kana": "フォロー・ウィンド",
+      "spokenKana": "フォロー・ウィンド",
+      "file": "audio/4333.ogg",
+      "seconds": 2.035,
+      "sha256": "28483f2cb6ad3120c4fad8b3c394214c82d90487aa48702ab6988bdf8fdd8372",
+      "pcmFile": "audio/4333.wav",
+      "pcmSha256": "641759bb643465d9cae3dd8f8bece5ae92d7c6f83951ccfac0e3f8a6d20c05b5"
+    },
+    {
+      "cid": 4334,
+      "kana": "ポセイドンのちから",
+      "spokenKana": "ポセイドンノチカラ",
+      "file": "audio/4334.ogg",
+      "seconds": 1.95,
+      "sha256": "30c54e33a770bd4a44468fcbb867eaabbf3332fe5d5bcebcb3e6ba6e92193355",
+      "pcmFile": "audio/4334.wav",
+      "pcmSha256": "fa33f22ab404b99a74febba971dd8c93011b9ebb85185b83b0f87be27c9a570b"
+    },
+    {
+      "cid": 4335,
+      "kana": "ドラゴンぞく・ふういんのつぼ",
+      "spokenKana": "ドラゴンゾク・フウインノツボ",
+      "file": "audio/4335.ogg",
+      "seconds": 2.975,
+      "sha256": "1b9c589f0d96d74d9769629350687e5db7e92932b5c09d8d011c8488dccdd30a",
+      "pcmFile": "audio/4335.wav",
+      "pcmSha256": "8701fb1b6135b026401843ff5be82fd26421b59ecab4f48ba6b363ed07622d35"
+    },
+    {
+      "cid": 4336,
+      "kana": "もり",
+      "spokenKana": "モリ",
+      "file": "audio/4336.ogg",
+      "seconds": 1.01,
+      "sha256": "2857f261bcea68afecb13114fb6defe9b6527b70ca8ca5349dc14ad9aed8c00c",
+      "pcmFile": "audio/4336.wav",
+      "pcmSha256": "a940c250fb132ed84a1a25de871f665b164dbbe5f691e16120f5cc1d410f0470"
+    },
+    {
+      "cid": 4337,
+      "kana": "こうや",
+      "spokenKana": "コウヤ",
+      "file": "audio/4337.ogg",
+      "seconds": 1.21,
+      "sha256": "27d6e58fe312e2b76d87d40d936c1d03e43a8c9e9db2ccc3bf30beebaf1cb854",
+      "pcmFile": "audio/4337.wav",
+      "pcmSha256": "18be7912328767c7a62a1461a87c365e17896d00d85b0a19fbe3862b073563fa"
+    },
+    {
+      "cid": 4338,
+      "kana": "やま",
+      "spokenKana": "ヤマ",
+      "file": "audio/4338.ogg",
+      "seconds": 1.11,
+      "sha256": "b2f2b002ec0991d0879d969e43a7935daf2913abf7911556eb6d9c759de9e373",
+      "pcmFile": "audio/4338.wav",
+      "pcmSha256": "fd98edcca59584c9d94af6d3d46bac96cc93076074afa49c1952c3e6a8680b1f"
+    },
+    {
+      "cid": 4339,
+      "kana": "そうげん",
+      "spokenKana": "ソウゲン",
+      "file": "audio/4339.ogg",
+      "seconds": 1.26,
+      "sha256": "2c558dbd3750fba2ae7ccef5239a9100887ff1183f9fd508c797d987cfb22a3d",
+      "pcmFile": "audio/4339.wav",
+      "pcmSha256": "e409a5b03d979c7d2af8fe52523584ab67416e8f45c190c6323461565d0e1dd3"
+    },
+    {
+      "cid": 4340,
+      "kana": "うみ",
+      "spokenKana": "ウミ",
+      "file": "audio/4340.ogg",
+      "seconds": 1.0,
+      "sha256": "3be74bb1b99303bb60dac503ecc66c4e4dffd46e54076404c833284209f8490f",
+      "pcmFile": "audio/4340.wav",
+      "pcmSha256": "7631568e760156c8ad02e6538e3083ed72c8cc502c59064ba411cd684cf15492"
+    },
+    {
+      "cid": 4341,
+      "kana": "やみ",
+      "spokenKana": "ヤミ",
+      "file": "audio/4341.ogg",
+      "seconds": 1.05,
+      "sha256": "1a30954c42a33b4554f0a1436804cdaa19a79f6dc351320f796b6c2d6aca28ea",
+      "pcmFile": "audio/4341.wav",
+      "pcmSha256": "dbd39b8ceb756fff6cd983071ebb531ae56e0cf7534aaa628974f76e9d5b52d9"
+    },
+    {
+      "cid": 4342,
+      "kana": "ブラック・ホール",
+      "spokenKana": "ブラック・ホール",
+      "file": "audio/4342.ogg",
+      "seconds": 2.125,
+      "sha256": "e81baf6952fb016a67da68410566b32c12181b18e0d309bc7adcd3f8c7d395b2",
+      "pcmFile": "audio/4342.wav",
+      "pcmSha256": "0a0a3b504f8cbca4faf01885f5b1d4b2ff089aaa4e7a2b6c46dfa8367624361d"
+    },
+    {
+      "cid": 4343,
+      "kana": "サンダー・ボルト",
+      "spokenKana": "サンダー・ボルト",
+      "file": "audio/4343.ogg",
+      "seconds": 2.275,
+      "sha256": "92b7e0368565cf322c221747ec49febe9d8687a4764e08756508d38991ee69ed",
+      "pcmFile": "audio/4343.wav",
+      "pcmSha256": "096d25c5146302a5c0b4db6ea53fe5d0e79e95fd04c4599a63a9c18f65d05174"
+    },
+    {
+      "cid": 4344,
+      "kana": "モウヤンのカレー",
+      "spokenKana": "モウヤンノカレー",
+      "file": "audio/4344.ogg",
+      "seconds": 1.645,
+      "sha256": "54dae1d20376279b27427154d78770e4d0b15d773fc83f1e5b3dc437a7c3b701",
+      "pcmFile": "audio/4344.wav",
+      "pcmSha256": "bb505228cbc46fed9f91e54b57e946d648ffdb01150125b43ec52ce223c226f2"
+    },
+    {
+      "cid": 4345,
+      "kana": "レッド・ポーション",
+      "spokenKana": "レッド・ポーション",
+      "file": "audio/4345.ogg",
+      "seconds": 2.07,
+      "sha256": "19a5db9f04e959251f818eb4ca9ad36146e97c367257d47600721f0f2aa989a4",
+      "pcmFile": "audio/4345.wav",
+      "pcmSha256": "b450f1c5281ba628eab86e275536348a5196c001f8aeb1f56ed779867056f837"
+    },
+    {
+      "cid": 4346,
+      "kana": "ゴブリンのひやく",
+      "spokenKana": "ゴブリンノヒヤク",
+      "file": "audio/4346.ogg",
+      "seconds": 1.75,
+      "sha256": "e7cace344d78e67496f8aebdd42cd79a4cd40e57448fdf62b5a685dd46f6f51b",
+      "pcmFile": "audio/4346.wav",
+      "pcmSha256": "733ed2ccc83df30a43a7d4137b3e5288a7a28a4fa5fca876688162ce0a77be55"
+    },
+    {
+      "cid": 4347,
+      "kana": "てんしのいきち",
+      "spokenKana": "テンシノイキチ",
+      "file": "audio/4347.ogg",
+      "seconds": 1.635,
+      "sha256": "f4ad545e3694df40f58f133c4cbf1feddbba729136bd3c815d9e08717325b1bf",
+      "pcmFile": "audio/4347.wav",
+      "pcmSha256": "ac6c3ead836f86b93c5a4c81064039ad1e9dd215f4b2d4c870cbee513c979b8d"
+    },
+    {
+      "cid": 4348,
+      "kana": "ちりょうのかみ　ディアン・ケト",
+      "spokenKana": "チリョウノカミ　ディアン・ケト",
+      "file": "audio/4348.ogg",
+      "seconds": 2.66,
+      "sha256": "5adf8f362f3a4b696354d95725729b5a5d554ef288a7c4b4f47986912d378423",
+      "pcmFile": "audio/4348.wav",
+      "pcmSha256": "5dcaf36734a51f4264969d4ac9a358d1f626257e5ccdaa29a61d571f08a53e3d"
+    },
+    {
+      "cid": 4349,
+      "kana": "ひのこ",
+      "spokenKana": "ヒノコ",
+      "file": "audio/4349.ogg",
+      "seconds": 1.16,
+      "sha256": "f9e9f0c7975e40b061ba867c410fb5803b2962e4a6ff77174552c456b02d572a",
+      "pcmFile": "audio/4349.wav",
+      "pcmSha256": "8cb6587a0e879a31456a6106b01a447f31c1d6f6fac7ad6c04abfb09d3e9f154"
+    },
+    {
+      "cid": 4350,
+      "kana": "ファイヤー・ボール",
+      "spokenKana": "ファイヤー・ボール",
+      "file": "audio/4350.ogg",
+      "seconds": 2.1,
+      "sha256": "522cd2cfceb3cda808d2d4131856ea712795cee07e49b7524ce0868b0a099d68",
+      "pcmFile": "audio/4350.wav",
+      "pcmSha256": "052bb75f5f77be8f7e0b9c9f21286a5c0ecfee42a368375f7c0de86c136db4db"
+    },
+    {
+      "cid": 4351,
+      "kana": "ひあぶりのけい",
+      "spokenKana": "ヒアブリノケイ",
+      "file": "audio/4351.ogg",
+      "seconds": 1.585,
+      "sha256": "c12aa4ac7b889a7de413a56629fc5496ebb91ff472a5b54a7f7d75149ca025b5",
+      "pcmFile": "audio/4351.wav",
+      "pcmSha256": "44fedfc18b4e5138a18b3b48c02d3f96765b86729ff3b888879ee0eff77e30c1"
+    },
+    {
+      "cid": 4352,
+      "kana": "ちゅうやのおおかじ",
+      "spokenKana": "チュウヤノオオカジ",
+      "file": "audio/4352.ogg",
+      "seconds": 1.74,
+      "sha256": "6520243e41f8c0a941764206bf5bed242d47ac244b6a027d1400788432384046",
+      "pcmFile": "audio/4352.wav",
+      "pcmSha256": "4c3c383567cb1fd0d31e2cf6983b80fd3bce65c1127cc585a6da40b62825498b"
+    },
+    {
+      "cid": 4353,
+      "kana": "かえんじごく",
+      "spokenKana": "カエンジゴク",
+      "file": "audio/4353.ogg",
+      "seconds": 1.46,
+      "sha256": "e41ec61daee561e09da61fe3c742101c33bb04efdbcb2e3d4a1d915b5db1b3a5",
+      "pcmFile": "audio/4353.wav",
+      "pcmSha256": "0de388b8e35746de10356d62c5297cd131f2bcc8322095ee097698c205d1df8b"
+    },
+    {
+      "cid": 4355,
+      "kana": "ろくぼうせいのじゅばく",
+      "spokenKana": "ロクボウセイノジュバク",
+      "file": "audio/4355.ogg",
+      "seconds": 2.135,
+      "sha256": "48dbd5932addfcafa30919f378293f24333f508e44203b458304c188b11e8025",
+      "pcmFile": "audio/4355.wav",
+      "pcmSha256": "5ac67d53c793bab036f5586b37e16c5a22badccf6962d70da6656d3db8493e8b"
+    },
+    {
+      "cid": 4356,
+      "kana": "やみをかきけすひかり",
+      "spokenKana": "ヤミヲカキケスヒカリ",
+      "file": "audio/4356.ogg",
+      "seconds": 2.19,
+      "sha256": "011c3d9829c4f295d5847c3ebb7588c4d7242f2c5b299643fb9b3e18bf0cfa56",
+      "pcmFile": "audio/4356.wav",
+      "pcmSha256": "4d895079a1ef3d91347014ad32762c69b73722dcdd4b2cf89cde8f96e0f96744"
+    },
+    {
+      "cid": 4357,
+      "kana": "ヤランゾ",
+      "spokenKana": "ヤランゾ",
+      "file": "audio/4357.ogg",
+      "seconds": 1.24,
+      "sha256": "c662f9507895cfaa6e578fd91c26cb896aca727632b5ab428a6a2e65c1a068cd",
+      "pcmFile": "audio/4357.wav",
+      "pcmSha256": "f7126980f9809f321155ee240ae2e2ab51372cb89bef96017e0bb21a7675236a"
+    },
+    {
+      "cid": 4358,
+      "kana": "おんなけんしカナン",
+      "spokenKana": "オンナケンシカナン",
+      "file": "audio/4358.ogg",
+      "seconds": 1.67,
+      "sha256": "2b8dfb65ea9c39e84703b1fbc977c07a9170702d29bace9e62a52db9b58fba6d",
+      "pcmFile": "audio/4358.wav",
+      "pcmSha256": "3310601e9d63a5c74bb9c35507f643388930b5dbfdd17b96522862fbee72c1fe"
+    },
+    {
+      "cid": 4359,
+      "kana": "タクリミノス",
+      "spokenKana": "タクリミノス",
+      "file": "audio/4359.ogg",
+      "seconds": 1.575,
+      "sha256": "6c34b91a6d29f60959051e527f362996b46a4fc978ffafc504ef48ac4ffeebd5",
+      "pcmFile": "audio/4359.wav",
+      "pcmSha256": "c3858af9eac789b8d51605743c82f170f31e38046257c614e6540ed32b17e8b7"
+    },
+    {
+      "cid": 4360,
+      "kana": "くいぐるみ",
+      "spokenKana": "クイグルミ",
+      "file": "audio/4360.ogg",
+      "seconds": 1.275,
+      "sha256": "6a69c588ceb9d507c434498c0f34017c6b8aa63c5f49ab431055c23157d29232",
+      "pcmFile": "audio/4360.wav",
+      "pcmSha256": "5db534426f1dc2847e9484ec1b488b1b5498499bce778e9c8be199b6f251a26c"
+    },
+    {
+      "cid": 4361,
+      "kana": "メガソニック・アイ",
+      "spokenKana": "メガソニック・アイ",
+      "file": "audio/4361.ogg",
+      "seconds": 2.255,
+      "sha256": "c49b5b532293536b6b653bda3e6a6a65ebf087e415e2d29420054b64755c8a69",
+      "pcmFile": "audio/4361.wav",
+      "pcmSha256": "2f9d4d86b239ffc47ddc419fdd6c42a20f8b577af8b827e9b92a8e4b9fa7b7ac"
+    },
+    {
+      "cid": 4362,
+      "kana": "スーパー・ウォー・ライオン",
+      "spokenKana": "スーパー・ウォー・ライオン",
+      "file": "audio/4362.ogg",
+      "seconds": 3.04,
+      "sha256": "082ea1dba5952e3bf6995ec85bdb18b84f55849dd3da488d687f0dd3842b3ff4",
+      "pcmFile": "audio/4362.wav",
+      "pcmSha256": "39d211085fcbb02eac06d962878d7fc8fb2b1e7af026455654245c12b4eca41b"
+    },
+    {
+      "cid": 4363,
+      "kana": "ヤマドラン",
+      "spokenKana": "ヤマドラン",
+      "file": "audio/4363.ogg",
+      "seconds": 1.265,
+      "sha256": "b6b15c1eb7128fc947b9ddade1e1480cd7ce40b5e8e4b6d7ec8c28aa87390c08",
+      "pcmFile": "audio/4363.wav",
+      "pcmSha256": "c0677e0ce0dc9d1a2208bb42134ae2746f8f702a14619bd79386dbed1f9ecc33"
+    },
+    {
+      "cid": 4364,
+      "kana": "ホーリー・ナイト・ドラゴン",
+      "spokenKana": "ホーリー・ナイト・ドラゴン",
+      "file": "audio/4364.ogg",
+      "seconds": 3.14,
+      "sha256": "a233aae24b8b96fd21b8bb3b5e186e4ed58c4a08b68ade67775fa68d7dbc594f",
+      "pcmFile": "audio/4364.wav",
+      "pcmSha256": "62bb670e763fa9518b15cd0c6ca5d4ccb2e5a8be1a265cff407cd1b23a63b16c"
+    },
+    {
+      "cid": 4366,
+      "kana": "ゼラ",
+      "spokenKana": "ゼラ",
+      "file": "audio/4366.ogg",
+      "seconds": 1.1,
+      "sha256": "78a53cc1a28e736c657ef647a0d9f833c72b5045da06fff667ec666a3effff9c",
+      "pcmFile": "audio/4366.wav",
+      "pcmSha256": "ee8d84178e667198df3b259797e75596973708d645ca6c92ad686e53efa268ba"
+    },
+    {
+      "cid": 4367,
+      "kana": "トビペンギン",
+      "spokenKana": "トビペンギン",
+      "file": "audio/4367.ogg",
+      "seconds": 1.345,
+      "sha256": "89c7c18249365dd1b6f08c38833866d931cdac4e1fd667aa95057e9ffe14b36a",
+      "pcmFile": "audio/4367.wav",
+      "pcmSha256": "a006513f1633b7d59dfe94f8e682635f07188b6b732371e95bc030e640fa400c"
+    },
+    {
+      "cid": 4368,
+      "kana": "せんねんのたて",
+      "spokenKana": "センネンノタテ",
+      "file": "audio/4368.ogg",
+      "seconds": 1.615,
+      "sha256": "a1679d22ae8f0ff5dcce51433d63c218b33a35ba0b848e99ce8bc4c18551ad71",
+      "pcmFile": "audio/4368.wav",
+      "pcmSha256": "135989b749968e1f5663106bd072406f0223f7c3e1873107051f96709f99048c"
+    },
+    {
+      "cid": 4369,
+      "kana": "ようせいのおくりもの",
+      "spokenKana": "ヨウセイノオクリモノ",
+      "file": "audio/4369.ogg",
+      "seconds": 1.995,
+      "sha256": "8bc2cc60874f814780ac58a4fbc2a3f29c3af039059bafd32ff59636aae6a4d4",
+      "pcmFile": "audio/4369.wav",
+      "pcmSha256": "dabfa379b83aad7cb613bca7305d933b9a6b7c3e744a3b34d0eabec5647a8c5b"
+    },
+    {
+      "cid": 4370,
+      "kana": "カオス・ソルジャー",
+      "spokenKana": "カオス・ソルジャー",
+      "file": "audio/4370.ogg",
+      "seconds": 2.335,
+      "sha256": "31bdac416ce6dad4f3ad6daa6bfcc85406cafbbfb049e4d490b7948994ad1bdc",
+      "pcmFile": "audio/4370.wav",
+      "pcmSha256": "141ec277c6c1c12315c5a8026ed05defe8ebbc784cbe218ae3bf7ea2e51b0f82"
+    },
+    {
+      "cid": 4371,
+      "kana": "デビルズ・ミラー",
+      "spokenKana": "デビルズ・ミラー",
+      "file": "audio/4371.ogg",
+      "seconds": 2.205,
+      "sha256": "139da92cb3a05a05343577b99cfdff4a9587a1d4fe8b586d59ac5b5f65e137ec",
+      "pcmFile": "audio/4371.wav",
+      "pcmSha256": "d06258f5c61ec2725d436506eb8c22f484fd4e931a49b1d1d26359ac919a4e4f"
+    },
+    {
+      "cid": 4373,
+      "kana": "じらいグモ",
+      "spokenKana": "ジライグモ",
+      "file": "audio/4373.ogg",
+      "seconds": 1.36,
+      "sha256": "03eaafd7e9cfd0a63654c9b26395f997c593760c2970a1d775670144f95640b1",
+      "pcmFile": "audio/4373.wav",
+      "pcmSha256": "aec635b3759c085eb061a8e0e3e1d9943beb6db31986c58ee650c156b239f945"
+    },
+    {
+      "cid": 4374,
+      "kana": "シャドウ・グール",
+      "spokenKana": "シャドウ・グール",
+      "file": "audio/4374.ogg",
+      "seconds": 2.095,
+      "sha256": "baa2adeb412de43b8ae1738efbdd62c18dd0df0007e77b78fa9c9ad882c088fe",
+      "pcmFile": "audio/4374.wav",
+      "pcmSha256": "db4fe331e89437f81a00c14cd674ee09c003360738e4688d5d36e4043e179b46"
+    },
+    {
+      "cid": 4375,
+      "kana": "ウォール・シャドウ",
+      "spokenKana": "ウォール・シャドウ",
+      "file": "audio/4375.ogg",
+      "seconds": 2.07,
+      "sha256": "7b8a7296a3190d87301cfed55001d85c90a9d5825cd250ed444c25d45925f5bc",
+      "pcmFile": "audio/4375.wav",
+      "pcmSha256": "41839ebaf1fd0c8142d2f1239bc6072f9a023e9e30c8d24ddcdfa145b2afebe2"
+    },
+    {
+      "cid": 4376,
+      "kana": "めいきゅうのませんしゃ",
+      "spokenKana": "メイキュウノマセンシャ",
+      "file": "audio/4376.ogg",
+      "seconds": 1.97,
+      "sha256": "f91d3e11d0df18fdc43400c78f6167ac67a1ae7883756470c930aa2812d88674",
+      "pcmFile": "audio/4376.wav",
+      "pcmSha256": "954a4beb0e3f21862071dbb0d6a22fb1d522ae77390d4be982d3753fb2a987ee"
+    },
+    {
+      "cid": 4380,
+      "kana": "ゲート・ガーディアン",
+      "spokenKana": "ゲート・ガーディアン",
+      "file": "audio/4380.ogg",
+      "seconds": 2.105,
+      "sha256": "8e4656ce5cd323dcb419347931c940ebf0cdf1469ede6f3b339dfba4a725b00f",
+      "pcmFile": "audio/4380.wav",
+      "pcmSha256": "c9fdb74f53c0a9614c600080cabcfe7f2071f7c2447417e23cfd518acb5af889"
+    },
+    {
+      "cid": 4381,
+      "kana": "ダンジョン・ワーム",
+      "spokenKana": "ダンジョン・ワーム",
+      "file": "audio/4381.ogg",
+      "seconds": 1.995,
+      "sha256": "971da93786d01e2f9bb40c35e6fd788ab2aa30c5e4d6367eca9709681ebd9b91",
+      "pcmFile": "audio/4381.wav",
+      "pcmSha256": "c7d78751c0a1b40fa2b1d3fa58e56df8d4837025c83afbe8f60d9f141127fc9c"
+    },
+    {
+      "cid": 4382,
+      "kana": "モンスター・テイマー",
+      "spokenKana": "モンスター・テイマー",
+      "file": "audio/4382.ogg",
+      "seconds": 2.4,
+      "sha256": "33a77607fc43156848c03eb4e1fc815e0c7f8187c6c17bb515bf24101082e4cd",
+      "pcmFile": "audio/4382.wav",
+      "pcmSha256": "6f831a4ec70d282716a6bb6df191e64b33e5548480cf82a40a8e3603cb5f9f4a"
+    },
+    {
+      "cid": 4383,
+      "kana": "ガーゴイル・パワード",
+      "spokenKana": "ガーゴイル・パワード",
+      "file": "audio/4383.ogg",
+      "seconds": 2.37,
+      "sha256": "f5376c7c51d2f68619e473a131143549d8c9dfec7f0c334f4e4e6e76b2acc814",
+      "pcmFile": "audio/4383.wav",
+      "pcmSha256": "ac185a11d45874e16fdcfb787531fb47b2643160716c72623fca2f8dc78e4fff"
+    },
+    {
+      "cid": 4384,
+      "kana": "ふくしゅうのソード・ストーカー",
+      "spokenKana": "フクシュウノソード・ストーカー",
+      "file": "audio/4384.ogg",
+      "seconds": 3.18,
+      "sha256": "d7790386ddfd71e172f1eee766f49923886c47014c299fb4c35e3a338a8cb02a",
+      "pcmFile": "audio/4384.wav",
+      "pcmSha256": "954149066599d832c0545b5e474294963710b08b9ee322fcf718d2736e99dbcb"
+    },
+    {
+      "cid": 4385,
+      "kana": "ランプのませい・ラ・ジーン",
+      "spokenKana": "ランプノマセイ・ラ・ジーン",
+      "file": "audio/4385.ogg",
+      "seconds": 3.24,
+      "sha256": "59ed8c655857ce52ab9ac8b6a3d7c4a2c034efe3d65f299358c6cef83e2ecead",
+      "pcmFile": "audio/4385.wav",
+      "pcmSha256": "2277983cb0a065c7a28ef2ba7f0ca4b784bf158df8089fe6064ce3702d24fe11"
+    },
+    {
+      "cid": 4386,
+      "kana": "ブルーアイズ・アルティメットドラゴン",
+      "spokenKana": "ブルーアイズ・アルティメットドラゴン",
+      "file": "audio/4386.ogg",
+      "seconds": 2.365,
+      "sha256": "73fc267f5f940269ab521d3176234f4798203fd4d5f123f26b28299f5a7999a5",
+      "pcmFile": "audio/4386.wav",
+      "pcmSha256": "f4be566f3f13e2ebec1e6e8c87166006247f06e88c9d13724498ec63267fce0c"
+    },
+    {
+      "cid": 4387,
+      "kana": "トゥーン・アリゲーター",
+      "spokenKana": "トゥーン・アリゲーター",
+      "file": "audio/4387.ogg",
+      "seconds": 2.19,
+      "sha256": "12c41ac4426584c44534553856140ca53708f18150bb17d38c27f93092b1d5d7",
+      "pcmFile": "audio/4387.wav",
+      "pcmSha256": "0819cda4f6c2b1ce63c10e8330a3864790815e772797085a02666612ff36c66f"
+    },
+    {
+      "cid": 4388,
+      "kana": "ルード・カイザー",
+      "spokenKana": "ルード・カイザー",
+      "file": "audio/4388.ogg",
+      "seconds": 2.205,
+      "sha256": "bd1cf39e508aad26fc54cc575a2ba7c133a40d88df42c2e2d4251fa2f9c80a86",
+      "pcmFile": "audio/4388.wav",
+      "pcmSha256": "0a29115b0ad5b052f6eb6a90f138a367543894b5e04c24324589a0679a4722cc"
+    },
+    {
+      "cid": 4389,
+      "kana": "パロット・ドラゴン",
+      "spokenKana": "パロット・ドラゴン",
+      "file": "audio/4389.ogg",
+      "seconds": 2.145,
+      "sha256": "b7e40f3b78f15c325a4b154ed9a35ef2a6d320e635a1260372d1d79703c892ac",
+      "pcmFile": "audio/4389.wav",
+      "pcmSha256": "3c46b34e9b9129c648fae9ddd6a9ec959a81e7a4931b192f836569e1877f5767"
+    },
+    {
+      "cid": 4390,
+      "kana": "ダーク・ラビット",
+      "spokenKana": "ダーク・ラビット",
+      "file": "audio/4390.ogg",
+      "seconds": 2.185,
+      "sha256": "be7cd0cb936d818b72835e7cb78e3e69b04cfa4ed869f7cdbf4d26a211fd3ed4",
+      "pcmFile": "audio/4390.wav",
+      "pcmSha256": "2198b40fbad072771ffe98b5de5f0f60a2d9a059d40347221db39be9a7b51d22"
+    },
+    {
+      "cid": 4391,
+      "kana": "デビル・ボックス",
+      "spokenKana": "デビル・ボックス",
+      "file": "audio/4391.ogg",
+      "seconds": 2.21,
+      "sha256": "951a20974ecf511430ee4e48da52d010f069a948a03f06916fefb6015ae9b389",
+      "pcmFile": "audio/4391.wav",
+      "pcmSha256": "6b4f3b437a04549ae4c80d19c33204b82de99405e248ce7833f95ac812592978"
+    },
+    {
+      "cid": 4392,
+      "kana": "ハーピィズペットドラゴン",
+      "spokenKana": "ハーピィズペットドラゴン",
+      "file": "audio/4392.ogg",
+      "seconds": 2.0,
+      "sha256": "380e79322a583ab349fc8cd601fb1e7bfbfdf1de18cf78bcfc3fa494ca9e72d3",
+      "pcmFile": "audio/4392.wav",
+      "pcmSha256": "ae85aac95c27b76fad3b841bd476f7579abb33eddc4722b215b94da8ce812d5f"
+    },
+    {
+      "cid": 4393,
+      "kana": "まほうのランプ",
+      "spokenKana": "マホウノランプ",
+      "file": "audio/4393.ogg",
+      "seconds": 1.535,
+      "sha256": "6c8573e7adfe6f21593bf9fd6aecc367d244c31f784b88e5ee8dfe0c004b1d4a",
+      "pcmFile": "audio/4393.wav",
+      "pcmSha256": "340a7da9966fe66dc61e61e0a25a5a7c3785908ad0a1316781391d66abcf9498"
+    },
+    {
+      "cid": 4394,
+      "kana": "ふりこやいばのごうもんきかい",
+      "spokenKana": "フリコヤイバノゴウモンキカイ",
+      "file": "audio/4394.ogg",
+      "seconds": 2.565,
+      "sha256": "58e47d3b782ade3584ecf67756bb7ddddfdf771ef1e7aab4456455883704ec23",
+      "pcmFile": "audio/4394.wav",
+      "pcmSha256": "6d417ab9a5ffc0782daf777f92648abc85a2db074daa35e6998ea184add0e59c"
+    },
+    {
+      "cid": 4395,
+      "kana": "まどうきしギルティア",
+      "spokenKana": "マドウキシギルティア",
+      "file": "audio/4395.ogg",
+      "seconds": 1.905,
+      "sha256": "9bea03fdd61b4924af9b28118e969de28faa02ffae16a19aaf426573a475b5c8",
+      "pcmFile": "audio/4395.wav",
+      "pcmSha256": "bf789d8e447a25f42f4dcc4a4af9124552c2c2d65064c4548cdbb0928679eeb0"
+    },
+    {
+      "cid": 4397,
+      "kana": "デビルゾア",
+      "spokenKana": "デビルゾア",
+      "file": "audio/4397.ogg",
+      "seconds": 1.345,
+      "sha256": "d84d0b5451dc3663a019a443e2d681d964d306005c414788f1ea5b92b28fe108",
+      "pcmFile": "audio/4397.wav",
+      "pcmSha256": "a59b9c6759fb1c8ae60476b9f6021624f2ee750c20680f30ec77dda20a6efae6"
+    },
+    {
+      "cid": 4398,
+      "kana": "メタル・デビルゾア",
+      "spokenKana": "メタル・デビルゾア",
+      "file": "audio/4398.ogg",
+      "seconds": 2.355,
+      "sha256": "1ce5f87e17009ebf44d10259190876041ae5c884def70010212d577104f95ada",
+      "pcmFile": "audio/4398.wav",
+      "pcmSha256": "a589f5b03ff35c5eeda65d13a36ab9031e9829d69a09a543f1c898c76dd32d45"
+    },
+    {
+      "cid": 4399,
+      "kana": "ゾーン・イーター",
+      "spokenKana": "ゾーン・イーター",
+      "file": "audio/4399.ogg",
+      "seconds": 2.03,
+      "sha256": "b5f1a39ebebe943ecb576c143ed89cd4fdee70ec75fbe6287206779a4b1d844e",
+      "pcmFile": "audio/4399.wav",
+      "pcmSha256": "10d878dd33754f3ce2ed8dabe0d2e13b6e71446f3dbb49894570c776c2a2b02c"
+    },
+    {
+      "cid": 4400,
+      "kana": "てつのサソリ",
+      "spokenKana": "テツノサソリ",
+      "file": "audio/4400.ogg",
+      "seconds": 1.58,
+      "sha256": "cd24476cb56e555819a1141d071c6717f2d13d57605b0926a04af3d33d53d0ab",
+      "pcmFile": "audio/4400.wav",
+      "pcmSha256": "2808a2a632fd94d86a4f36ba72a85668454364972e6b38a2d76129dd554dd1ea"
+    },
+    {
+      "cid": 4401,
+      "kana": "ダンシング・エルフ",
+      "spokenKana": "ダンシング・エルフ",
+      "file": "audio/4401.ogg",
+      "seconds": 2.245,
+      "sha256": "970395a20ea1f70ac6a9801ebe64bf6f59f4a0476c8e8574149e9c4a753fd1a9",
+      "pcmFile": "audio/4401.wav",
+      "pcmSha256": "f5e67af235098f87bea00b7e7ead6ef0ca7b63d0382ceb730f4ce35353cabdf3"
+    },
+    {
+      "cid": 4402,
+      "kana": "エンゼル・イヤーズ",
+      "spokenKana": "エンゼル・イヤーズ",
+      "file": "audio/4402.ogg",
+      "seconds": 2.195,
+      "sha256": "6970c4381d694f437d6cedb599455a99df083dae0fc6af4c1ee41b03fb8425fd",
+      "pcmFile": "audio/4402.wav",
+      "pcmSha256": "404879c268a47fabbf2a4c2a91935b867735dd24755f513ba0a41fb3edf8af51"
+    },
+    {
+      "cid": 4403,
+      "kana": "レッグル",
+      "spokenKana": "レッグル",
+      "file": "audio/4403.ogg",
+      "seconds": 1.135,
+      "sha256": "a87a12e41e64d04b8b4c668a90f104132eddfd58c1c922ece7cc9115ec6649eb",
+      "pcmFile": "audio/4403.wav",
+      "pcmSha256": "28b3d36a0c3de82562451109657e2aa6400d1b076b67e2bcef96a10ff09e9669"
+    },
+    {
+      "cid": 4404,
+      "kana": "ラージマウス",
+      "spokenKana": "ラージマウス",
+      "file": "audio/4404.ogg",
+      "seconds": 1.475,
+      "sha256": "6bcf360be793f31cd12ce0198c4b8063cb2d03a9050a7dc1e40e04131a6cb32c",
+      "pcmFile": "audio/4404.wav",
+      "pcmSha256": "09ac7b8629c1cbf88ea3c6204ea185b32b75a378946730fbca912ab7b921ebb6"
+    },
+    {
+      "cid": 4405,
+      "kana": "いこくのけんし",
+      "spokenKana": "イコクノケンシ",
+      "file": "audio/4405.ogg",
+      "seconds": 1.66,
+      "sha256": "234b19a0cab84a965610409fa4d4f2ba9711208cfde8d2e7d3af37cc5e1f86d0",
+      "pcmFile": "audio/4405.wav",
+      "pcmSha256": "920f5a154d4908f6eda8c3df89bd5b993991ab0d06fc3e3d6695741741ac87d3"
+    },
+    {
+      "cid": 4406,
+      "kana": "すいりくのていおう",
+      "spokenKana": "スイリクノテイオウ",
+      "file": "audio/4406.ogg",
+      "seconds": 1.825,
+      "sha256": "0d9d7dd6c3d09af3bcbb29e42de939b4004ca90348e652a3bb67fe4547118aec",
+      "pcmFile": "audio/4406.wav",
+      "pcmSha256": "0129946659817c90d8b8b9ba0c12967152230297859307f4c7ea8d20e5a51b6b"
+    },
+    {
+      "cid": 4407,
+      "kana": "うしおに",
+      "spokenKana": "ウシオニ",
+      "file": "audio/4407.ogg",
+      "seconds": 1.13,
+      "sha256": "bb942f6338372211d1568f0983e8d90020341c4167bde7f26923b0b9ba902afb",
+      "pcmFile": "audio/4407.wav",
+      "pcmSha256": "4b5e95066a25d70a9a14cc6cc92e8404ec3adf2f37851abe95925c85b34193ce"
+    },
+    {
+      "cid": 4408,
+      "kana": "モンスター・アイ",
+      "spokenKana": "モンスター・アイ",
+      "file": "audio/4408.ogg",
+      "seconds": 2.045,
+      "sha256": "173b505fa6fd6302604704aed291b5941c808ede2cdae0f8ff9339a3907bcc81",
+      "pcmFile": "audio/4408.wav",
+      "pcmSha256": "236fdd84eed278a6b5fa88b000948277549ddacfc4dd9e252455e63c033123f3"
+    },
+    {
+      "cid": 4409,
+      "kana": "レオグン",
+      "spokenKana": "レオグン",
+      "file": "audio/4409.ogg",
+      "seconds": 1.065,
+      "sha256": "986f1616b1ac401035fbcc815f55e18081cab986ee7cc72db0e6a33d9e273639",
+      "pcmFile": "audio/4409.wav",
+      "pcmSha256": "e6e13a3014105ae15d94d785f11a81780196afc4907487dcbdf4b7e2574e709e"
+    },
+    {
+      "cid": 4410,
+      "kana": "シーホース",
+      "spokenKana": "シーホース",
+      "file": "audio/4410.ogg",
+      "seconds": 1.545,
+      "sha256": "5de878c64d8f73ba2370c14f94e32130ed73fe2ad4a78a537a8c8eb988b34a39",
+      "pcmFile": "audio/4410.wav",
+      "pcmSha256": "86de4fa7c54dc1e87ea31af0c24cd89380b9ff60e12b4d7e342a7749170833ed"
+    },
+    {
+      "cid": 4411,
+      "kana": "キラー・マシーン",
+      "spokenKana": "キラー・マシーン",
+      "file": "audio/4411.ogg",
+      "seconds": 2.055,
+      "sha256": "91a317e98ad4136f7073e4f52e7e914a29f221bb81b3bbf2a684b744ba18e709",
+      "pcmFile": "audio/4411.wav",
+      "pcmSha256": "baaae113a43a616f9d379cd0c1abbbad621a6f7495fe6ac249f0b7713226d3cc"
+    },
+    {
+      "cid": 4412,
+      "kana": "カッター・ロボ",
+      "spokenKana": "カッター・ロボ",
+      "file": "audio/4412.ogg",
+      "seconds": 2.07,
+      "sha256": "8e8ce6fc7174f11348aa76ca9422008c5d049f095149bae60a8198fa9025a95e",
+      "pcmFile": "audio/4412.wav",
+      "pcmSha256": "9c3a1a3f5f99dc2daeb20c7e5f9e8621034974b1447d9ce9fae57601441bfa05"
+    },
+    {
+      "cid": 4413,
+      "kana": "きかいおう",
+      "spokenKana": "キカイオウ",
+      "file": "audio/4413.ogg",
+      "seconds": 1.275,
+      "sha256": "556aa025be9ba0c63917732b2397e846bfc3064748ce917194a37413db4b602d",
+      "pcmFile": "audio/4413.wav",
+      "pcmSha256": "6cf9359140654ca0a72f596d4a0aa78fe8295134ef7cc22077682b72d4565438"
+    },
+    {
+      "cid": 4414,
+      "kana": "きかいのきょへい",
+      "spokenKana": "キカイノキョヘイ",
+      "file": "audio/4414.ogg",
+      "seconds": 1.695,
+      "sha256": "9c93da2416e5f4db05c28cf48d819d15e953c1755eaad2c97ae036f6f4dc7523",
+      "pcmFile": "audio/4414.wav",
+      "pcmSha256": "5e9e226c934c1f4c2439d1176b7f2bef5a9204b1b66463020a770dead6f7eb07"
+    },
+    {
+      "cid": 4415,
+      "kana": "メタル・ドラゴン",
+      "spokenKana": "メタル・ドラゴン",
+      "file": "audio/4415.ogg",
+      "seconds": 2.08,
+      "sha256": "f36449fb57c8c0b422f2d5b0d8f5790a181bb1175b2aaad654a21d9207241d7e",
+      "pcmFile": "audio/4415.wav",
+      "pcmSha256": "cf60fc102d4d17938b29ec219a248ac0b98e55a9cb2f820b03df7cdcc8d5ba0e"
+    },
+    {
+      "cid": 4416,
+      "kana": "カラクリグモ",
+      "spokenKana": "カラクリグモ",
+      "file": "audio/4416.ogg",
+      "seconds": 1.51,
+      "sha256": "d19d2e61771fc940ed6f50325764fd6e8d48d0d45be9f8f4b8d85fe6d4ddf025",
+      "pcmFile": "audio/4416.wav",
+      "pcmSha256": "51114cb49772661d70daf04556f1cec49891236ce5467f8e88aae2d057b9e6a8"
+    },
+    {
+      "cid": 4417,
+      "kana": "バット",
+      "spokenKana": "バット",
+      "file": "audio/4417.ogg",
+      "seconds": 1.16,
+      "sha256": "4942c99215eedaabdd04ab0b1d7c896a1e75e6ea12e0004ea6465e59721a9079",
+      "pcmFile": "audio/4417.wav",
+      "pcmSha256": "0b9fcf7d8e3060c30dfc2b645998134ce20198eca872c7e1530c505d89bf3ba6"
+    },
+    {
+      "cid": 4418,
+      "kana": "ギガテック・ウルフ",
+      "spokenKana": "ギガテック・ウルフ",
+      "file": "audio/4418.ogg",
+      "seconds": 2.32,
+      "sha256": "e8f041451c5145e928f2d7ca7d78e42c99178d1d0338e33aa040e0ac25815c61",
+      "pcmFile": "audio/4418.wav",
+      "pcmSha256": "af53182d2c9eec01bc1c841ce42e27bdf575a5ff91d4dff455af2bae09aaddba"
+    },
+    {
+      "cid": 4419,
+      "kana": "きかいのへいたい",
+      "spokenKana": "キカイノヘイタイ",
+      "file": "audio/4419.ogg",
+      "seconds": 1.73,
+      "sha256": "4a8c8cd428af8b3c346010847e8be41dea9c2cc0d913bc39336df7294e030046",
+      "pcmFile": "audio/4419.wav",
+      "pcmSha256": "34ee9dee904a8f0d9c68304ab1b32f50768be4c75030575d3eef92841b0eef3d"
+    },
+    {
+      "cid": 4420,
+      "kana": "シャベル・クラッシャー",
+      "spokenKana": "シャベル・クラッシャー",
+      "file": "audio/4420.ogg",
+      "seconds": 2.4,
+      "sha256": "f435eba889fe1425756392b5f4bc31fd0919289723274862563a521dd018abd4",
+      "pcmFile": "audio/4420.wav",
+      "pcmSha256": "38b4d8d754f148bf60241dd7ee3ea0ca5010070d5e07b1a378bfe5d3628facdb"
+    },
+    {
+      "cid": 4421,
+      "kana": "メカ・ハンター",
+      "spokenKana": "メカ・ハンター",
+      "file": "audio/4421.ogg",
+      "seconds": 2.14,
+      "sha256": "cfb9e88591e6bc3911729898ed728fd448a165a661f686587f35cfc0201d8ebf",
+      "pcmFile": "audio/4421.wav",
+      "pcmSha256": "5a92f9330a54f26a6b9627c8d9ab4c2b7da2ba7690b5533b53a7e9b72afc8447"
+    },
+    {
+      "cid": 4422,
+      "kana": "ブロッカー",
+      "spokenKana": "ブロッカー",
+      "file": "audio/4422.ogg",
+      "seconds": 1.41,
+      "sha256": "667ffd99e45a230bc0de1d2431582c014c2447d5ad15c508883a8d593ee63319",
+      "pcmFile": "audio/4422.wav",
+      "pcmSha256": "8eaa7ac1f10664a050e5d75fa6affdc91d058b1f46b53faff09b2ed5b207b90b"
+    },
+    {
+      "cid": 4423,
+      "kana": "ミスター・ボンバー",
+      "spokenKana": "ミスター・ボンバー",
+      "file": "audio/4423.ogg",
+      "seconds": 2.28,
+      "sha256": "6fc3faa399d6afc6c1ef8789e7cd93b8170ef233a90df508cad6450589edd310",
+      "pcmFile": "audio/4423.wav",
+      "pcmSha256": "d033d39925b394ea1707ba8d2c1f1a6e52ce6abc76c3f3729bbba32c93585551"
+    },
+    {
+      "cid": 4424,
+      "kana": "ゴルゴイル",
+      "spokenKana": "ゴルゴイル",
+      "file": "audio/4424.ogg",
+      "seconds": 1.265,
+      "sha256": "01448ac4f566307029237fe3bb7b8953639cbf2213a6061a63876d59960d852f",
+      "pcmFile": "audio/4424.wav",
+      "pcmSha256": "c8e91907dc1ff862e454c4be5ba9cea027a1e9534d1e6979d0ac26a1e7f20d93"
+    },
+    {
+      "cid": 4425,
+      "kana": "ギガント",
+      "spokenKana": "ギガント",
+      "file": "audio/4425.ogg",
+      "seconds": 1.22,
+      "sha256": "a73df99869d68815f6db3106420beca31c0846d793a9b1822353ffb2d799c5ee",
+      "pcmFile": "audio/4425.wav",
+      "pcmSha256": "f5d244951f8368c00027dd512b074782af5089bec9204e73166de4d11d440f8f"
+    },
+    {
+      "cid": 4426,
+      "kana": "デビル・フランケン",
+      "spokenKana": "デビル・フランケン",
+      "file": "audio/4426.ogg",
+      "seconds": 2.195,
+      "sha256": "36db7567a4b9592e57dc6b6ef373434ef6d73ab86cf0a09288d49cf5bb1dc1ce",
+      "pcmFile": "audio/4426.wav",
+      "pcmSha256": "03e28e5694803288d62bd7a3797f58683a4d1386c44be65b166fa135150b5a5f"
+    },
+    {
+      "cid": 4427,
+      "kana": "コマンダー",
+      "spokenKana": "コマンダー",
+      "file": "audio/4427.ogg",
+      "seconds": 1.45,
+      "sha256": "8077757e12c24a0cc27cf0775379fb4b54006119c0b925da1f5f86e8c1f33033",
+      "pcmFile": "audio/4427.wav",
+      "pcmSha256": "e2764a1d2a6ac75484e6d61f853ae61ccdd1d7ebddd2da7f4a0d8d00a84ecaa9"
+    },
+    {
+      "cid": 4429,
+      "kana": "ダイス・アルマジロ",
+      "spokenKana": "ダイス・アルマジロ",
+      "file": "audio/4429.ogg",
+      "seconds": 2.315,
+      "sha256": "7a9f4d4c418c447d36eb3553a80f31d895abe122deb376b4d06ebfcc4d0ae323",
+      "pcmFile": "audio/4429.wav",
+      "pcmSha256": "d76aa841bc89048275821c04b35636519522a2eb69f8ebb0dd9677034a4d2153"
+    },
+    {
+      "cid": 4430,
+      "kana": "スカイ・ドラゴン",
+      "spokenKana": "スカイ・ドラゴン",
+      "file": "audio/4430.ogg",
+      "seconds": 2.155,
+      "sha256": "4e68f64f75cc4562268a328458bcc7c478935f2779e8dc705f7768ea0634efc7",
+      "pcmFile": "audio/4430.wav",
+      "pcmSha256": "de4f506f5d5144ffffa92dc849cc9d64f85fcc5b9025c5d170f31c9a229cf037"
+    },
+    {
+      "cid": 4432,
+      "kana": "ストーン・ドラゴン",
+      "spokenKana": "ストーン・ドラゴン",
+      "file": "audio/4432.ogg",
+      "seconds": 2.07,
+      "sha256": "c418336a8a8a5b51f213aca3673497b5a296bbb4efaad141091d0db935c2a546",
+      "pcmFile": "audio/4432.wav",
+      "pcmSha256": "0b45b4a0455616db30e6fb8011d32f9633dc37b5686efc034dafbe49e74896fa"
+    },
+    {
+      "cid": 4433,
+      "kana": "カイザー・ドラゴン",
+      "spokenKana": "カイザー・ドラゴン",
+      "file": "audio/4433.ogg",
+      "seconds": 2.195,
+      "sha256": "3e612c883de94479938eaf9644b5aed58148e92f1572f17b38652496a90cd935",
+      "pcmFile": "audio/4433.wav",
+      "pcmSha256": "faa77f37bcc1e8167639886fff6ada097b62cc486d024ef8c41757cdbd4fe3ed"
+    },
+    {
+      "cid": 4434,
+      "kana": "セイント・マジシャン",
+      "spokenKana": "セイント・マジシャン",
+      "file": "audio/4434.ogg",
+      "seconds": 2.34,
+      "sha256": "52be82adf179d793df6a63791d5c6f05bbef85fa508de61be323bdbfbaa5a2e6",
+      "pcmFile": "audio/4434.wav",
+      "pcmSha256": "1af07b34b3bc60ee41b145d949ad080f95961faea4d18209330f562cb7ac8155"
+    },
+    {
+      "cid": 4435,
+      "kana": "きまぐれのめがみ",
+      "spokenKana": "キマグレノメガミ",
+      "file": "audio/4435.ogg",
+      "seconds": 1.74,
+      "sha256": "acc2129a1bd8d22ac8e290940f5bf19306c96616e9d264ea164921e20dd6aaee",
+      "pcmFile": "audio/4435.wav",
+      "pcmSha256": "2424dd6a12d0cb48a997c57478936a1c4214e9d23750c529f54c75df937ca797"
+    },
+    {
+      "cid": 4436,
+      "kana": "みずのまどうし",
+      "spokenKana": "ミズノマドウシ",
+      "file": "audio/4436.ogg",
+      "seconds": 1.63,
+      "sha256": "55bfc213a6225d3fbe6599dd3c1bf803291fa5d1f926917e8c4d2c8c0ffdc059",
+      "pcmFile": "audio/4436.wav",
+      "pcmSha256": "53765facee509ec747c86f8cf8231d0f1fc4e2190e58648529fec961e41bfbec"
+    },
+    {
+      "cid": 4437,
+      "kana": "こおりみず",
+      "spokenKana": "コオリミズ",
+      "file": "audio/4437.ogg",
+      "seconds": 1.32,
+      "sha256": "ed9218b08f5e331b40af1bf0da475cb84c26e6035e11c86a45fe3326782dbf65",
+      "pcmFile": "audio/4437.wav",
+      "pcmSha256": "9e5eba39a545d28e9018de1c9aea122bff2078dfa8a6c1756d6004f5b0901771"
+    },
+    {
+      "cid": 4438,
+      "kana": "ウンディーネ",
+      "spokenKana": "ウンディーネ",
+      "file": "audio/4438.ogg",
+      "seconds": 1.345,
+      "sha256": "f314899b7d5cb4654c2f876931d4810e7f4a2754914302a7551344e977d4086b",
+      "pcmFile": "audio/4438.wav",
+      "pcmSha256": "6d8bd30f13b9244a4dcbaaa4bcf541a35a90fcfa34d0647baa99be455d0a4f20"
+    },
+    {
+      "cid": 4439,
+      "kana": "エンシェント・エルフ",
+      "spokenKana": "エンシェント・エルフ",
+      "file": "audio/4439.ogg",
+      "seconds": 2.22,
+      "sha256": "56fc5c3fa94d19633b10814cdaea5688c88bae840362d1cf15e60a574a719a91",
+      "pcmFile": "audio/4439.wav",
+      "pcmSha256": "7d940d84098b6fe5f8f7cbb714e9fc9bbb3c849bc7e1446ed30e94a3f2a08cbd"
+    },
+    {
+      "cid": 4440,
+      "kana": "うつくしきまものつかい",
+      "spokenKana": "ウツクシキマモノツカイ",
+      "file": "audio/4440.ogg",
+      "seconds": 2.345,
+      "sha256": "78ccb1365f20545e3f04efa90de02212bfffac87b2a2a0a622e640671c946119",
+      "pcmFile": "audio/4440.wav",
+      "pcmSha256": "70d8104f0a9215d25e25036ebd153c5b5df62dbc8e521f01f2192f0f31e02dbf"
+    },
+    {
+      "cid": 4441,
+      "kana": "ウォーター・ガール",
+      "spokenKana": "ウォーター・ガール",
+      "file": "audio/4441.ogg",
+      "seconds": 2.105,
+      "sha256": "f461978aba0adb3a62f974509b3f3c50e8f793dc4a76459d07de6215d1f2a47f",
+      "pcmFile": "audio/4441.wav",
+      "pcmSha256": "b8272b6e9256aaa6487baefc353d6a0eceda98822ac8934e377db16dd1f94d1b"
+    },
+    {
+      "cid": 4442,
+      "kana": "ホワイト・ドルフィン",
+      "spokenKana": "ホワイト・ドルフィン",
+      "file": "audio/4442.ogg",
+      "seconds": 2.245,
+      "sha256": "0da200d45cfd7fa4af29dcbcba6ec5e71755153ec1ebd36f343362bf17e2c89b",
+      "pcmFile": "audio/4442.wav",
+      "pcmSha256": "a5817711a98a26194ee6ed2ad9f385b4265bb02f5db92578469bfc8a0d92e2e5"
+    },
+    {
+      "cid": 4443,
+      "kana": "しんかいにひそむサメ",
+      "spokenKana": "シンカイニヒソムサメ",
+      "file": "audio/4443.ogg",
+      "seconds": 2.24,
+      "sha256": "abe4170428383270962174fea1c851fac9d664401772b0315154d8fc4c67c6f2",
+      "pcmFile": "audio/4443.wav",
+      "pcmSha256": "ab9fa339bf09a9ab2d5c17beec8e7de1c6a9aade309a52fc838f7609af7b0318"
+    },
+    {
+      "cid": 4444,
+      "kana": "メタル・フィッシュ",
+      "spokenKana": "メタル・フィッシュ",
+      "file": "audio/4444.ogg",
+      "seconds": 2.08,
+      "sha256": "91d8f5443281a116204c5ee05a1813246866d7b4884d333397a7a4f3f9bc62d3",
+      "pcmFile": "audio/4444.wav",
+      "pcmSha256": "47da81d05a1999d62504c03e5a3265839597bb3002ca68eb62f8a626c4f6db5e"
+    },
+    {
+      "cid": 4445,
+      "kana": "しんぎょ",
+      "spokenKana": "シンギョ",
+      "file": "audio/4445.ogg",
+      "seconds": 1.335,
+      "sha256": "ebd7f0bb3942d958b4013b80ef10d893e5fcafe0fadca89e93d17af263a0689c",
+      "pcmFile": "audio/4445.wav",
+      "pcmSha256": "a072ffce61e65395cf116f36e5bf37ede60d22a11fd7af894af2fab099b6d855"
+    },
+    {
+      "cid": 4446,
+      "kana": "レインボー・フィッシュ",
+      "spokenKana": "レインボー・フィッシュ",
+      "file": "audio/4446.ogg",
+      "seconds": 2.24,
+      "sha256": "b06dcdbdcba2a8c9fac7aca59890e3ac66bf0a2b78ceb845067a09a0a9e5e9e1",
+      "pcmFile": "audio/4446.wav",
+      "pcmSha256": "09f2bcef923c05950f7d84ccd84bb05d639e3367675784ba43444fd19178b849"
+    },
+    {
+      "cid": 4447,
+      "kana": "サイボーグ・バス",
+      "spokenKana": "サイボーグ・バス",
+      "file": "audio/4447.ogg",
+      "seconds": 2.3,
+      "sha256": "5a8ee843953e3e94bff1f839247b125fb37b473b23c3d3cc6f5226547d972381",
+      "pcmFile": "audio/4447.wav",
+      "pcmSha256": "d3578d151c568bb96ac0f219cc6d088fc54eb7653d6f46b993be9448285fbe09"
+    },
+    {
+      "cid": 4448,
+      "kana": "アクア・ドラゴン",
+      "spokenKana": "アクア・ドラゴン",
+      "file": "audio/4448.ogg",
+      "seconds": 2.045,
+      "sha256": "3ab6d5dbe124cee71dcdee597421e7b7f639d215925dea2a57cd8e5bec7d6e4f",
+      "pcmFile": "audio/4448.wav",
+      "pcmSha256": "e9bf3013b2398d44b5e14b57f8bbef1fbd8947c5017c6eb01b9e9385c68fbaeb"
+    },
+    {
+      "cid": 4449,
+      "kana": "シー・キング・ドラゴン",
+      "spokenKana": "シー・キング・ドラゴン",
+      "file": "audio/4449.ogg",
+      "seconds": 3.04,
+      "sha256": "707908579c1b1b1c9bf7ac70242c2f7299295675b3d9b0050903a81fd344b0a9",
+      "pcmFile": "audio/4449.wav",
+      "pcmSha256": "9cb15b438fddb2694baf48b66aad83f037f24ffdada6cc8823e66111d721b6d7"
+    },
+    {
+      "cid": 4450,
+      "kana": "ツルプルン",
+      "spokenKana": "ツルプルン",
+      "file": "audio/4450.ogg",
+      "seconds": 1.275,
+      "sha256": "9e27322999e66008c1c2f9da600261f072184feab4d6adfd70150a97bef8a882",
+      "pcmFile": "audio/4450.wav",
+      "pcmSha256": "0c5f86791468ca25793f04b817611d822c0593b2799cf3ad145ed4e9377ac8f1"
+    },
+    {
+      "cid": 4451,
+      "kana": "うみをまもるせんし",
+      "spokenKana": "ウミヲマモルセンシ",
+      "file": "audio/4451.ogg",
+      "seconds": 1.835,
+      "sha256": "4b334863c266b47ea4a191b93eeb636f6e1b5c51cde7c8b66739552e6b08a8ae",
+      "pcmFile": "audio/4451.wav",
+      "pcmSha256": "7a996658d5eb79cfe3e05a9d407b99b13d8a47f605c0cdd4e4079c38ab6a378d"
+    },
+    {
+      "cid": 4452,
+      "kana": "アクア・スネーク",
+      "spokenKana": "アクア・スネーク",
+      "file": "audio/4452.ogg",
+      "seconds": 2.265,
+      "sha256": "d7486ef15031b224ba8106007ed5418d5b288f36df3f5aa1348e71e2084c4e0b",
+      "pcmFile": "audio/4452.wav",
+      "pcmSha256": "7794221babad794e11884bb039ee935f5c3aeca831ecaec7255855e5543bf5aa"
+    },
+    {
+      "cid": 4453,
+      "kana": "シーザリオン",
+      "spokenKana": "シーザリオン",
+      "file": "audio/4453.ogg",
+      "seconds": 1.47,
+      "sha256": "c37fc3d4eaae82028ecafee4163cfc4ae104605cb652072a066d7e59f14fae46",
+      "pcmFile": "audio/4453.wav",
+      "pcmSha256": "766ce4cc0e29ddf3647271d8be9811baf2326d8c0da3f9bc8f51c9e3b505467b"
+    },
+    {
+      "cid": 4454,
+      "kana": "スパイクシードラ",
+      "spokenKana": "スパイクシードラ",
+      "file": "audio/4454.ogg",
+      "seconds": 1.77,
+      "sha256": "5e1d39dab1ade63c93660d4a491a312b578ed0356dde96c270fe29a3fe1d76a2",
+      "pcmFile": "audio/4454.wav",
+      "pcmSha256": "7af8ffa9b1055f95040ecfbdea6ad08e13da6e11879e469e54f0c2977f30f37b"
+    },
+    {
+      "cid": 4456,
+      "kana": "ふくしゅうのカッパ",
+      "spokenKana": "フクシュウノカッパ",
+      "file": "audio/4456.ogg",
+      "seconds": 1.83,
+      "sha256": "089d6a6c4e4f070ab5b76d1fdd292603a304e8a30c32b4183ebbb0de8f17bf9f",
+      "pcmFile": "audio/4456.wav",
+      "pcmSha256": "2af13cd76e14a1a4740a88dd2282ba245a9f1adf88c88d9f54572fb7329289ae"
+    },
+    {
+      "cid": 4457,
+      "kana": "カニカブト",
+      "spokenKana": "カニカブト",
+      "file": "audio/4457.ogg",
+      "seconds": 1.48,
+      "sha256": "285fc0448af79bc38aef74611c3cee3975f2bb744496b1335bd6baf9a9da1ca9",
+      "pcmFile": "audio/4457.wav",
+      "pcmSha256": "e655429d0e553503a67f8bcfea9b427ee3c0036de596192714406e4aebc84f96"
+    },
+    {
+      "cid": 4458,
+      "kana": "ザリガン",
+      "spokenKana": "ザリガン",
+      "file": "audio/4458.ogg",
+      "seconds": 1.115,
+      "sha256": "f69d09a883afb1145e05b4e16f7f3cd6de7790f1465179929db921b1b513767a",
+      "pcmFile": "audio/4458.wav",
+      "pcmSha256": "0fe73d7c3a1b73010bb4a1cebf833498aa914b922aff0714924d3696b7811cbb"
+    },
+    {
+      "cid": 4459,
+      "kana": "せんねんゴーレム",
+      "spokenKana": "センネンゴーレム",
+      "file": "audio/4459.ogg",
+      "seconds": 1.645,
+      "sha256": "be8ca854a2df15e707b606dfa2bd6229327969246760e76cff9a1de0f2e7d7c9",
+      "pcmFile": "audio/4459.wav",
+      "pcmSha256": "616c23ea644d9c8e4236aac10e9e2da58507119bd9592f4e376fae629bd7f0c6"
+    },
+    {
+      "cid": 4460,
+      "kana": "はかいのゴーレム",
+      "spokenKana": "ハカイノゴーレム",
+      "file": "audio/4460.ogg",
+      "seconds": 1.7,
+      "sha256": "e9b5eb71524074906c09f34fa7e7297f331327768999c281461f98886f2cdb5f",
+      "pcmFile": "audio/4460.wav",
+      "pcmSha256": "d56a94b03e826f26a67f77546fbc7c4cf73be2759a9448164eb1252c842471b5"
+    },
+    {
+      "cid": 4461,
+      "kana": "ガンロック",
+      "spokenKana": "ガンロック",
+      "file": "audio/4461.ogg",
+      "seconds": 1.245,
+      "sha256": "640a269045072129f003b8ad62cd999d870d09149b286a8081178d537deb6350",
+      "pcmFile": "audio/4461.wav",
+      "pcmSha256": "f370c2e7a8d88fcd2833394632578d33a02e1a89e8c1604c77fa47158556e3c5"
+    },
+    {
+      "cid": 4462,
+      "kana": "いわのせんし",
+      "spokenKana": "イワノセンシ",
+      "file": "audio/4462.ogg",
+      "seconds": 1.485,
+      "sha256": "c71a6aadf630ae1d0ff03aaf30f2b36718ccc62d40292578fc057a3f4fcaf6ef",
+      "pcmFile": "audio/4462.wav",
+      "pcmSha256": "7784d67165efda0f7b4dec91f1be801ffac44d48bf920cd5f9ac8fc8021ed3cb"
+    },
+    {
+      "cid": 4463,
+      "kana": "ストーン・ゴースト",
+      "spokenKana": "ストーン・ゴースト",
+      "file": "audio/4463.ogg",
+      "seconds": 2.22,
+      "sha256": "8962f6b7fa876ce9c0fc6fbb8e14cb914f38bcc89b3b6a04fb2cdc00f00f904c",
+      "pcmFile": "audio/4463.wav",
+      "pcmSha256": "715f0cfd3d52d9f5f4e1910367580ffeaf728cb9a20f9a6b8f4c8a1b75886c35"
+    },
+    {
+      "cid": 4464,
+      "kana": "らいじんのいかり",
+      "spokenKana": "ライジンノイカリ",
+      "file": "audio/4464.ogg",
+      "seconds": 1.685,
+      "sha256": "5691f2082cdabf5ce53a1b7f88cefe95f5c164761e16ce2503172d373b377933",
+      "pcmFile": "audio/4464.wav",
+      "pcmSha256": "dbe9a53f26cde6bcdac065cf0070dec2bdb61b7cd8d5a9fa18df9fbf5f5b95d9"
+    },
+    {
+      "cid": 4465,
+      "kana": "じらいじゅう",
+      "spokenKana": "ジライジュウ",
+      "file": "audio/4465.ogg",
+      "seconds": 1.295,
+      "sha256": "4dcdd6a031b20a640490edca501237101c8fd8c0127e331ffcd42d2f1820f2ae",
+      "pcmFile": "audio/4465.wav",
+      "pcmSha256": "c0cc96c4363cddf5d463669ddc0a5dbb53572d72f2c25ef81ecda0dc18eaa671"
+    },
+    {
+      "cid": 4466,
+      "kana": "ボルト・エスカルゴ",
+      "spokenKana": "ボルト・エスカルゴ",
+      "file": "audio/4466.ogg",
+      "seconds": 2.375,
+      "sha256": "957b6ef53f49f7fa48a6cc3b5a3a743c63008565a6dd69ab54fd2001e401495f",
+      "pcmFile": "audio/4466.wav",
+      "pcmSha256": "c5c6f0eeaa88e8098b92296882a58fdaef7ed3e8bc709279601da4cff28cfe52"
+    },
+    {
+      "cid": 4467,
+      "kana": "ボルト・ペンギン",
+      "spokenKana": "ボルト・ペンギン",
+      "file": "audio/4467.ogg",
+      "seconds": 2.055,
+      "sha256": "183ab589ef1d4bcc9ebac3aea2bffbd08bb37f515b0144095278197fa54fa77c",
+      "pcmFile": "audio/4467.wav",
+      "pcmSha256": "7c624afc5112ecfdc278904a4663489a027a7b9981c4982a77c5a51ce32d841b"
+    },
+    {
+      "cid": 4468,
+      "kana": "かみなりせんにん",
+      "spokenKana": "カミナリセンニン",
+      "file": "audio/4468.ogg",
+      "seconds": 1.62,
+      "sha256": "5e5bd7392298e22d2e8cdbaa944c69178abb23bd072b09439f55bbbe16e38e61",
+      "pcmFile": "audio/4468.wav",
+      "pcmSha256": "62ef520dc939a4ad1cdbe4c60ebc120ec4ee62d36f2091563522d6bea4159b20"
+    },
+    {
+      "cid": 4469,
+      "kana": "エレクトリック・スネーク",
+      "spokenKana": "エレクトリック・スネーク",
+      "file": "audio/4469.ogg",
+      "seconds": 2.755,
+      "sha256": "e992751c2b32dc726fb4dbe4db41888d040da5f2c756d3711732b5141c8fd11c",
+      "pcmFile": "audio/4469.wav",
+      "pcmSha256": "4244d4ff91948780b8993da0fb3ab96b7a9e56c29a16de347a44dd9b0d6cefcb"
+    },
+    {
+      "cid": 4470,
+      "kana": "ウイング・イーグル",
+      "spokenKana": "ウイング・イーグル",
+      "file": "audio/4470.ogg",
+      "seconds": 2.145,
+      "sha256": "37c031838158610373e0c16e8777a9e66d98e06985cebad570d160ef06978496",
+      "pcmFile": "audio/4470.wav",
+      "pcmSha256": "e647cdace4d2ece6422bb550726773b3928b9eab2b953fad3d46b23c3d7e2437"
+    },
+    {
+      "cid": 4471,
+      "kana": "さばきのタカ",
+      "spokenKana": "サバキノタカ",
+      "file": "audio/4471.ogg",
+      "seconds": 1.735,
+      "sha256": "20330bd854543005377d929728b8672750cf059fc56c8e4633c5d425ae020bd3",
+      "pcmFile": "audio/4471.wav",
+      "pcmSha256": "e90d07b6c269b60d72d3fe872df118c4c66196cb41e29338dfb5b2f741355490"
+    },
+    {
+      "cid": 4472,
+      "kana": "スカイ・ハンター",
+      "spokenKana": "スカイ・ハンター",
+      "file": "audio/4472.ogg",
+      "seconds": 2.33,
+      "sha256": "03fbec01875ee813c817d666cbf67bddef2284de23bfc1b98ca00e8f20d0cab1",
+      "pcmFile": "audio/4472.wav",
+      "pcmSha256": "f6ba79f4f9cbf6af59d8fca14b39c2454eedcdca9e1dd17bca649480956ce465"
+    },
+    {
+      "cid": 4473,
+      "kana": "こうようちょう",
+      "spokenKana": "コウヨウチョウ",
+      "file": "audio/4473.ogg",
+      "seconds": 1.44,
+      "sha256": "efa4c3e45b4cc9bc733640169a715100ad86542e0ebbe6f8a2101fa8c18d01b8",
+      "pcmFile": "audio/4473.wav",
+      "pcmSha256": "7bfed442c06de2b51360787b54d2e097b7937a97add775f17729c86937de70c8"
+    },
+    {
+      "cid": 4474,
+      "kana": "クイーン・バード",
+      "spokenKana": "クイーン・バード",
+      "file": "audio/4474.ogg",
+      "seconds": 1.975,
+      "sha256": "8f9f8fbb88a94a602edbd53cd8675638ca246348a2595a307ac3ea2dd112a0df",
+      "pcmFile": "audio/4474.wav",
+      "pcmSha256": "ecf3a47d5674c3425e433e9251732a79982b52837e8f3e608955f9cf54f0b242"
+    },
+    {
+      "cid": 4475,
+      "kana": "ブルーにんじゃ",
+      "spokenKana": "ブルーニンジャ",
+      "file": "audio/4475.ogg",
+      "seconds": 1.385,
+      "sha256": "6504ba6ed97184625ccad1fcfc394ede32201e35439fec646a9eedc5830ffd69",
+      "pcmFile": "audio/4475.wav",
+      "pcmSha256": "e6aa816549fc98f06febfe1025dea3e79fdf87418da4f50fa2d35bb7486160a6"
+    },
+    {
+      "cid": 4476,
+      "kana": "マジカル・ゴースト",
+      "spokenKana": "マジカル・ゴースト",
+      "file": "audio/4476.ogg",
+      "seconds": 2.33,
+      "sha256": "e962701724181e09191daf4ac5e8ed6fb99bb84d24155ccba51afcdfd474f656",
+      "pcmFile": "audio/4476.wav",
+      "pcmSha256": "657bb6139f480e6cd0f3548a0976ab03bb166c3417727d136e33c87a15f1d462"
+    },
+    {
+      "cid": 4477,
+      "kana": "ソウル・ハンター",
+      "spokenKana": "ソウル・ハンター",
+      "file": "audio/4477.ogg",
+      "seconds": 2.275,
+      "sha256": "c6cf26d10e5524668ee0180d9d31d5aa0a35e10a2e754424a31573b6e1cb2caa",
+      "pcmFile": "audio/4477.wav",
+      "pcmSha256": "75ddfc1b99e85dea38eb3f45197e6b78d1b1e5bf96dd46e08c1f7cebed2c862b"
+    },
+    {
+      "cid": 4478,
+      "kana": "エア・イーター",
+      "spokenKana": "エア・イーター",
+      "file": "audio/4478.ogg",
+      "seconds": 1.985,
+      "sha256": "2d9b6515f6f81afb14d033f8c63ed6d84fa1a437b28c8c113ca763e0438c1df8",
+      "pcmFile": "audio/4478.wav",
+      "pcmSha256": "a0231c65c3e849e10bee5f3e9ceb1b8f53c9f21692e33669f7f544653ae95356"
+    },
+    {
+      "cid": 4479,
+      "kana": "すざく",
+      "spokenKana": "スザク",
+      "file": "audio/4479.ogg",
+      "seconds": 1.245,
+      "sha256": "4d7b72bba6314177e48ca0d9a0a25dd0bf45a92eb5ae09d383cd6c69c2cb723e",
+      "pcmFile": "audio/4479.wav",
+      "pcmSha256": "81080fde44305f2481c7569c49b18f41857dfc735d0e7c85351ea84a396131ab"
+    },
+    {
+      "cid": 4480,
+      "kana": "シーカーメン",
+      "spokenKana": "シーカーメン",
+      "file": "audio/4480.ogg",
+      "seconds": 1.405,
+      "sha256": "6fd4b586be64ba6fc2ae4b0e159ec5aad2f78626c21550608cae51ceca3cde27",
+      "pcmFile": "audio/4480.wav",
+      "pcmSha256": "e6d2623046e0f2b127399a4f518c37b52584f8ff6942a9312763ebcd51c8193f"
+    },
+    {
+      "cid": 4481,
+      "kana": "キラー・スネーク",
+      "spokenKana": "キラー・スネーク",
+      "file": "audio/4481.ogg",
+      "seconds": 2.26,
+      "sha256": "f14bd678eabf638ede57858dcda9cf79af0f4bda764ff7eaf92f75e1017073fc",
+      "pcmFile": "audio/4481.wav",
+      "pcmSha256": "4462e881f72e351c0e8d0257d5866349d2f3fe3eeb078cd1348696998908b869"
+    },
+    {
+      "cid": 4482,
+      "kana": "ガニグモ",
+      "spokenKana": "ガニグモ",
+      "file": "audio/4482.ogg",
+      "seconds": 1.24,
+      "sha256": "0cce959a4acdc82744eb6bbab68efc347af6cb822829cdb1825092217b26e83a",
+      "pcmFile": "audio/4482.wav",
+      "pcmSha256": "6e8471dfc503ec4d16896abebf83cea62fb41a4ac962f4aa9ccde638bf6a0132"
+    },
+    {
+      "cid": 4483,
+      "kana": "インセクション",
+      "spokenKana": "インセクション",
+      "file": "audio/4483.ogg",
+      "seconds": 1.39,
+      "sha256": "1098bbbb073a3ac0cce961ffb8f1fa21855cba4fb00caf3ab649fa5274f76a9e",
+      "pcmFile": "audio/4483.wav",
+      "pcmSha256": "d9fb9a208a28512afb5c791d57fb391446a996cee518b872b6c402c07346599e"
+    },
+    {
+      "cid": 4484,
+      "kana": "そらのこんちゅうへい",
+      "spokenKana": "ソラノコンチュウヘイ",
+      "file": "audio/4484.ogg",
+      "seconds": 1.87,
+      "sha256": "82c27bc7ea45eb61145df200dd5c3f550fda2f4897ac012fe118823197a48ad0",
+      "pcmFile": "audio/4484.wav",
+      "pcmSha256": "1aa9bafbc57ce27744e206afa4ccfc65266f2ecd39c7b8f8c888a4fdcd66f218"
+    },
+    {
+      "cid": 4485,
+      "kana": "コカローチ・ナイト",
+      "spokenKana": "コカローチ・ナイト",
+      "file": "audio/4485.ogg",
+      "seconds": 2.41,
+      "sha256": "80bb92a97555de24d5e5390b5f8ba64085ef1150c376f6792fb46af5f4fbe90f",
+      "pcmFile": "audio/4485.wav",
+      "pcmSha256": "497e519d279cb8c0af66c34ad4f549566b5d2802959d0707219bc0732ac0bef1"
+    },
+    {
+      "cid": 4486,
+      "kana": "クワガタ・アルファ",
+      "spokenKana": "クワガタ・アルファ",
+      "file": "audio/4486.ogg",
+      "seconds": 2.26,
+      "sha256": "95fb8212a8566fec1b09a12a2c6c57a6ca9b232c7513ab1bd5c275a64334e279",
+      "pcmFile": "audio/4486.wav",
+      "pcmSha256": "e9d7d017ab704187b642d9ac8b190f967117c8954fe33a4a2b477b00ccee6b02"
+    },
+    {
+      "cid": 4487,
+      "kana": "バーグラー",
+      "spokenKana": "バーグラー",
+      "file": "audio/4487.ogg",
+      "seconds": 1.335,
+      "sha256": "ae747e2f6d4cbe7624041c0890ceda945055c11bd5794105e9ebba950043159d",
+      "pcmFile": "audio/4487.wav",
+      "pcmSha256": "a78b3713c1b091455555efc17ffee090b358d57d5d86e6bacb3b75bf94c0976e"
+    },
+    {
+      "cid": 4488,
+      "kana": "プラグティカル",
+      "spokenKana": "プラグティカル",
+      "file": "audio/4488.ogg",
+      "seconds": 1.495,
+      "sha256": "7f42ea318c04d18ebaa9defbeffdbfe0b08b969299dfb602c4cc4005bc5f9d9e",
+      "pcmFile": "audio/4488.wav",
+      "pcmSha256": "d6e5982ca27e832e9155c9b7b868c8466c7803956b4998f44b6709be82d22a88"
+    },
+    {
+      "cid": 4489,
+      "kana": "ガルヴァス",
+      "spokenKana": "ガルヴァス",
+      "file": "audio/4489.ogg",
+      "seconds": 1.21,
+      "sha256": "143ff68ac40ba01ac4e1973c7aac71f4dc61c0cdc39359a3a682c6af32640fe9",
+      "pcmFile": "audio/4489.wav",
+      "pcmSha256": "2aaa79ae5e6833b133b0b281c81ae5116b2aac84bbfdbb95cce420f944b8a991"
+    },
+    {
+      "cid": 4490,
+      "kana": "アメーバ",
+      "spokenKana": "アメーバ",
+      "file": "audio/4490.ogg",
+      "seconds": 1.3,
+      "sha256": "e102bc5c905b83fea22417c074d2d16bb370c4183b4e8955f12efa393c0f8607",
+      "pcmFile": "audio/4490.wav",
+      "pcmSha256": "ba16e8f8a221ce76bcb5796ff77806e4453295db0117f5c4b45a93da921a16fd"
+    },
+    {
+      "cid": 4491,
+      "kana": "コロガーシ",
+      "spokenKana": "コロガーシ",
+      "file": "audio/4491.ogg",
+      "seconds": 1.315,
+      "sha256": "1f50d33e2c550ec3658f7c49a2e7ba0b605672de570a85bae7f046e4b5197fa7",
+      "pcmFile": "audio/4491.wav",
+      "pcmSha256": "520dbf91fe431adce1267c527c17cb997c4e085e968f8e393d8a3d645b94da2f"
+    },
+    {
+      "cid": 4492,
+      "kana": "ブークー",
+      "spokenKana": "ブークー",
+      "file": "audio/4492.ogg",
+      "seconds": 1.28,
+      "sha256": "2256669f4d2e9da62eb0332ecd62cec0646c3a26907b32a422f0b97dd486fb4a",
+      "pcmFile": "audio/4492.wav",
+      "pcmSha256": "cae72afb15cd5ccf2639bee15393380f284af89eb69933c12c0462790be502e6"
+    },
+    {
+      "cid": 4493,
+      "kana": "フラワー・ウルフ",
+      "spokenKana": "フラワー・ウルフ",
+      "file": "audio/4493.ogg",
+      "seconds": 2.15,
+      "sha256": "dbf85143f66d43be35fcafd89468a95b51f861d8184daf207e7893d2ff5e5348",
+      "pcmFile": "audio/4493.wav",
+      "pcmSha256": "47ee260ee342db114922c7b9d6d5dc6482b3216c453d8e4bc29505005df3a17c"
+    },
+    {
+      "cid": 4494,
+      "kana": "レインボー・フラワー",
+      "spokenKana": "レインボー・フラワー",
+      "file": "audio/4494.ogg",
+      "seconds": 2.37,
+      "sha256": "6791a4e8ee0eca682f02291eb1679c2eda7c0ca5769ed48810caa149c42ae19d",
+      "pcmFile": "audio/4494.wav",
+      "pcmSha256": "a4e0e71dbda2b2629c2b9762752e31b4d1be7c0d78bf0c8552c06b29e9eadf29"
+    },
+    {
+      "cid": 4495,
+      "kana": "マグナム・リリィ",
+      "spokenKana": "マグナム・リリィ",
+      "file": "audio/4495.ogg",
+      "seconds": 2.195,
+      "sha256": "1a35fd3e34361ecd82d989adf81298638b7fea39a8b68bfe29fa484a05f338a7",
+      "pcmFile": "audio/4495.wav",
+      "pcmSha256": "692d765324808290a159393ac5de36065cfd22086c37e35624e53e1a7ceb3de9"
+    },
+    {
+      "cid": 4496,
+      "kana": "ニードル・ボール",
+      "spokenKana": "ニードル・ボール",
+      "file": "audio/4496.ogg",
+      "seconds": 2.07,
+      "sha256": "62cb5b6155c9a48ba9811a624d367424bf5d9e6c197f20457e5cecc6573df8bd",
+      "pcmFile": "audio/4496.wav",
+      "pcmSha256": "6b9dd7f8e6c0e2deed96ec89e22918b79b00ed38521a49fe0d616ac5dedeb408"
+    },
+    {
+      "cid": 4497,
+      "kana": "クジャック",
+      "spokenKana": "クジャック",
+      "file": "audio/4497.ogg",
+      "seconds": 1.19,
+      "sha256": "1ab2c9d8b3411218b21fe0f92906e386e4180812d98a54be5f808a5491bdf996",
+      "pcmFile": "audio/4497.wav",
+      "pcmSha256": "32fec14fbe26c606a91787a702be0c38f370f6473a83902d84d701811b2b65f6"
+    },
+    {
+      "cid": 4498,
+      "kana": "スーパースター",
+      "spokenKana": "スーパースター",
+      "file": "audio/4498.ogg",
+      "seconds": 1.765,
+      "sha256": "97a541499d617f2c893b86e62177a7c7608f55c1839fbf9ce6c700a062dce463",
+      "pcmFile": "audio/4498.wav",
+      "pcmSha256": "c2e142a437744e2385cc37a5a316ef0d56a4b174c0b24c404422e1c8ef54f0ac"
+    },
+    {
+      "cid": 4499,
+      "kana": "マハー・ヴァイロ",
+      "spokenKana": "マハー・ヴァイロ",
+      "file": "audio/4499.ogg",
+      "seconds": 2.09,
+      "sha256": "ab47dc68d91f984ed395f845921bb9cb9f6e0d477b543f33e1dfcab10be24b41",
+      "pcmFile": "audio/4499.wav",
+      "pcmSha256": "898c1390752f172b1c1ca041c0e23f876820d29fa5f549ec7f2e7d4af3007d70"
+    },
+    {
+      "cid": 4500,
+      "kana": "レインボー・マリン・マーメイド",
+      "spokenKana": "レインボー・マリン・マーメイド",
+      "file": "audio/4500.ogg",
+      "seconds": 3.325,
+      "sha256": "8abebcd931ff08d55f9cf0f1adda3d8e0345182801d448104c7320735752d9b2",
+      "pcmFile": "audio/4500.wav",
+      "pcmSha256": "bdb2805d632905554f2b9cc46f729544bada62de7bd75c2c897ef3629d70a30d"
+    },
+    {
+      "cid": 4501,
+      "kana": "ミュージシャン・キング",
+      "spokenKana": "ミュージシャン・キング",
+      "file": "audio/4501.ogg",
+      "seconds": 2.185,
+      "sha256": "8214d29d633b96d24f6d938a9760a792689a70e1b630997677446d071a482e34",
+      "pcmFile": "audio/4501.wav",
+      "pcmSha256": "3795f92431114b5dc9462c3ef01cde5119c54cf2fe9168c1d857a669505ab780"
+    },
+    {
+      "cid": 4502,
+      "kana": "ウィルミー",
+      "spokenKana": "ウィルミー",
+      "file": "audio/4502.ogg",
+      "seconds": 1.25,
+      "sha256": "d7074736dcb627ffc421e6bbdc1e5433b4ce1fc62608babd178b82907b1cd3a3",
+      "pcmFile": "audio/4502.wav",
+      "pcmSha256": "13fe692589a018ad70c9bded460985895fd76471707e2ce68a9fe3c3bbe409b3"
+    },
+    {
+      "cid": 4503,
+      "kana": "ヤドカリュー",
+      "spokenKana": "ヤドカリュー",
+      "file": "audio/4503.ogg",
+      "seconds": 1.335,
+      "sha256": "9d2608df62bcd78680b4dbb31f54d60502a42567dcf258e3bbe6d3a1b7ca371c",
+      "pcmFile": "audio/4503.wav",
+      "pcmSha256": "449e56adb27e68f06fe643dc62fc630046444abf4b33ed6e1416cb933353f807"
+    },
+    {
+      "cid": 4504,
+      "kana": "モリンフェン",
+      "spokenKana": "モリンフェン",
+      "file": "audio/4504.ogg",
+      "seconds": 1.1,
+      "sha256": "cddd9985d91dfc910f8e3774d48fe4dfe63b90114e461bb756e0088cb593d328",
+      "pcmFile": "audio/4504.wav",
+      "pcmSha256": "6ec2bf1bfe3f942837db0c7bc1062ea18be1320085ff3463d62a207d7d8d3919"
+    },
+    {
+      "cid": 4505,
+      "kana": "キャタピラー",
+      "spokenKana": "キャタピラー",
+      "file": "audio/4505.ogg",
+      "seconds": 1.485,
+      "sha256": "f10f1f22ebb848cedfbe2da615b9bd82818f2b828b9041bcb0c5334485975e95",
+      "pcmFile": "audio/4505.wav",
+      "pcmSha256": "087ec2a43d25078078d2c4bd7011148b41214097ac07252aa7366544b399fdf8"
+    },
+    {
+      "cid": 4506,
+      "kana": "ドラゴン・キラー",
+      "spokenKana": "ドラゴン・キラー",
+      "file": "audio/4506.ogg",
+      "seconds": 2.045,
+      "sha256": "c93f4bfe89ad5c8972f0a5c043e4a545ca46efbb2c8cdaf18935b61557ed44b0",
+      "pcmFile": "audio/4506.wav",
+      "pcmSha256": "56f72321dba9f414e903d5bcb1546e8ef0f3fe8d754fbbbb8f85d8b2f72b7081"
+    }
+  ]
+}
