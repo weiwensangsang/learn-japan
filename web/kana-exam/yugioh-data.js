@@ -16147,6 +16147,10 @@ window.KANA_SETS.yugioh = {
       "cid": 4282,
       "cardId": 85309439,
       "kana": "きたかぜとたいよう",
+      "spokenParts": [["き", "ki"], ["た", "ta"], ["か", "ka"], ["ぜ", "ze"], ["と", "to"], ["た", "ta"], ["い", "i"], ["よう", "yoo"]],
+      "spokenReading": "kitakaze to taiyoo",
+      "pronunciationNote": "太陽写作「たいよう」，自然读作「たいよー」：这里的う延长よ的o音，不单独读u。よう合起来是长音yoo（yō），占两拍；たい里的a、i连着读。整句按「きたかぜ と たいよー」连读，不在每个假名之间停顿。输入kitakazetotaiyoo或按假名拼写kitakazetotaiyou都可，空格不影响判定。",
+      "pronunciationSource": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gendaikana/honbun_dai1.html",
       "romaji": "kitakazetotaiyou",
       "distractors": [
         "gitakazetotaiyou",

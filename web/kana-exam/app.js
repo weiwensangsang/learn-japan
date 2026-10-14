@@ -31,10 +31,10 @@
   function showView(view) { for (const id of ['setup', 'quiz', 'results']) $(id).hidden = id !== view; }
   function escapeText(value) { return String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char])); }
   function splitReading(item) {
-    return item.parts.map(([, reading]) => reading.trim()).filter(Boolean).join(' · ');
+    return (item.spokenParts || item.parts).map(([, reading]) => reading.trim()).filter(Boolean).join(' · ');
   }
   function partsHtml(item) {
-    return item.parts.map(([kana, reading]) => `<span><b lang="ja">${escapeText(kana)}</b><small>${escapeText(reading.trim() || '不发音')}</small></span>`).join('');
+    return (item.spokenParts || item.parts).map(([kana, reading]) => `<span><b lang="ja">${escapeText(kana)}</b><small>${escapeText(reading.trim() || '不发音')}</small></span>`).join('');
   }
   function rulesHtml(item) {
     return explainWord(item).map(rule => `<div class="reading-rule"><h4>${escapeText(rule.title)}</h4><p class="rule-example">${rule.examples.map(escapeText).join('；')}</p><p>${escapeText(rule.explanation)}</p></div>`).join('');
@@ -209,13 +209,13 @@
       $('card-source').href = item.sourceUrl;
       $('context-label').textContent = { name: '日文卡名', reading: '卡名的假名读法', text: '卡片文本摘录' }[item.sourceKind];
       $('context-text').innerHTML = item.context.split(item.kana).map(escapeText).join(`<mark>${escapeText(item.kana)}</mark>`);
-      $('guide-reading').textContent = session.assisted ? splitReading(item) : '';
+      $('guide-reading').textContent = session.assisted ? item.spokenReading || splitReading(item) : '';
       $('guide-meaning').textContent = session.assisted ? '中文意思：' + item.meaning : '';
       $('guide-parts').innerHTML = session.assisted ? partsHtml(item) : '';
       $('guide-rules').innerHTML = session.assisted ? rulesHtml(item) : '';
       $('guide-hint').textContent = session.assisted ? '认读提示：' + item.hint : '';
       $('check-reading').textContent = session.assisted ? '检查读音' : session.index + 1 === session.deck.length ? '提交并查看结果' : '提交，下一题';
-      $('input-help').textContent = '长音重复元音，例如 カー → kaa。大小写、空格和连字符不影响判定。' + (session.assisted ? '' : '按 Enter 提交。');
+      $('input-help').textContent = (session.assisted && item.spokenParts ? `本题可输入 ${item.spokenReading}，也接受按假名拼写的 ${item.romaji}。` : '长音重复元音，例如 カー → kaa。') + '大小写、空格和连字符不影响判定。' + (session.assisted ? '' : '按 Enter 提交。');
       $('reading-input').value = '';
       $('reading-input').disabled = false;
       $('check-reading').disabled = false;
@@ -306,7 +306,7 @@
         wrapper.firstElementChild.innerHTML = `<img class="review-card" src="${escapeText(item.image)}" alt="${escapeText(item.cardName)}日文卡面" loading="lazy">`;
         const details = wrapper.children[1];
         details.insertAdjacentHTML('afterbegin', `<div class="review-word" lang="ja">${escapeText(item.kana)}</div><p class="review-card-name" lang="ja">${escapeText(item.cardName)}</p>`);
-        details.insertAdjacentHTML('beforeend', `<div class="word-parts" aria-label="假名拆音">${item.parts.map(([kana, reading]) => `<span><b lang="ja">${escapeText(kana)}</b><small>${escapeText(reading.trim() || '不发音')}</small></span>`).join('')}</div><a class="source-link" href="${escapeText(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">官方日文卡页 ↗</a><span class="tiny"> · 核对于 ${escapeText(item.checkedAt)}</span>`);
+        details.insertAdjacentHTML('beforeend', `<div class="word-parts" aria-label="假名拆音">${partsHtml(item)}</div><a class="source-link" href="${escapeText(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">官方日文卡页 ↗</a><span class="tiny"> · 核对于 ${escapeText(item.checkedAt)}</span>`);
         if (item.meaningSource) details.insertAdjacentHTML('beforeend', ` · <a class="source-link" href="${escapeText(item.meaningSource)}" target="_blank" rel="noopener noreferrer">中文卡名来源（社区） ↗</a>`);
         details.querySelector('.review-hint').textContent = '认读提示：' + item.hint;
         if (answer.comparison) details.insertAdjacentHTML('beforeend', comparisonHtml(answer.comparison));

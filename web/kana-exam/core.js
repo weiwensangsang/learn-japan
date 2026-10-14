@@ -33,6 +33,7 @@
       if(!rules.has(kind))rules.set(kind,{kind,title,examples:[],explanation});
       const examples=rules.get(kind).examples;if(!examples.includes(example))examples.push(example);
     };
+    if(item.pronunciationNote)add('pronunciation','这题的自然读法',`${item.kana} → ${item.spokenReading}`,item.pronunciationNote);
     for(const letter of [...item.kana.normalize('NFC')]){
       const [base,mark]=[...letter.normalize('NFD')];
       if(mark==='\u3099'||mark==='\u309a'){
@@ -75,7 +76,9 @@
   }
   const normalizeReading=value=>String(value).normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'").replace(/[\s-]+/g,'');
   function compareReading(item,input){
-    const parts=item.parts.map(([kana,reading])=>({kana,expected:normalizeReading(reading),actual:'',segments:[]}));
+    // 已逐词注明的自然读法用于反馈；保留原假名拼写作为可接受答案。
+    const answerParts=item.spokenParts&&normalizeReading(input)!==normalizeReading(item.romaji)?item.spokenParts:item.parts;
+    const parts=answerParts.map(([kana,reading])=>({kana,expected:normalizeReading(reading),actual:'',segments:[]}));
     const target=parts.map(p=>p.expected).join(''),user=normalizeReading(input),owners=[];
     parts.forEach((part,index)=>{for(let i=0;i<part.expected.length;i++)owners.push(index);});
     const n=target.length,m=user.length;
