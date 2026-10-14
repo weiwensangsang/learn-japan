@@ -42,11 +42,22 @@
       <div class="quiz-top"><span id="quiz-label" class="eyebrow"></span><button id="exit" class="text-button" type="button">结束本轮</button></div>
       <div class="quiz-stats"><span id="progress-label"></span><span id="clock">00:00</span></div><div class="progress-track"><div id="progress-fill"></div></div>
       <div class="question-stage"><figure id="card-context" class="card-context" hidden><img id="card-image" width="200" height="290" alt=""><p id="card-image-error" class="tiny" hidden>卡面暂时无法显示，仍可认读右侧词汇。</p><figcaption><span id="card-name" lang="ja"></span><a id="card-source" target="_blank" rel="noopener noreferrer">官方日文卡页 ↗</a></figcaption></figure><div class="question-copy"><p id="question-instruction" class="muted"></p><div id="word-context" class="word-context" hidden><p id="context-label" class="eyebrow"></p><p id="context-text" lang="ja"></p></div><div id="question" class="question" lang="ja"></div><p id="sound-message" class="tiny" role="status"></p></div></div>
-      <div id="pronunciation" class="pronunciation" hidden><button id="play-word" class="secondary" type="button">▶ Google 读音</button><button id="play-slow" class="text-button" type="button">慢速听</button><button id="play-offline" class="text-button" type="button">离线读音</button><span class="tiny">Google 在线朗读 · 断网可用离线读音</span><div class="native-audio"><audio id="word-audio" controls preload="none" aria-label="日语读音播放器"></audio><a id="open-audio" class="text-button" target="_blank" rel="noopener noreferrer">单独打开音频 ↗</a></div></div>
+      <div id="pronunciation" class="pronunciation" hidden><button id="play-word" class="secondary" type="button">▶ Google 读音</button><button id="play-slow" class="text-button" type="button">慢速听</button><span class="tiny">Google 在线朗读 · 先听整词，再对照假名跟读</span><div class="native-audio"><audio id="word-audio" controls preload="none" aria-label="日语读音播放器"></audio><a id="open-audio" class="text-button" target="_blank" rel="noopener noreferrer">单独打开音频 ↗</a></div></div>
       <section id="word-guide" class="word-guide" aria-label="本题解答与解释" hidden>
         <div class="guide-heading"><h2>本题解答</h2><span class="small-pill">边看边学</span></div>
-        <p id="guide-reading" class="guide-reading"></p><p id="guide-meaning" class="guide-meaning"></p>
+        <p class="guide-reading-label">先看假名，想起读音，再从左到右连起来。</p>
         <div id="guide-parts" class="word-parts" aria-label="假名拆音"></div>
+        <p class="guide-reading-label">读音对照</p><p id="guide-reading" class="guide-reading"></p><p id="guide-meaning" class="guide-meaning"></p>
+        <details class="symbol-reference kana-reference" open><summary>看到假名，按什么规则读？</summary>
+          <p>从左到右，把认识的假名读音连起来。不用先知道词义，也不用先把整词换成罗马字再拆。</p>
+          <ol>
+            <li><strong>普通假名通常一字一拍。</strong>で → de、せ → se、つ → tsu。゛浊点会改变读音，如て te → で de；ん／ン是鼻音，也占一拍。</li>
+            <li><strong>小ゃゅょ和前面的字合读一拍。</strong>きゃ → kya；大字きや → ki · ya，是两拍。片假名キャ／キヤ同理。ティ等外来音组合也整体读。</li>
+            <li><strong>小っ／ッ留一拍。</strong>きって → ki · 留一拍 · te，小っ不读 tsu；为下一个辅音留出阻塞的一拍。</li>
+            <li><strong>长音延长一拍。</strong>カー把カ的 a 拉长。平假名长音写在词里，如おかあさん的あ延长前面的 a；连续元音要结合词来看。</li>
+          </ol>
+          <p><strong>で · ん · せ · つ · の · け · ん</strong><br>结构上共七拍，分隔点帮助认字。自然读法要连成短语，ん接着前面的音读；每拍实际时长会变化，不是七个字一样重、一样长地念。音调的高低变化和整句语调要结合词与语境听。先听正常速度，再用慢速核对字音，最后回到正常速度跟读。</p>
+        </details>
         <h3>这题怎么读</h3><div id="guide-rules" class="reading-rules"></div><p id="guide-hint" class="guide-hint"></p>
         <details class="symbol-reference"><summary>常见符号速查：ー・゛・゜・小假名</summary>
           <dl><dt>ー 长音</dt><dd>把前面的元音拉长一拍。カー kaa：ka 的 a 拉长。</dd>
@@ -66,7 +77,7 @@
     <section id="results" hidden><div class="panel results-panel"><p class="eyebrow" id="result-label">本轮成绩</p><h2>这一轮，认出了多少？</h2><div class="score-line"><span id="score" class="score"></span><span id="score-total"></span></div><div class="result-stats"><span id="accuracy"></span><span id="duration"></span><span id="mode-result"></span></div><p id="result-note" class="muted"></p><div class="result-actions"><button class="primary" id="retry-wrong" type="button">只重考错字</button><button class="secondary" id="restart" type="button">再来一轮</button><button class="text-button" id="back" type="button">重新设置</button></div></div><div class="panel review-panel"><div class="section-heading"><h2>逐题回看</h2><label class="wrong-filter"><input id="wrong-only" type="checkbox" checked>只看错题</label></div><div id="review"></div></div></section>
     <footer><span>认字形 · 找读音 · 用自己的记忆线索</span><span>日语音为合成示范；本页不评判口头发音。</span></footer>
     <p id="card-attribution" class="tiny card-attribution" hidden>卡面与日文原文来自 <a href="https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja" target="_blank" rel="noopener noreferrer">KONAMI 官方卡片数据库</a>，保留 SAMPLE 标记，权利归原权利人所有。中文释义和拆音用于本地学习。</p>
-    <p id="audio-attribution" class="tiny card-attribution" hidden>在线读音来自 Google 翻译；备用离线读音以 <a href="https://github.com/tsukumijima/pyopenjtalk-plus" target="_blank" rel="noopener noreferrer">Open JTalk / Mei</a> 合成。Mei 声库：MMDAgent Project Team / 名古屋工业大学，<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">CC BY 3.0</a>。</p>
+    <p id="audio-attribution" class="tiny card-attribution" hidden>在线读音来自 Google 翻译，为日语合成示范音。</p>
   </main>
 </body>
 </html>

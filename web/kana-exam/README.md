@@ -6,7 +6,7 @@
 node web/kana-exam/serve.cjs
 ```
 
-打开 [本地页面](http://127.0.0.1:4173)。建议 Node.js 24.14 或更新版本，无需安装 npm 依赖。Google 在线朗读需要通过此本地服务运行并能连接 Google；直接打开 `index.html` 时可做题和使用离线读音。
+打开 [本地页面](http://127.0.0.1:4173)。建议 Node.js 24.14 或更新版本，无需安装 npm 依赖。Google 在线朗读需要通过此本地服务运行并能连接 Google；直接打开 `index.html` 时仅可做题，不能朗读。
 
 选择题库后开始，默认每局 **20 题**；范围不足 20 字时按实际字数出题，**同一局同一个字只出现一次**：
 
@@ -32,10 +32,11 @@ node web/kana-exam/serve.cjs
 - 卡面旁显示日文卡名、官方注音或文本摘录，并标出本题要读的词。汉字卡名的读法采用官方数据库的假名注音；不用猜汉字读音，也不要求理解整段效果。
 - 学习模式直接输入罗马字，点“检查读音”或按 Enter 提交；逐段标出正确、写错、漏写和多写。大小写、全角字母、空格和连字符不影响判定。罗马字使用 shi／chi／tsu，ー写成重复元音，如クリボー → kuriboo；平假名按字母写法表示，如そせい → sosei。ん／ン在元音或y前写n'来区分音节，を按实际读音写o。中点不发音，罗马字以空格表示。
 - 学习模式每题默认显示正确读音、中文意思、逐段假名与罗马字、个人提示；按当前卡名具体解释长音、浊点、半浊点、小促音、拗音、小元音和分隔符，另有常见符号速查。漏掉长音或小促音时优先在相应符号下标注，避免归到邻接假名。
+- 学习解答先显示较大的假名及下方对应读音，补充普通假名、浊点、小ゃゅょ合读、小っ和长音的认读规则，目标是看到假名就能读出来。读音对照、即时反馈与结果回看按已核对的假名片段显示（如 de · n · se · tsu · no · ke · n）；罗马字只作辅助。输入可加空格，分隔点仅作显示，不必输入。
 - 提交后停留当前卡片，可修改后再检查，也可手动点下一张；最后点“完成本轮，回看”保存结果。回看保留逐段对照和符号解释，可再练错词。学习记录按每题最后一次提交计数，注明“带解答输入”，不等同于独立认读或已掌握；旧四选一记录仍保留。
 - 考试模式同样输入罗马字，提交后直接进入下一题，中途隐藏解答、判定和朗读；第20题提交后统一显示成绩、逐题对照、符号解释和朗读按钮。考试后的“再练错词”进入学习模式，按错词实际数量练习；“再来一轮”仍是20题考试。
 - 学习和结果回看默认使用“Google 读音”，点击时经本地 `/api/pronunciation/<cid>` 请求 Google 翻译的 `translate_tts` 日语 MP3，无需密钥或预先生成500段音频。该入口是翻译内部接口，不是 Google Cloud TTS 的正式开放API，可能变更或限流。服务只接受题库中的卡号、只发送对应公开假名，不转发学习者输入；8秒超时，同一卡号请求合并并在服务内存中缓存。Node.js 24.14+ 会沿用环境中的 HTTPS_PROXY／HTTP_PROXY／NO_PROXY 设置。
-- 正常和慢速播放共用页面播放器，切题或退出停止旧音频。Google无法连接时可点“离线读音”，500张卡均有本地备用音频（兼容PCM的 `audio/<cid>.wav`，另保留原 `ogg`）；不会把备用声音标成Google。离线音频根据官方假名目标以 [pyopenjtalk-plus](https://github.com/tsukumijima/pyopenjtalk-plus) / Open JTalk 合成，Mei 声库来自 MMDAgent Project Team / 名古屋工业大学（[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)），授权说明保存在 `audio/LICENSE-Mei.txt`。两种读音都是合成示范，不是官方配音或口头发音评测。
+- 正常和慢速播放共用 Google 在线播放器，切题或退出停止旧音频。连接失败提示检查网络后重试，不提供离线播放。读音是合成示范，不是官方配音或口头发音评测。分段和拍数用于认字，实际朗读应结合高低变化与语句节奏连读，不把每个假名念得一样重、一样长；先听正常速度，再慢速核对，最后正常跟读。
 - 卡名、注音、文本短摘录和 SAMPLE 卡面取自 [KONAMI 官方日文卡片数据库](https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja)，核对于 **2026-10-13**。每题保留具体卡页、图片原始 URL 和核对日期。卡面按官方公开样图原样缓存，保留 SAMPLE 标记，版权归原权利人所有。样图可能省略效果正文；旁边的文本摘录来自该卡的官方网页。中文释义是学习说明，并非宣称官方中文卡名。
 - 新增卡片的中文对照来自 [mycard/ygopro-database 的固定版本](https://github.com/mycard/ygopro-database/blob/09bf7de82e00b5b7660b517fc3ac099c746ce233/locales/zh-CN/cards.cdb)，显示为“社区译名”，并在回看中提供来源。借助 [YGOPRODeck API](https://api.ygoprodeck.com/api-guide/) 的卡片密码与Konami卡号关联记录；日文读法仍以官方卡页为准。
 - 题库清单维护在 `yugioh-lessons.json`；新增时为目标词填写读音、拆音、释义和三个错误读音。运行 `node web/kana-exam/sync-yugioh.cjs` 在线核对日文原文并缓存卡面、生成 `yugioh-data.js`。已下载卡面会复用；可选 `--cache-dir <目录>` 从 `<cid>.html` 缓存读取官方卡页。做题、卡面和解释可离线使用；Google朗读和打开官方来源需要联网。
@@ -58,12 +59,8 @@ node web/kana-exam/sync-yugioh.cjs --cache-dir $yugiohPages
 node web/kana-exam/sync-data.cjs
 ```
 
-验证：
-
-```powershell
-node --test web/kana-exam/*.test.cjs
-```
+本项目不维护或运行软件测试，开发约定见仓库根目录 `AGENTS.md`。
 
 可用环境变量 `KANA_PORT` 更改端口；服务只监听本机地址。
 
-重新生成音频时安装 `pyopenjtalk-plus==0.4.1.post9` 与 `soundfile==0.14.0`，然后运行 `python web/kana-exam/build-audio.py`。已有音频按卡号、假名和SHA-256校验后复用；生成清单在 `audio-manifest.json`。普通使用只需要静态页面、卡面和音频文件，不需要Python。
+日语音频按需在线获取，不需要生成音频文件或安装 Python 语音依赖。

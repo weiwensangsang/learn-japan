@@ -50,6 +50,7 @@ mark{background:#dce8c9;color:var(--green);padding:2px 1px;border-radius:3px;fon
 @media(max-width:520px){.practice-options{grid-template-columns:1fr}.pronunciation{gap:8px}}
 .guide-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .guide-heading h2{font-size:18px;margin:0}.guide-reading{font-size:28px;font-weight:650;color:var(--green);margin:12px 0 8px;overflow-wrap:anywhere}
+.guide-reading-label{font-size:12px;color:var(--muted);margin:18px 0 0}.kana-reference li{margin:9px 0}.kana-reference ol{padding-left:22px}.word-guide .word-parts>span{min-width:44px}.word-guide .word-parts b{font-size:27px}
 .guide-meaning{font-size:14px;line-height:1.7;margin:0}.word-guide h3{font-size:15px;margin:22px 0 10px}
 .word-guide .word-parts small{font-size:13px}.reading-rules{display:grid;gap:12px}
 .reading-rule{border-left:3px solid #b8ccb0;padding:2px 0 2px 13px}.reading-rule h4{font-size:14px;margin:0 0 5px}

@@ -30,6 +30,9 @@
   function saveHistory() { try { localStorage.setItem(storageKey, JSON.stringify(history)); } catch { /* 禁用存储时仍可考试。 */ } }
   function showView(view) { for (const id of ['setup', 'quiz', 'results']) $(id).hidden = id !== view; }
   function escapeText(value) { return String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char])); }
+  function splitReading(item) {
+    return item.parts.map(([, reading]) => reading.trim()).filter(Boolean).join(' · ');
+  }
   function partsHtml(item) {
     return item.parts.map(([kana, reading]) => `<span><b lang="ja">${escapeText(kana)}</b><small>${escapeText(reading.trim() || '不发音')}</small></span>`).join('');
   }
@@ -104,39 +107,38 @@
     if (currentAudio) { currentAudio.pause(); currentAudio = null; }
     if ('speechSynthesis' in window) speechSynthesis.cancel();
   }
-  function preparePlayer(player, item, message, provider = 'google') {
+  function preparePlayer(player, item, message) {
     player.dataset.cid = String(item.cid);
-    player.dataset.provider = provider;
     player.preload = 'none';
-    player.src = provider === 'offline' ? `audio/${item.cid}.wav` : `api/pronunciation/${item.cid}`;
+    player.src = `api/pronunciation/${item.cid}`;
     const link = player.parentElement?.querySelector('a');
     if (link) link.href = player.src;
-    const voiceLabel = provider === 'offline' ? '离线日语读音' : 'Google 日语读音';
+    const voiceLabel = 'Google 日语读音';
     player.setAttribute('aria-label', `${item.kana} 日语读音播放器`);
     player.onplay = () => { if (currentAudio !== player) { stopSpeech(); currentAudio = player; } };
     player.onplaying = () => { message.textContent = `正在${player.playbackRate < 1 ? '慢速' : ''}播放${voiceLabel}…`; };
     player.onended = () => { message.textContent = `${voiceLabel}播放完毕，可再次听或慢速听。`; };
     player.onpause = () => { if (currentAudio === player && !player.ended && player.currentTime > 0) message.textContent = '已暂停，可以继续播放。'; };
     player.onerror = () => {
-      message.textContent = provider === 'google' ? 'Google 在线读音暂时无法播放，请重试或点“离线读音”。' : audioFailure(player.error || {});
+      message.textContent = 'Google 在线读音暂时无法播放，请检查网络后重试。';
       console.warn('日语音频加载失败', { source: player.src, code: player.error?.code, message: player.error?.message });
     };
   }
-  function speak(item, message, slow = false, player = $('word-audio'), provider = 'google') {
+  function speak(item, message, slow = false, player = $('word-audio')) {
     stopSpeech();
     const id = speechId;
     const update = text => { if (id === speechId) message.textContent = text; };
     if (item.cid) {
       const audio = player;
-      if (audio.dataset.cid !== String(item.cid) || audio.dataset.provider !== provider || audio.error) preparePlayer(audio, item, message, provider);
+      if (audio.dataset.cid !== String(item.cid) || audio.error) preparePlayer(audio, item, message);
       currentAudio = audio;
       audio.playbackRate = slow ? .75 : 1;
       audio.preservesPitch = true;
       if (audio.readyState >= 1) audio.currentTime = 0;
-      update(provider === 'offline' ? '正在加载离线读音…' : '正在连接 Google，加载日语读音…');
+      update('正在连接 Google，加载日语读音…');
       audio.play().catch(error => {
         if (id !== speechId || error.name === 'AbortError') return;
-        update(provider === 'google' && error.name !== 'NotAllowedError' ? 'Google 在线读音暂时无法播放，请重试或点“离线读音”。' : audioFailure(audio.error || error));
+        update(error.name !== 'NotAllowedError' ? 'Google 在线读音暂时无法播放，请检查网络后重试。' : audioFailure(error));
         console.warn('日语音频播放失败', { name: error.name, message: error.message, code: audio.error?.code, source: audio.src });
       });
       return;
@@ -207,7 +209,7 @@
       $('card-source').href = item.sourceUrl;
       $('context-label').textContent = { name: '日文卡名', reading: '卡名的假名读法', text: '卡片文本摘录' }[item.sourceKind];
       $('context-text').innerHTML = item.context.split(item.kana).map(escapeText).join(`<mark>${escapeText(item.kana)}</mark>`);
-      $('guide-reading').textContent = session.assisted ? item.romaji : '';
+      $('guide-reading').textContent = session.assisted ? splitReading(item) : '';
       $('guide-meaning').textContent = session.assisted ? '中文意思：' + item.meaning : '';
       $('guide-parts').innerHTML = session.assisted ? partsHtml(item) : '';
       $('guide-rules').innerHTML = session.assisted ? rulesHtml(item) : '';
@@ -243,7 +245,7 @@
       $('reading-input').disabled = true; $('check-reading').disabled = true; $('skip').hidden = true;
       $('guided-feedback').hidden = false;
       $('edit-reading').hidden = correct || skipped;
-      $('answer-feedback').textContent = skipped ? `已跳过。这题读 ${item.romaji}，可以继续看上面的拆音与解释。` : correct ? '✓ 全部写对了。可以再对照假名读一遍，然后继续。' : `还差一点：正确读音是 ${item.romaji}。下面标出了写错、漏写或多写的部分。`;
+      $('answer-feedback').textContent = skipped ? `已跳过。这题读 ${splitReading(item)}，可以继续看上面的拆音与解释。` : correct ? '✓ 全部写对了。可以再对照假名读一遍，然后继续。' : `还差一点：正确读音是 ${splitReading(item)}。下面标出了写错、漏写或多写的部分。`;
       $('reading-comparison').innerHTML = comparison ? comparisonHtml(comparison) : '';
       $('guided-feedback').scrollIntoView({ block: 'nearest', behavior: 'auto' });
       return;
@@ -273,7 +275,7 @@
     saveHistory(); renderHistory(); $('results').scrollIntoView({ block: 'start', behavior: 'auto' });
   }
   function analysisFor(answer) {
-    if (answer.item.cid) return `${answer.correct ? '这次输入正确' : answer.skipped ? '这题跳过了' : '你输入了 ' + answer.user}。${answer.item.kana} → ${answer.item.romaji}。意思是：${answer.item.meaning}。`;
+    if (answer.item.cid) return `${answer.correct ? '这次输入正确' : answer.skipped ? '这题跳过了' : '你输入了 ' + answer.user}。${answer.item.kana} → ${splitReading(answer.item)}。意思是：${answer.item.meaning}。`;
     if (answer.correct) return `这次选对了：${answer.item.kana} 的读音是 ${answer.item.romaji}。`;
     if (answer.skipped) return `这题跳过了。先用下面的速记线索找回 ${answer.item.kana} → ${answer.item.romaji}。`;
     const candidates = sets[answer.item.script].data.filter(k => k.romaji === answer.user);
@@ -299,6 +301,7 @@
       wrapper.innerHTML = `<div class="review-kana" lang="ja">${escapeText(answer.item.kana)}</div><div><div class="review-reading">正确读音：${escapeText(answer.item.romaji)}${['を', 'ヲ'].includes(answer.item.kana) ? '（常写 wo）' : ''}</div><div class="review-user">${answer.skipped ? '已跳过' : `你的回答：${escapeText(answer.user)}`}</div><p class="review-analysis">${escapeText(analysisFor(answer))}</p><div class="review-hint">速记：${escapeText(answer.item.hint)}</div></div><div><span class="badge ${answer.correct ? '' : 'wrong'}">${answer.correct ? '正确' : '错误' + (answer.skipped ? ' · 跳过' : '')}</span></div>`;
       if (answer.item.cid) {
         const item = answer.item;
+        wrapper.querySelector('.review-reading').textContent = '分段读音：' + splitReading(item);
         wrapper.classList.add('word-review');
         wrapper.firstElementChild.innerHTML = `<img class="review-card" src="${escapeText(item.image)}" alt="${escapeText(item.cardName)}日文卡面" loading="lazy">`;
         const details = wrapper.children[1];
@@ -319,11 +322,9 @@
           player = document.createElement('audio'); player.controls = true; player.preload = 'none';
           preparePlayer(player, answer.item, message);
           const link = document.createElement('a'); link.href = player.src; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.className = 'text-button'; link.textContent = '单独打开音频 ↗';
-          const offline = document.createElement('button'); offline.type = 'button'; offline.className = 'text-button'; offline.textContent = '离线读音';
-          offline.addEventListener('click', () => speak(answer.item, message, false, player, 'offline'));
-          audioBox.append(play, slow, offline, player, link, message); wrapper.children[1].append(audioBox);
+          audioBox.append(play, slow, player, link, message); wrapper.children[1].append(audioBox);
         } else wrapper.lastElementChild.append(play, slow, message);
-        play.addEventListener('click', () => speak(answer.item, message, false, player)); slow.addEventListener('click', () => speak(answer.item, message, true, player, player?.dataset.provider || 'google'));
+        play.addEventListener('click', () => speak(answer.item, message, false, player)); slow.addEventListener('click', () => speak(answer.item, message, true, player));
       }
       container.append(wrapper);
     }
@@ -350,8 +351,7 @@
   });
   $('next-card').addEventListener('click', nextQuestion);
   $('play-word').addEventListener('click', () => { if (session?.assisted && !session.finished) speak(session.deck[session.index], $('sound-message')); });
-  $('play-slow').addEventListener('click', () => { if (session?.assisted && !session.finished) speak(session.deck[session.index], $('sound-message'), true, $('word-audio'), $('word-audio').dataset.provider || 'google'); });
-  $('play-offline').addEventListener('click', () => { if (session?.assisted && !session.finished) speak(session.deck[session.index], $('sound-message'), false, $('word-audio'), 'offline'); });
+  $('play-slow').addEventListener('click', () => { if (session?.assisted && !session.finished) speak(session.deck[session.index], $('sound-message'), true); });
   $('edit-reading').addEventListener('click', () => {
     if (!session || !session.assisted || !session.submitted || session.finished) return;
     session.answers.pop(); session.submitted = false;

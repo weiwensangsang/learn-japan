@@ -3,7 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { createGoogleTts } = require('./google-tts.cjs');
 const root = __dirname;
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.png': 'image/png', '.jpg': 'image/jpeg', '.ogg': 'audio/ogg', '.wav': 'audio/wav' };
+const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.png': 'image/png', '.jpg': 'image/jpeg' };
 const allowed = new Set(['index.html', 'styles.css', 'kana-data.js', 'yugioh-data.js', 'core.js', 'app.js']);
 function createServer({ getGoogleAudio = createGoogleTts() } = {}) {
   return http.createServer(async (req, res) => {
@@ -19,14 +19,13 @@ function createServer({ getGoogleAudio = createGoogleTts() } = {}) {
       } catch (error) {
         const status = error.status === 404 ? 404 : 502;
         res.writeHead(status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' });
-        return res.end(req.method === 'HEAD' ? undefined : status === 404 ? 'Unknown card' : 'Google 在线读音暂时不可用，请使用离线读音。');
+        return res.end(req.method === 'HEAD' ? undefined : status === 404 ? 'Unknown card' : 'Google 在线读音暂时不可用，请检查网络后重试。');
       }
     }
-    const audio = /^audio\/[0-9]+\.(?:ogg|wav)$/.test(name);
-    if (!allowed.has(name) && !/^cards\/[0-9]+\.(?:png|jpg)$/.test(name) && !audio) { res.writeHead(404); return res.end('Not found'); }
+    if (!allowed.has(name) && !/^cards\/[0-9]+\.(?:png|jpg)$/.test(name)) { res.writeHead(404); return res.end('Not found'); }
     fs.readFile(path.join(root, name), (error, content) => {
       if (error) { res.writeHead(404); return res.end('Not found'); }
-      sendContent(req, res, content, types[path.extname(name)], audio);
+      sendContent(req, res, content, types[path.extname(name)], false);
     });
   });
 }
